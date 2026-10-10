@@ -1,0 +1,1114 @@
+# tactiq.io free youtube transcript
+# Bài 2.4 Động Cơ & Sợi Đốt Máy Giặt - Phụ Tải ĐiệnII Dạy Nghề Thanh Xuân 93 Nguyễn Tuân -  0936989090
+# https://www.youtube.com/watch/JzkeEM1iNZg
+
+00:00:00.100 Hello, students. In today's lesson, we
+00:00:04.532 will continue with part four, which is
+00:00:06.438 about the motor. In the previous class,
+00:00:13.789 I introduced the squirrel-cage motor
+00:00:15.630 for top-loading washing machines. Today
+00:00:22.287 , we will move on to the second type:
+00:00:24.233 the squirrel-cage motor for
+00:00:25.668 front-loading, horizontal-drum washing
+00:00:27.665 machines. As we know, for front-loading
+00:00:37.158 , horizontal-drum machines, the motor
+00:00:39.103 drives the same drum during both the
+00:00:40.997 wash and rinse cycles. During the wash
+00:00:49.584 and rinse modes, the motor rotates in
+00:00:51.651 both directions, meaning it rotates
+00:00:53.609 left, pauses, then rotates right. For
+00:00:58.407 example, in cotton mode, it might
+00:01:00.542 rotate right for 45 seconds, pause for
+00:01:02.992 45 seconds, then rotate left for 45
+00:01:05.253 seconds and pause again. So, this type
+00:01:12.607 of motor operates at a slow speed and
+00:01:14.531 rotates in both directions. But in spin
+00:01:19.597 mode, the motor rotates in one
+00:01:21.818 direction at a high speed, depending on
+00:01:24.683 the model, type, and capacity, which
+00:01:27.333 could reach 500, 600, 800, 1000, or
+00:01:29.912 1200 RPM. So, we see that it spins at a
+00:01:37.333 very high speed during the spin cycle
+00:01:39.230 and rotates in both directions at a
+00:01:41.028 slow speed during the wash cycle. Since
+00:01:53.111 the motor rotates in both directions at
+00:01:55.072 both slow and fast speeds using only
+00:01:56.887 one drum, the structure of this type of
+00:01:58.849 motor is different. That is what we are
+00:02:07.800 going to explore. Looking at the image,
+00:02:11.359 this is a two-in-one squirrel-cage
+00:02:13.128 motor. Some technicians refer to this
+00:02:16.979 as a 2-in-1 motor, because it consists
+00:02:21.887 of two motors wound on the same
+00:02:23.540 magnetic core, sharing a single rotor.
+00:02:28.907 In wash mode, the wash motor operates,
+00:02:31.012 and in spin mode, the spin motor
+00:02:32.793 operates, utilizing a switching system
+00:02:34.898 called a relay or contactor. This type
+00:02:40.266 of motor has a five-pin connector, and
+00:02:42.430 inside, there are four windings.
+00:02:46.240 Specifically, the wash motor has two
+00:02:48.199 run and start windings, and the spin
+00:02:50.158 motor has two run and start windings.
+00:02:52.766 That is why we need to correctly
+00:02:54.307 identify the pins of the wash motor and
+00:02:56.176 the spin motor to connect to the
+00:03:00.783 machine and check if the machine is
+00:03:02.337 working properly. Regarding the wash
+00:03:07.321 motor in top-loading washing machines,
+00:03:09.206 as you have learned, the motor rotates
+00:03:11.090 in both directions with equal operating
+00:03:13.024 times. For that reason, we know the
+00:03:17.980 wash motor consists of two running
+00:03:19.748 windings. The starting winding will
+00:03:23.060 have a wire cross-section, a number of
+00:03:24.935 turns, and a resistance value that are
+00:03:26.811 relatively equal. Relatively equal.
+00:03:31.332 Meaning they are effectively equivalent
+00:03:32.983 . Therefore, we rely on this factor to
+00:03:35.839 identify the electrical connection pins
+00:03:37.836 of the motor. I invite the whole class
+00:03:41.811 to look at a construction diagram. For
+00:03:45.270 example, here I have four windings. For
+00:03:49.760 the wash motor here, the resistance
+00:03:51.844 value is 70 ohms, the running winding
+00:03:55.829 is 70 ohms, and the starting winding is
+00:03:57.931 70 ohms. In the spin motor, the running
+00:03:59.876 winding is also called the working
+00:04:01.485 winding. I will take 15 ohms as an
+00:04:05.126 example, and our starting winding is 40
+00:04:07.242 ohms, so I've assigned these resistance
+00:04:09.359 values to make identification easier
+00:04:11.316 for us. Of course, you need to remember
+00:04:15.510 that resistance will be suitable, well,
+00:04:17.462 resistance will depend on the motor's
+00:04:19.317 power. The higher the power, the
+00:04:21.153 smaller the resistance, and lower power
+00:04:23.104 means higher resistance. So, resistance
+00:04:26.271 values are not rigid; we shouldn't
+00:04:28.406 assume they are always 40, 15, or 70,
+00:04:30.724 as they depend on the motor's power. I
+00:04:35.103 am providing these specific values here
+00:04:36.947 to make it convenient for us to
+00:04:38.422 identify them. As we know, with five
+00:04:42.064 connection ends, we will have 10
+00:04:43.810 measurements, 10 pairs of resistance
+00:04:45.767 values. So look, I can measure first:
+00:04:49.330 Common R1, Common S1, Common R2, Common
+00:04:56.378 S2 and R1. R1 R2 R1 S1 R1 S2 S1 R2 S1
+00:05:28.274 S2 and R2 S2. Thus, we see that there
+00:05:36.677 are 10 measurements, and we have three
+00:05:38.628 pairs of equal resistance values.
+00:05:41.252 Looking here, we can see that Common R1
+00:05:46.300 and Common S1 are 70-70. Second is R2
+00:05:55.647 R1 R2 S1 are 85 and 85. S2 S1 is 11, S2
+00:06:06.264 R1 is also 11. So, if there are three
+00:06:14.096 pairs with equal resistance values, we
+00:06:16.016 will take the pair with the smallest
+00:06:17.837 equal resistance value, which belongs
+00:06:19.707 to the wash motor. For the wash motor,
+00:06:24.392 the common pin in that measurement pair
+00:06:26.191 is the common pin of the motor. As for
+00:06:33.171 the two wash motor pins, we don't care
+00:06:35.052 whether it rotates left or right first,
+00:06:36.981 because the motor operates with only
+00:06:38.765 one drum and there is no convention for
+00:06:40.694 left or right rotation. As for the spin
+00:06:47.006 mode, once the common pin is identified
+00:06:48.997 , the two remaining pins belong to the
+00:06:52.689 spin motor. At this point, we will
+00:06:54.336 measure the common pin against the two
+00:06:56.074 pins of the spin motor. The measurement
+00:06:58.575 with the smaller resistance value is
+00:07:00.270 the run pin, and the larger one is the
+00:07:02.057 start pin. And now we will follow the
+00:07:05.473 wiring diagram for the motor. One power
+00:07:08.184 source is connected to the common pin,
+00:07:10.025 and one is connected to the run pin.
+00:07:13.808 The start pin will receive power from
+00:07:15.547 the run pin through the start relay or
+00:07:17.333 capacitor. That is how to identify the
+00:07:21.137 connection pins of the motor. Please
+00:07:27.095 take notes on how to identify the
+00:07:28.753 motor's connection pins. First, the
+00:07:31.596 motor has five wire ends. We have 10
+00:07:34.027 measurements. The measurements with
+00:07:38.099 equal and smallest resistance values
+00:07:39.756 are the two pins of the wash motor. At
+00:07:44.066 this point, the common pin in the two
+00:07:46.065 pairs the common pin of that
+00:07:49.935 measurement pair for those two windings
+00:07:51.641 is the common pin of the motor. Now, we
+00:07:56.915 will measure the common pin against the
+00:07:58.788 two remaining pins of the spin motor,
+00:08:00.567 which are R2 and S2. The measurement
+00:08:05.530 with the smaller resistance value is
+00:08:07.315 the run pin R2. And the measurement
+00:08:11.339 with the larger resistance value is S2,
+00:08:13.362 the start pin. That is the method for
+00:08:16.705 identification. And when we check the
+00:08:19.246 motor, we supply power to each motor
+00:08:21.077 individually. We check the wash motor,
+00:08:24.667 and we check the spin motor. We
+00:08:27.432 absolutely cannot check both motors at
+00:08:29.408 the same time. We cannot test both
+00:08:33.321 motors simultaneously. Now, let's move
+00:08:39.731 on to the practical section. Testing
+00:08:43.580 the squirrel-cage motor, front-load,
+00:08:48.030 horizontal drum washing machine. This
+00:08:51.907 type of motor is also called a
+00:08:53.452 two-in-one motor. In this case, it
+00:08:58.703 consists of two motors, a wash motor
+00:09:00.653 and a spin motor, wound together on the
+00:09:02.761 same stator frame. Wound together on a
+00:09:05.648 single magnetic frame. So, looking at
+00:09:09.822 the diagram, there will be five main
+00:09:11.788 connection wires. One common wire is
+00:09:16.819 connected to a fixed power source. The
+00:09:21.115 two wash motor wires are labeled R1 and
+00:09:23.470 S1 by me. R1 could be S1, or S1 could
+00:09:29.086 be R1. Why is that the case? It is
+00:09:34.434 similar to the top-load washing machine
+00:09:36.310 motor we studied in the previous lesson
+00:09:38.139 , where the motor in wash mode always
+00:09:39.920 rotates in both forward and reverse
+00:09:41.609 directions. Because of this, the
+00:09:46.162 resistance of the run winding and the
+00:09:48.049 start winding have equal values. They
+00:09:52.176 have equal resistance values, and in a
+00:09:54.167 front-load washing machine, there is no
+00:09:58.850 one-way bearing or one-way spring.
+00:10:00.781 Therefore, the wash drum will rotate in
+00:10:02.566 both forward and reverse directions.
+00:10:04.274 That is why these two windings can be
+00:10:06.064 interchanged. As for the spin motor, we
+00:10:09.373 know that in spin mode, the motor
+00:10:11.153 rotates at high speed. It rotates at a
+00:10:14.602 high speed and only in one direction.
+00:10:18.107 Therefore, the two spin motor wires are
+00:10:20.498 labeled R2 and S2 by me. And here are
+00:10:24.248 some examples I provide regarding the
+00:10:26.047 internal resistance values. At that
+00:10:30.590 point, the two run and start wires for
+00:10:32.480 both the wash and spin motors will go
+00:10:34.322 into a selector switch. The selector
+00:10:38.083 switch has a start capacitor and
+00:10:39.747 operates using the capacitor. With this
+00:10:43.806 selector switch, we see that in wash
+00:10:45.571 mode, our switch closes toward the wash
+00:10:47.480 side, and to reverse the direction of
+00:10:49.294 the wash motor to the left and right,
+00:10:51.107 the second switch constantly toggles
+00:10:52.873 back and forth. Regarding spin mode,
+00:10:57.476 the mode selector switch will switch to
+00:10:59.390 the spin mode to supply power to the
+00:11:01.161 spin motor. And for the final switch,
+00:11:03.853 it will also supply power to the run
+00:11:05.577 terminal of the spin motor. Therefore,
+00:11:10.258 to test this type of motor, we are
+00:11:12.451 required to identify which is the
+00:11:14.580 common terminal, and which are the R1,
+00:11:17.023 S1, R2, and S2 terminals. Looking at
+00:11:23.251 this diagram, we see there are five
+00:11:25.054 connection terminals, so we have 10
+00:11:26.858 measurements, similar to measuring a
+00:11:28.712 three-speed, five-wire air conditioner
+00:11:30.666 fan where we also have 10 measurements.
+00:11:35.058 So, looking here, we have 10
+00:11:36.772 measurements. We see that Common to R1,
+00:11:39.962 I get 70 ohms. Common to S1 is 70 ohms.
+00:11:44.366 Then R1 to S1 gives me 140. Next, R2 to
+00:11:48.940 S2. I get 55. And what about the others
+00:11:55.655 ? Common to R2 is 15 ohms, Common to S2
+00:12:02.511 is 40 ohms, R2 to R1 is 85, R2 to S1 is
+00:12:06.502 85, S2 to S1. S2 to R1. Thus, in these
+00:12:17.201 10 measurements, I have three pairs of
+00:12:19.310 equal resistance values. These three
+00:12:23.011 pairs are 70-70, 85-85. And 110, so we
+00:12:29.793 will choose the pair with resistance
+00:12:31.693 values that are equal and the smallest.
+00:12:36.889 The common pin in that measurement pair
+00:12:38.590 is the common pin of the motor. It is
+00:12:42.650 the common pin of the motor. And the
+00:12:47.705 remaining two wires of the motor are
+00:12:49.304 the run and start wires of the spin
+00:12:50.859 motor. At this point, we measure from
+00:12:56.633 the common pin to the two remaining
+00:12:58.370 wires, and the smaller resistance value
+00:13:00.251 . This is the motor's. It is the run
+00:13:05.652 pin, and the larger resistance value is
+00:13:07.665 the start pin. And to check at this
+00:13:09.679 time, we must check each motor one by
+00:13:11.488 one. Each motor one by one. That is the
+00:13:14.795 wash motor separately, and the spin
+00:13:16.522 motor separately. Look at the
+00:13:18.833 construction of the squirrel cage motor
+00:13:20.521 . For the squirrel cage motor, this
+00:13:28.004 type of motor has. Five power jack pins
+00:13:34.321 , and the rotor coil and stator coil
+00:13:36.263 are both wound on the same iron core.
+00:13:39.886 And there is only one rotor and one
+00:13:41.523 pulley for movement. And now I will
+00:13:44.734 measure and check. To measure and check
+00:13:50.050 , we will measure and I will mark the
+00:13:51.750 white wire. White, red, black, blue.
+00:13:59.976 Now I will measure. We measure. And we
+00:14:10.678 will have to record those technical
+00:14:12.263 parameters. I take. White, I will
+00:14:18.319 record this. Then I will measure and I
+00:14:21.334 will record these parameters. White. I
+00:14:31.597 will measure it with red. I measure it
+00:14:37.225 with black. I measure it with blue. I
+00:14:43.314 measure it with yellow. I record this
+00:14:48.141 down. Then I measure and fill in the
+00:14:50.439 results so we can analyze them. Next is
+00:14:54.194 red. I measure it with black. Red, I
+00:15:01.027 measure with blue. Red, I will measure
+00:15:06.407 with yellow. Then black. I will measure
+00:15:15.029 with blue. Black, I measure with yellow
+00:15:19.102 . Yellow. I measure with blue. So I
+00:15:28.115 have performed 10 measurements like
+00:15:29.818 this, and now I will measure and record
+00:15:31.710 the results to find out our resistance
+00:15:36.731 values. First is white-red. Let me set
+00:15:50.352 this aside so we can I'll write it down
+00:15:55.289 here, calibrating the two probes to
+00:15:57.089 zero. 30 here. White-red is 30.
+00:16:15.957 White-black is 213. Then, white-blue 5
+00:16:29.401 6 70. White-yellow 70. Wait, red
+00:16:43.460 red-black. 4 2 4 4 44. Red-blue 100.
+00:17:07.986 Red-yellow 100. Black-blue Blue-black 5
+00:17:21.330 6 7 80. Black-yellow 80. And
+00:17:33.153 yellow-blue 6 7 8 90 85. Like that. So,
+00:17:47.374 as we can see, I have obtained these
+00:17:49.530 results 70 is a pair, 80 is a pair, and
+00:17:57.306 100. Thus, the smallest pair is 70,
+00:18:02.314 which is white-blue and white-yellow.
+00:18:05.702 So white will be the corresponding
+00:18:07.372 common pin. Blue and yellow are the two
+00:18:13.544 wires R1 and S1 of the wash motor. The
+00:18:20.827 remaining wires, black and red, are the
+00:18:22.851 wires of the motor. This is the
+00:18:25.797 spin-wash motor. Wash. And these two
+00:18:31.595 wires are 13 ohms, so this is run R2
+00:18:33.942 and red is start S2. This is for the
+00:18:39.793 spin motor. And now I will supply power
+00:18:46.163 and test each motor one by one. First,
+00:18:51.842 I will test the wash motor. I will test
+00:19:02.367 the wash motor. I am testing the wash
+00:19:18.558 motor. I will switch the black jack so
+00:19:21.982 it acts as the common. What is my wash
+00:19:26.631 motor's? Blue and yellow. Blue and
+00:19:30.503 yellow are connected to the capacitor.
+00:19:33.350 At this point, it's like a top-load
+00:19:35.088 washing machine motor where one power
+00:19:36.924 source is supplied to the common pin,
+00:19:38.759 and two run/start pins are connected to
+00:19:40.691 the capacitor. The remaining power wire
+00:19:43.013 will always alternate between the two
+00:19:46.005 run/start wires. Always alternating
+00:19:48.484 between the two run/start wires. For
+00:19:52.765 this motor, I will use a 16uF capacitor
+00:19:55.569 . using a 16uF capacitor then we will
+00:20:03.430 test and I use wire nuts to ensure
+00:20:20.593 safety. And now we will supply power.
+00:20:31.145 one power source we will fix it to be
+00:20:35.459 supplied to the common pin like this.
+00:20:56.499 And now, to change the motor's
+00:20:57.974 direction, the remaining power wire
+00:20:59.687 will alternate back and forth like this
+00:21:01.591 based on the mode switch. And now I
+00:21:09.412 will supply power. And for the wash
+00:21:17.487 mode, the motor will rotate at a slow
+00:21:19.377 speed. This is for a reversing motor,
+00:21:24.425 for a two-in-one squirrel cage motor.
+00:21:34.945 And now, I will check the spin motor. I
+00:21:39.292 will switch the two capacitor wires
+00:21:41.059 over to the spin motor wires. You watch
+00:21:44.976 as I connect them to the two R2 wires.
+00:21:49.985 Now we set one power source to the
+00:21:51.706 common terminal. One power source to
+00:21:53.632 the common terminal, which is the white
+00:21:55.399 wire. And one power source to the black
+00:21:57.383 wire. Black, black, let's look here.
+00:22:01.391 The black wire is at the inner
+00:22:02.764 connector. Black is inside. Red is on
+00:22:05.200 the outside. So, the black connector is
+00:22:07.375 inside here. Black on the inside is
+00:22:10.331 right here. I will apply power to the
+00:22:17.159 run terminal. And at this point, we fix
+00:22:19.407 it to the run terminal. We will provide
+00:22:21.361 constant power to the run terminal,
+00:22:23.066 unlike the reversing wash motor. And we
+00:22:24.992 will turn the power on. Our motor will
+00:22:37.489 operate and spin at a fast speed, with
+00:22:39.309 a current lower than the rated current.
+00:22:42.754 This is how we perform the check. As
+00:22:45.958 for this motor of mine, if you listen
+00:22:47.753 to this noise, we can tell the bearing
+00:22:49.596 is making the sound. The bearing is dry
+00:22:53.068 , causing that squealing and screeching
+00:22:55.097 noise. For this motor, replacing the
+00:22:57.241 bearing will meet the requirements. And
+00:23:01.178 now, I invite the whole class to
+00:23:02.865 proceed with measuring, checking,
+00:23:04.603 identifying the pins, and wiring the
+00:23:06.494 squirrel cage motor for front-loading
+00:23:08.437 washing machines. The two-in-one motor.
+00:23:13.498 I invite the whole class. That covers
+00:23:23.559 everything regarding how to measure and
+00:23:25.392 check the two-in-one squirrel cage
+00:23:26.996 motor for front-loading machines. And
+00:23:38.943 now, let us continue to the second type
+00:23:40.945 of motor, which is the universal motor.
+00:23:47.130 Do you understand what a universal
+00:23:48.928 motor is? For this type of motor, look
+00:23:53.403 at the image. This is a universal motor
+00:23:59.206 commonly used in front-loading washing
+00:24:01.388 machines, and we also frequently
+00:24:03.234 encounter them in drills, saws,
+00:24:05.024 grinders, etc. This type of motor is
+00:24:12.359 constructed with a rotor coil and a
+00:24:14.131 stator coil. In the electrical circuit,
+00:24:20.571 the rotor coil and stator coil are
+00:24:22.340 connected in series. Therefore, to
+00:24:27.060 supply power to the rotor coil, which
+00:24:28.967 is the moving part. The rotor is the
+00:24:31.464 moving part. The rotor is always
+00:24:33.124 rotating. So, to supply power, we rely
+00:24:35.384 on carbon brushes and the commutator.
+00:24:38.406 Regarding the rotation reversal scheme,
+00:24:40.527 since the motor is in wash/spin mode,
+00:24:42.543 it rotates in two directions: clockwise
+00:24:44.665 and counter-clockwise. When reversing
+00:24:48.589 the rotation, it is similar to drills
+00:24:50.473 used for unscrewing, rotating backwards
+00:24:52.457 and forwards by changing the power
+00:24:54.192 supply to the rotor coil. We change the
+00:25:00.908 power supply to the rotor coil. Looking
+00:25:04.213 at the diagram, I have labeled them AB,
+00:25:06.348 so what exactly are AB here? These are
+00:25:08.398 the carbon brushes. Brush A and brush
+00:25:12.313 B. For example, in my first diagram for
+00:25:14.495 rotation, power passes through the
+00:25:16.404 stator coil, connects to brush A, and
+00:25:18.476 supplies the rotor coil. Through the
+00:25:22.460 rotor coil, it exits via brush B and
+00:25:24.316 returns to the source. When rotating
+00:25:26.799 left, power still goes through the
+00:25:28.683 stator, but connects to brush B, passes
+00:25:30.837 through the rotor coil, exits via brush
+00:25:32.990 A, and returns to the source. Regarding
+00:25:39.146 the structure, it consists of carbon
+00:25:41.080 brushes, two bearings at both ends, and
+00:25:43.170 a speed sensor coil located behind the
+00:25:45.209 pulley. For the speed sensor coil, a
+00:25:51.459 permanent magnet is required. When the
+00:25:53.966 rotor turns, this permanent magnet
+00:25:55.856 rotates, and at that moment, the sensor
+00:25:58.017 coil induces a magnetic field.
+00:26:01.471 Commutator, carbon brushes, rotor coil,
+00:26:05.934 stator coil. There are many types of
+00:26:10.690 these motors on the market that you
+00:26:12.203 often encounter. First is the type six
+00:26:21.157 six-wire type, where two wires are for
+00:26:23.255 the stator, two for the rotor, and two
+00:26:25.353 for the sensor. Seven-wire type, where
+00:26:30.891 the stator is divided into two halves,
+00:26:33.075 including a common wire; this common
+00:26:35.147 wire is used to send digital pulse
+00:26:37.107 signals to the CPU for control, in
+00:26:42.948 which our stator has 3 wires. The rotor
+00:26:46.593 has two wires and two wires for the
+00:26:48.562 sensor, so we have 7. For the
+00:26:52.128 eight-wire type, it comes in two forms.
+00:26:55.723 One is where the stator coil is divided
+00:26:57.865 into two sets, a left set and a right
+00:26:59.900 set. Each set has two wires. In which
+00:27:02.991 our stator has 4 wires. Bringing out
+00:27:05.750 four wires. The two rotor wires connect
+00:27:07.779 to carbon brushes A and B, and two
+00:27:09.447 wires for the sensor. So, in that case,
+00:27:11.603 we have eight. However, some eight-wire
+00:27:14.034 types have two stator wires, two rotor
+00:27:16.391 wires, two sensor wires, and two fuse
+00:27:18.688 wires. We will also have 8 wires. For
+00:27:21.563 the 9-wire type, in the second case, it
+00:27:28.881 has three stator wires, two rotor wires
+00:27:31.315 , two speed sensor wires, and two fuse
+00:27:33.749 wires. Thus, we will have 9 wires. For
+00:27:39.281 the 10-wire type, in the third case
+00:27:41.417 plus a fuse, there are four stator
+00:27:43.494 wires, two rotor wires, two sensor
+00:27:45.571 wires, and two fuse wires. So, we will
+00:27:51.089 encounter motors with 6, 7, 8, 9, and
+00:27:54.455 10 wires. But basically, we only use
+00:28:00.416 the 6-wire type. We only use the main
+00:28:05.667 part, and if we understand the wiring
+00:28:07.804 diagram for the 6-wire type, then the 8
+00:28:09.998 , 9, or 10-wire types are nothing
+00:28:11.910 different. You need to remember the
+00:28:18.524 rotation reversal diagram for turning
+00:28:20.247 left and right. This is the wiring
+00:28:22.826 diagram for the motor. Regarding the
+00:28:34.156 structure, a commutator motor is made
+00:28:36.067 up of a rotor and a stator. In which
+00:28:41.220 one coil is placed on the rotor. One
+00:28:44.471 coil is placed on the stator. Since the
+00:28:49.851 rotor is the moving part, the power
+00:28:51.514 supplied to the rotor is through carbon
+00:28:53.361 brushes and the commutator. This type
+00:29:03.182 of motor has the advantage of being
+00:29:05.002 compact, lightweight, and running at
+00:29:06.873 multiple, higher speeds than
+00:29:08.340 squirrel-cage motors. If compared at
+00:29:14.150 the same power and multi-speed
+00:29:15.620 operation, the method for changing the
+00:29:17.470 rotation speed in this motor is by
+00:29:19.130 varying the voltage. Changing the
+00:29:25.253 current flow means changing the voltage
+00:29:27.029 and the power supply. We can see that
+00:29:31.239 changing the power supply is the same
+00:29:32.992 as for those in our class who have used
+00:29:34.837 a drill; it is changing the voltage. On
+00:29:38.870 our switch, there is something like a
+00:29:40.638 variable resistor to change the voltage
+00:29:42.500 triggering the G pin of a triac.
+00:29:44.871 Therefore, T1 connects to T2 if the
+00:29:46.927 trigger source at pin G is high; the
+00:29:49.041 voltage between T1 and T2 becomes high,
+00:29:51.327 resulting in a strong power supply,
+00:29:53.384 making our drill spin fast. But if we
+00:29:57.903 press the switch trigger gently, just a
+00:29:59.827 little, the trigger source at pin G
+00:30:01.558 will be low. At this moment, T1
+00:30:06.808 conducts less to T2, and our drill will
+00:30:09.355 spin slowly. That applies to the
+00:30:18.208 universal motor in our washing machine,
+00:30:20.151 which also spins at multiple speeds,
+00:30:21.948 relying on the principle of varying
+00:30:23.696 rotation speed through voltage. This
+00:30:30.628 type of motor also has the disadvantage
+00:30:33.999 that when it breaks, it is very
+00:30:35.453 difficult to service and repair. What
+00:30:37.226 are its common failure modes and how
+00:30:38.840 does the washing machine manifest them?
+00:30:42.330 First is a broken coil, since we rely
+00:30:44.288 on the rotor coil and the stator coil
+00:30:46.247 being connected in series. If either of
+00:30:48.751 the two coils is broken, the motor will
+00:30:50.737 not operate. To supply power to the
+00:30:54.423 rotor coil, we rely on carbon brushes
+00:30:56.424 and the commutator. So when the carbon
+00:31:01.548 brushes rub against the commutator,
+00:31:03.351 after a period of use, they will wear
+00:31:05.253 out completely. The carbon will be
+00:31:06.943 completely worn out. At this point, we
+00:31:08.659 see it is just like our drill running
+00:31:10.204 out of carbon brushes. The carbon does
+00:31:11.927 not contact the commutator, power is
+00:31:13.612 not supplied, leading to an open
+00:31:15.114 circuit, and it runs intermittently.
+00:31:21.369 Next, in cases where the rotor coil is
+00:31:23.428 shorted, it leads to rapid wear of the
+00:31:25.487 carbon brushes and commutator, or
+00:31:27.282 damages the sensor coil, triggering
+00:31:29.183 error alerts. Alternatively, carbon
+00:31:37.560 dust after wearing down can clog and
+00:31:39.419 short the rotor coil, causing it to run
+00:31:41.429 intermittently. Damaged bearings cause
+00:31:44.620 noise, and a damaged sensor component
+00:31:46.291 installed in the circuit will trigger
+00:31:47.963 an error. If the coil is shorted, it
+00:31:52.228 might run without a load, but it won't
+00:31:54.197 run under a load. Running it generates
+00:31:56.477 heat and high current. So, to inspect
+00:32:02.937 this motor, everyone should remember
+00:32:04.706 that you first need to use a multimeter
+00:32:06.618 to measure the two ends of the carbon
+00:32:08.434 brushes. At this point, because our
+00:32:15.063 rotor has many coils and the carbon
+00:32:16.791 brushes go in and out, we can see that
+00:32:18.662 it is positioned symmetrically.
+00:32:21.715 Therefore, we rotate the motor shaft.
+00:32:25.130 If the resistance values are similar or
+00:32:27.080 equal, then this is the rotor coil.
+00:32:29.555 Next, measure the stator resistance and
+00:32:31.669 supply power according to the clockwise
+00:32:33.731 /counter-clockwise diagram I introduced
+00:32:35.845 above. And observe the sparks here. The
+00:32:39.264 sparks must be small and blue. And at
+00:32:42.914 the same time, the motor runs steadily
+00:32:44.848 and quietly, which means it is a good
+00:32:46.733 motor. It is a good motor. Regarding
+00:32:50.347 failures, please note down the common
+00:32:52.219 motor failures for me. Motor failures
+00:32:55.495 have many different manifestations. For
+00:32:59.809 example, failing to wash, failing to
+00:33:01.934 spin-dry, or noisy operation, which are
+00:33:04.232 common for commutator motors. For a
+00:33:10.551 faulty commutator motor, the washing
+00:33:12.493 machine might stop while rotating,
+00:33:14.329 rotate intermittently, run noisily due
+00:33:16.376 to worn carbon brushes, or operate
+00:33:18.212 while showing an error code. For the
+00:33:27.543 type of motor squirrel-cage, front-load
+00:33:31.950 , horizontal-drum, this motor is also
+00:33:34.071 called a two-in-one motor, with a
+00:33:35.969 separate wash motor and spin motor. It
+00:33:40.244 is possible that the wash motor fails
+00:33:42.110 but it still spins when switched to
+00:33:43.879 spin mode, or the spin motor fails
+00:33:45.598 while it washes normally but doesn't
+00:33:47.415 spin. When we take out the clothes to
+00:33:51.293 hang them, they are still wet; it is
+00:33:53.223 also possible both fail so it won't
+00:33:55.101 wash or spin, or if the bearings are
+00:33:57.031 damaged, it causes noise. If the sensor
+00:33:59.595 part fails, it reports an error.
+00:34:03.034 Regarding inspection for squirrel-cage,
+00:34:07.341 front-load, horizontal-drum motors, I
+00:34:09.317 have already introduced how to inspect
+00:34:11.344 them. For commutator motors, we will
+00:34:17.715 check by using a multimeter on the ohm
+00:34:19.545 setting and measure the resistance
+00:34:21.186 values of the rotor coil and the stator
+00:34:23.062 coil. For the rotor coil, we will
+00:34:30.134 measure across the two carbon brushes.
+00:34:33.130 Then rotate the pulley to get similar
+00:34:35.058 or equal resistance values.
+00:34:38.056 Simultaneously, measure the resistance
+00:34:40.065 of the stator coil. After that, we
+00:34:41.936 connect them in series. Connect in
+00:34:44.277 series. After connecting in series, we
+00:34:46.795 will supply power. If we supply power
+00:34:48.850 directly, it is running at maximum
+00:34:50.704 voltage. Therefore, we will only supply
+00:34:53.324 power for a short duration. As for the
+00:34:55.965 circuit, it has a triac to control the
+00:34:57.944 voltage. At this point, when checking
+00:35:04.075 the current, listen to the sound; if
+00:35:05.988 the motor runs smoothly and produces
+00:35:07.900 small blue sparks, the windings are not
+00:35:09.968 damaged. But if there are red sparks,
+00:35:13.329 the windings are already damaged or
+00:35:15.021 worn out. If there are large, excessive
+00:35:17.086 sparks, the commutator is worn, causing
+00:35:19.142 the carbon brushes to wear out very
+00:35:20.993 quickly. The sparks should be compact,
+00:35:24.487 the motor should be quiet, meaning the
+00:35:26.381 bearings are good, and the current must
+00:35:28.324 be stable. lower than the rated current
+00:35:31.163 . Regarding replacements, we must use
+00:35:34.583 the correct type, shape, size, and
+00:35:36.624 operating voltage. And if we replace it
+00:35:40.186 incorrectly, we will have to make all
+00:35:41.965 the adjustments. First is the tension
+00:35:48.013 of the drive belt, and the height
+00:35:49.456 alignment between the motor pulley and
+00:35:51.112 the washing machine's drum pulley. If
+00:35:57.365 it is misaligned, it will cause the
+00:35:59.084 belt to wear out. If it is too loose,
+00:36:02.187 it won't reach the required speed. It
+00:36:04.326 will slip when reversing the rotation
+00:36:05.989 direction. And the belt will very
+00:36:07.609 easily come off. If it is too tight,
+00:36:09.445 the machine will strain, work under
+00:36:11.214 heavy load, and may not function at all
+00:36:13.131 . Checking the commutator motor in a
+00:36:16.548 washing machine. As we know, commutator
+00:36:21.837 motors are primarily installed in
+00:36:23.556 front-loading washing machines.
+00:36:30.248 Compared to induction motors, this type
+00:36:32.298 of motor has the advantage of higher
+00:36:34.196 rotation speeds, a more compact design
+00:36:36.195 for the same power, and the ability to
+00:36:38.195 vary speeds across multiple levels.
+00:36:45.421 Regarding the construction, looking at
+00:36:47.457 the diagram, we have carbon brushes,
+00:36:49.390 bearings, the speed sensor coil, and
+00:36:51.322 the pulley. The magnetic ring of the
+00:36:57.002 sensor unit, the commutator, the stator
+00:37:00.987 windings, and the rotor windings.
+00:37:07.478 Crucially, note that regarding the
+00:37:09.169 motor's reversal of rotation, many
+00:37:10.861 students don't understand the process,
+00:37:12.747 which is similar to a drill where we
+00:37:14.535 change the rotation direction by
+00:37:16.130 flipping a switch. But why does
+00:37:21.006 flipping the switch allow us to change
+00:37:22.683 the direction to drive a screw in or
+00:37:24.274 pull it out? Let's take a look.
+00:37:29.011 Basically, inside our motor, there are
+00:37:31.106 stator windings and rotor windings. Our
+00:37:36.362 part here is the moving part, so to
+00:37:38.190 supply power to the rotor coil, we use
+00:37:40.172 a commutator, and the two symmetrical
+00:37:42.102 ends are carbon brushes to supply
+00:37:43.829 electricity. At this point, we only
+00:37:49.372 have two coils connected in series. So,
+00:37:54.067 to change the direction of rotation, we
+00:37:56.037 can see that we need to change the
+00:37:57.760 power supply to the rotor coil. I am
+00:38:02.452 drawing and laying this out, giving an
+00:38:04.280 example for you to look at my diagram.
+00:38:07.569 First, for example, if I reverse the
+00:38:09.500 rotation to the right, a power source
+00:38:11.483 will pass through the stator coil
+00:38:13.258 connected to carbon brush AB, which is
+00:38:15.293 my carbon brush here. It connects to
+00:38:21.997 brush A, passes through brush A, then
+00:38:23.908 through the coil to brush B, returning
+00:38:25.870 to the source; but if I reverse the
+00:38:27.681 rotation, it still passes through the
+00:38:29.592 stator coil but will be connected to
+00:38:31.453 brush B, then through the rotor coil to
+00:38:33.465 brush A, and back to the source. Thus,
+00:38:42.371 looking at this, we can see that we
+00:38:44.285 will have two coils and two sensor
+00:38:46.146 coils. For the speed sensor coil, we
+00:38:50.232 will have a minimum of 6 wires. But on
+00:38:54.619 the market, there are types with 6, 7,
+00:38:57.290 8, 9 wires, there are many. In a moment
+00:39:03.551 I will—we already analyzed this in
+00:39:05.410 the previous lesson, so now you look, I
+00:39:07.419 will have some motors so we can
+00:39:09.026 understand that there are 6-wire, 7-
+00:39:10.834 wire types and where the positions of
+00:39:12.743 these devices are located. Now I have a
+00:39:22.199 motor and the common faults in this
+00:39:23.830 motor, and how to check if the motor is
+00:39:25.642 good. So on the motor, you look at the
+00:39:30.647 motor. First, this is the pulley that
+00:39:34.847 will be connected to the drive belt. At
+00:39:42.031 both ends are two bearings fixed for
+00:39:43.759 the rotor. Fixed for the rotor to
+00:39:48.742 rotate. Outside. Looking at the coils
+00:39:56.640 on the outside, this is the stator coil
+00:39:58.605 . Stator coil. We look at the coil
+00:40:05.930 inside here. I tilt it so you can see
+00:40:09.799 that inside is the moving part. I
+00:40:13.145 rotate this rotor, and we see that it
+00:40:15.049 is the moving part, so this is the
+00:40:16.802 rotor coil. Wound together on the
+00:40:20.162 magnetic frame. To supply power to the
+00:40:22.491 rotor coil, we look at the back. At the
+00:40:26.160 back, I have two carbon brushes. Two
+00:40:31.122 carbon brushes mounted symmetrically.
+00:40:33.700 These two brushes sweep across the
+00:40:35.433 commutator. This commutator has many
+00:40:38.209 slots. Many slots. Regarding the
+00:40:45.770 commutator, there are many failures in
+00:40:47.635 this motor, which I will discuss later.
+00:40:54.018 At the very end, down here, we can see
+00:40:56.193 the speed sensor coil. Rotating inside
+00:41:05.462 the sensor coil is a permanent magnet
+00:41:07.324 ring that generates a magnetic field
+00:41:09.136 sweeping across the coil, creating an
+00:41:10.998 electrical pulse sent back to the IC
+00:41:12.810 and out to the plug connector. So, what
+00:41:20.870 are the failures in this motor? First,
+00:41:25.145 due to working in a humid environment,
+00:41:27.165 our bearings can be damaged. At this
+00:41:29.933 point, the machine will still wash but
+00:41:31.827 it will be noisy. The noise could be
+00:41:35.826 from the motor, or from the bearings of
+00:41:37.551 the mechanical moving part of the drum.
+00:41:42.483 To distinguish between the noise from
+00:41:44.076 the motor bearings and the drum
+00:41:45.419 bearings, you just need to remove the
+00:41:47.012 belt to check and run the motor. If you
+00:41:50.670 run the motor and the noise stops, it
+00:41:52.398 means the drum bearings are the cause.
+00:41:54.291 But if we remove the belt and it still
+00:41:56.056 makes noise, the motor bearings are to
+00:41:57.822 blame. Because this motor is located
+00:41:59.627 low down and is very susceptible to
+00:42:01.347 moisture. The next failure we know of
+00:42:04.458 concerns our coil structure. The rotor
+00:42:07.677 coil and the stator coil are connected
+00:42:09.600 in series. These coils can be broken,
+00:42:11.818 shorted, scorched, or burned in this
+00:42:13.950 motor. In this motor. The next failure
+00:42:21.260 is that due to long-term use, my two
+00:42:23.172 carbon brushes may be worn out. My two
+00:42:27.649 carbon brushes are worn out. Now, I
+00:42:30.799 will remove them for you to see that
+00:42:32.474 the carbon can be worn. I will remove
+00:42:43.504 one carbon brush so you can observe the
+00:42:45.343 brush. And I will also check by
+00:42:55.555 supplying power so you can observe
+00:42:57.223 these cases. So here, I have a carbon
+00:43:03.696 brush. Regarding the carbon brushes, if
+00:43:11.432 they wear down to less than 1 cm, that
+00:43:13.498 means the carbon is worn out. At this
+00:43:22.320 point, it may work intermittently or
+00:43:24.112 not at all; we can see a spring
+00:43:25.662 constantly pushing the carbon, and
+00:43:27.358 inside there is a wire to prevent it
+00:43:29.150 from coming out and tangling in the
+00:43:30.894 commutator. We can see here the
+00:43:34.265 specifications for the carbon. For the
+00:43:38.834 carbon I am currently using and testing
+00:43:41.103 , mine is at 2 cm. At 2 cm, you only
+00:43:46.673 need it to drop below 1 cm to know your
+00:43:49.081 carbon is in a depleted state. We must
+00:43:53.120 replace it. Therefore, when performing
+00:43:59.144 repairs or maintenance, we should check
+00:44:00.994 the carbon, or for motors that run
+00:44:02.613 intermittently or stop while in
+00:44:04.094 operation—even when the electronic
+00:44:05.806 circuit indicates they are still
+00:44:07.332 running. Another common failure case is
+00:44:13.710 a worn commutator. Worn commutator. Or,
+00:44:19.555 because the commutator works in humid
+00:44:21.501 conditions, carbon dust can build up
+00:44:23.395 and cause a short circuit on the
+00:44:25.084 commutator. For this case, we typically
+00:44:31.579 fix and inspect it by first using a
+00:44:33.397 brush to clean out the grooves of the
+00:44:35.317 commutator. We clean the commutator
+00:44:41.016 grooves thoroughly, and as you can see,
+00:44:42.999 brushing it clears out the carbon dust.
+00:44:47.449 Or, in cases where the contact is poor,
+00:44:49.796 we can use sandpaper. We will use a
+00:44:54.405 fine type of sandpaper. The finer the
+00:44:58.121 grit, the better. We can choose a grit
+00:45:02.247 level above 400, 600, or 800 to perform
+00:45:08.379 the cleaning. To clean the commutator,
+00:45:12.328 we place it on the commutator and then
+00:45:14.330 we clean it, scrubbing the contact
+00:45:23.556 surfaces of the commutator so the
+00:45:25.200 carbon brushes make good contact, and
+00:45:27.039 only then will it be able to operate.
+00:45:30.119 Because there are many cases caused by
+00:45:32.009 poor contact. Brushes are worn, the
+00:45:34.793 commutator is dirty with soot, leading
+00:45:36.934 to poor contact. That is why the
+00:45:39.108 machine runs intermittently. So for
+00:45:46.696 those cases, we use a brush to clean
+00:45:48.662 out these slots. This is how we check
+00:45:56.981 for cases where the machine runs
+00:45:58.546 intermittently due to contact issues.
+00:46:01.301 The same applies to our drills as well.
+00:46:11.330 That was my guide on how to clean the
+00:46:18.492 commutator. And now, reassemble it. In
+00:46:22.983 cases where we buy new brushes, the
+00:46:24.822 contact ends are square. Therefore, we
+00:46:27.761 must grind them to be slightly beveled,
+00:46:29.719 students. Must grind them slightly
+00:46:31.412 beveled. And remember, when replacing
+00:46:33.658 brushes, they must slide in and out of
+00:46:35.558 the brush holder smoothly like this.
+00:46:40.398 But if we insert them and they get
+00:46:42.050 stuck or don't push out, you are
+00:46:43.607 required to grind the brush so that it
+00:46:45.401 ...Can slide in and out smoothly, so it
+00:46:47.289 can make proper contact with the motor.
+00:47:28.967 For this type of motor, look at my
+00:47:31.090 wires: two sensor wires, two brush
+00:47:33.213 wires, and two stator wires. So my
+00:47:37.774 motor has 6 wires, but there are many
+00:47:39.878 other motors. You can see motors like
+00:47:43.525 this one where this motor of mine has 7
+00:47:50.451 wires. 7 wires. Seven jacks, seven
+00:47:59.240 jacks. There are types of motors with
+00:48:06.354 commutators that have 8 wires. 8 wires.
+00:48:11.359 2, 4, 6, 8 wires. I have 8 wires. In
+00:48:17.703 the theory section, I already
+00:48:19.757 instructed you on types with 6, 7, 8,
+00:48:22.358 and 9 wires. For this motor of mine
+00:48:30.259 with 2, 4, 6, 8, 9 wires, this is a 9-
+00:48:33.533 wire motor, so we can see there are
+00:48:41.846 many types of motors to check. We will
+00:48:47.192 check them using the following steps.
+00:48:51.957 Step one, you need to check the sensor
+00:48:53.833 windings for me, where we will measure
+00:48:55.709 the resistance value. Step two, check
+00:49:00.661 the rotor winding by measuring the
+00:49:02.349 resistance across the two brush
+00:49:03.892 terminals while rotating the pulley.
+00:49:07.224 Because there are many slots in here,
+00:49:09.030 we need to see if our contact point is
+00:49:10.884 good or not. Typically, when I rotate
+00:49:12.878 it like this, the resistance values are
+00:49:14.930 relatively equal. That means the coils
+00:49:16.884 inside our rotor are in good condition.
+00:49:18.742 We observe the color of the rotor. The
+00:49:22.839 color of our rotor wires still looks
+00:49:24.625 good and has not changed. We also
+00:49:30.290 observe the carbon brushes and the
+00:49:31.930 contact surface of the commutator. If
+00:49:36.608 the rotor is shorted, the contact
+00:49:38.328 surface between the carbon brushes and
+00:49:40.300 the commutator often draws too much
+00:49:42.120 current, causing it to become rough,
+00:49:43.991 pitted, and burnt. Burnt and pitted.
+00:49:50.001 For the stator coils, we will also
+00:49:51.750 measure the resistance value of the two
+00:49:53.749 stator coils. Then, we supply power
+00:49:57.343 according to the clockwise and
+00:49:58.905 counter-clockwise rotation diagram that
+00:50:00.921 I just introduced to the class. At the
+00:50:04.430 same time, we will observe the current.
+00:50:07.623 Observe the current, observe the sparks
+00:50:12.896 at the commutator. If the sparks we see
+00:50:18.041 are small and blue, it means this motor
+00:50:20.129 is good, and the bearings must run
+00:50:21.955 quietly. However, for this type of
+00:50:28.592 motor, it cannot be as quiet as today's
+00:50:30.752 motors. We are using direct drive now,
+00:50:36.090 so for direct-drive motors in washing
+00:50:37.994 machines, we will find that they
+00:50:39.649 operate more quietly. Now, I will
+00:50:43.205 proceed with the test for you. First,
+00:50:46.369 we look at the wires as I turn it up
+00:50:48.372 like this; I will check each one of the
+00:50:53.274 coils. There. First, I will check two
+00:51:03.602 wires. The two sensor wires are at
+00:51:10.819 positions 1, 2, 3, 4, 5, counting from
+00:51:13.702 my red probe mark, so 3 and 4 are the
+00:51:16.512 two sensor wires. I measure and there
+00:51:23.435 is a resistance value. There is a
+00:51:26.780 resistance value, so the coil is good.
+00:51:30.299 Now there are four jacks left at the
+00:51:32.075 two ends, but I don't know yet which
+00:51:33.851 one is which is the rotor resistance
+00:51:38.071 and which is the stator resistance, so
+00:51:39.902 it's very simple; I will pull out one
+00:51:41.686 jack connected to the carbon brush,
+00:51:43.376 which is the pink wire. I measure at
+00:51:46.426 the carbon brush terminal here and then
+00:51:48.086 I will measure the four remaining
+00:51:49.497 terminals. By measuring the four
+00:51:56.579 remaining terminals, I will be able to
+00:51:58.340 check. I will check the rotor, and you
+00:52:03.776 look at this. The resistance is 3.2
+00:52:08.900 ohms. And what is it that I am rotating
+00:52:14.207 ? It is the relative resistance value,
+00:52:16.844 we see that by keeping this value, this
+00:52:19.029 is exactly The rotor is at the second
+00:52:25.634 jack, and I am measuring the pink jack,
+00:52:27.863 which is jack number 6. So now I can
+00:52:29.925 move the rotor, I will temporarily plug
+00:52:32.154 in jack number 2 and jack number 6 to
+00:52:34.271 mark them. This is exactly the
+00:52:38.291 resistance of, this is exactly the
+00:52:40.160 resistance of The remaining two wires
+00:52:46.724 are wire 1 and wire 5, which is the
+00:52:48.542 resistance of the stator. I measure a
+00:52:53.827 resistance value of About 1.8 ohms, so
+00:52:58.770 I will attach the blue jack. I will use
+00:53:08.565 the blue jack. And I will supply power
+00:53:15.395 according to the diagram. I will supply
+00:53:21.409 power according to the diagram, and you
+00:53:23.320 guys observe and look at the part The
+00:53:29.981 spark part. Here we will observe At
+00:53:35.533 this moment And I will also supply
+00:53:39.380 electricity so we can observe the
+00:53:40.992 reversal of rotation. At this moment,
+00:53:45.773 we see that one power source according
+00:53:47.684 to our diagram goes into the stator.
+00:53:52.631 For example, I go into the stator jack
+00:53:57.746 The fifth jack counting from the top.
+00:53:59.909 This is 1. So now I will go into 1. Go
+00:54:03.070 into 1. Go into the stator. Exit the
+00:54:07.195 stator at this fifth jack. Exit the
+00:54:10.093 stator at the fifth jack, I connect it
+00:54:12.128 to wire number 6. Rotor at wire number
+00:54:16.776 2. I will return to the power source.
+00:54:21.996 And at this point, I will use end caps
+00:54:24.062 to ensure safety. And before supplying
+00:54:42.371 power, we will measure the two ends of
+00:54:44.165 the plug for the total resistance of
+00:54:45.867 the rotor and stator. The total of the
+00:54:49.526 rotor and stator are connected in
+00:54:51.131 series. I get 6 ohms. And now we look
+00:55:03.021 at, you guys look at when I supply
+00:55:04.736 electricity. When I supply electricity,
+00:55:10.040 When I supply electricity, we will
+00:55:11.879 observe the sparks. There. Here, you
+00:55:16.975 observe the sparks; I tilt this up so
+00:55:19.091 we can observe the sparks. It must be
+00:55:21.992 neat Neat and Blue sparks. So this is
+00:55:34.333 regarding Testing the motor and
+00:55:37.569 regarding the direction of rotation.
+00:55:39.980 Regarding the direction of rotation
+00:55:47.304 Then we will observe the direction of
+00:55:48.945 rotation. Here, my direction of
+00:55:51.443 rotation is Rotating in this direction.
+00:55:56.982 There. And now I will reverse the
+00:55:59.287 direction of rotation. So, to reverse
+00:56:02.070 the rotation, according to the diagram,
+00:56:04.272 according to the diagram I will turn it
+00:56:08.544 back. The power input is still I will
+00:56:12.803 reconnect it. I will just disconnect
+00:56:15.060 these rotor wires. This one is still
+00:56:17.865 the power input. The output here. The
+00:56:24.863 output, just a moment ago, I connected
+00:56:27.126 it to wire number 6. Now, for the
+00:56:30.675 output, I will connect it to wire
+00:56:32.574 number 2, connecting to wire number 2
+00:56:34.696 of and return wire number 6 back to the
+00:56:39.560 power source. Like this, I have changed
+00:56:42.061 the rotation direction of the motor. In
+00:56:46.755 the electrical circuit of washing
+00:56:48.360 machines, front-loading types, the
+00:56:55.349 manufacturer also uses relays to change
+00:56:57.381 the rotation direction by reversing the
+00:56:59.412 power supply to the relay coils. And
+00:57:03.969 now I will supply power and we will
+00:57:05.663 observe together the sparks the sparks
+00:57:15.506 are small. The sparks are blue, the
+00:57:21.707 current is low, so this is the way to
+00:57:23.574 reverse the motor's rotation. Here, the
+00:57:28.858 motor's rotation is now reversed. I am
+00:57:31.098 rotating it in the opposite direction
+00:57:32.777 from the start. So that is for how to
+00:57:37.018 change the motor's rotation. Now, I
+00:57:41.159 invite the whole class to check the
+00:57:42.940 motor for me. Next, uh that is for the
+00:58:05.640 commutator motor; you have just watched
+00:58:07.613 my instructions on how to measure,
+00:58:09.339 check, and maintain or clean it in
+00:58:11.065 cases of malfunctions during the
+00:58:12.692 contact between the carbon brushes and
+00:58:14.616 the commutator. Today we continue with
+00:58:21.882 the next load, which is the heating
+00:58:23.632 element, or also called the magnesium
+00:58:25.480 rod. For the heating element, or
+00:58:30.974 magnesium rod, in washing technology,
+00:58:33.032 we have steam washing technology. Hot
+00:58:36.655 water washing technology. For hot steam
+00:58:41.264 , we see that the heating element is
+00:58:43.080 installed in some machine lines.
+00:58:47.688 Front-loading washing machines make up
+00:58:49.480 the majority, while a smaller number of
+00:58:51.319 top-loading machines also have them, so
+00:58:53.158 the heating element has the duty of
+00:59:01.256 converting electrical energy into heat
+00:59:03.097 for heating. First, if we heat water,
+00:59:07.322 it's for hot water washing mode or the
+00:59:09.320 hot air washing mode. Second, it heats
+00:59:15.340 the air so we can perform the drying
+00:59:17.175 function. So, in the case of For hot
+00:59:23.654 water wash cycles, this heating element
+00:59:25.559 is located at the bottom of our water
+00:59:27.368 container. Since it sits at the bottom
+00:59:29.933 of the water container, it heats the
+00:59:31.647 water when we wash in hot water mode.
+00:59:33.717 As for the drying mode, it uses a
+00:59:35.483 blower fan to dry the clothes. And this
+00:59:38.157 is the heating element drying method.
+00:59:40.895 In this case, the heating element used
+00:59:42.727 for drying is usually mounted at the
+00:59:44.466 top of the drum and uses a fan for air
+00:59:46.299 circulation. Think about a standard
+00:59:50.481 home hairdryer—the larger ones that
+00:59:52.341 have both cool air and heat settings—
+00:59:54.251 how do they work? Clothes drying works
+00:59:58.588 the same way; we either dry with cool
+01:00:00.609 air or dry with heat. Some models, such
+01:00:06.680 as certain domestic or industrial units
+01:00:08.749 you may have seen, even feature a
+01:00:10.507 refrigeration-based drying function.
+01:00:22.042 Between heat drying and refrigeration
+01:00:23.886 drying, the refrigeration method is
+01:00:25.633 superior because the clothes don't get
+01:00:27.525 steamed, and it extracts moisture
+01:00:29.175 effectively; it works just like an air
+01:00:31.068 conditioner or a dehumidifier, pulling
+01:00:32.961 all the moisture out of the machine and
+01:00:34.902 venting it. In terms of construction,
+01:00:44.440 this heating element is very similar to
+01:00:46.409 the one in a water heater, consisting
+01:00:48.280 of a metal outer casing with glass
+01:00:50.003 powder and resistance wire inside. This
+01:00:53.803 type usually has a power rating from
+01:00:56.398 1500 to 2500W, with the majority being
+01:00:59.133 between 1800 and 2000W. So, just like
+01:01:05.522 the element in a water heater, it
+01:01:07.173 typically fails by either burning out
+01:01:09.017 or leaking electricity, causing our
+01:01:10.765 washing machine to display an error
+01:01:12.513 code. Some front-load machines use the
+01:01:18.431 power supply to the load as a feedback
+01:01:20.283 signal line. Therefore, an error code
+01:01:23.963 will be triggered. Electrical leakage
+01:01:31.986 is dangerous to the user and prevents
+01:01:33.994 the use of hot water wash, steam wash,
+01:01:36.054 and clothes drying modes. For the
+01:01:43.250 heating element that heats the water,
+01:01:45.152 when it fails, firstly, it cannot heat
+01:01:47.104 the water, so our wash cycle will be
+01:01:48.957 less effective. And if it's less
+01:01:54.971 effective, washing with hot water,
+01:01:56.811 besides killing bacteria and removing
+01:01:58.809 odors, helps loosen dirt on our laundry
+01:02:00.911 faster and more easily. It also causes
+01:02:04.876 the seals to expand, ensuring a tight
+01:02:06.953 fit, which prevents bearing damage and
+01:02:09.085 water leaks. On some machines, while
+01:02:16.350 cold water cycles work normally, hot
+01:02:18.426 water cycles may fill with water, stop,
+01:02:20.671 and then fail to proceed. As for the
+01:02:23.582 heating element used for drying, if it
+01:02:25.558 fails, it may trigger an error, or
+01:02:27.332 electrical leakage could occur, posing
+01:02:29.308 a danger to the user. Some machine
+01:02:31.269 models are equipped with a dryness
+01:02:32.885 sensor. Some machines use a timer-based
+01:02:38.431 method for the drying cycle, where we
+01:02:40.308 set a specific number of minutes, and
+01:02:42.186 it stops once that time is up. The
+01:02:46.900 laundry may already be dry or still wet
+01:02:48.835 , yet it will not stop. However, there
+01:02:51.908 are also some machines where the drying
+01:02:53.778 mode continues until the laundry is
+01:02:55.462 completely dry before stopping.
+01:02:57.797 Therefore, our drying time will be
+01:02:59.563 prolonged because drying with air takes
+01:03:01.582 a very long time. In this case, the
+01:03:03.697 machine runs for a very long time
+01:03:05.391 without stopping. Regarding testing the
+01:03:10.383 heating element, we know there are two
+01:03:12.207 main types of failures. One is a broken
+01:03:14.085 circuit, and the other is electrical
+01:03:15.711 leakage. To test it, we first check for
+01:03:17.979 a broken circuit since the heating
+01:03:20.031 element has a high power output between
+01:03:22.375 1500 and 2500 watts. In this case, we
+01:03:25.971 use a multimeter set to the X1 ohm
+01:03:27.709 range and measure across the two
+01:03:29.347 electrical terminals. If there is a
+01:03:33.237 resistance value, we then set the meter
+01:03:35.331 to the X10k range, placing one probe on
+01:03:37.425 one of the two terminals. The other
+01:03:40.665 probe is placed on the casing or the
+01:03:42.267 flange of the heating element. If the
+01:03:44.808 needle does not move, the insulation is
+01:03:46.770 in good condition. If the needle moves,
+01:03:49.544 and the reading is less than 10 megohms
+01:03:51.420 , then there is electrical leakage.
+01:03:55.130 When replacing, we must ensure it is
+01:03:57.200 the correct type, shape, size, and
+01:03:59.158 voltage as specified on the original
+01:04:01.228 part. And when installing it,
+01:04:03.198 specifically for heating elements
+01:04:04.753 tasked with heating water, there is
+01:04:06.400 always a retaining hook. If we don't
+01:04:11.232 install it carefully, it may cause the
+01:04:13.009 element to get caught in the wash tub
+01:04:14.741 during operation, leading to electrical
+01:04:16.563 leakage or damage to the heating
+01:04:18.067 element. So that is it for the heating
+01:04:25.654 element. Our lesson concludes here. In
+01:04:35.094 today's class, I introduced to the
+01:04:36.918 whole group squirrel-cage motors,
+01:04:38.690 front-loading washing machines,
+01:04:40.357 horizontal drums, commutator motors,
+01:04:42.285 and heating elements. At home, please
+01:04:47.931 review the lesson, study, and prepare
+01:04:49.983 the new lesson for me. Goodbye to the
+01:04:53.936 class, see you all in the next lesson.
+01:04:56.341 Oh.

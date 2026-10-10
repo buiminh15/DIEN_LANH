@@ -1,0 +1,1089 @@
+# tactiq.io free youtube transcript
+# Bài 2.6 Công Tắc An Toàn, Rơ Le Khống Chế Nhiệt Độ, Bảng Điều Khiển Máy Giặt II Dạy Nghề Thanh Xuân
+# https://www.youtube.com/watch/r_9ZpsShQNw
+
+00:00:00.000 Xin
+00:00:00.740 chào mắt em
+00:00:02.720 buổi học ngày hôm nay thầy trò chúng ta
+00:00:06.000 tiếp tục sàng 72
+00:00:09.440 nó là thiết bị điện phụ tải điện
+00:00:13.250 bài học ngày hôm nay là Xanh phần 2 nhỏ
+00:00:15.870 hay lớn đó là thiết bị điện và thiết bị
+00:00:20.400 của chúng ta ngày hôm nay này về trò cho
+00:00:22.500 ta sẽ đi tìm hiểu về công tắc an toàn
+00:00:26.119 thì bây giờ các em nhìn lên trên hình
+00:00:28.289 ảnh Thì thấy đang có một số công tác an
+00:00:31.109 toàn và buổi học à trước thì thấy nó
+00:00:33.899 giới thiệu cho chúng ta về vị trí lắp
+00:00:36.000 đặt một số thiết bị điện và phụ thể hiện
+00:00:38.250 trên máy giặt
+00:00:39.260 đây thì có 1 số cái công tắc công tắc
+00:00:41.910 máy giặt cửa trước lồng ngang công tắc
+00:00:43.829 máy giặt cửa trên máy giặt cửa trên công
+00:00:46.350 tắc từ
+00:00:47.809 về công tác an toàn thì như chúng ta đã
+00:00:50.969 biết được là trong cái máy giặt gia đình
+00:00:52.350 nhà chúng ta
+00:00:53.510 khi máy đang hoạt động thì một số máy
+00:00:56.100 của ta sẽ không mở được cửa thì lấy ví
+00:00:57.539 dụ như là công tắc của máy giặt cửa
+00:00:58.859 trước lồng ngang không ở
+00:01:00.629 một số máy
+00:01:02.760 cửa trên khi máy hoạt động ở chế độ giặt
+00:01:05.740 thì ta mở cửa thì cũng xảy ra được báo
+00:01:07.990 lỗi một số thì ở chế độ mắt giặt dẫn mở
+00:01:11.979 được như vậy cho nó bắt thì mở cửa ra để
+00:01:13.899 bó gối và rừng đang quay mình quay dừng
+00:01:16.600 một số loại máy thì về chế độ vắt cũng
+00:01:18.880 không cho phép mở cửa như vậy
+00:01:21.750 đối với công tắc an toàn thì cái mục
+00:01:24.549 đích của công tác an toàn chính là
+00:01:26.369 an toàn cho người sử dụng chính của ta
+00:01:29.200 là an toàn cho người sử dụng
+00:01:32.130 khi máy đang hoạt động ở chế độ giặt rú
+00:01:35.350 mắt để tránh những cái rủi ro tai nạn
+00:01:38.110 trong quá trình vận hành chính được bệnh
+00:01:40.149 là trong quá trình máy hoạt động thì đều
+00:01:42.580 không cho phép lớn là đều không cho phép
+00:01:44.979 mở cửa về nhiệm vụ của công tắc thì công
+00:01:48.610 tác đang có nhiệm vụ an toàn cho người
+00:01:50.890 sử dụng khi máy làm việc ở chế độ giặt
+00:01:53.590 vú bắt
+00:01:56.280 về phân loại
+00:01:58.140 tính chúng ta sẽ đi tìm hiểu em cũng tắt
+00:02:00.890 máy giặt cửa trên và công tắc máy giặt
+00:02:03.350 cửa trước lồng ngang
+00:02:07.450 đầu tiên chúng ta sẽ đi tìm hiểu về công
+00:02:11.000 tác máy giặt cửa trên đối với công tắc
+00:02:13.489 máy giặt cửa trên thì đang sử dụng 2
+00:02:16.099 công tắc 1 trong 2 một số thì sử dụng cả
+00:02:19.220 hai một số máy sẽ còn có ba con sắc
+00:02:22.870 nhất
+00:02:24.459 là công tắc từ
+00:02:26.379 thì được ghép bởi cặp tiếp điểm là được
+00:02:29.720 cấu tạo bởi một cặp tiếp điểm Cặp tiếp
+00:02:31.489 điểm này có thể được đặt trực tiếp trên
+00:02:35.000 bo mạch có thể nằm tách rời
+00:02:37.420 và trên cánh cửa sẽ gắn 1.500 vĩnh cửu
+00:02:40.900 để khi ta đóng cửa dựa vào từ trường dựa
+00:02:45.560 vào từ trường của viên nam châm sẽ hút
+00:02:48.319 đóng tiếp điểm tỉnh người ta được gọi là
+00:02:50.390 công tắc từ
+00:02:53.680 còn một loại là công tắc cơ thì đối với
+00:02:58.069 công tác cơ thì năng lực bí ngô một cặp
+00:03:01.500 tiếp điểm
+00:03:02.600 và phía dưới làm có một cần báo chống
+00:03:06.120 rung cần báo rung như thế nào thì nó sẽ
+00:03:10.110 đặt song song với thùng trước để quy máy
+00:03:13.620 giặt của chúng ta có thể là kê không cân
+00:03:15.360 đồ giặt không đều hoặc là hệ thống lò xo
+00:03:19.500 Quảng treo của chúng ta bị hỏng khi đó
+00:03:22.200 máy mắt sẽ rung lắc và chính cái lồng
+00:03:24.660 rung lắc này sẽ va chạm vào tuần báo
+00:03:27.360 dung của công tác an toàn và gây ra khỏi
+00:03:28.920 dứt điểm và lúc này cũng sẽ cho dừng
+00:03:31.500 không cho phép bắt Để tránh xảy ra hiện
+00:03:35.010 tượng mi mắt có thể đổ Nếu mà chúng ta
+00:03:38.489 đang kê trên 4 cái chân cao thì có thể
+00:03:41.010 gây ra đổ mái bây giờ hỏng gây ra rò
+00:03:44.250 điện gây ra một số thì rủi ro khác thì
+00:03:46.650 đấy là đối với
+00:03:48.860 đối với công tác
+00:03:51.680 thì đang được bố trí ở phía song một số
+00:03:54.810 công tắc từ còn được tích hợp luôn ở bên
+00:03:57.360 trong van áp lực ngày Mở biến mực nước
+00:04:01.060 tích hợp hai trong một
+00:04:03.569 kì tích hợp với như nào thì ở bên trong
+00:04:07.659 thì cho tao học về buổi học trước thì ra
+00:04:10.629 đây đi tìm hiểu về ban áp lực điện tử
+00:04:14.049 cuộn dây và lõi sắt Hiếu này cuộn dây và
+00:04:16.959 lá sắt thì bên trong người ta sẽ sử dụng
+00:04:18.310 nó rất nhiều người ta sẽ sử dụng đó
+00:04:21.130 chính là một viên bi từ từ được làm ầm
+00:04:24.130 được bố trí ở bên trong bên trên của nó
+00:04:26.830 sắp từ thì đối với viên bi này pin rung
+00:04:31.419 lắc thì đồng nghĩa với hao lực của chúng
+00:04:34.539 ta sẽ giúp viên đi từ này nó sẽ này đăng
+00:04:37.000 và khi nó này dung thì thay đổi tín hiệu
+00:04:39.400 xung về bên trong CPU để trong vi xử lý
+00:04:43.449 vào lúc này vi xử lý cũng nhận được thì
+00:04:45.669 tín hiệu xung đó
+00:04:47.910 ký nhận được cái tín hiệu xung nó và làm
+00:04:51.039 sai về cái này tần số thì khi đó Chị lúc
+00:04:54.160 này thì máy sẽ báo lỗi và không thép làm
+00:04:57.820 việc đấy là đối với
+00:05:00.020 là công tắc của chúng ta là như vậy
+00:05:02.530 [âm nhạc]
+00:05:09.370 đối với công tắc thì đây làm về cấu tạo
+00:05:12.889 còn về nguyên lý thì chúng ta nên nhớ là
+00:05:14.690 khi máy hoạt động thì bắt buộc cửa hoạt
+00:05:17.210 động thì thứ nhất là công tác từ thì
+00:05:19.639 viên nam châm được ngắm là trên trên mép
+00:05:21.979 cánh cửa sẽ đóng tiếp điểm đối với công
+00:05:24.080 tắc cơ Dựa vào bản lề của ta thì nâng bỏ
+00:05:27.770 cò tác động đến cơ cấu lực làm đóng tiếp
+00:05:30.409 điểm và khi đóng tiếp điểm thì lúc này
+00:05:32.330 đưa cái hiệu về cho vi xử lý một là làm
+00:05:36.139 dân cái điện áp hai lần Xuân điện áp
+00:05:37.789 hoặc là tín hiệu xung tăng giảm về cái
+00:05:39.919 thí nghiệm sung lúc đó sẽ So sánh mấy
+00:05:42.380 cái tín hiệu được cài đặt thì khi đó có
+00:05:45.470 tín hiệu được bảo vệ cho mình xử lý thì
+00:05:47.509 myspace biết được là cửa đóng còn này
+00:05:50.180 cho phép hoạt động
+00:05:55.060 ý các em đi nghe bài cái này đối với máy
+00:05:58.669 giặt cửa trên
+00:06:00.030 Anh thường có hai loại công tắc được gọi
+00:06:02.760 là công tắc tương và công tắc cơm
+00:06:06.240 [âm nhạc]
+00:06:08.870 về công tác thường được gắn trên tủi
+00:06:12.780 mạch gồm có tiếp điểm
+00:06:15.110 nam châm Việt Nam Châm đứng kim
+00:06:20.120 loại này thường an toàn trong suốt quá
+00:06:23.400 trình hoạt động
+00:06:24.680 ở chế độ máy hoạt động cửa phải đóng
+00:06:30.680 mở chế độ máy hoạt động cửa hàng nóng
+00:06:33.210 lúc này tiếp điểm nóng mới có tín hiệu
+00:06:36.600 bảo vệ cho IC vi xử lý
+00:06:39.500 nhưng nếu mở cửa họ
+00:06:42.620 làm cho công tác này hở mạch
+00:06:45.230 thì lúc này không có tín hiệu báo rẽ
+00:06:47.610 phải C mà lúc đó Máy sẽ báo lỗi
+00:06:51.230 thì đổi mới một số tùy thuộc theo từng
+00:06:53.490 loại thì cái má báo lỗi của chúng ta
+00:06:55.590 cũng tương tự như đối với mã báo lỗi i
+00:07:00.009 Bộ Quốc phòng nên là để phân biệt thì
+00:07:03.430 chúng ta cũng phải Trang tra cứu về mà
+00:07:06.069 Báo lỗi là do phao này là do công tắc
+00:07:08.830 thì thông thường rất đơn giản là nếu
+00:07:11.259 loại công tắc của chúng ta là loại hai
+00:07:13.389 chân em có thể là nối tắt thử công tắc
+00:07:15.849 để xem là diện để xem báo lỗi do phao
+00:07:18.639 hay báo lỗi do công tắc thì cái này là
+00:07:21.159 chúng ta rất hay bị ngâm xong mệt quá
+00:07:22.599 trình đi chưa
+00:07:27.960 nó sang công tắc cơm
+00:07:31.889 thì đối với công tác cơ thì đừng cắn ở
+00:07:34.779 phía sau bản lề cánh cửa đi Gồm có tiếp
+00:07:38.529 điểm gồm có cần báo rung
+00:07:42.629 ở chế độ mắt loại này thì thương là an
+00:07:46.059 toàn thì có mặt ở trên đó giặt thì công
+00:07:49.749 tắc này vẫn cho phép đóng mở
+00:07:53.610 thường an toàn là chiếc đỏ mắt Do đó
+00:07:57.270 khi máy hoạt động ở chế độ bắt thể ở
+00:08:00.550 tiếp điểm đọc mới có tín hiệu báo về PC
+00:08:07.659 lúc này máy mình cho phép bắt đương
+00:08:10.490 nhiên một số loại thì kể cả chế độ giặt
+00:08:12.620 ta không cần tiền nong đấy là đối với
+00:08:14.930 tùy thuộc theo nhà sản xuất người ta lập
+00:08:16.789 trình đối với công tắc
+00:08:20.110 Nhưng nếu mà công tắc của tôi là họ thì
+00:08:23.509 mày cũng sẽ báo lỗi và không cho phép
+00:08:25.190 hoạt động thì đây là công tắc của máy
+00:08:29.389 giặt cửa trên một số công tác của máy
+00:08:31.909 giặt cửa trên thì có cấu trúc tương tự
+00:08:34.779 với công tắc của máy giặt cửa trước đồng
+00:08:38.360 nhanh Do đó khi về chợ bắt thì cũng chốt
+00:08:41.809 cánh cửa và không cho phép mở cửa
+00:08:46.180 ta sẽ sang công tắc của máy giặt cửa
+00:08:49.579 trước lồng ngang thì công tắc máy giặt
+00:08:52.490 cửa trước lồng ngang thì có loại ba chân
+00:08:54.470 có loại bốn chân cắm điện
+00:08:57.550 khi ta còn có cái tên gọi người xe đạp
+00:09:00.750 công tắc đóng mở nhanh và công tắc đóng
+00:09:02.970 mở chậm cũng được cái đấy là trèo
+00:09:06.320 trên nhanh đối với
+00:09:09.380 của chúng ta
+00:09:11.150 Đây là công tắc loại ba chân của Ex Thế
+00:09:14.820 bây giờ về cấu tạo của chúng ta thì các
+00:09:17.280 em nhìn thấy mô phỏng như sau Thứ nhất
+00:09:21.590 là một là thân văn
+00:09:24.800 hay là một cái chốt chốt là cái thanh
+00:09:28.410 trượt để khóa cửa trong quá trình máy
+00:09:30.930 của chúng ta là đóng cửa để Tại sao là
+00:09:33.840 nếu mở cửa thì à đèn sáng mà chúng ta
+00:09:37.590 không Máy không hoạt động tại sao này
+00:09:39.300 thì máy hoạt động thì không cho phép ta
+00:09:41.310 mở cửa chỉ cái chốt này sẽ chốt chặn của
+00:09:44.100 những thanh Trần nằm ngay
+00:09:46.370 ba là thanh trượt
+00:09:49.490 ba ở thanhtrần 4
+00:09:52.550 làm viên thạch anh 4 bàn bên cạnh anh ạ
+00:10:00.010 anh
+00:10:01.980 là Thanh Lương Kim
+00:10:04.440 Anh Kim 6 là nó so 7 là đen
+00:10:09.930 8 là công tắc chính là móc Ánh Cường
+00:10:15.450 loại này thì đang được nằm ở phía
+00:10:18.090 trước và phía sau của cánh cửa để khi ta
+00:10:21.790 đóng cửa thì chính cái móc này vượt đóng
+00:10:24.850 và tác động lên cái thanh trượt để thanh
+00:10:27.070 trượt trượt từ bên phải Và bên trái
+00:10:29.970 trượt từ bên phải Và bên trái
+00:10:33.810 chỉ đối với trong đấy công tác Thực tế
+00:10:37.090 thì thanh đứng Kim của chúng ta làm ở
+00:10:38.380 phía dưới này
+00:10:39.330 trước đây số đây
+00:10:42.900 Ai cơ cấu lập của chúng ta sẽ tác động
+00:10:45.370 thanh tiếng chim tác động nhờ một biết
+00:10:47.170 cần trắng đầy nên tác động cơ cấu lập để
+00:10:49.540 thay đổi những trạng thái đóng bắt được
+00:10:50.980 dứt điểm bên dưới của Thanh Lương Kim
+00:10:52.960 này chính đầu tiên thành anh và thanh
+00:10:54.790 trượt của chúng ta làm thanh kim loại
+00:10:55.900 nằm ngang đây thì cái điểm chốt của
+00:10:58.240 chúng ta nằm ở vị trí này thì ở trường
+00:11:00.949 cái tan chuyện này thì nó sẽ chốt vào
+00:11:02.600 nhớ khi thành được kim nâng lên đây sẽ
+00:11:04.759 chốt là cái thằng giờ đây là đối với cái
+00:11:07.369 hình ảnh thực tế thì vé cái dàn trải ra
+00:11:09.470 như thế này
+00:11:11.110 thì và nguyên lý làm việc thì như sau em
+00:11:14.360 nhìn vào đây thì ví dụ khi thấy đóng cửa
+00:11:16.129 thì chính cái nhờ vào cái móc cánh cửa
+00:11:20.209 tác động vào thị trường em thấy là anh
+00:11:22.910 triệu chứng này khi tan chợ được này thì
+00:11:26.029 đầu tiên như ban đầu đồ nguồn điện được
+00:11:27.379 cấp vào Biên Thành anh thì viên thạch
+00:11:29.269 anh này sinh nhật đây nó viên điện trở
+00:11:31.369 nhiệt lúc này là sinh nhiệt và hơ nóng
+00:11:34.339 và các thanh niên kim thì chúng ta thấy
+00:11:35.569 là thành nhắn tin nâng lên thì tan Kim
+00:11:38.239 đăng lên đăng lên thì đồng nghĩa với đầy
+00:11:40.819 chốt là anh chợt thì khi chốt và thanh
+00:11:42.589 truyền thì chúng ta thấy là cái móc cửa
+00:11:44.749 của thầy đang được hóa chặt quá chặt ở
+00:11:47.269 điểm nào ở cái cái năm sau Và ta thì
+00:11:50.209 không kéo được này Bây giờ tôi quá bất
+00:11:52.220 an thường thì gái lên sau tôi không mở
+00:11:53.449 được và kéo thẳng ra thì đang bị mắc dứa
+00:11:56.059 thân của cái thân công tắc do đó đã
+00:11:59.149 không cho phép là mở cửa ế quá trình
+00:12:00.840 hoạt động Đồng thời khi đóng tiếp điểm
+00:12:03.300 thì lúc này người có cấp nguồn đi về bo
+00:12:05.970 mạch và đây chính là nguồn này người ta
+00:12:07.710 được gọi là nguồn cấp trước cho các máy
+00:12:09.810 tài
+00:12:11.810 nguồn cấp trước cho mạch này và nguồn
+00:12:14.850 cấp trước và cho toàn bộ cái tay thì nên
+00:12:18.120 là cửa ra không đóng thì em nhìn vào đây
+00:12:20.280 cửa Nếu mà trường hợp 1 là cửa hương
+00:12:22.020 đồng mỏ còn ấy không tác động lên thanh
+00:12:24.690 truyền do đó dù Thanh Lương Kim của em
+00:12:27.060 có được cấp nguồn nâng lên những chốt
+00:12:29.070 của chúng ta nó chốt là diện đóng kịch
+00:12:30.960 Chốt vào thanh trượt do đó là tiếp điểm
+00:12:33.840 của em không thể đóng được cửa không
+00:12:35.910 đóng được cửa thì không cấp nguồn cấp
+00:12:37.650 trước cho toàn bộ tài khi đó toàn bộ có
+00:12:40.980 thể tải của ta đã mất nguồn bật nguồn
+00:12:42.900 cấp trước và không thể làm việc được như
+00:12:44.280 đen sáng và máy không hoạt động là như
+00:12:46.110 thế hoặc là hỏng công tắc cũng sẽ xảy ra
+00:12:48.210 hiện tượng là đèn sáng và mái Không có
+00:12:49.620 độc không cho phép mở cửa
+00:12:52.130 nhưng khi giặt xong đây khi giặt xong
+00:12:55.110 thì một trong hai công tắc này do mấy
+00:12:56.910 mạch điều khiển ta là hết chương trình
+00:12:58.110 Người ta lập trình hết chương trình được
+00:12:59.340 bắt nguồn cho sau khi ngắt nguồn vào cho
+00:13:01.900 viên gạch anh thì chúng ta thấy này
+00:13:04.320 làm cho viên gạch Anh buồn ngủ của chúng
+00:13:06.760 ta là không có nguồn thì không sinh
+00:13:08.440 nhiệt nữa mà không sinh nhiệt nữa thì
+00:13:10.060 tan đường kia mày làm việc từ từ ko
+00:13:12.820 xuống
+00:13:15.660 từ từ Coi xuống thì kéo ngang chốt rời
+00:13:19.030 khỏi thanh trượt
+00:13:20.940 khi kéo chốt rời khỏi thanh trượt thì
+00:13:23.770 lúc đó mới cho phép mở cửa do đó đi
+00:13:26.380 người ta được gọi là công tắc đóng mở
+00:13:28.510 trọng và lúc này đường là thứ ba đến năm
+00:13:32.560 phút sau khi giặt xong thì tao mới phép
+00:13:34.570 mới cho phép mở cửa là chính là nhờ vào
+00:13:37.390 cái canh nướng Kim lúc này nguội thì nó
+00:13:40.690 sẽ kéo Chốt rồi phải tăng trưởng mới cho
+00:13:42.430 phép cho nó mở cửa
+00:13:51.540 đấy là đối với nguyên lý
+00:13:55.260 các em về đi về nguyên lý Đặc biệt này à
+00:14:00.019 Từ khi ta bật nguồn
+00:14:02.110 lúc này viên thạch anh có dòng điện chạy
+00:14:07.429 qua lúc này viên Thành anh có dòng điện
+00:14:10.939 chạy qua
+00:14:13.300 làm viên Thành anh nóng lên
+00:14:15.879 làm viên Thành anh nóng lên
+00:14:24.459 tác động lên tan được kim làm tan lớn
+00:14:27.619 kim
+00:14:30.249 nhằm tác động
+00:14:33.100 lên thành phần kem và cũng làm thành kim
+00:14:35.869 nóng lên đi thanh lớn kim nóng lên từ từ
+00:14:39.799 được uốn cong thì chúng ta đã biết thật
+00:14:41.689 là thành đáng tin thì đang được cấu tạo
+00:14:43.160 bởi hai thành phần kim loại có sự giãn
+00:14:46.879 nở vì nhiệt khác nhau để khi có nhiệt độ
+00:14:49.579 tác động
+00:14:50.410 sẽ uốn cong theo muốn một chiều
+00:14:54.639 từ từ
+00:14:56.350 được uốn cong lên à
+00:15:00.030 A và chốt ở thanh trượt đồng thời đóng
+00:15:04.260 tiếp điểm then chốt ở thành trường Đồng
+00:15:06.810 thời đóng tiếp điểm cấp nguồn cho bộ
+00:15:09.840 điều khiển
+00:15:11.090 cấp nguồn cho bộ điều khiển để thực hiện
+00:15:14.610 các chế độ làm việc để thực hiện các chế
+00:15:18.600 độ làm việc
+00:15:22.540 [âm nhạc]
+00:15:25.550 thì đây chính là cái nguồn cấp trước thì
+00:15:28.200 buổi sau chắc là sang phân tích là mạch
+00:15:29.550 điện ta sẽ thấy đây chỉ nên nguồn cấp
+00:15:31.050 trước toàn bộ cho tất cài
+00:15:35.150 cho bộ điều khiển
+00:15:39.080 để thực hiện chế độ làm việc và khi máy
+00:15:41.910 giặt kết thúc
+00:15:44.240 lúc này mạch điều khiển lúc này mạch
+00:15:47.640 điều khiển xe bắt nguồn cung cấp cho
+00:15:50.040 Việt Thạch Anh mắt nguồn cung cấp chủ
+00:15:52.560 quyền thành anh và sau từ 3 cho đến năm
+00:15:56.160 phút
+00:15:56.960 thành lượng tim muộn
+00:16:00.010 khi kéo Chốt rồi phải tan trường thì lúc
+00:16:02.650 này chúng ta mới mở được cửa kéo Chốt
+00:16:05.530 rồi phải thanh truyền thì lúc này tao
+00:16:07.330 mới mở được đấy chính là
+00:16:12.150 nguyên lý làm việc
+00:16:15.480 đây chính là nguyên lý làm việc đối với
+00:16:17.970 công tác an toàn
+00:16:24.270 vậy bây giờ đối với công tắc an toàn khi
+00:16:28.000 hư hỏng thì máy giặt có những cái biểu
+00:16:30.640 hiện gì máy giặt có những biểu hiện gì
+00:16:33.220 và cách đo kiểm tra và khắc phục đối với
+00:16:36.040 loại công tắc này thì như Nam bây giờ
+00:16:39.720 chúng ta sẽ quay lại đối với cấu tạo
+00:16:45.060 đầu tiên
+00:16:47.310 nếu là công tắc
+00:16:49.470 cơ nhưng mà không tắt máy giặt cửa trên
+00:16:52.840 thì thứ nhất là nếu là công tắc từ thì
+00:16:54.820 xảy ra hiện tượng báo lỗi
+00:16:56.550 đối với công tác cơ thì như chúng ta đã
+00:16:59.800 biết ý an toàn trong nhà an toàn để cậu
+00:17:02.689 bắt thì nên là chiếc Ống sắt một số là
+00:17:04.760 vẫn cho phép mà nằm ở cường
+00:17:07.209 và đồng thời là rất bình thường nhưng
+00:17:09.919 đầy cho mắt báo lỗi
+00:17:11.829 để hai loại tóc này thì chúng ta chỉ cần
+00:17:14.209 được giảm Ví dụ như công tắc từ thì em
+00:17:15.799 sẽ lo tiếp điểm mình rất là đưa cái nắp
+00:17:18.409 cửa hoặc là dùng viên Lâm Tâm kiểm tra
+00:17:20.569 mới tiếp điểm
+00:17:22.659 nhiều tiếp điểm của tao đóng tốt ở trong
+00:17:24.859 mạch của chúng ta đến lúc nóng nó không
+00:17:26.359 cần kiểm tra để từ tính của cái nam châm
+00:17:28.159 có thể từ tính của nam châm của Star
+00:17:30.169 đang bị chém
+00:17:32.020 đối với công tác cơ
+00:17:34.450 thì đối với công tác cơ thì được gắn ở
+00:17:37.070 phía sau bản này cánh cửa thì thứ nhất
+00:17:38.990 là gồm cái tiếp điểm thì chúng ta cũng
+00:17:40.669 sẽ đóng cửa là đó thương mại
+00:17:42.909 đối với công tắc máy giặt cửa
+00:17:45.429 trước lồng ngang
+00:17:47.860 thì lúc này trước tiên là chúng ta sẽ
+00:17:50.750 dùng đồng hồ vạn năng và chúng ta sẽ đó
+00:17:52.580 có 3 chân và bây giờ nó sẽ hỏng và các
+00:17:54.890 dạng là một này
+00:17:57.460 Đầu tiên là nó hỏng các dạng à ít nhất
+00:18:00.690 là với viên Thành anh
+00:18:02.239 điểm không tiếp xúc thì lúc này đèn đèn
+00:18:05.039 báo nguồn sáng nhưng mà mày không hoạt
+00:18:06.929 động và bị không có nguồn cấp cho bo
+00:18:08.340 mạch để cấp trước cho toàn bộ cộc tay
+00:18:09.869 thứ hai là cửa của chúng ta đóng không
+00:18:12.269 không chặt do là nghỉ rồi chúng ta đóng
+00:18:15.330 không chặt thì cũng xảy ra hiện tượng là
+00:18:16.590 đèn sáng không hoạt động một số trường
+00:18:19.019 hợp là
+00:18:20.599 chắc tìm thấy tiếp điểm thì giặt xong
+00:18:23.399 thì không kéo được chốt xuống bỏ vào lò
+00:18:24.779 xo này của chúng ta nó quá căng nó đầy
+00:18:26.489 nó kẹt luôn ghế thanh trượt kẹp chặt vào
+00:18:28.649 cái chốt này không rút chốt không kéo nó
+00:18:30.899 xuống nhưng không cho phép là mở cửa đấy
+00:18:33.359 là đối với hư hỏng
+00:18:38.149 với lòng thì công tắc máy giặt cửa trên
+00:18:42.049 hư hỏng máy giặt sẽ có biểu hiện như máy
+00:18:45.960 không giặt hoặc là không bắt
+00:18:48.589 biểu hiện thứ hai
+00:18:51.109 đối với công tác của máy giặt cửa trước
+00:18:53.369 lồng ngang
+00:18:54.379 ít hư hỏng máy con đi biểu hiện thứ nhất
+00:18:57.239 là chỉ đèn sáng nhưng mày không hoạt
+00:18:58.859 động hoặc à ăn dặm rú xong nhưng không
+00:19:02.950 cho phép là mở cửa
+00:19:06.300 không cho phép thì tao mở cửa
+00:19:16.770 cái cách kiểm tra
+00:19:21.000 thì đối với công tác máy giặt cửa trên
+00:19:24.210 chúng ta chỉ cần đo không mạch ta chỉ
+00:19:28.210 cần đo thông mạch
+00:19:30.030 khi chúng ta đóng cửa
+00:19:32.340 Còn đối với công tắc máy giặt cửa rồi
+00:19:35.260 trước lồng ngang thì chúng ta sẽ đòi như
+00:19:38.170 sau là chúng ta sẽ dùng đồng hồ vạn năng
+00:19:42.370 để thằng nọ ôm đò vào ba chân của công
+00:19:45.280 tác thì có giá trị điện trở thì đây
+00:19:48.010 chính chạy điện trở của viên Thành Anh
+00:19:49.150 chỉ gạch chân nơ và chân lo Sau đó là
+00:19:52.060 chúng ta sẽ cấp nguồn điện bằng điện áp
+00:19:53.380 trên thân đồng thời lấy tay này thì tan
+00:19:55.300 chuyện này để cho chốt trên thị trường
+00:19:56.620 chung với
+00:19:57.780 chốt ở ý của công tắc
+00:20:01.450 tìm một lúc sau thì thành được yên này
+00:20:03.890 nóng để nâng chốt lên rồi chốt là thanh
+00:20:05.750 trượt thì lúc này thì ta sẽ do là công
+00:20:07.760 tắc đóng bảo chậm Chính vì vậy thì rút
+00:20:09.440 nguồn ra mà nói nhanh chân C với một
+00:20:12.140 trong hai chân cấp nguồn thì C đo với n
+00:20:15.520 là chúng ta sẽ làm in nên thống mạng và
+00:20:18.500 C đo vẽ n chúng ta sẽ có giá trị điện
+00:20:20.510 trở của biến thành canh Đây chính là đối
+00:20:23.090 với kiểm tra
+00:20:24.530 [âm nhạc]
+00:20:28.870 thì đối với công tác máy giặt cửa trên
+00:20:35.680 hiến pháp chỉ cần đo thông mạch còn đối
+00:20:37.940 với công tác máy giặt cửa trước lồng
+00:20:39.110 ngang thì ta sẽ đo điện trở bàn chân và
+00:20:42.860 nếu có 3 cặp chân và có giá trị điện trở
+00:20:45.670 thì lúc này ta sẽ cấp nguồn
+00:20:48.430 vào hai chân đó sau đó để anh chưa
+00:20:52.900 rồi đo đẩy thanh trượt
+00:20:57.100 đo chân à
+00:21:00.029 số
+00:21:00.619 còn lại sẽ đo chân còn lại với hai chân
+00:21:05.549 cấp nguồn
+00:21:06.379 và nếu Kim lên trong mạch
+00:21:09.919 nếu cái lên bọn ta là cái lên trong mạch
+00:21:14.210 là công tác tốt
+00:21:20.029 Kim lên thông mạch là công tắc tốt
+00:21:25.399 về thay thế
+00:21:27.349 khi thay thế công tắc bí hỏng thì ta
+00:21:31.080 phải thay thế công tác mới có cái hình
+00:21:33.989 dạng kích thước tương đương và nếu không
+00:21:36.779 có công tắc để thay thế thì chúng ta có
+00:21:38.460 thể nói tắt Nhưng nhớ là các em nối tắt
+00:21:41.909 về
+00:21:43.099 đặt chân tiếp điểm với nhau và khi nói
+00:21:46.379 tắt để cặp chân Dứt điểm thì không còn
+00:21:47.969 tính chất an toàn
+00:21:49.609 mất cái tình trạng an toàn nhưng trên
+00:21:52.529 thị trường thì cũng có một số loại nung
+00:21:53.820 sắc thì lấy ví dụ là đối với một số công
+00:21:56.549 tác 4 chân thì đây người ta được gọi là
+00:21:58.559 công tắc đóng
+00:22:00.010 chú trọng là đóng mở nhanh xin lỗi đóng
+00:22:02.260 mở nhanh thì khi đóng mở nhanh thì người
+00:22:04.960 ta còn sử dụng đó là sử dụng cấp điện
+00:22:07.030 của cuộn dây rút lõi sắt từ và khi hút
+00:22:10.810 Nói thật từ thì tác động lên một cơ cấu
+00:22:12.520 sai
+00:22:13.740 giống một cái nút bấm và tự lạ thì ở tác
+00:22:16.750 động lên một cơ cấu sai ý khi tác động
+00:22:19.030 lên của cơ cấu sai thì tác động vào hệ
+00:22:22.270 thống tiếp điểm
+00:22:23.520 cưỡng bức cho mấy cái điểm thì người ta
+00:22:26.320 cứ cho cái điểm thì cứ cái Điểm thì lúc
+00:22:29.110 này nó mình kéo mở cửa ngang khi mở cửa
+00:22:31.600 chậm thì riêng đối với loại này thì
+00:22:32.980 chúng ta không nói tắt được một số loại
+00:22:35.860 dòng máy đời cao để cả ba chân cho tao
+00:22:38.440 không nói tắt được bởi vì là một số dòng
+00:22:40.720 máy đời cao thì lấy ví dụ như Iraq Nếu
+00:22:43.810 mà em nói tắt thì em sẽ xảy ra một cái
+00:22:46.180 tình trạng là khi nói tắt mà cứ máy về
+00:22:48.720 bấm máy là gì là sẽ tự chuyển về chế độ
+00:22:52.900 em có nghĩa là không báo lỗi nhưng không
+00:22:55.450 cho phép máy hoạt động và kết thúc
+00:22:57.040 chương trình thì người ta lập trình ở
+00:22:59.200 trong này là nếu ở tốc độ là cao máy
+00:23:03.260 hoạt động với tốc độ cao thì có thể gây
+00:23:05.420 ra bung cửa và mừng cửa thì rất là nguy
+00:23:07.340 hiểm cho người sử dụng nên là người ta
+00:23:09.440 cũng không cho phép nói tắt và đứng cáo
+00:23:11.630 là chúng ta không nên là diện nên là anh
+00:23:14.660 cũng tạm Mới bây giờ vẫn tư bán rất là
+00:23:17.060 nhiều thì về lưu ý và trên thực tế là có
+00:23:19.790 loại ông đã bốn chân
+00:23:24.430 nếu các loại công tắc này
+00:23:26.650 thì chúng ta cần phải thay đúng thùng
+00:23:28.610 loại Nếu chúng ta sai sai
+00:23:32.380 cái máy có thể không làm việc và nếu mà
+00:23:35.330 ta thay mà không may mà đối với loại bốn
+00:23:38.060 chân mà tặng nối tắt mà không may là nói
+00:23:40.160 tắt và cặp chân cấp nguồn cho cuộn dây
+00:23:41.750 để cưỡng mức thì có thể gây dân đổ pho
+00:23:44.720 có thể chết đi xử lý ý khi công tác Nếu
+00:23:47.870 hỏng Chúng ta không nên nói tắt ông nội
+00:23:50.330 tắc đường sau đây lại chúng ta sang ăn
+00:23:53.030 Thạch Thành
+00:23:54.630 đề kiểm tra
+00:23:56.970 để xác định
+00:23:58.490 các trận đấu điện đối với công tác an
+00:24:02.549 toàn trong máy giặt thì chúng ta đã biết
+00:24:06.169 công tắc an toàn có nhiệm vụ an toàn cho
+00:24:10.590 người sử dụng
+00:24:11.870 sau khi máy đang làm việc để đảm bảo cho
+00:24:16.490 người sử dụng không xảy ra tự do trong
+00:24:20.000 các quá trình quay của mâm của lông
+00:24:23.320 thì đối với
+00:24:25.390 phần học lý thuyết chống Đàn đã đi tìm
+00:24:28.550 hiểu đối với
+00:24:31.420 cho máy giặt cửa trên lồng đứng thì
+00:24:35.530 chúng ta đang sử dụng một số các loại
+00:24:38.350 công tắc thì chiếm chủ yếu là công tắc
+00:24:41.860 cơ và công tác từ đối với công tắc cơ
+00:24:45.970 Đây
+00:24:46.620 là công tắc đang được gắn ở phía sau bản
+00:24:50.200 lề của cánh cửa thì khi mà chúng ta đóng
+00:24:53.920 cửa thì tác động vào công tác để đóng
+00:24:56.650 tiếp điểm
+00:24:57.390 thì loại công tắc này thì được cấu tạo
+00:25:00.670 chỉ gồm một tiếp điểm
+00:25:02.430 và cần chống rung
+00:25:04.830 để kiểm tra lại công tác này
+00:25:07.290 thì chúng ta dùng đồng hồ vạn năng chúng
+00:25:12.100 ta sẽ dùng đồng hồ vạn năng và để thằng
+00:25:14.920 đo
+00:25:15.900 để thằng đo
+00:25:18.390 X1 ôm đo thông mạch
+00:25:21.780 sau đó
+00:25:24.999 khi
+00:25:25.799 chúng ta cũng chỉnh 2 que về vị trí 0
+00:25:29.480 ạ và chúng ta đo và hai chân
+00:25:32.110 đấu điện có tác động đóng cánh cửa thì
+00:25:35.960 thấy sẽ đóng cánh cửa bằng thức là thấy
+00:25:37.520 lấy tay để gạt gạt lên thì thấy sẽ kiểm
+00:25:41.270 tra
+00:25:43.470 Ừ thì nếu tiếp điểm Kim lên
+00:25:45.720 Ừ thì đây chính là kết điểm.điểm tốt
+00:25:48.150 phải bỏ ra làng áp lực à à ở đây chính
+00:25:52.080 là đối với công tác cơ còn cần chống
+00:25:56.429 rung này thì chúng ta đã biết là khi
+00:25:59.669 thông chứ
+00:26:01.410 khi
+00:26:03.230 tác động vào cần chống rung thì sẽ làm
+00:26:07.620 cho cặp thí điểm K nằm ở và lúc này máy
+00:26:09.690 sẽ dừng bắt và nếu mà phải đóng mở liên
+00:26:12.600 tục cũng sẽ xảy ra nếu cái muống là một
+00:26:14.910 là không bắt hay là máy xe chuyển lên
+00:26:17.700 chế độ vú đang về sổ bắt là mười mười
+00:26:22.170 phút vắt đến 7 phút thì bây giờ này lên
+00:26:25.320 khoảng 22 phút cấp nước tiếp để rút Ơi
+00:26:27.150 của nào loại công tắc thứ hai là công
+00:26:30.570 tắc từ công tác từ thì chúng ta được cấu
+00:26:34.050 tạo của cặp tiếp điểm và lúc này để đóng
+00:26:36.780 được cái điểm này thì cần phải tư trương
+00:26:38.400 và từ trường đó là nam châm vĩnh cửu
+00:26:40.260 công tắc này có thể nằm tách rời hoặc
+00:26:42.690 một số loại thì được tích hợp luôn ở
+00:26:44.760 trên cái bo mạch mà Thì chúng ta nhìn
+00:26:46.470 thấy trên một bo mạch thì có một cái
+00:26:48.990 công tác phải công tắc từ
+00:26:51.500 để kiểm tra
+00:26:54.560 thì đối với loại không tác này vì thế
+00:26:57.550 chúng ta cũng đó cái ví dụ như thấy rõ ở
+00:27:00.280 trên cái miệng mạch thì chúng ta sẽ đo
+00:27:02.460 đo và hai chân hai tiếp điểm của việc
+00:27:05.410 công tác ở
+00:27:09.159 em thấy Shadow vào hai chân kiếm điểm
+00:27:11.109 của công tác thì các em nhìn bây giờ
+00:27:13.119 thầy
+00:27:14.009 cảm ơn đây
+00:27:16.259 sau đó hãy dùng một viên nam châm
+00:27:20.220 thấy tác động đóng cửa vào để các em
+00:27:22.989 nhìn này chúng ta chỉ cần đóng cửa thì
+00:27:25.389 lúc này dùng từ trường đã đóng tiếp điểm
+00:27:28.799 chính như vậy
+00:27:30.690 thì nhấn viên Lâm Tâm này thì thường sẽ
+00:27:35.080 được gắn ở mét cánh cửa do đó có rất
+00:27:38.649 nhiều cái máy giặt thì chúng ta thấy là
+00:27:41.889 khi mà chúng ta mở cánh cửa mà không may
+00:27:44.950 Nó nó bị đóng vào với cái tư thế ở trên
+00:27:49.479 cao này rồi nó đập xuống thì gây ra các
+00:27:51.639 hiện tượng là bị rơi mất tiền Việt Nam
+00:27:53.289 Châm thì máy giặt cũng sẽ xảy ra hiện
+00:27:55.179 tượng báo lỗi và ống phóng giặt cái đấy
+00:27:57.519 là đối với công tác tư và đối với công
+00:28:00.639 tác từ và công tác cơ khí hư hỏng thì
+00:28:03.700 chúng ta có thể nói tắc được nhưng mất
+00:28:05.379 tính chất về về an toàn Ừ thế công tắc
+00:28:08.549 từ này thì không chỉ ở trong máy giặt là
+00:28:09.990 chúng ta cũng đã gặp ở một số cái thiết
+00:28:12.450 bị khác như bình nước nóng hay là trong
+00:28:14.880 điều hòa đối với
+00:28:16.640 sao ở trong cái đường điều khiển nguồn
+00:28:20.610 để cho bơm nước bơm cái nước nhưng trong
+00:28:25.110 cái máy điều hòa âm trần áp chân
+00:28:27.559 và bây giờ thì chúng ta xanh cái loại
+00:28:30.870 công tắc thứ ba thì trên bàn của thầy
+00:28:34.350 thì đây là công tắc của máy giặt cửa
+00:28:37.020 trước lồng ngang loại công tác này thì
+00:28:39.450 có loại 3 dây có loại 3 giây có loại 3
+00:28:43.799 giây và có loại bốn giây thì loại 3 giây
+00:28:47.220 thì chúng ta còn được gọi là công tắc
+00:28:50.370 đóng mở chậm và loại 4 dây là loại công
+00:28:55.049 tắc nóng bỏng anh
+00:28:56.540 loại công tắc này thì một số máy giặt
+00:28:58.980 cửa trên lồng đứng đã được tích hợp thì
+00:29:02.040 chúng ta cũng đã đi tìm hiểu là một số
+00:29:04.169 loại máy khi về chế độ mắt thì công tắc
+00:29:06.870 của em cũng thích hợp giống với công tác
+00:29:09.580 của máy cửa trước đang bỏ Nhiệm vụ là
+00:29:11.470 chốt cánh cửa mà không cho phép vào thăm
+00:29:13.390 và cược Ví dụ như Toshiba và na Hãy ghi
+00:29:16.630 những cái dòng máy mà Inverter là một số
+00:29:19.480 dòng máy thường đợi cao cũng đang sử
+00:29:21.370 dụng lại công tác này để kiểm tra đối
+00:29:23.620 với công tác này
+00:29:25.140 thì chúng ta kiểm tra xong thì đầu tiên
+00:29:28.860 chúng ta sẽ
+00:29:31.710 đối với công tác 3 chân thì đây là công
+00:29:34.809 tắc của Iraq thì thay sẽ hướng dẫn cho
+00:29:37.240 ra kiểm tra đôi ba chân thì chúng ta đã
+00:29:40.210 biết được là sử dụng nguồn 220V trong đó
+00:29:45.010 có chốt cửa thì nên là loại công tác này
+00:29:47.080 thì tại sao trong quá trình hoạt động
+00:29:48.490 thì chúng ta không mở được cửa và khi mà
+00:29:50.740 hoạt động xong mày vắt xong từ 3 đến 5
+00:29:54.399 phút
+00:29:55.830 mới cho phép mở cửa thì bên trong này có
+00:29:59.909 viên thạch anh
+00:30:02.220 điện trở nhiệt để cấp nguồn cho thành
+00:30:05.470 lớn kim tạo ra cơ cấu khi đóng mở sốt và
+00:30:09.169 chốt là cái thằng chuyện này thì chốt là
+00:30:10.940 cái tan chuyện này tình ca thì chúng ta
+00:30:12.559 sẽ không không mở được cửa thì đây chúng
+00:30:14.570 ta đi chốt là thành chân thì
+00:30:16.870 như bệnh chúng ta sẽ lo và kiểm tra như
+00:30:21.080 sau khi dùng đồng hồ vạn năng để tăng
+00:30:23.299 ích mười
+00:30:24.520 để ăn ít người
+00:30:28.780 lo vào mà chân
+00:30:32.200 thì nếu có 1 cặp giá trị điện trở thì
+00:30:35.090 đây chính là chân cấp nguồn vào điện trở
+00:30:38.030 nhiệt đó là viên thạch anh ở bên trong
+00:30:40.240 thì hai chân bên ngoài này hay chắc nó
+00:30:42.980 lại trận 3 và dân số năm hai chân ngoài
+00:30:47.370 kể từ khi công tác đóng thì sẽ cấp nguồn
+00:30:49.950 chân còn lại sẽ cấp một nguồn cho chân
+00:30:52.920 còn lại đến đưa về mạch điều khiển sẽ
+00:30:55.620 cấp trước cho cái tài thì ở trên phần
+00:30:58.110 học lý thuyết chúng ta đã không thích
+00:30:59.580 của mạch điện thì thầy đã hướng dẫn thực
+00:31:01.110 ra tất cả các vụ Tải đều đi qua công tác
+00:31:03.420 Do đó khi công tác không thì chỉ có đèn
+00:31:05.460 sáng toàn bộ các đề tài không có động
+00:31:07.980 hoặc là đối với hỏng và các trường hợp
+00:31:10.260 là
+00:31:12.010 là công tắc giặt xong nhưng không cho
+00:31:16.360 phép là mở cửa phải hoặc là cái cả Không
+00:31:18.940 làm việc thì chúng ta phải biết cách
+00:31:20.530 kiểm tra thì bây giờ để kiểm tra xem là
+00:31:23.730 tiếp điểm có đóng tốt hay không Bây giờ
+00:31:27.190 thì
+00:31:28.440 tiến hành thì cấp nguồn vào hai chân có
+00:31:31.270 giá trị những trận khi chúng ta cấp
+00:31:33.310 nguồn vào hai chân có giá trị điện trở
+00:31:34.510 theo đúng điện áp những chân thân là 220
+00:31:37.240 v a Ừ đúng điện áp trên nhân
+00:31:41.230 hình ảnh chúng ta nhìn vào đây thì điện
+00:31:43.240 áp là 220 V tần số 50 Hz
+00:31:45.900 chúng ta cấp nguồn
+00:31:48.510 khi cấp nguồn thì chúng ta phải gặp
+00:31:51.059 thanh trượt như em không gạt thanh trượt
+00:31:53.950 thì cái chốt này của chúng ta không chốt
+00:31:55.360 được lên thì chúng ta cũng không thể
+00:31:56.320 kiểm tra được cái điểm tâm với các thanh
+00:31:57.850 trượt còn để chúng ta không phải dùng
+00:32:00.820 tay thì chúng ta có thể là
+00:32:03.179 cài cái thanh trượt ở đây thay cho là
+00:32:05.919 chúng ta đóng cửa thì khi chốt lần này
+00:32:08.169 lên rồi thì chúng ta nhìn cái chốt của
+00:32:10.150 thầy đang được đẩy lên thấy có thể là
+00:32:12.250 đánh dấu và cho mọi người mọi người thấy
+00:32:14.679 là cái chốt để cho mọi người dễ nhìn đây
+00:32:17.500 đây chính là bị chốt
+00:32:20.230 Ừ cái chốt đơn này lên thì kể cả là thầy
+00:32:23.860 có tắt nguồn phải rút ra thì hoàn toàn
+00:32:27.460 là diện hoàn toàn là tan trận ra chưa
+00:32:29.799 được Trận do đó là chúng ta sẽ đó nhanh
+00:32:33.160 chân còn lại với một trong hai trăm các
+00:32:35.530 nguồn chân còn lại này chân ở rứa phải
+00:32:38.080 sẽ đưa 11 trong hai chân cấp nguồn
+00:32:40.260 thì nếu mà kim lên trong mạch là tiếp
+00:32:43.240 điểm của thầy tốt nhưng mà kim không lên
+00:32:44.950 đây là cái điểm của thầy làm đi học viên
+00:32:47.230 thạch anh thì còn tốt những tiết kiệm
+00:32:50.620 học phải kiểm tra lại
+00:32:53.340 ở đồng hồ vẫn ok đó là
+00:32:57.560 ảo này thì kiểm tra ở một cái công tác
+00:33:00.990 của LG để cho mọi người quan sát để mọi
+00:33:04.290 người nắm được à
+00:33:12.160 ở Ai Cập này có giá trị điện trở này
+00:33:14.760 phải cấp nguồn vào phải sẽ kiểm tra
+00:33:24.150 để mọi người biết như thế nào là tốt là
+00:33:27.040 như nào là
+00:33:28.260 gạt này mày sẽ gặp à
+00:33:32.390 em gạt anh chất và chúng ta quan sát
+00:33:35.549 Ừ vậy thì nó lại lên rồi còn Chốt rồi
+00:33:37.739 thì chúng ta sẽ cắt nguồn
+00:33:42.230 ngắt nguồn thì thấy đo nhanh chân còn
+00:33:44.429 lại là chân số 1
+00:33:46.360 Chỉ với một trong hai chân cấp nguồn thì
+00:33:49.720 có một cặp Kim Liên thông mạch thì đây
+00:33:51.160 là tiếp điểm mà thầy như vậy công tác
+00:33:53.080 này có thấy tốt thì đấy là cách kiểm tra
+00:33:56.700 lại chân số 1 là chân điện áp ra quay về
+00:34:00.700 bo mạch để cấp nguồn cho toàn bộ cái tay
+00:34:02.820 và chân
+00:34:04.530 ba là chân dây nguồn cấp trước và dân số
+00:34:09.010 2 đến danh còn điều kiện đi qua cặp tiếp
+00:34:10.719 điểm trong công tác đối với loại công
+00:34:12.489 tắc mà bốn chân thì đây là loại công tác
+00:34:15.280 đóng mở nhanh thì vừa Các vừa dựa vào
+00:34:19.800 điện trở nhiệt ở bên trong để đẩy chốt
+00:34:24.130 chốt là thanh trực và đồng thời tác động
+00:34:26.170 đóng các điểm và đóng bờ còn phụ thuộc ở
+00:34:29.770 cuộn dây bên trong này sẽ không cuộn dây
+00:34:31.840 sinh đến từ trường để hút và tạo ra một
+00:34:34.300 cơ cấu lật di chuyển để lúc này sẽ cứ
+00:34:38.350 mức đã đóng mở thì bây giờ thầy cũng sẽ
+00:34:41.679 lo cho khi chúng ta đang có chân hai
+00:34:45.030 trận 3.4.5 cái đó lần lượt Để đã biết
+00:34:48.600 này
+00:34:49.719 Ừ thứ nhất 2013 thời gian quá trời
+00:34:53.909 24 có chờ 250
+00:34:58.119 a34 con trở ở
+00:35:00.750 từ 3,5 không
+00:35:03.330 A và 40 50 như vậy trong này của thầy
+00:35:07.110 chỉ có 2 3 4 thì đang có cái sự liên kết
+00:35:09.780 là quá chậm thì trong đó
+00:35:13.670 chúng ta sẽ có điện trở
+00:35:16.880 thì chúng ta sẽ có một cái Dinh chung
+00:35:18.810 thì chúng ta nhìn vào hoặc là theo sơ đồ
+00:35:21.060 thì ở trên lớp mà phần học lý thuyết
+00:35:22.800 trình thầy đã phân tích rồi Hoặc là
+00:35:24.330 chúng ta nhìn vào đây thì ta thấy là cái
+00:35:26.010 dây chung là dây số 4 này đang có màu
+00:35:27.690 chân riêng biệt màu sắc riêng biệt và
+00:35:31.710 lúc này
+00:35:32.660 42 có trả lớn của viên thạch anh bốn với
+00:35:37.020 ba là cuộn dây thì sẽ có trẻ nhỏ hơn
+00:35:39.930 khi vá 45 là kiếp điện Bây giờ thầy sẽ
+00:35:43.559 cấp nguồn bốn là chân dung thầy sẽ cấp
+00:35:47.280 nguồn và bốn với hai trước
+00:35:50.510 thì để chúng ta sẽ phân tích và chúng ta
+00:35:53.970 cũng Quan sát các em quan sát Chốt rồi
+00:35:55.530 cho thành
+00:35:56.359 thì cấp nguồn thì sẽ gạch áp cấp nguồn
+00:36:00.410 thì chúng ta thấy là chốt không sẽ được
+00:36:02.809 sau một cái thời gian chốt không sẽ được
+00:36:04.920 đẩy lên nhờ vào viênthanh canh của chúng
+00:36:07.380 ta cũng sinh nhiệt và khi sinh nhật thì
+00:36:09.780 cũng sẽ
+00:36:11.120 chị sẽ tác động
+00:36:12.960 Anh đóng
+00:36:16.190 thế
+00:36:16.990 nhưng đối với các trường hợp này thì nó
+00:36:19.640 sẽ đóng không hết
+00:36:21.849 vào lúc này
+00:36:23.980 nó rất lâu do đó trong một số máy giặt
+00:36:29.000 thì chúng ta thấy là người ta sẽ cấp
+00:36:31.490 điện vào cuộn dây và tác động vào để
+00:36:33.740 nóng chế điểm ta sẽ nhìn thì sẽ tác động
+00:36:37.940 vào vào cái dây nguồn ở chân số số 2 thì
+00:36:43.400 trong những máy giặt thì lúc này là
+00:36:45.140 không phải là các nguồn liên tục mà dựa
+00:36:47.839 vào cuộn dây thì chúng ta thấy là cấp
+00:36:49.400 nguồn thế này tác động vào cái thì chốt
+00:36:51.980 là nóng tác động lần nữa thì nhắn
+00:36:57.460 lại thì bây giờ khi nó đóng cái điểm rồi
+00:37:00.650 thì thấy sẽ lo anh sẽ lo chân số năm với
+00:37:04.280 chân số 4 Cặp 54 nếu tiếp điểm của thầy
+00:37:07.460 tốt
+00:37:08.740 là công tắc em còn ăn tốt
+00:37:12.200 tiếp điểm trên nên thông mạch lấy chính
+00:37:14.550 là công tác tốt
+00:37:16.730 Ừ cái đấy là đối với công tắc trong
+00:37:21.100 máy giặt loại công tắc bốn chân
+00:37:24.450 à Còn nếu mà chúng ta đó bốn với 3 và 4
+00:37:27.900 với hai mà không có trở thì bên trong
+00:37:29.730 này đang nghĩ đi học còn đối với trường
+00:37:32.460 hợp mà còn rất nhiều trường hợp mà mạch
+00:37:34.800 của chúng ta mà khi mà chúng đã đóng mà
+00:37:37.200 chúng ta xảy ra các trường hợp là nó lối
+00:37:38.910 ở trên mạch điện áp xuất ra không đủ thì
+00:37:41.460 nó rất sạch này nhưng không đóng được
+00:37:44.250 tiếp nghiệp thì chúng ta cần phải kiểm
+00:37:46.470 tra thì bình thường ra thì chúng ta thấy
+00:37:48.329 là về chế độ giặt thì nhà bạn nào mà máy
+00:37:51.060 giặt các bạn đó là diện nghe thấy là
+00:37:52.800 kiếm sạch này cái thì đang sử dụng loại
+00:37:54.990 công tác 4 chân là loại này là đóng mở
+00:37:57.740 đóng mở nhanh
+00:37:59.759 á đối với loại này thì
+00:38:02.029 khi mà mất điện đang giặt mà mất điện
+00:38:05.549 thì chúng ta gần như là chúng ta rất khó
+00:38:07.409 để thằng cầm mở cửa Thế nên này là rất
+00:38:11.489 nhiều cái loại máy giặt để tránh trường
+00:38:14.249 hợp này thì chúng ta đăng sử dụng đó là
+00:38:16.919 diễn sử dụng một cái dây cáp cưỡng bức
+00:38:19.859 để chúng ta kéo chốt và kéo thanh trượt
+00:38:22.049 để cho phép mở cửa
+00:38:23.449 Còn đối loại đóng mở chậm thì em chỉ cần
+00:38:26.699 rút nguồn ra sau 5 phút cái này chúng ta
+00:38:28.380 sẽ mở được Thì đấy là đối với công tác
+00:38:31.709 trong máy giặt cửa trước lồng ngang gửi
+00:38:35.579 công tắc của máy giặt cái chết và bây
+00:38:37.499 giờ thấy mời cả lớp các bạn là kiểm tra
+00:38:39.839 một số loại công tác ở trên cái máy giặt
+00:38:42.029 trở thành
+00:38:43.639 bấy giờ ta sẽ đi tăng xanh tiếp thiết bị
+00:38:48.089 điện thứ ba đó là khống chế nhiệt độ
+00:38:51.499 thì lỗi không khí nhiệt độ thì đốt trong
+00:38:54.029 máy giặt có sẽ đốt thì luôn luôn sẽ đi
+00:38:56.669 kèm với dưa leo bảo mày nhiệt là không
+00:38:58.919 chế bảo vệ nhiệt độ Ừ anh không chết độ
+00:39:02.190 rơ le bảo vệ nhiệt và khống chế vậy đối
+00:39:06.010 với trong máy giặt của chúng ta thấy có
+00:39:07.750 sợi đốt có sẽ đốt thì đang làm nhiệm vụ
+00:39:10.650 120 một phần ba lần thứ nhất là sợi đốt
+00:39:13.869 tổ chức năng đun nước nóng để cho chị
+00:39:15.369 bảo rằng Nước Nóng chế độ sấy khô thì
+00:39:17.590 sợi đốt Để sấy khô chế độ giặt bằng hơi
+00:39:19.540 nước nóng thì đấy là rẻ chúng ta sẽ kèm
+00:39:22.119 theo sợi đốt và cứ đi kèm theo một sợi
+00:39:24.820 đốt sẽ đi kèm là một Rơle khống chế
+00:39:28.300 nhiệt độ và một giờ nèo mãi nhiệt giống
+00:39:30.580 ở trong bình nước nóng
+00:39:33.840 vậy đối với không khí nhiệt độ thì cũng
+00:39:37.660 có xe có không chết cho động cơ cũng có
+00:39:40.060 khống chế nhiệt độ đến từ giống với ở
+00:39:44.560 trên là tủ lạnh nhưng chúng ta đang
+00:39:46.990 khống chế với nhiệt độ cao thì đối với
+00:39:50.380 là khống chế một toàn là từ 20 đến 90 độ
+00:39:54.000 nghỉ theo từng loại đây là khống chế
+00:39:56.290 điện tử vi
+00:39:59.750 em
+00:40:00.730 về nhiệm vụ thì không chạy nhất nộ thì
+00:40:04.820 năng có nhiệm vụ là khống chế nước ở bên
+00:40:07.550 trong thùng trước
+00:40:08.740 khi máy giặt ở chế độ nước nóng
+00:40:12.850 khi mái
+00:40:14.650 hoặc là khống chế nhiệt độ không khí khi
+00:40:17.570 mái chọn chế độ sấy khô
+00:40:19.480 hoặc lá đun nóng nước để tạo ra một cái
+00:40:23.720 hơi nước nóng để chế độ giặt hơi nước
+00:40:27.550 thì không tránh nhiệt độ đang có hai
+00:40:29.750 loạn đó chính là Zara khống chế nhiệt
+00:40:32.570 động cơ và Zara khống chế nhiệt độ Hiển
+00:40:34.970 từ
+00:40:37.450 đối với không chính nhân động cơ thì có
+00:40:40.670 cấu tạo và nguyên lý làm việc giống với
+00:40:44.570 khống chế nhiệt độ trong tủ lạnh nhưng
+00:40:46.900 chúng ta đang khống chế ở nhiệt độ cao
+00:40:49.550 hơn
+00:40:50.710 là từ 30
+00:40:53.770 từ 20 - đến 90 độ
+00:40:58.600 đối với xe điện từ thì năng được cấu tạo
+00:41:02.120 đó chính là một cái dây ạ là một cái
+00:41:04.950 điện trở nhiệt chủ yếu là người ta đang
+00:41:07.530 dùng điện trở nhiệt Dương là khi nhiệt
+00:41:10.650 độ nước tăng điện trở tăng điện áp bảo
+00:41:13.620 về cho IC với xử lý giảm và giảm đến khi
+00:41:17.730 nào chung với điện áp lực Cài đặt lập
+00:41:20.310 trình ở bên trong IC thì lúc này đi xe
+00:41:22.440 sẽ nhắc lệnh tắt nguồn hãy suất lạnh
+00:41:25.800 ngắt nguồn sẽ đốt để khống chế nhiệt độ
+00:41:28.110 nước hoặc là nhiệt độ không khí
+00:41:32.570 thì đây là đối với
+00:41:35.210 không khí nhiệt độ kỹ sư cũng chế cơ thì
+00:41:38.760 chúng ta biết được là giống bờ ý ông chế
+00:41:41.160 trong tủ lạnh cũng được cấu tạo gồm có
+00:41:43.170 vòi cảm biến bên trong có ý ga hoặc là
+00:41:46.080 sử dụng bằng dau.tam động lên hộp dám
+00:41:49.320 đầu gặp rắn ở tác động lên cơ cấu lặng
+00:41:51.650 và để đối với hộp rắn ở thì chúng ta
+00:41:55.410 thấy là phải có lò xo để khi ta chọn thì
+00:41:58.530 thay đổi thì lực đẩy của lò xo anh về
+00:42:00.640 đúng không Thì không chế hư hỏng thì máy
+00:42:03.760 giặt có hiện tượng
+00:42:06.000 đó là không khống chế được nhiệt độ nước
+00:42:08.369 hoặc màng nhiệt độ không khí dẫn tới
+00:42:10.720 tình trạng là lên là quả cam nước có thể
+00:42:14.260 là sôi nhiệt độ không khí mà ta không
+00:42:17.290 nên quá cao thì có thể gây ra hỏng đô
+00:42:18.880 vậy để tránh hỏng lồ để tránh cháy máy
+00:42:22.090 thì bên trong người ta sẽ đi kèm với một
+00:42:24.310 cái Rơle Mày điên thì nếu cao quá ra để
+00:42:26.470 bảo vệ nhiệt này xanh ngắt để ngắt
+00:42:30.390 và ngoài ra thì có thể là xảy ra những
+00:42:32.890 cái hiện tượng như là không cấp nguồn sẽ
+00:42:35.410 đốt thì máy có biểu hiện tương thức với
+00:42:38.410 điều kiện không sẽ đốt thì tương tự
+00:42:40.510 giống với biểu hiện hành sẽ đốt như thế
+00:42:42.580 nào thì buổi học trước thì chúng ta cũng
+00:42:44.890 đã đi tìm hiểu là đối với sợi đốt nhóm
+00:42:46.600 thứ nhất là sợi đốt
+00:42:49.560 có thể hỏi ý một số dòng máy người ta
+00:42:53.500 mượn phụ tải làm dây đưa tín hiệu báo về
+00:42:56.890 nên khi sợi đốt mà hỏng sẽ dẫn tới hiện
+00:42:59.200 tượng là báo Ừ thứ hai
+00:43:01.960 là đối với sợi đốt là nhiệm vụ đun nóng
+00:43:04.940 nước thì bữa trước thì ra có học là
+00:43:07.070 không giặt không giặt được chế độ nước
+00:43:09.200 nóng thì đồ giặt kém sạch không kháng
+00:43:11.300 khuẩn khử mùi đường đồ giặt để ngày hôm
+00:43:14.000 sau sẽ bị hôi rồi là đối với nó không
+00:43:17.570 giảm được chế độ nước nóng thì làm cho
+00:43:19.130 nhanh hỏng răng Hồng phớt Hồng đi Đấy
+00:43:21.890 Chụp rồi đối với không đạt được chế độ
+00:43:24.470 nước nóng thì chúng ta biết được là một
+00:43:27.020 số loại máy thì cũng phải đun đủ nước
+00:43:28.970 thì nó mới cho phép ra do đó là chế độ
+00:43:31.490 giặt nước lạnh thì bình thường chế độ
+00:43:33.230 giặt nước nóng được cấp nước bổ ngắt
+00:43:34.670 nước chứ không giặt đồ với sợi đốt là
+00:43:36.920 nhiệm vụ sấy thì ngoài ra đây không xây
+00:43:39.170 được một số máy thì
+00:43:41.710 quá trình làm việc của người ta thì dựa
+00:43:44.060 vào độ khô cổ khô ở ở bên trong đổ giặt
+00:43:47.990 để kết thúc quá trình sấy Thế nên nếu
+00:43:51.170 sấy bằng gió mà không có nhiệt thì rất
+00:43:53.390 lâu rất lâu thì sấy suốt trong thời gian
+00:43:55.460 dài dân còn đương nhiên đối với cái loại
+00:43:58.910 mà sấy bằng bộ đồng hồ của chương trình
+00:44:01.199 của chúng ta làm bằng những đồng hồ hẹn
+00:44:02.639 giờ thì cứ hết thời gian là nó dừng thôi
+00:44:06.979 Cái đấy là biểu hiện tương tự như hỏng
+00:44:09.959 sẽ đốt thì là nhắc lại để chúng ta
+00:44:14.779 thì không chế và kiểm tra đối với khống
+00:44:17.279 chế thì chúng ta thấy là gì đây là khống
+00:44:19.229 chế cơ giống với khống chế ở trong tủ
+00:44:21.809 lạnh là xoay ngược chiều kim đồng hồ về
+00:44:24.419 chế độ nước lạnh đo tiếp điểm là ngắt mà
+00:44:28.049 lúc này chúng ta xoay theo chiều kim
+00:44:29.339 đồng hồ giá trị nhiệt độ lớn hơn giá trị
+00:44:32.130 ta cho thì lúc này giờ nè mình tránh
+00:44:34.769 nhiệt độ đóng tiếp điểm để đưa cái tín
+00:44:37.349 hiệu điều khiển cho dẹp cho sợi đốt và
+00:44:40.889 khi nhiệt độ nước hay nhiệt độ không khí
+00:44:42.719 còn Đạt theo yêu cầu đã chọn thì lúc này
+00:44:45.479 cũng chính là cái thời điểm mà lúc này
+00:44:46.889 Dạo này không chỉ đổ nắp để khống chế
+00:44:48.779 nhiệt độ cũng như trong và khi nhiệt độ
+00:44:50.669 của chúng ta thấp hơn thì lại đóng
+00:44:53.839 còn đối với
+00:44:56.089 không chế điện tử thì tao lo cái giá trị
+00:44:59.429 điện trở em và sau đó chúng ta sẽ thay
+00:45:02.830 đổi giá trị nhiệt độ của môi trường xung
+00:45:04.540 quanh và nếu có giá trị điện trở thay
+00:45:07.180 đổi thì ta kết luận cũng là Zara khống
+00:45:10.869 chế nhiệt độ tốt và thay thế chúng ta
+00:45:14.080 phải thay thế đúng chủng loại đúng hình
+00:45:16.600 dạng kích thước
+00:45:19.320 và Đối với riêng đối với khống chế điện
+00:45:21.910 tử và cho nó hay sai thì có thể gây ra
+00:45:24.010 hiện tượng báo lỗi
+00:45:26.460 sắm thiết bị điện Thứ tư chúng ta sẽ đi
+00:45:29.950 về mạch điều khiển
+00:45:31.170 thì đối với thiết bị nào sản phẩm đồ
+00:45:35.860 điện nào không có một cái bo mạch điều
+00:45:37.330 khiển bò này có thể là bò cơ có thể là
+00:45:40.300 bo điện từ gì về nhiệm vụ của mạch điều
+00:45:44.230 khiển thì đang có nhiệm vụ là nhận tín
+00:45:46.690 hiệu điều khiển từ các thiết bị để xuất
+00:45:50.920 lệnh điều khiển trong của tại máy sẽ
+00:45:53.380 thực hiện chế độ
+00:45:55.320 các chế độ được cài đặt trong đó như là
+00:45:58.630 chế độ cơ bản em giặt rũ bắt một số máy
+00:46:02.870 thì có chế độ đặt nước nóng cũng chỉ để
+00:46:04.970 sấy khô
+00:46:05.980 có chế độ đó diện cài đặt là wi-fi Vân
+00:46:10.340 Vân
+00:46:13.240 để phân loại thì ta có 2 loại mạch người
+00:46:17.120 ta được gọi là mạch cơ và mạch điều
+00:46:19.280 khiển điện từ
+00:46:20.860 khí mạch cơ
+00:46:22.780 mạch cơ thì đây người ta còn được gọi là
+00:46:25.790 đồng hồ chương trình
+00:46:27.580 được cấu tạo gồm một động cơ điện xoay
+00:46:30.580 chiều có công suất nhỏ ở phía sau
+00:46:34.870 cái bánh đối với động cơ này hoạt động
+00:46:37.640 thì Roto quay sẽ truyền chuyển động tới
+00:46:39.980 hệ thống bánh răng chuyển động thì bánh
+00:46:42.320 răng sẽ làm cho cái bánh cam chính của
+00:46:43.790 chúng được quay thì khi bánh cam chín
+00:46:45.920 quay sẽ làm tác động nên một cái cánh cò
+00:46:48.830 tác động lên cơ cấu luận để thay đổi như
+00:46:51.380 trạng thái là đóng ngắt về tiếp điểm mà
+00:46:54.530 có cái giắc cắm vào cái đồng hồ chương
+00:46:57.170 trinh còn đúng xoay để chọn chế độ
+00:46:59.760 chỉ với loại này thì khi ta chọn thì ra
+00:47:02.820 chỉ xoay được đúng xoay theo chiều kim
+00:47:04.500 đồng hồ và
+00:47:05.780 khi giống với đồng hồ hẹn giờ ở trong
+00:47:08.850 cái quản ra khi Tân quay theo chiều kim
+00:47:10.890 đồng hồ và khi vào tùy thuộc là từng
+00:47:13.440 chương trinh
+00:47:14.390 đầu chương trình và sau đó là đồng hồ
+00:47:17.160 này đã tự quay và tự quay đến hết chương
+00:47:19.260 trình là kết thúc
+00:47:21.590 [âm nhạc]
+00:47:23.090 Loại này có ưu điểm là bền và rất dễ ra
+00:47:27.060 không sửa chứa chiếm phần lớn là hư hỏng
+00:47:30.300 ở dạng là tiếp điểm ra là không tiếp xúc
+00:47:32.780 bên nhất điểm ít chức năng và chức năng
+00:47:36.900 của chúng ta là kém hiện đại ít chức
+00:47:39.960 năng tổ chức năng kém hiện tại
+00:47:42.860 đối với loại mạch điều khiển điện tử
+00:47:46.370 làm loại máy mà có bảng điều khiển bằng
+00:47:49.620 được cấu tạo bằng các thần linh kiện
+00:47:51.060 điện tử
+00:47:51.860 thì giống với mạch điện tử ở trong điều
+00:47:54.990 hoa và đang được cấy ghép cho 1 bo theo
+00:47:58.830 một trình tự logic Ừ
+00:48:00.270 để tạo thành một mạch điều khiển tự động
+00:48:03.270 do máy của chúng ta làm việc ở môi
+00:48:05.800 trường ẩm ướt do đó mạch của ta đều có
+00:48:09.040 một cái đế nhựa và chết và dưới đều phủ
+00:48:12.400 một lớp keo non rượu ngựa non để chống
+00:48:15.100 nước do đó trong quá trình gia công sửa
+00:48:17.619 chữa đối với loại này thì khó khăn hơn
+00:48:19.780 là phải bào nào hướng dẫn keo lên là sau
+00:48:22.180 khi rửa xong thì ta phải đổ lại keo để
+00:48:24.430 chống ẩm mà nếu ăn thì hôm nào Thay Đổi
+00:48:27.970 Thời Tiết độ ẩm của môi trường cao gây
+00:48:30.430 ra tín hiệu bảo về tao bị sai và bây giờ
+00:48:33.220 máy báo lỗi về ưu điểm đối với loại này
+00:48:36.340 nhiều chức năng
+00:48:37.980 chức năng của chúng ta hiện đại chức
+00:48:40.930 năng và hiện đại
+00:48:42.840 nhưng cũng có những nhược điểm là có cấu
+00:48:46.000 tạo phức tạp hư hỏng rất khó ra không
+00:48:48.460 sửa trước hư hỏng rất khó gia công sửa
+00:48:50.770 chữa là như vậy Thì đấy là đối với bảng
+00:48:53.860 điều khiển thì đối với về phân bảng điều
+00:48:56.440 khiển thì ta cũng sẽ đi tìm hiểu phân
+00:48:58.119 tích đối với các bạn điều kiện trong
+00:49:00.460 35 già trẻ phân tích mạch bị đơ thì đấy
+00:49:04.310 là đối với toàn bộ về các máy thiết bị
+00:49:06.920 điện phụ tải điện trong một bài
+00:49:11.170 những bài học của chúng ta thì đến đây
+00:49:14.360 là kết thúc thấy đá giới thiệu cho cả
+00:49:16.940 lớp về tao cần thiết bị điện thì các em
+00:49:20.180 về nhà xem lại bài đó đặt từ thiết bị
+00:49:23.900 điện tải điện
+00:49:26.140 và chúng ta chuẩn bị bài mới cho thành
+00:49:29.000 và bài sau chúng ta sẽ đi tìm hiểu về
+00:49:31.070 phần cơ trong máy giặt nó chính là bộ đi
+00:49:33.770 học
+00:49:36.070 Mở Xin chào anh em hẹn gặp lại các em à
+00:49:38.930 Buổi học xong

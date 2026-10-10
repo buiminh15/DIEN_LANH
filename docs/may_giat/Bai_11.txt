@@ -1,0 +1,648 @@
+# tactiq.io free youtube transcript
+# Bài 6 - Các Pan Bệnh Thường Gặp và Cách Sửa Chữa Máy Giặt II Dạy Nghề Thanh Xuân 93 NT 0936989090
+# https://www.youtube.com/watch/19STuYCGBz0
+
+00:00:00.000 Xin chào các em
+00:00:01.700 buổi học ngày hôm nay thầy và trò ta đi
+00:00:04.890 tiếp tục sang bài 6 sửa chữa một số hiện
+00:00:09.240 tượng hỏng ở máy giặt dân dụng
+00:00:13.130 đối với bài này chúng ta sẽ đi tìm hiểu
+00:00:16.320 về một số những hiện tượng hư hỏng
+00:00:18.529 ở trong cái máy giặt cửa trên và một số
+00:00:21.869 hiện tượng hỏng ở máy giặt cửa trước
+00:00:25.220 nhất chúng ta sẽ đi tìm hiểu về một số
+00:00:29.849 những hiện tượng hỏng đối với máy giặt
+00:00:33.329 cửa trên
+00:00:34.730 hiện tượng thứ nhất
+00:00:36.620 là đối với trường hợp là máy giặt nước
+00:00:40.079 vào liên tục nhưng không ngắt máy có
+00:00:43.860 giặt thì chúng ta hiểu ở đây là có mặt
+00:00:46.200 thì có mặt ở đây là khi nước đạt đến cái
+00:00:49.920 mất nước theo quy định thì lúc này sao
+00:00:52.530 áp lực anh cảm biến mất nước báo tín
+00:00:55.079 hiệu là đủ nước về thì lúc này máy hoạt
+00:00:57.149 động như vậy trong trường hợp này hai
+00:01:00.070 nguyên nhân một là hư hỏng van cấp nước
+00:01:02.980 hay là hỏng mạch hỏng mạch ở đây là hỏng
+00:01:07.360 mạch là luôn có nguồn cấp gió cho gan
+00:01:09.520 cấp
+00:01:10.140 do đó trường hợp này các em chỉ cần ngắt
+00:01:14.470 nguồn cho máy giặt để chúng ta kiểm tra
+00:01:16.539 xem do hỏng văn cấp 2 học mạch thì khi
+00:01:20.380 họng khi cho ra ngắt nguồn mở cho ta
+00:01:22.149 thấy là nước vẫn được cấp vào trong máy
+00:01:23.770 thì đây chính là phỏng vấn cấp và nếu mà
+00:01:26.110 nhắc được nước thì nó là do mạch điều
+00:01:27.850 kiện cho tao phải đi tìm vào bên trong
+00:01:30.130 có thể là do chậm trễ lắm rồi là lệnh
+00:01:32.740 bóng bán dẫn điều kiện cho chép
+00:01:35.789 đúng cái hiện tượng thứ hai máy giặt
+00:01:39.039 nước vào liên tục nhưng không giặt thì
+00:01:41.500 không giặt ở đây thì em phải hiểu là
+00:01:43.750 phao áp lực hay cảm biến mất nước đang
+00:01:46.869 báo vẫn chưa đủ nước để hoạt động thứ
+00:01:50.080 nhất là hỏng van xả chúng ta có thể là
+00:01:53.170 hỏng van xả hút
+00:01:54.539 kênh nấm xả
+00:01:56.970 Học bảng điều khiển à mà hỏng van áp lực
+00:02:01.509 và luôn có nguồn cấp cho van thùng chứa
+00:02:04.729 bị khùng ta có cáp ống dẫn áp bị khùng
+00:02:08.619 thì thứ nhất là chúng ta sẽ chia ra đối
+00:02:12.170 với trường hợp hỏng van xả thì đây là
+00:02:14.750 đối với trường hợp là ban giá hút canh
+00:02:16.430 nấm sạc luôn có người nguồn cấp cho
+00:02:18.950 bonsai
+00:02:19.810 cùng thùng chứa thì thứ nhất là những
+00:02:23.750 trường hợp này thì khi bởi chúng ta bấm
+00:02:27.080 bạn hành máy nước được cấp vào thì ta là
+00:02:29.150 biết được nhà nước cấp vào chỉ sau 2 cho
+00:02:32.959 đến 3 phút trong thùng chứa một ta đủ
+00:02:35.030 nước lúc này nước bên trong thùng chứa
+00:02:37.069 đầy vậy đối trường hợp này nước bên
+00:02:39.709 trong thùng chứa không đầy
+00:02:41.110 mà thời gian cấp quá lâu thì chúng ta sẽ
+00:02:45.079 phải kiểm tra tháo tấm tôn chắn ở phía
+00:02:47.900 sau để chúng ta kiểm tra nếu luôn có
+00:02:50.329 nguồn cấp cho văn thì nên là liên quan
+00:02:52.519 đến bo mạch điều khiển chúng ta đi vào
+00:02:54.170 bên trong có thể chậm chạp chấp bóng bán
+00:02:56.299 dẫn chặt từ CPU điều khiển cho phép thì
+00:02:59.480 luôn có nguồn khi phỏng vấn xả đối
+00:03:02.160 trường hợp này chỉ áp dụng đối với ban
+00:03:03.630 xã hút một số van xả kéo bị kẹt kênh nấm
+00:03:06.750 tránh nấm thì có vật lạ kẹp chúng ta cần
+00:03:09.300 phải vệ sinh và kiểm tra nấm xào đỗ
+00:03:12.090 trường hợp cùng thùng chứa thì sẽ dẫn
+00:03:14.340 tới cái tình trạng là nước chảy ra sàn
+00:03:16.020 nhà
+00:03:17.060 còn đối với trường hợp top thủ bỗng Giật
+00:03:20.700 nắp hay là hỏng ban hoặc là hồng bảng
+00:03:23.910 điều khiển trường hợp này là hỏng cái
+00:03:26.190 đường tín hiệu đó là từ giải mã phao tín
+00:03:29.130 hiệu xung báo về chúng ta bị sai trường
+00:03:31.380 hợp này chúng ta quan sát là đầy thùng
+00:03:33.000 chứa nhưng mà không nhắn đi đây thùng
+00:03:36.030 chứa không mắt thì lúc này chúng ta cũng
+00:03:37.530 sẽ phổi mà ông gian áp để kiểm tra trực
+00:03:40.320 tiếp đối với bà áp lực đối với một số và
+00:03:43.170 năng lực đấy là đối với
+00:03:46.670 tắt có pass Nếu mà chúng ta thổi van áp
+00:03:49.260 lực mà nước nhát được máy giặt thì có
+00:03:51.090 nghĩa là chúng ta cắt cáp Hoặc cùng ông
+00:03:53.000 cũng có thể là hỏng van áp lực ở trạng
+00:03:55.650 thái dùng bằng cao su
+00:03:57.380 Còn đối với trường hợp
+00:04:00.010 ca nhạc chuông tác thôi mà vẫn không át
+00:04:03.400 ta thay một cái van áp lực mới nếu bạn
+00:04:05.590 áp lực mới mà không đạt thì chúng ta đi
+00:04:08.409 kiểm tra về mạch điều khiển đó là đường
+00:04:10.299 tín hiệu cảm biến là xử lý giải mã phao
+00:04:13.680 hiện tượng thứ ba máy giặt giặt bình
+00:04:17.048 thường nhưng về chế độ bắt thì không xả
+00:04:19.149 nước thì về chế độ vắt mà không trả được
+00:04:22.029 nước thì có các hình nguyên nhân một là
+00:04:24.550 do hỏng van xả hai ống thoát nước của
+00:04:28.479 chúng ta để quá cao hoặc là bị tắt ba là
+00:04:31.750 do hỏng bộ điều khiển 4 kẹp nấm năm là
+00:04:34.960 tắt cổ thoát thì đối với trường hợp này
+00:04:38.699 thì chỗ khác thấy khi về chế độ xả thì
+00:04:42.280 nước ở trong cùng vẫn đây trường hợp này
+00:04:45.460 thì chúng ta sẽ quan sắt áo tấm tôn
+00:04:47.740 chúng ta quan sát vào van xả Xem ban sạc
+00:04:50.289 có làm việc hay không đối với trường hợp
+00:04:52.350 là van xả có làm việc thì lúc này có thể
+00:04:56.470 là do chúng ta đang bị kẹt nấm hoặc là
+00:04:58.270 tắt ổ sạc à em
+00:05:01.000 còn đối với trường hợp van xả không làm
+00:05:05.090 việc thì chúng ta sẽ đi kiểm tra là hỏng
+00:05:07.970 van xả hoặc hỏng bo mạch điều khiển Còn
+00:05:10.970 đối với trường hợp là ống thoát nước để
+00:05:12.560 quá cao hoặc là đã bị tắt thì trường hợp
+00:05:15.500 này chúng ta cần phải quan sát khi mà
+00:05:18.139 chúng ta đi sửa chữa trong những dòng
+00:05:20.180 máy giặt cửa chết thì yêu cầu đối với
+00:05:21.979 đường thoát nước của chúng ta cần phải
+00:05:23.569 để thắp nhân ở có rất nhiều gia đình của
+00:05:26.240 chúng ta là bắt cao sẽ dẫn tới tình
+00:05:28.250 trạng nhà nước không phát là ra ngoài
+00:05:30.099 thì gây ra các biểu hiện là như vậy
+00:05:36.009 đối với
+00:05:39.159 hiện tượng thứ tư nước vào đến mức quy
+00:05:42.770 định nhân không giặt không vắt thì
+00:05:46.940 nguyên nhân có các nguyên nhân như sau
+00:05:49.000 tổng động cơ
+00:05:50.949 nhạc động cơ hỏng trục trung gian dưới
+00:05:54.610 đất hoặc tuột dây curoa Công tắc cửa của
+00:05:59.180 chúng ta biết học à khi phỏng vấn áp lực
+00:06:02.090 hoặc là hỏng bộ điều khiển thằng trộm
+00:06:06.230 thì đối với trường hợp là nước vào đến
+00:06:08.940 lớp quy định mắt nhưng mà không giặt
+00:06:11.100 không bắt đi trường hợp này chúng ta có
+00:06:14.280 thể kẹp dòng cho cho máy như chúng ta đã
+00:06:17.130 biết được khi mà có nguồn điện cho động
+00:06:18.990 cơ thì lúc này sẽ có dòng vào buổi học
+00:06:23.280 đầu tiên thì thấy đã giới thiệu cho
+00:06:24.720 chúng ta lại cách bạn hàng đối với một
+00:06:26.430 cái máy giặt ở trên mô hình và các em đã
+00:06:28.950 dựa vào rong Khi động cơ làm việc thì có
+00:06:31.740 dòng và khi động cơ ngừng thì sẽ không
+00:06:34.320 có dòng Do đó khi mà đảo chiều quay của
+00:06:37.140 động cơ thì ta thấy là sẽ có xong thì
+00:06:39.570 lúc này
+00:06:41.450 đối với trường hợp như là tuột dây qua
+00:06:44.670 loa rồi là hỏng trục trung gian
+00:06:48.950 ông tốt đẹp động cơ thì những cái trường
+00:06:53.340 hợp này thì đăng kín mạch và chúng ta
+00:06:55.800 đang có rong chúng ta đang có dòng còn
+00:06:58.710 đối với trường hợp
+00:07:00.009 em có dòng nhưng mà không chạy thì lúc
+00:07:02.110 đó chúng ta cũng xe áo tấm tôn ở phía
+00:07:05.830 sau chúng ta sẽ quan sát được là đối với
+00:07:08.439 trường hợp là con chuột dây con loai
+00:07:09.909 không còn đối với hỏng trục trung gian
+00:07:12.490 thì như chúng ta đã biết được là lúc này
+00:07:15.009 có thể là không giặt và không bắt thì
+00:07:17.169 hỏng trục trung gian dưới liên quan điểm
+00:07:20.050 kết nối giữa các cái cá hoa cá sau tại
+00:07:25.089 trục trung gian dưới đấy bố ly
+00:07:27.779 ông cụ thì dòng cao hơn bình thường thì
+00:07:31.809 chúng ta sẽ kiểm tra đối với top
+00:07:34.199 kẹp động cơ lý các trường hợp kẹp động
+00:07:37.089 cơ này thì phần nhiều là do ở bên trong
+00:07:39.399 ví dụ như là quần áo của ta bị rơi lọt
+00:07:42.249 ra ngoài và lúc này motor của tao hoạt
+00:07:44.919 động thì bị quấn vào ghế motor và gây ra
+00:07:47.889 kẽm
+00:07:50.550 Còn đối với trường hợp
+00:07:53.339 là động cơ không làm việc động cơ không
+00:07:56.409 làm việc
+00:07:57.330 thì lúc này chúng ta em kiểm tra hoặc là
+00:08:01.849 hỏng mạch điều khiển chúng ta sẽ kiểm
+00:08:04.310 tra xem là có nguồn cấp cho động cơ hay
+00:08:06.110 không thì chúng ta sẽ cho nguồn từ chân
+00:08:08.300 chung sang một trong hai chân chạy ra là
+00:08:11.449 quay trái hoặc qua phải xem có nguồn cấp
+00:08:13.129 cho nó ngây không Nếu có luôn gì là do
+00:08:14.960 hỏng mạch điều khiển và nếu không có
+00:08:17.060 nguồn
+00:08:20.229 nước là nếu nếu không có nguồn là do
+00:08:22.909 hỏng mạch điều khiển và nếu có luôn là
+00:08:24.979 do hỏng động cơ
+00:08:26.199 đương nhiên không có buồn thì do hỏng
+00:08:29.150 mạch điều khiển lương nhiên cũng có một
+00:08:30.740 số trường hợp là các đi đường tín hiệu
+00:08:32.390 báo về cho mạch điều khiển để xuất định
+00:08:34.458 cho động cơ trong đó có công tắc có bạn
+00:08:37.429 Áp lực thì chúng ta cần phải kiểm tra
+00:08:39.229 công tắc và van áp lực trước khi mà
+00:08:41.839 chúng ta đào kiểm tra đi sâu vào trong
+00:08:45.649 mạch điều khiển bởi vì đây là các đường
+00:08:47.720 tín hiệu báo về để cho phép an toàn làm
+00:08:50.510 việc hay không làm việc
+00:08:52.510 đối với hiện tượng thứ 5 máy giặt bình
+00:08:55.700 thường nhưng
+00:08:57.579 xả nước nhưng không bắt xào ở những
+00:09:00.690 không bắt trong đó có những các nguyên
+00:09:02.790 nhân một là kẹt công hay hỏng vàng áp
+00:09:06.570 lực 3 hỏng Công tắc cửa 4 cổng lò xo đi
+00:09:11.010 hợp năm tổng Bi một chiều 6 mỏ cò luôn
+00:09:16.020 bổ và bánh răng khế
+00:09:17.960 7van giả kéo không hết 8 hỏng mạch điều
+00:09:22.500 khiển thì đối với trường hợp này thì
+00:09:24.600 cũng chúng ta cũng đã chia ra đối trường
+00:09:27.930 hợp một số trường hợp của chúng ta dẫn
+00:09:30.840 tới cái tình trạng và xả được nước nhưng
+00:09:32.850 không bắt là trong đó là quá giặt có
+00:09:35.280 giặt Chứ giờ có giặt mà lại không bắt
+00:09:37.920 thì có những trường hợp nào có những
+00:09:40.680 trường hợp nào
+00:09:43.310 Một là chúng ta thấy này
+00:09:45.650 dạng được nhưng không bắt
+00:09:48.020 thì một là cái thùng
+00:09:50.780 cái kẹp khùng thì sẽ dẫn tới cái tình
+00:09:54.240 trạng là đặt bình thường nhưng về chợ có
+00:09:56.700 mắt thì vẫn có rong vẫn còn dòng anh Võ
+00:10:00.010 Ừ nhưng mà lại không lòng mẹ không quay
+00:10:03.120 thứ hai
+00:10:05.490 đây là kẹp Thùng thì chúng ta thấy sẽ có
+00:10:07.750 dòng thứ hai là hỏng bộ ly hợp đó nó
+00:10:10.690 hỏng lò xo đi họp ông đi một chiều
+00:10:14.400 tí hai trường hợp này thì chúng ta đã
+00:10:17.530 phân tích rồi nhất là hỏng đi một chiều
+00:10:20.080 thì vẫn còn dòng nhưng mà học đi một
+00:10:22.420 chiều thì chúng ta thấy là hỏng kẹt cứng
+00:10:25.030 thì sẽ dẫn tới có dòng nhưng mâm không
+00:10:27.310 quay Còn đối với trường hợp hỏng lò xo
+00:10:29.980 ly hợp hoặc là van xả kéo không hết bỏ
+00:10:33.310 vỏ luôn mổ đánh răng khế thì ba nguyên
+00:10:35.740 nhân này thì có dòng và đồng thời là lúc
+00:10:38.620 này về chế độ vắt chỉ mình mâm quay
+00:10:40.480 nhưng lòng không không quay Anh chỉ mình
+00:10:43.660 mâm quay những lòng không quanh ra dựa
+00:10:45.250 vào yếu tố đó đã biết được là sẽ bóc nhỏ
+00:10:47.200 ra đối với trường hợp là hỏng mạch điều
+00:10:49.780 khiển
+00:10:50.730 hoặc là hỏng van áp lực đi trường hợp
+00:10:53.530 này hỏng Công tắc cửa thì ba nguyên nhân
+00:10:56.260 này sẽ dẫn tới tình trạng là không xuất
+00:10:58.240 lạnh cho động cơ và lúc này ý của động
+00:11:01.220 cơ hoạt động ở chế độ mắt thì không xuất
+00:11:03.470 lạnh cho động cơ thì đối với trường hợp
+00:11:04.910 này thì van áp lực hoặc là đường tín
+00:11:07.189 hiệu Tín hiệu giải của y trị đường IC
+00:11:10.309 giải mã phao thì như thầy đã
+00:11:12.519 nói chúng ta đã được học từ buổi học
+00:11:15.800 ngày hôm trước thì đối với Pháp lực điện
+00:11:18.739 tử thì một số loại máy Nhấn ở chế độ vắt
+00:11:22.069 thì chỉ cho sai số là 5 phần trăm thì
+00:11:24.889 lúc này của chúng ta là lớn hơn 5 phần
+00:11:26.569 trăm nhưng nếu sai số 10 phần trăm nghìn
+00:11:28.429 báo lỗi ngay ban đầu do đó này chúng ta
+00:11:30.499 nằm ở cái trường hợp là nhỏ hơn 10 phần
+00:11:32.509 trăm và lớn hơn 5 phần trăm thì khi đó
+00:11:35.480 là máy đang hoạt động nhưng mà sẽ dẫn
+00:11:38.569 tới tình trạng là giặt bình thường nhưng
+00:11:40.730 mà không bắt
+00:11:42.220 đã sang hiện tượng số 6
+00:11:45.129 máy nước cấp độ nhưng không giặt và vắt
+00:11:50.179 bình thường không giặt và vắt bình
+00:11:52.399 thường là bấm Mày chỉ mổ mắt thì mắt
+00:11:53.869 bình thường trong đó có hỏng Văn áp lực
+00:11:56.389 cơ hỏng bánh răng số hỏng trục trung
+00:11:59.360 gian dưới Anh Lâm hay là hỏng mạch điều
+00:12:02.070 khiển
+00:12:02.660 dặn bình thường chúng ta đến nhớ là giặt
+00:12:05.280 bình thường nhưng mà không bắt thì trong
+00:12:07.290 nhân đó các trường hợp lý sau một là
+00:12:10.830 hỏng hỏng 35 được cơ thì chúng ta đã
+00:12:13.410 biết được là lúc này cấp nước đủ nhưng
+00:12:16.920 mà không giặt trong đó nó hỏng về địa
+00:12:18.930 điểm phỏng với bánh răng số thì đối với
+00:12:21.930 trường hợp hỏng và bánh răng số thì như
+00:12:23.430 chúng ta đã biết được là lúc này về chợ
+00:12:25.770 có mắt thì chủ yếu là mặt dựa vào lông
+00:12:28.230 và lúc này quay làm quần áo ép sắt nên
+00:12:31.470 Thành lồng và văng nước theo phương tiếp
+00:12:33.570 tuyến của đường tròn và thoát ra ngoài
+00:12:35.120 trí như bệnh phẩm bánh răng trốn chúng
+00:12:37.860 ta thấy là không giặt nhưng mà bắt bình
+00:12:40.080 thường và trường hợp này thì chúng ta
+00:12:41.580 thường quan sát ở phía dưới rồng nếu có
+00:12:44.850 vết dầu Văn Cường nó hỏng bánh răng số 2
+00:12:48.450 là hỏng trục trung gian thì đa phần là
+00:12:51.060 học thực chứng gan nối giữa bánh răng số
+00:12:53.700 Cường là mất dâu và nguyên nhân mất dầu
+00:12:56.010 chúng ta đều thấy là ở bên dưới đều có
+00:12:57.750 biết dầu ăn ở bên dưới còn đối à Nó hỏng
+00:13:00.760 cá ở kiếm âm
+00:13:02.400 thì lúc này chuẩn là cá ở mâm này là
+00:13:06.540 thường là do đã gặp quá tải và gây ra nó
+00:13:10.240 bị hỏng
+00:13:11.100 thì chúng ta phải tháo Lâm ra rồi chúng
+00:13:13.510 ta quan sát được là kiểm tra Còn đối với
+00:13:16.150 trường hợp là hỏng bo mạch do bó mạch
+00:13:18.100 thì chúng ta đã biết được là về chưa đó
+00:13:20.020 mắt
+00:13:20.940 lồng giặt mâm giặt quay sang một chiều
+00:13:23.710 mà trong khi đó là giặt của chúng ta thì
+00:13:25.990 động cơ chế quay theo hai chiều thuận
+00:13:28.120 nghịch chính như vậy là có những nguyên
+00:13:29.950 nhân có thể là hỏng chép làm cho chép
+00:13:32.830 của ta tức là quay cho một chiều mâm
+00:13:35.740 giặt quay theo một chiều đồ giặt không
+00:13:37.270 đào được thì đây chính để chúng ta thấy
+00:13:39.700 là máy của ta không giặt là như vậy đối
+00:13:43.660 với hiện tượng thứ bảy
+00:13:45.870 máy giặt bình thường nhưng về chỗ bắt
+00:13:48.550 thì bị kêu
+00:13:51.360 Nguyên nhân là do kẹt cúng rằm
+00:13:55.890 cùng chứa
+00:13:58.560 hỏng à ở 2 vòng bi
+00:14:01.749 đổ giặt không đeo kệ không cần hay là
+00:14:05.929 mất màng nước muối đối trọng nó sau quán
+00:14:07.999 treo bị hỏng thì đối với trường hợp là
+00:14:10.610 giặt bình thường nhưng về chỗ bắt thì
+00:14:13.009 như chúng ta đã biết thật là do về sự
+00:14:14.600 bắt mắt thì động cơ quay với tốc độ lớn
+00:14:18.079 trong đổ lồng giặt của chúng ta thì có
+00:14:21.290 rất nhiều nặng tay thì đó là sẽ dẫn tới
+00:14:23.929 tình trạng là bắt mày kêu thì đầu tiên
+00:14:26.779 là các em sẽ phải kê lại kể lại kể cân
+00:14:30.230 để kể cân thì lúc này chúng ta sẽ quan
+00:14:33.709 sát và mực nước sàn đều trên bề mặt lông
+00:14:36.889 Nếu mà nước của chúng ta là sàn Dell thì
+00:14:40.339 có nghĩa là chúng ta thằng Băng còn nếu
+00:14:43.009 mà không sàn đều thì chúng ta đến Nhớ là
+00:14:44.629 phải kê lại và dựa mâm nước nhưng nếu mà
+00:14:46.910 chúng ta lai thì nếu mà hai chân của
+00:14:49.639 đang nghiêng về một phía thì chúng ta
+00:14:51.170 không lại được chúng ta chỉ nay đối với
+00:14:52.519 trường hợp là sự kê của ta là mất cân
+00:14:55.369 bằng giữa hai chân lệch nhau
+00:14:57.579 để thùng giặt với thùng chứa Ê bà sẽ
+00:15:00.750 càng thương
+00:15:02.090 bỏng 2 vòng bi thì để phân biệt giữa 2
+00:15:05.010 vòng bi trong đó là bu lông là bi mẫu số
+00:15:07.560 2 đi động cơ ta phải tháo dây cổ loa ở
+00:15:11.820 đồ sạc không đeo tín đồ sạc không đều
+00:15:14.160 thì ta sẽ quan sát chúng ta có thể là
+00:15:15.810 chọn là cùng một chất liệu vải để chúng
+00:15:18.300 ta đưa vào được rằng để tránh những
+00:15:20.280 trường hợp là đồ giặt của chúng ta không
+00:15:21.630 đeo thì đây cũng là một khuyến cáo nhà
+00:15:23.370 sản xuất là chúng ta loại được đồ giặt
+00:15:25.920 theo đúng chất liệu vài để chúng ta giặt
+00:15:29.390 mất mảnh nước muối thì chúng ta sẽ hoặc
+00:15:32.970 là cái Ốc bulông để dưới lông nó bị long
+00:15:37.710 bị tuột thì chúng ta cầm vào cái lồng
+00:15:39.810 chúng ta sẽ lắp xem có bị rơi không còn
+00:15:42.270 nguyên nhân hỏng vàng nước muối thì phần
+00:15:43.770 lớn là lòng ra bị dơ hoặc là chúng ta
+00:15:46.110 giặt quá nhiều Và khi đó là đồ giặt nó
+00:15:49.200 xé bài và quét trên để bề mặt của cái
+00:15:51.660 vàng nước muối ở bên trên và gây ra hiện
+00:15:54.090 tượng đó thùng và mất mảnh nước muối lò
+00:15:56.490 xo quăng treo bị hỏng thì trường hợp này
+00:15:58.950 thì buổi học Xem bóng đá giới thiệu cho
+00:16:01.330 cả lớp lại chúng ta sẽ nhìn vào cái cân
+00:16:04.780 Đánh đi vô có bọt thăng bằng có bọt nước
+00:16:08.710 thăng bằng thì chúng ta sẽ kê Cái máy mà
+00:16:11.410 ra quan sát một tấm lòng thì nó lệch Thì
+00:16:13.630 đấy là một trong các lò xo con trèo cho
+00:16:15.700 bé học hoặc là chúng ta đưa một chút
+00:16:18.400 nước vào mà chúng ta cầm vào bốn cái
+00:16:20.230 xuống phía dưới của cái lò xo còn treo
+00:16:22.060 chúng ta lắp nếu mà quan nào mà bị hỏng
+00:16:24.670 sẽ dẫn tới tình trạng là bị dơ lọc
+00:16:32.940 đối với hiện tượng thứ 8 máy hoạt động
+00:16:36.160 nhưng khi giặt thì kêu đặt mắt kêu thì
+00:16:41.140 trường hợp này là do hỏng đánh răng số
+00:16:43.140 đẹp mâm với chôm hoặc là hỏng trục trung
+00:16:46.210 gian
+00:16:47.160 thì đối với trường hợp này là ở trên đó
+00:16:50.440 giặt kêu thì giặt kêu thì nếu mà hỏng
+00:16:53.050 bánh răng số mà kẹt ra thấy là ngay ban
+00:16:55.990 đầu là dặn được tiêu và thông Bình
+00:16:58.300 thường ra đối với hỏng bộ bánh răng số
+00:17:01.790 này là trục trung gian thì đều gây ra
+00:17:03.379 mất dầu đối với các hiện tượng chết thì
+00:17:05.510 ta đã nói đối với trường hợp hiện tượng
+00:17:09.049 thì chính là máy cửa trên thì cứ mỗi một
+00:17:12.349 lần đảo chiều quay của động cơ thì chúng
+00:17:14.179 ta thì nghe tiếng kêu thì ghi trường hợp
+00:17:16.309 này là do chúng dây cổ loa thì có tiếng
+00:17:18.349 kêu là Quỳnh Quỳnh Anh thì gần giống với
+00:17:21.529 trường hợp này chúng ta đi đi xe của
+00:17:23.720 chúng ta là bị chung chết thì đấy là đối
+00:17:26.689 với một số hiện tượng trong cái máy giặt
+00:17:29.450 cửa trên đứng và vừa đi tìm hiểu đương
+00:17:33.380 nhiên là sau này các em ra ngoài thì
+00:17:35.299 cũng đặt rất là nhiều những cái hiện
+00:17:37.340 tượng một số những hiện tượng khác nhưng
+00:17:39.679 về cơ bản là những cái hiện tượng mà
+00:17:41.330 thầy giới thiệu cho cả lớp là những hiện
+00:17:43.490 tượng mà chúng ta cũng thường xuyên là
+00:17:46.460 chúng ta gặp
+00:17:47.950 đối với máy giặt cửa trước thì cũng có
+00:17:50.990 một số những hiện tượng tương tự như cái
+00:17:52.669 máy giặt cửa trên thì hiện tượng một là
+00:17:56.000 đèn báo nguồn sáng nhưng mày không làm
+00:17:57.830 việc trường hợp này là hỏng không mà
+00:18:00.109 hỏng mạch điều khiển hoặc là nước chưa
+00:18:03.359 được cấp Mở trong máy và nắp lực bị hỏng
+00:18:06.210 hoặc là hỏng phím Sát Hình như chúng ta
+00:18:08.759 đã biết là về cách vận hành được cái
+00:18:10.379 loại máy này thì mình sẽ đóng cửa là bấm
+00:18:12.629 phím chọn chim con này Chọn chương trình
+00:18:15.359 dự án phím start thì lúc này là khóa cửa
+00:18:17.279 ra phải bao thì khi mà chưa ta quan sát
+00:18:19.889 vào khi chúng ta ấn 9step xem là đèn báo
+00:18:22.409 khóa cửa đã được khóa cửa kích hoạt chưa
+00:18:24.210 Bởi vì à nguồn cấp trước của chúng ta là
+00:18:27.090 phải đi qua công tắc cơ do đò khóa cửa
+00:18:30.450 mà chưa được đóng thì cũng dán dẫn tới
+00:18:32.369 tình trạng là không thể máy không thể
+00:18:35.729 hoạt động được trường hợp thứ hai là
+00:18:38.029 hỏng công tắc hỏng Công tắc cửa của
+00:18:41.580 chúng ta có thể là bị hỏng do đó chúng
+00:18:43.859 ta sẽ ạ sau khi kích hoạt hình stop ta
+00:18:46.200 sẽ mở cưa và đồng thời chúng ta sẽ kiểm
+00:18:48.330 tra về về công tác bởi vì phải có nguồn
+00:18:51.570 đi qua công tác mới cấp trước toàn bộ cũ
+00:18:53.820 tạt
+00:18:56.059 nước chưa được cấp vào trong máy thì
+00:18:59.009 nguyên nhân trường hợp này ở từng cấp và
+00:19:00.880 cho máy nào bán cấp nước hoặc là hỏng bể
+00:19:03.760 của chúng ta hết nước thì chúng ta cần
+00:19:05.650 phải kiểm tra xem van có Dũng hay không
+00:19:07.810 Chúng ta có thể kích hoạt bấm thẳng về
+00:19:09.520 chế độ vắt để kiểm tra nếu mà chúng ta
+00:19:12.070 đưa về trước cậu bắt mà bình thường máy
+00:19:13.780 hoặc vắt bình thường thì thương là rất
+00:19:16.780 ít trường hợp là chúng ta đi học
+00:19:18.870 trường hợp bị hỏng về mạch điều khiển
+00:19:21.310 thì trường hợp này thì lên kiểm tra bé
+00:19:23.710 nước đã được cấp trước có thể là do bị
+00:19:25.840 hết nước thải là ban cấp vân vân
+00:19:27.870 và cuối cùng thì liên quan đến bo mạch
+00:19:30.760 điều kiện thì chúng ta sẽ đi tìm hiểu về
+00:19:33.880 các đường tín hiệu bao ve cho máy
+00:19:38.200 [âm nhạc]
+00:19:39.570 hiện tượng thứ hai máy hoạt động như kêu
+00:19:43.020 máy hoạt động nhiên kêu thì có khác bình
+00:19:45.730 nguyên nhân của chúng ta trong đó là
+00:19:47.770 nghiên kẹp thùng chứa chất thùng ra
+00:19:52.320 thứ hai nguyên nhân thứ hai giả hỏng
+00:19:54.790 hỏng bi
+00:19:57.150 tổng Bi rồi à ở trục cơ bị mon bị cong
+00:20:02.170 rồi kẹt do sẽ đốt kẹp lồng giặt
+00:20:06.220 và kêu do động cơ thì lúc này để phân
+00:20:11.000 biệt giữa kêu động cơ và kéo gió
+00:20:14.080 bộ phận chuyển động là phần cơ của máy
+00:20:16.700 giặt thì lúc này chúng ta chỉ cần tháo
+00:20:18.890 dây có loa để chúng ta kiểm tra và tháo
+00:20:21.950 dây cổ loa này chúng ta kiểm tra nếu
+00:20:24.050 chúng ta tháo dây curoa
+00:20:27.520 mà hết kêu thì có nghĩa là kêu do phần
+00:20:31.340 cơ trong cái máy giặt trong đó có thể là
+00:20:34.160 kẹp thùng chứa lồng giặt có thể hỏng bi
+00:20:36.260 hay là trục cơ của ta bị hỏng kẹp vừa
+00:20:39.500 chạm với sẽ đốt chúng ta phải tháo thì
+00:20:41.930 các bước tháo nghĩa tương tự với phương
+00:20:45.230 pháp bảo dưỡng đối với máy giặt cửa
+00:20:47.870 trước lồng ngang này là thái bi ta không
+00:20:50.720 tương tự như vậy
+00:20:55.480 còn đối với trường hợp mà kêu do động cơ
+00:20:58.370 thì chúng ta cần phải thay pin trà
+00:21:00.830 xanh hiện tượng thứ ba là nước cấp vào
+00:21:04.499 liên tục không giặt máy không bắt
+00:21:07.789 nước cấp liên tục
+00:21:09.799 nhưng mà là máy này không giặt
+00:21:13.820 máy không giặt máy mày có vắt mình
+00:21:16.769 thường ảnh mày có vắt mình thường thì
+00:21:18.450 lời mày có mắt bình thường
+00:21:19.879 thì không giặt của chúng ta
+00:21:22.190 nước cấp liên tục không giặt thì cũng
+00:21:24.809 giống với máy cửa trên đường tín hiệu
+00:21:27.119 cảm biến mức nước của chúng ta báo tín
+00:21:29.580 hiệu về chưa đủ để giặt thì trong đó có
+00:21:33.330 những trường hợp là ống tham nước còn
+00:21:35.879 giờ để quá thấp
+00:21:37.279 bơm sản luôn làm việc hỏng van áp lực
+00:21:40.049 thủng thùng chứa mà hỏng mạch điều khiển
+00:21:41.779 những trường hợp này thì chúng ta sẽ
+00:21:44.789 quan sát xem nước có đầy ở bên trong 20
+00:21:47.639 quan sát mà đường ống thoát của spa như
+00:21:50.789 chúng ta đã biết được là khi lắp đặt đối
+00:21:52.469 là máy này thì ông Phát bằng ta phải đề
+00:21:54.509 cao hơn so với bề mặt sàn của chúng ta
+00:21:56.759 là thứ 60 đến 90 thì chúng ta phải trèo
+00:21:59.669 cao vi phạm nước bơm sản nếu bạn luôn
+00:22:03.010 làm việc thì thường là do hỏng trong
+00:22:05.050 mạch điều khiển hỏng trong mạch điều
+00:22:07.030 khiển
+00:22:07.620 thì lúc này là nếu bơm sản là việc này
+00:22:10.650 thủng thùng chứa
+00:22:13.200 và bơm xả làm việc với ông Phát để thấp
+00:22:16.480 trong thùng chứa nó không có nước tổng
+00:22:19.270 cộng thùng thụng ống thoát để thắp có
+00:22:21.970 thùng thùng chứa thì nó sẽ chảy ra sàn
+00:22:23.770 nhà ông bà Lâm lực thì hỏng mạch điều
+00:22:26.290 khiển thì nước ở bên trong phòng chiếu
+00:22:28.120 đó đây thì chúng ta sẽ dựa vào yếu tố đó
+00:22:30.670 để ta xé Đi
+00:22:33.930 Tìm Nguyên Nhân nhỏ lại và chúng ta sẽ
+00:22:36.970 đi khắc phục đối với trường hợp đối với
+00:22:39.130 trường hợp hiện tượng thứ tư là nước cấp
+00:22:41.920 đến mất quy định ngắt nhưng không giặt
+00:22:44.620 không vắt
+00:22:46.440 thì đối với chúng ta đối với phân tích ở
+00:22:50.950 phần mạch nâng cao thì sẽ là biết thật
+00:22:54.190 là một số dòng máy đời cao thì người ta
+00:22:56.080 đang sử dụng là các dịch vụ tải để đưa
+00:22:58.810 các đường tín hiệu báo ve lý do đó một
+00:23:00.890 số phụ tải RA hư hỏng thì sẽ dẫn tới
+00:23:02.840 tình trạng là mày sẽ không làm việc thì
+00:23:05.150 lấy ví dụ trong này thì chúng ta có hỏng
+00:23:07.850 van áp lực này thì đương nhiên là cũng
+00:23:09.320 không được đến mức quy định ngắn nhưng
+00:23:12.320 mà không Ông giặt bắt ông sẽ đốt hỏng
+00:23:15.620 khống chế nhiệt độ hỏng động cơ hỏng
+00:23:18.620 mạch điều khiển và hỏng phần cơ của máy
+00:23:22.100 giặt như là gãy trục cơ hay là mặt Bích
+00:23:25.180 Thì đấy là đối với hiện tượng thứ tư
+00:23:28.900 đối với hiện tượng thứ 5
+00:23:31.840 máy giặt bình thường nhưng mà không bắt
+00:23:34.960 đối với trường hợp là máy giặt bình
+00:23:37.100 thường nhưng mà không bắt trong đó là có
+00:23:39.890 hỏng bơm xăng
+00:23:41.500 bơm xả thì không bơm được nước ra thì
+00:23:44.510 dẫn tới cái tình trạng là không bắt hỏng
+00:23:46.940 động cơ bắt đối với động cơ 2 trong 1
+00:23:48.710 động cơ dành riêng mà động cơ bắp riêng
+00:23:50.620 phỏng vấn áp lực cũng giống với máy giặt
+00:23:53.480 cửa trên sử dụng và năng lực điện tử có
+00:23:55.670 dừng sai số thì giặt bình thường nhưng
+00:23:57.200 không bắt để chính như vậy là để kiểm
+00:23:59.390 tra van áp lực có tốt hay không rất đơn
+00:24:01.590 giản là nếu cứ bắt được thì chắc chắn là
+00:24:03.869 sao tốt rồi Em chỉ cần là bạn hàng của
+00:24:07.349 ta phải chịu bắt
+00:24:08.539 bằng bằng điều khiển và tắt cổ sạc thì
+00:24:11.820 trong cái phần video về cách sử dụng thì
+00:24:13.739 các em cũng đã xem cái nguồn tài nguồn
+00:24:16.739 mình tham khảo ở trên YouTube thấy là
+00:24:18.960 trong bé nữa ống xả mở cái nắp ở phía
+00:24:22.440 trước đó là diệt có cái cốc lọc độc lọc
+00:24:25.830 thì chúng ta cần phải bảo dưỡng định kỳ
+00:24:27.509 thì đối với trường hợp là khi tắt cổ sạc
+00:24:29.789 sẽ dẫn tới tình trạng là không sạc được
+00:24:32.159 ví dụ như là cũng may là em để quên tiền
+00:24:35.219 lọt xuống dưới mà gây ra tắt sẽ Hạ Vân
+00:24:37.889 Vân
+00:24:40.549 Vân đối với hiện tượng Thứ Sáu máy giặt
+00:24:43.710 cửa ngang ở chế độ giặt bình thường
+00:24:45.719 nhưng khi chuyển sang chế độ vắt thì kêu
+00:24:48.440 giặt bình thường nhưng cứ để cho nó bắt
+00:24:50.879 thì kêu thì cứ về chưa có mắt từ trong
+00:24:53.159 đó khi bạn sẽ vào mắt thì sẽ vỏ động cơ
+00:24:54.989 làm việc là tốt Cậu nhanh
+00:24:56.629 đồng thời là bơm sản sẽ làm việc
+00:25:00.010 Có gì tôi thấy là một là về cho mắt được
+00:25:03.100 quay Nó tổn nhanh thì do quá tải
+00:25:05.250 vào tua chúng ta là chạy với quay với
+00:25:08.380 tốc độ là cao nhất một số máy con nên
+00:25:11.110 không nhìn 6.000 Tư nghìn hai trăm nghìn
+00:25:14.190 vòng trên phút rơm sản ta có thể bị kẹt
+00:25:17.730 và kê không cân ik không cân thì máy nó
+00:25:21.400 sẽ rung lắc bởi vì quay về quán tính rất
+00:25:23.350 lớn chính như vậy là chúng ta thấy là
+00:25:24.850 trong dòng máy này là người ta phải sử
+00:25:26.980 dụng hệ thống đối trọng Chúng ta rất là
+00:25:28.420 lớn đến này chúng 8B Khanh đối với dòng
+00:25:31.030 máy này là rất bạn ạ Thông thường thì
+00:25:33.100 đối váy máy giặt cửa trước lồng ngang
+00:25:35.230 trọng lượng tối đa trọng lượng tối thiểu
+00:25:37.450 của chúng ta làm trên bằng mấy cân
+00:25:42.510 thì mới đảm bảo còn nếu mà chúng ta mà
+00:25:45.490 dưới bảy mấy cân thì nó nhẹ càng hay bị
+00:25:47.770 rung lắc càng nặng thì càng nhớ nhỉ À
+00:25:51.190 cái dòng máy này Tại sao nó nặng như vậy
+00:25:53.010 Nhìn đều có hai cái khối bê tông để đối
+00:25:55.810 trọng đối với hiện tượng thứ bảy nước
+00:25:58.960 cấp liên tục
+00:26:00.020 anh
+00:26:00.670 không hoạt động thì do hỏng Văn áp lực
+00:26:06.130 hỏng bán nắp hỏng và nát
+00:26:10.810 hoặc là ống xả của chúng ta để để thắp
+00:26:17.080 ống xả ra để quá thấp hỏng cố cáp rời
+00:26:22.100 tắc cáp
+00:26:25.390 hoặc là á
+00:26:28.810 van xả ra đón luôn làm việc bàn sản luôn
+00:26:32.720 làm việc thì luôn xả hoặc là một số
+00:26:36.140 trường hợp này chúng ta kết nối cái ông
+00:26:37.730 xạ của chúng ta bằng ống ren mềm 027
+00:26:40.190 càng kéo đi xa kéo dài thì nó cũng sẽ
+00:26:43.100 dẫn tới một cái tình trạng là khi mà
+00:26:45.410 chúng ta kéo dài thì nó như là một nghĩa
+00:26:47.630 ống tiêu để hút nước thì sạc của bạn tự
+00:26:50.990 mà kéo nhưng được nước vào bên trong ra
+00:26:52.400 thì nước này nước thoát ra và nước cấp
+00:26:55.580 liên tục và không không hoạt động như
+00:26:57.410 vậy à
+00:27:00.029 trà
+00:27:05.869 xanh Cái gì Tưởng
+00:27:08.779 18 đối với hiện tượng 8
+00:27:12.169 thì máy giặt cửa cửa ngang bắt bình
+00:27:15.539 thường nhưng ông dặn thì nguyên nhân của
+00:27:19.320 chúng ta là do hỏng mạch điều khiển do
+00:27:22.590 hỏng khống chế nhiệt độ
+00:27:24.349 hoặc là sẽ đốt
+00:27:29.029 do hỏng động cơ động cơ xăng và máy giặt
+00:27:33.559 không có nước
+00:27:35.539 hỏng ban áp lực và ống thoát của chúng
+00:27:39.749 ta để trẻ hóa thấp ý máy bắt được bình
+00:27:44.099 thường nhưng mà không gặp
+00:27:45.769 đối với hiện tượng thứ 9
+00:27:48.799 máy giặt cửa ngang ở chế độ
+00:27:51.799 nước lạnh giặt bình thường nhưng ở chế
+00:27:54.239 độ nước nóng thì không hoạt động thì cái
+00:27:55.919 này thì trong quá trình học thì thầy
+00:27:57.719 cũng đá phân tích đối với một số dòng
+00:27:59.489 máy là ở lại đun đủ nước thì mới hoạt
+00:28:02.110 động do đó là có thể là do hỏng sẽ đốt
+00:28:04.330 để đun nước nóng hay là học nè khống chế
+00:28:06.280 nhiệt độ đấy là đối với một số các câu
+00:28:10.150 hỏi
+00:28:11.010 một số như các hiện tượng trong cái máy
+00:28:13.420 giặt cửa trên máy giặt cửa trước và Thầy
+00:28:15.910 vừa chia sẻ Rồi cả lớp
+00:28:19.440 bài học của chúng ta thì đến đây là kết
+00:28:22.540 thúc
+00:28:23.790 toàn bộ nội dung của các chương trình
+00:28:27.370 học tủ lạnh thì thấy đã giới thiệu cho
+00:28:30.630 học về máy giặt thì giới thiệu cho cả
+00:28:33.160 lớp thì các em về nhà ôn lại bài toàn bộ
+00:28:36.940 bài học của chúng ta
+00:28:38.790 hẹn gặp lại các bạn vào văn học kế tiếp
+00:28:42.880 Xin chào và tạm biệt

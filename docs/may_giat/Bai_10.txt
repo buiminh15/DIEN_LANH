@@ -1,0 +1,1101 @@
+# tactiq.io free youtube transcript
+# Bài 5 - HD Phân Tích Mạch Điện Điều Khiển Trong Máy Giặt II Dạy Nghề Thanh Xuân 93NT - 0936989090
+# https://www.youtube.com/watch/dWOdMujjVbk
+
+00:00:00.000 Xin Chào anh em
+00:00:01.850 buổi học ngày hôm nay thầy và trò chúng
+00:00:05.310 ta tiếp tục sang bài thứ năm đó là phân
+00:00:08.700 tích mạch điện điều khiển trong máy giặt
+00:00:12.019 thì đối với nội dung của phần này chúng
+00:00:15.120 ta sẽ đi tìm hiểu và phân tích đối với
+00:00:17.340 mạch điện tử đa năng máy giặt cửa trên
+00:00:21.000 và phân tích các mạch đa năng của máy
+00:00:23.250 giặt cửa trước còn đối với một số mạch
+00:00:26.160 của một số thương hiệu thì chúng ta sẽ
+00:00:28.680 được phân tích ở phần trên sâu đó là
+00:00:32.579 phần nâng cao này mạch
+00:00:35.930 thì các em nhìn vào một cái sơ đồ đối
+00:00:39.989 với một cái mạch đa năng thì đối với
+00:00:42.840 mạch đa năng thì đây là hình ảnh mạch đa
+00:00:45.090 năng đã được
+00:00:46.700 bé từ một cái mạch thực tế nhưng đối với
+00:00:49.890 các trường hợp này thì chỉ vé về các cái
+00:00:52.370 đường mà các bạn còn đối với
+00:00:56.809 Còn đối với cái mạch Ừ thì các em nhìn
+00:01:01.719 đây là cái mặt t
+00:01:03.570 đối loại mạch này thì chúng ta đang được
+00:01:06.430 dùng để lắp đặt cho máy giặt cửa trên
+00:01:10.390 cùng đứng loại mạch loại máy mà tao còn
+00:01:14.979 được gọi là mạch môn đô
+00:01:16.950 đối loại này khi mà đối với mạch nguyên
+00:01:20.680 bản của nhà sản xuất thì hầm nếu chúng
+00:01:23.409 ta không có
+00:01:24.539 mạch để chúng ta thay thế thì trường hợp
+00:01:27.250 này chúng ta sẽ sử dụng một mạch đa năng
+00:01:30.450 sử dụng bạch đa năng để chúng ta tiến
+00:01:33.369 hành chúng ta like nắp vào bên trong
+00:01:38.909 đầu tiên các em nhận dạng đối với một
+00:01:43.659 cái mạch
+00:01:44.549 tính nhận dạng một cái mạch
+00:01:49.979 của chúng ta
+00:01:54.509 thì đối với mạch của chúng ta thì bây
+00:01:57.490 giờ là thứ nhất là bên tay tay trái của
+00:02:01.820 chúng ta thì có cái chân giắc cắm chân
+00:02:04.670 rất cám này
+00:02:06.159 thứ nhất
+00:02:08.019 nhất đời chúng ta có chất nguồn vào chân
+00:02:13.640 nguồn ra đang thì chân ra các dịch vụ
+00:02:15.860 tài chính đối với các thể chân ra các
+00:02:17.959 dịch vụ tài
+00:02:20.440 chính thứ nhất
+00:02:22.390 là cái chân mà người ta có kí hiệu là
+00:02:25.670 cái công tắc
+00:02:27.190 chân và có ký ở công tắc này
+00:02:30.280 thì thứ nhất là nguồn đây chính là dây
+00:02:33.110 nguồn cấp trước
+00:02:34.209 một danh nguồn 200m vào
+00:02:37.150 đi vào chữ đứng chờ chân Rơle và da Zara
+00:02:40.310 sẽ được cấp trước cho Vẫn tài chính như
+00:02:42.500 vậy là buổi học trước thì thấy có giới
+00:02:44.720 thiệu với cả lớp là chúng ta sẽ quan sát
+00:02:46.579 đối với tây chung là dây chung là dây có
+00:02:50.390 một màu sắc Trung để nối giữa các phụ
+00:02:52.549 tải trong đó là ban cấp van xả động cơ
+00:02:54.650 vân vân
+00:02:57.250 tắc thứ hai à
+00:03:00.030 Ừ
+00:03:01.100 nó tương ứng là sắc thứ ba đấy rắc Thứ
+00:03:03.810 hai qua cái ô vuông này thì bây giờ là
+00:03:05.910 chắc là chính diện và giặt thứ 3 từ dưới
+00:03:08.730 lên thì đây chính tả van xả ban xả nước
+00:03:12.330 đối với Văn xả sử dụng 220v mình chia
+00:03:15.270 tay Kết hợp nhất là rắc số 3 với các số
+00:03:18.120 2 còn nếu là dùng ba sản DC thì chúng ta
+00:03:21.720 sẽ được kết nối với hai giấc DC qua cầu
+00:03:24.239 nắng ngốc chắc thứ tư thì đây chính là
+00:03:27.810 phụ tải này chính là phụ tải
+00:03:29.690 Van cấp nước và đây là người ta sử dụng
+00:03:31.950 ban đơn thì chắc thứ tư này kết hợp với
+00:03:34.830 sắc thứ
+00:03:35.989 thứ 2 từ dưới lên thì đây chính là Giấy
+00:03:39.690 chung ra Rơle và dây da tay
+00:03:43.670 và Chắc thứ năm và Chắc thứ sáu thì đây
+00:03:47.130 chính là 2 giắc nối với động cơ chính
+00:03:49.080 gây chân chạy vào chân đề để cái động cơ
+00:03:51.000 là quay phải quay trái có ký hiệu là con
+00:03:52.680 tụ động cơ
+00:03:54.230 và sắc Thứ 7 từ dưới lên hay là rác
+00:03:57.900 ngoài cung này từ trên xuống đến em vừa
+00:04:00.640 điều khiển sẽ đi vào các tay chân tê 1
+00:04:03.580 của cá chép phía bên tay phải chúng ta
+00:04:06.430 có cặp đôi cũng có ký hiệu là một cái
+00:04:09.700 biển thì đây chính là công tắc cơ và rác
+00:04:13.000 ba chân này thì đây chính là giá của
+00:04:17.039 cảm biến mất nước hay còn gọi là Pháp
+00:04:19.329 Lực con còn gọi C giải mã phao với xe vi
+00:04:22.750 xử lý và thạch anh ở tụ lao động trở
+00:04:26.050 thành Anh và các cái
+00:04:28.139 bóng bóng bàn dẫn này sẽ điều khiển cho
+00:04:32.500 chép trong bốn chép và điều khiển cho
+00:04:34.600 cuộn dây của Zara thì ta đang nhìn vào
+00:04:36.610 đây chúng ta Thế là có
+00:04:39.389 2 3 4 5 6 thì trong đó là 4G ee-44 Xét
+00:04:45.190 một gen 5 vào một linh kiện thì nó chính
+00:04:47.710 là AC DC tại ACB ACB Xin lỗi d785 để tạo
+00:04:52.630 ra cái nguồn 5V có tủ lọc nguồn biến áp
+00:04:54.930 Rơle
+00:04:57.090 bo mạch điều khiển và chúng ta có ở dưới
+00:05:00.669 đã khoan sắt thì khi mà Lật Ngửa lên thì
+00:05:03.530 làm quan sát trong đó
+00:05:05.949 quan sát thì mọi người nhìn vào đây
+00:05:08.050 thành sẽ phân tích và chúng ta sẽ phân
+00:05:10.729 tích là phong cách ra thì thứ nhất là ra
+00:05:14.120 nguồn cấp trước
+00:05:15.099 đây nguồn cấp trước
+00:05:17.530 thứ nhất đây là dây nguồn cấp trước này
+00:05:20.270 như thế nào Người ta gọi là cấp trước
+00:05:21.650 cấp trước là được đi thẳng tới tất cả
+00:05:23.509 tay thì vào trận chung của Rơle 4 chân
+00:05:26.599 này thì đây chính là bốn chân của Zara
+00:05:28.449 hai chân này là hai chân của cuộn dây
+00:05:30.530 của Rơle tiếp điểm của ta là kết tiền
+00:05:33.169 thưởng từ chân Trung này sang chân gia
+00:05:34.639 này đây chỉ cho tiếp điểm thường mở thì
+00:05:36.740 Piranha làm việc thì chân ra sẽ đi vào
+00:05:39.500 cái cầu nối dây 4 nút này thì 4 lốc này
+00:05:42.800 Đây đây chính là cái cầu nối dây để tạo
+00:05:45.500 ra điện DC để cấp cho ban ban sản đồng
+00:05:49.009 thời đi vào cái tắc thứ hai dưới lên
+00:05:52.009 trên thì chúng ta thà vừa giới thiệu đây
+00:05:53.900 chính là danh-sắc thứ hai tên chính là
+00:05:57.009 đặc trưng để cấp trước và Đồng thời qua
+00:06:01.800 cầu chì nét nhỏ
+00:06:03.830 thì đây chính là qua cầu chì để vào sơ
+00:06:06.660 cấp biến áp
+00:06:08.240 danh một điều khiển dây nguồn điều khiển
+00:06:11.430 thì cứ ba chân Hàn to này thì đây chính
+00:06:14.010 nào chép này trong đó là vào chân T1 của
+00:06:16.710 chép một ra của F1 vào chân rắc thứ hai
+00:06:20.670 là chân giác của động cơ vào chân T1 của
+00:06:23.550 chép hay ra của chap 2 điều khiển cho
+00:06:26.580 động cơ thì Z1 và Z2 vấn lắp lá nhôm tản
+00:06:30.000 nhiệt thì đây chính là hai chắc điều
+00:06:31.650 khiển cho động cơ quay phải quay trái
+00:06:33.210 tiếp tục vào chân T1 của spa
+00:06:37.130 chân T2
+00:06:38.990 van cấp nước
+00:06:41.210 vào chân T1 của Z4 thì ra chân
+00:06:46.610 t1ac nó vào chân T1 của chap 4 thì ra
+00:06:49.290 chân của Chép 4 chính là chân t200t hay
+00:06:52.620 thì vào cầu ngắn nhốt và tạo ra đưa ra
+00:06:55.920 rắc thứ 3 từ dưới lên đây chính là của
+00:07:00.009 Xe
+00:07:00.990 van xả Nếu là sản DC Hãy là xã Ace đồng
+00:07:05.020 thời thì cũng vào sơ của cái nắp bạn nối
+00:07:07.539 với chân ba của 7805 đây là 785
+00:07:11.430 đối nguồn 12V
+00:07:15.210 nguồn 12V thì ta nhìn vào đây thì đây
+00:07:18.009 chính là thứ biến áp thứ biến áp qua bộ
+00:07:22.210 cầu ngắn đây đây chính là bộ cầu nắm
+00:07:24.069 ngốc ý được tụ lọc nguồn để tạo ra cái
+00:07:27.699 nguồn 12V thì cái nguồn 12V này thì nó
+00:07:30.339 đi đâu gấp cái gì
+00:07:33.839 chúng ta để ý là đẹp chúng ta sẽ phân
+00:07:37.569 tích nguồn thứ nhất là cái nguồn 12V thì
+00:07:40.139 chúng ta thấy này
+00:07:42.149 cấp vào chân 1 của 7805 7.1 này nguồn
+00:07:46.899 12V đi lên trên này
+00:07:48.629 để cấp và cuộn dây của Sara ra cuộn dây
+00:07:51.789 của Zara đứng chờ trấn chân C của bóng
+00:07:55.089 quý 4
+00:07:56.490 giờ cái nguồn 5V là chân ba của 785 Lần
+00:07:59.740 Giang từ 5V của chúng ta thì lần lượt
+00:08:02.180 được lại đi chung với nguồn 200V để cho
+00:08:05.419 Mở xem xét thì B1 sẽ thông sân golf
+00:08:09.220 quá trời để đi về có thể bóng
+00:08:13.659 thì cái nguồn 5V đi về khu vực Vi xử lý
+00:08:16.430 là vào chân 15 ngồi xe đây cái nguồn 5V
+00:08:20.680 Anh vòng lên đây để cấp cho dẹp cấp cho
+00:08:24.590 coi rồi cấp phần chân 14 mỗi xe khách
+00:08:27.349 chạy Lào cấp cho mạch khởi động gọi C
+00:08:31.029 và chúng ta sẽ phân tích để các cái
+00:08:33.169 đường ra thì chúng ta sẽ nhìn vào cái
+00:08:35.479 mạch thực tế thì vé lại thì cái này thì
+00:08:38.870 thấy vé chi tiết từ chính cái mạch thì
+00:08:41.450 ta sẽ phân tích chúng ta sẽ dễ dàng hơn
+00:08:45.040 đối với phân tích về mạch điều khiển
+00:08:47.570 điện tử thì cũng giống với ở phần
+00:08:51.610 điều hòa thì bước 1 là các em phải nhận
+00:08:54.320 dạng được cho thấy bé về mạch bớt giữa
+00:08:56.779 hai bước thứ 2 sook ạ Sau khi nhận dạng
+00:09:01.260 về mạch thì chúng ta sẽ phân tích đối
+00:09:03.690 với những nguồn 220V thì đối với nguồn
+00:09:06.780 220V chúng ta phân tích Cả hai đó là
+00:09:09.690 được chia ra làm dây nguồn cấp trước và
+00:09:11.430 dây nguồn điều khiển và Thông thường thì
+00:09:13.470 tùy thuộc theo nguồn nguồn của chúng ta
+00:09:15.450 là nguồn thường hai đầu nguồn chung vậy
+00:09:17.790 chúng ta phải biết được là nó bắt buộc
+00:09:20.370 là tất cả hai nguồn được về vào sơ của
+00:09:21.780 Nguyên áp
+00:09:22.820 giờ đối với
+00:09:24.770 nguồn DC ra mắt chung thì chúng ta chỉ
+00:09:27.990 Phân tích nguồn dưỡng thôi và chúng ta
+00:09:29.970 sẽ đi phân tích các điều kiện khi xử lý
+00:09:31.860 làm việc thì vẫn đăng cái điều kiện một
+00:09:33.720 là nguồn nuôi cho C thứ hai là thành anh
+00:09:35.910 giá Lộc thứ ba là mạch khởi động 4 là
+00:09:38.910 các ngành đường tín hiệu báo bảo vệ và
+00:09:41.070 từ năm là các đường tín hiệu đó đi đối
+00:09:43.500 với những mạch thì thấy vé nó cũng bệnh
+00:09:46.290 mờ không như lấy mạch kim chỉ như vậy là
+00:09:49.260 các em mà nó quan Sắt đấy vào thầy sẽ
+00:09:51.930 phân tích thứ nhất này
+00:09:55.010 ra nguồn 220V vào này là C này Đầu tiên
+00:09:59.790 là Anh chỉ vào sơ của biến áp
+00:10:01.920 tiếp tục đứng chờ chân Rơle
+00:10:05.430 khi da đen này làm việc thì ra đóng tiếp
+00:10:08.710 điểm ra của Xayda cấp vào
+00:10:12.510 cầu nối dây Nội để cấp vào yêu cầu để
+00:10:17.500 tạo ra nguồn 200vdc cho sản DC và ra cái
+00:10:21.250 tắc 82 từ cái giắc cắm này sẽ kết hợp
+00:10:23.890 với thứ nhất là đường ống xả là đường ra
+00:10:26.710 ra là lệnh ra của chiếc thì ta thấy là
+00:10:29.890 xạ này ban cấp động cơ
+00:10:33.550 [âm nhạc]
+00:10:34.920 tiếp tục
+00:10:37.110 đối với ra ngoài điều khiển
+00:10:41.190 là IC IC điều khiển vào chân T1 của chép
+00:10:47.190 Nhật ký ghi chép có dòng kích T1 chảy
+00:10:50.590 xăng cờ tức là nhắc lại đối với chat của
+00:10:53.470 chúng ta thì điều khiển nguồn điện xoay
+00:10:55.030 chiều có tài nhưng phải có nguồn 1 chiều
+00:10:57.490 điều khiển
+00:10:58.260 khi mà T1 thông T bộ điều khiển cho động
+00:11:01.999 cơ quay wi-fi
+00:11:04.300 tiếp tục
+00:11:06.459 đi vào chân T1 của chép hai chân tê hai
+00:11:10.480 điều khiển động cơ quay trai
+00:11:13.540 đi vào chân T1 của
+00:11:16.149 z3c hai của jasper điều khiển cho bán
+00:11:19.309 cấp nước vào chân T1 của Z4 chân T2 của
+00:11:23.660 chap 4 điều khiển van xả nước Nếu đồng
+00:11:27.949 thời vào cầu đi ốt để tạo ra DC Nếu
+00:11:31.040 chúng ta sử dụng quan giá hút cho game
+00:11:32.809 sử dụng 2 giác ở bên trên Nếu chúng ta
+00:11:35.689 sử dụng IC chúng ta rất thứ hai là dây
+00:11:38.749 da của Zara được nối với chân ra của
+00:11:41.329 chép bốn
+00:11:42.220 bán cấp nước chúng ta kết nối giữa Chai
+00:11:46.399 số 2 là giai cấp trước của Zara nối với
+00:11:49.839 chân T2 tức là giắc cắm nối với chân tế
+00:11:53.269 hay của chép ba
+00:11:54.970 dịch đối với động cơ thì Jack gió hay là
+00:11:59.720 xa nó
+00:12:00.740 được nối với chân chung của động cơ
+00:12:03.560 thì đây là đối với nguồn 220V đồng thời
+00:12:09.200 từ ngã ba
+00:12:11.600 nối với chap 4 thì đi tiếp lên trên thì
+00:12:14.580 chúng ta thấy là báo sớm biến áp đồng
+00:12:16.920 thời Nối chung với nguồn 5V thì chính
+00:12:19.620 các bệnh lệch cái nguồn 5V là nơi có
+00:12:21.630 những áp thấp của chúng ta đang được nối
+00:12:23.430 với nguồn 200 V thì cái nguồn này một số
+00:12:27.090 thì người ta được gọi là nguồn nguồn chở
+00:12:29.820 khách đi Thế nên nếu mà chúng ta sờ vào
+00:12:31.620 cái khu vực là 5V là bị dập do đó là Đổ
+00:12:34.740 keo chống ẩm vào và rất là nguy hiểm đối
+00:12:38.490 với cái mạch này nếu mà chúng ta sờ vào
+00:12:40.230 cái phần điện áp thấp
+00:12:42.800 tiếp tục
+00:12:44.570 đặt Đấy cái nguồn 200 vôn bây giờ chúng
+00:12:47.580 ta sẽ phân tích cái nguồn 12vdc để nhận
+00:12:50.670 dạng để biết được cái nguồn 12vdc xuất
+00:12:52.740 phát từ đâu thì chúng ta cần phải biết
+00:12:54.390 được sơ của biển biến áp thứ của Viện áp
+00:12:57.870 ta cần phải biết đặt biến áp Anh tặng em
+00:13:00.790 mà để ý và bên thứ thì trong đó là đầy
+00:13:03.370 là hạ áp thì sơ cấp sẽ có cái giá trị
+00:13:05.830 điện trở lớn hơn thứ gì thứ cấp sẽ tạo
+00:13:10.300 ra nguồn AC là 12V AC qua bộ cầu ngắn
+00:13:13.900 nhốt thì tạo ra nguồn 12V DC thì đây là
+00:13:16.930 một trong những mình thất tạo ra nguồn
+00:13:18.670 DC
+00:13:19.710 ổn định và ổn định của chúng ta là ổn
+00:13:22.780 định với những nguồn 12V
+00:13:24.960 nguồn 12V
+00:13:27.450 nguồn 12V lúc này được tụ lọc nguồn và
+00:13:32.890 cụ của chúng ta là tụ 1000uf 25v
+00:13:37.200 nguồn 12V chạy qua cuộn dây của Zara
+00:13:39.760 đứng chờ trên xe của bóng quy 5 ván D5
+00:13:43.240 Lúc này làm nhiệm vụ thoát dòng chống
+00:13:46.360 xung ngược để bảo vệ cho cuối năm thì
+00:13:50.050 đối với D5 của chúng ta thì tao biết
+00:13:52.510 được là khi nào thì nó dẫn AK thì khi
+00:13:55.240 điện áp và của lớn hơn ok 3 - Hồ ca lớn
+00:13:58.630 hơn 1 bằng 0,75 chị
+00:14:00.670 sẽ làm việc
+00:14:04.059 nguồn 12V được cấp và chân 1 của IC 7805
+00:14:08.410 chúng ta sẽ phân tích nguồn 5V thì cái
+00:14:11.899 nguồn 5V là chúng ta phải xét ở trận 3
+00:14:13.550 còn 7805 lúc này cái nguồn 5V
+00:14:16.629 nguồn 5V của chúng ta sẽ lần lượt
+00:14:20.529 đi Vào các cái chân T1 của Chắc trong đó
+00:14:26.799 vào chân T1 và chảy sang chân giờ quay
+00:14:30.829 trở 100ohm đứng chờ chân C của bóng quy
+00:14:33.410 một
+00:14:35.110 Tiếp tục vào chân T1 và chảy thông xăng
+00:14:38.660 dầu qua trả 100 đứng chờ chân C12 lúc
+00:14:42.739 này nếu bóng bán dẫn của chúng ta chưa
+00:14:43.999 Làm việc thì điện áp ở chân C này còn ta
+00:14:46.189 đang là điện áp để áp cao là 5V
+00:14:49.959 nguồn 5V
+00:14:51.910 vào chân T1 và trải qua G Quay trở
+00:14:55.999 100ohm đứng chờ chân C của bóng quỹ ủy
+00:14:58.639 ban nghĩa bệnh viện phim cấp3 lúc này là
+00:15:02.310 5V
+00:15:03.260 vào chân T1 chạy xăng g qua trả 100 và
+00:15:07.050 lúc này của chúng ta cũng đứng ở chân C
+00:15:08.610 của quý vì bốn và lúc này cứ 4 của chúng
+00:15:11.970 ta cũng có giá trị là điện áp là 5V
+00:15:15.980 và Chỉ đợi khi lạnh nhận được lạnh từ ít
+00:15:19.320 xe vi xử lý thì lúc này bóng bán dẫn ra
+00:15:21.720 cái bóng điều khiển cho phép này sẽ có
+00:15:23.580 dòng chảy xe mà khi con rằng chạy xe thì
+00:15:25.620 làm sao điện áp ở chân cờ và khi điện áp
+00:15:27.720 ở chân gà xôi thì lúc này T1 sẽ không
+00:15:29.610 gian tt2 và thứ hai không sang tên bột
+00:15:31.470 mà chỉ cần nó mất cái dòng tích và chân
+00:15:34.050 gà không còn dòng chảy T1 xăng dạng g
+00:15:36.210 thì lúc đó là chép nhờ vào thay đổi về
+00:15:38.820 về điện áp của T1 và T2 đúng để mình sẽ
+00:15:42.240 cấm
+00:15:43.850 nguồn 5V đi vào khu vực xử lý khu vực
+00:15:48.660 điện áp thấp trong đó sẽ cấp 115 đánh
+00:15:51.090 trận này thì 115
+00:15:52.700 sơ cấp và chân 15 tuổi xe vi xử lý à
+00:16:00.010 hỗ trợ cấp và chân 15 của ICD xử lý
+00:16:02.670 tiếp tục này thì lúc này chúng ta thấy
+00:16:05.590 là cấp cho coi
+00:16:06.900 rồi cất vào mạch khởi động cho C là chân
+00:16:10.000 số năm qua trả 10k
+00:16:11.790 vàng và tụ 104 cấp 165 và cấp 114 Mình
+00:16:16.960 sẽ phải làm
+00:16:18.150 đấy là cái nguồn 5V
+00:16:20.790 chúng ta sẽ phân tích vào các điều kiện
+00:16:23.200 IC vi xử lý làm việc thứ nhất từ nguồn
+00:16:26.230 nuôi cho xe Dương 5V - 15 mát của thứ
+00:16:30.910 hai chân sau
+00:16:31.890 thành ra đậu là chân 16 và 17 nó biến
+00:16:35.860 thành anh Anh Đây là thành canh hai chân
+00:16:38.220 bà có bốn B và có tục dao động
+00:16:43.860 trong thành anh và lúc này giữa hai chân
+00:16:47.200 của Thành anh con lắc của phong trào 47
+00:16:48.730 cân bằng tín hiệu dao động với hai chân
+00:16:50.970 mạch khởi động là chân số 5 là làm chậm
+00:16:55.150 để đáp chúng ta thấy là một nhịp so với
+00:16:57.850 nguồn nuôi lúc này cái nguồn 5V Xin chào
+00:17:00.679 10k thì cấp 765 nhưng mà cái tụ chính
+00:17:03.019 cái tụ 104 để đứng trước này nè sẽ kéo
+00:17:06.199 rút cái điện áp này để làm mà khi nạp
+00:17:08.089 đầy thì chân xuống năm để có điện áp
+00:17:09.829 nhưng mà chúng ta thấy là chậm hơn so
+00:17:11.750 775 là chân nguồn nuôi một ghim thì
+00:17:14.148 người ta lấy cái quá trình là sự chậm
+00:17:17.659 điện áp đó để kích mồi chó đi xử lý
+00:17:21.369 làm việc và bây giờ thì chúng ta sẽ phân
+00:17:24.169 tích về các đường tín hiệu báo pin mà
+00:17:25.609 bảo vệ đối với báo về thì là tín hiệu là
+00:17:29.480 điện áp tín hiệu xung số và ta luôn luôn
+00:17:31.490 có sự thay đổi và lúc này người ta lấy
+00:17:33.049 sự thay đổi đó so sánh với những gì được
+00:17:35.809 cài đặt ở bên trong vi xử lý thì nếu
+00:17:38.120 chung thì lúc này sẽ xuất lạnh làm việc
+00:17:39.740 và Nếu sai thì lúc này có thể xảy ra
+00:17:41.330 được báo lỗi Còn đối với các đường tín
+00:17:43.700 hiệu báo đi thì đừng đưa ra một chút mất
+00:17:45.529 điện áp một mức xung số để lạnh điều
+00:17:47.720 kiện cho cán dài qua khối điều khiển
+00:17:50.510 nguồn DC có điều khiển nguồn AC
+00:17:53.529 thì đầu tiên được cho tôi nhìn với C1
+00:17:55.610 thì chất một thì chúng ta thấy cái nguồn
+00:17:57.770 5V của chúng ta đi qua trả 10k qua chào
+00:18:00.029 Ừ thì lúc này sẽ khó chở đi Thiên là
+00:18:05.659 330 nhà cấp 7 trong số một và trong đó
+00:18:08.039 có chở 150 đến 150 đứng chờ hai đầu của
+00:18:10.739 công tác lò xo nát trò này là trận pháp
+00:18:12.119 như vậy khi mà chúng nó đóng cửa thì làm
+00:18:14.369 cho nó điện áp phần ta làm sẵn áp mát sẽ
+00:18:16.259 bớt được áp điện áp thấp bằng sự khi mà
+00:18:18.330 chúng ta mở cửa thì điện áp
+00:18:20.570 dâm dâng lên thì như vậy để xem số một
+00:18:23.489 đây chính là tín hiệu báo về của công
+00:18:25.019 tác cơ đồng thời
+00:18:26.599 còn cấp cho dẹp được tín hiệu xung số
+00:18:29.789 điện áp là điều khiển cho đèn led báo
+00:18:31.499 mất nước trung bình là Building như vậy
+00:18:34.289 chân số 1 là vừa là thí nghiệm máu đi
+00:18:35.609 vừa là thí nghiệm bảo vệ trong số hai
+00:18:39.289 chân số 2 của chúng ta thì được nối với
+00:18:42.019 đèn xinh tennis sinh thì đây Chính Đà
+00:18:45.919 đèn báo chế độ giặt và đồng thời đứng
+00:18:48.509 chờ chân của công tác Sharp thì đứng chờ
+00:18:51.389 chân của công tác mở start thì khi mà
+00:18:53.700 chúng ta ấn vào công tác thì được nối
+00:18:56.159 với chân sông 1 của Jack connects nối 1B
+00:18:59.519 Thìn dù là 1k flash format như vậy khi
+00:19:02.590 mà chụp lại ấn vào cái công tác start
+00:19:04.000 này thì lúc này làm cho cái điện áp của
+00:19:05.950 ta bị sốt và khi mà sẽ bỏ tay ra đình ép
+00:19:08.560 phải Dâm như vậy chúng ta thấy lại đây
+00:19:10.480 chính là tín hiệu báo về của công tác
+00:19:12.040 Sharp ông ta kfw2 và đồng thời là bảo đi
+00:19:14.830 Bảo Sơn cái đèn led báo chế độ giặt đang
+00:19:17.590 làm việc hay đưa thì tín hiệu xung thì
+00:19:19.720 chúng ta biết được là khi mình tao bạn
+00:19:21.250 hàng máy thì chế độ nào làm việc thì chế
+00:19:23.320 độ đó sẽ nhấp nháy đen hãy chế độ nó sẽ
+00:19:25.660 nhấp nháy đen chân số 3 chân số 3 này
+00:19:28.900 cho anh ấy là qua trở 330 đối với sân
+00:19:31.810 bay thì chân mày của ta thì ta thấy là
+00:19:33.880 chỉ cấp vào cho thèm nét báo mức nước
+00:19:36.460 thấp là lâu anh lại lâu
+00:19:39.750 chân số 4 tỉa đưa cái tín hiệu data là
+00:19:44.020 đưa cái Liệu sung thì ở trong
+00:19:46.320 xử lý tín hiệu phao giải mã phao thì
+00:19:50.110 đang sử dụng là 4069
+00:19:52.560 hef4069 thì lúc này sẽ gấp thì sung sung
+00:19:56.650 sim vào màn áp lực và lại nói chuyện từ
+00:19:59.740 cái em thì hiểu ra là chuyển từ rung
+00:20:02.270 rinh sánh súng vuông để đưa về IC lúc
+00:20:05.270 này chân số 4 là chân Data là được ký
+00:20:06.980 hiệu xung đây chân số 7 là chân ký hiệu
+00:20:10.490 báo đi đưa một mức điện áp định Thiên
+00:20:12.110 vào Quay trở 47k đỉnh Thiên vào trong
+00:20:15.290 quý 4 thì khi quý 4 này dẫn có dòng chảy
+00:20:17.990 xe thiếu này làm sụt cái nguồn 5V của
+00:20:21.470 chúng ta sống mát thế này T1 thông T2
+00:20:23.570 thì cấp nguồn cho động cơ máy bay phải
+00:20:26.570 cần số
+00:20:29.560 tắm buổi xe vi xử lý thuộc tín hiệu báo
+00:20:32.510 đi quay trở 47k thiên vào chân B của
+00:20:35.900 bóng quý dì Ba lúc này có dòng chảy xe
+00:20:39.140 và khi có dòng chảy xe thì T1 thông T2
+00:20:42.500 những nguồn 5V món này bị sốt thì khi đó
+00:20:45.560 là t1 thông T2 sẽ điều khiển cho động cơ
+00:20:47.450 quay của chạy
+00:20:49.240 tiếp tục là chân số 9 của vi xử lý đưa
+00:20:53.660 một mất điện áp báo đi Hãy đưa một mức
+00:20:56.210 xung điện áp báo đi mà qua trở 47k điên
+00:20:58.970 mà chất B một mí Ê mày có dòng e Thì nó
+00:21:02.190 đè trong bia thì nó gọi là dòng điều
+00:21:03.779 kiện sẽ có dòng xe khi đó có dòng xe thì
+00:21:07.139 có dòng chảy từ T1 sân gò của cheker hãy
+00:21:10.499 qua trên 100 đến khi đó là chép Ba sẽ
+00:21:12.989 làm việc T1 thống thông T2 cấp nguồn cho
+00:21:16.229 bán cấp nước dưới chân số 10 của vi xử
+00:21:18.929 lý xuất điện áp ra Quay trở 47k định
+00:21:21.119 Thiên MHB của cu một lúc này có dòng
+00:21:23.190 chảy xe
+00:21:24.259 thì kéo sụt cái điện áp 5V ở sân giờ tao
+00:21:28.619 xuống mát Anh nói cách khác là có dòng
+00:21:30.119 chảy từ T1 xăng dầu do đó T1 thông T2 sẽ
+00:21:34.019 điều khiển chó bán sản chân 10
+00:21:38.659 11 đưa điện áp vào đi qua trả 47k định
+00:21:43.109 thiện mà Trầm Bê Của Quý 15 lúc này có
+00:21:45.659 dòng be thì cũng điều khiển sẽ con dòng
+00:21:48.690 xe là dòng lệnh dòng lệnh điều khiển này
+00:21:51.210 thì có sẽ dòng điều khiển sẽ có sự sụt
+00:21:53.779 Anh ở có cái nguồn có cái nguồn điện
+00:21:56.700 trải qua rơ le sinh nhật từ trường và
+00:21:59.789 khi ở trường thì à đóng tiếp điểm Tải
+00:22:03.130 chúng ta sẽ hoạt động chân 12 bò trên 13
+00:22:06.780 13 là chân cấp mát đưa mát da nước mắt
+00:22:11.680 ra cái nguồn 04 nước mắt ra để cấp và
+00:22:14.080 cho toàn bộ đèn đèn chích
+00:22:17.220 kênh 14 là chân đưa tín hiệu báo đi nổi
+00:22:21.220 mắt cấp mắt cho vòi
+00:22:23.880 chân 17
+00:22:26.340 16 17 thạch anh
+00:22:28.860 15 lại nguồn 18
+00:22:33.720 Chân 18 chỉ đưa nhất là nối với đèn led
+00:22:39.700 pin pin thì pin là chế độ bắt và đồng
+00:22:44.380 thời nối với công tác What the liver
+00:22:46.680 lỗi công tác này là khi là công tác hờ
+00:22:50.230 khi mà Sợ ấn vào công tác thì cũng có sử
+00:22:52.030 dụng snapeee lại có sự ship đưa về cái
+00:22:55.720 số một tí như vậy là chân số 18 thì vừa
+00:22:57.820 là tín hiệu báo đi Vừa làm bảo vệ em về
+00:23:00.740 của công tắc cho nước nước và bảo đi cho
+00:23:03.830 cái đèn led báo chế độ vắt chân 19 thì
+00:23:07.640 có nối với công tác chức năng là fw 3 và
+00:23:11.900 vào cái đèn led là diện để đem Giúp dân
+00:23:14.660 sơ dinh dưỡng đúng không Thì lúc này đi
+00:23:17.840 cho thấy là
+00:23:19.660 khi mà Sợ ấn vào công tắc fw3 thì lúc
+00:23:22.940 này cũng có sự sụt áp này thì đây chính
+00:23:26.060 là đơn ký hiệu bảo về có điện áp thay
+00:23:27.500 đổi và khi mà không ấn vào công tắc thì
+00:23:30.500 lại báo chế độ dù trận 20
+00:23:33.940 thì có nối với đèn bóng nước cao là hay
+00:23:38.390 và có đối với cái công tắc là power là
+00:23:42.290 fw môn như vậy Trần 20 Cũng là vừa là
+00:23:46.250 tín hiệu báo đi vừa là tín hiệu báo về
+00:23:47.960 thì đấy là đối với cái mặt mà thầy đã vé
+00:23:51.260 trực tiếp từ trên cái mạch đã năng là
+00:23:55.490 như thế này đầy đủ và bây giờ chúng ta
+00:23:58.430 sẽ á bóc tách ra thì ở đó là cái khối
+00:24:01.619 điều khiển phụ dài
+00:24:03.649 đi là các đứng lạnh của visa đi ỉa cái
+00:24:07.019 nguồn của chúng ta thì nguồn cấp trước
+00:24:08.759 là sẽ đi qua vào Rơle
+00:24:11.059 anh còn điều nguồn vào này bảo biến áp
+00:24:14.340 này chân của Rơle da của da đen của
+00:24:18.239 chúng ta sẽ cấp và chân chung của động
+00:24:19.619 cơ sở van cấp nước cậu ở văn giả Thì cái
+00:24:22.409 dây lệnh điều khiển của ta đều là chân
+00:24:24.210 T2
+00:24:25.279 trong đó là đối với - 150 mà cụ 103 mắc
+00:24:29.519 nối tiếp thì đây chính là mạch rập xung
+00:24:32.009 yếu Cao tân
+00:24:36.229 bà đối với lạnh thì từ vi xử lý thì đều
+00:24:38.789 qua trả 4k mây hãy định thêm vào cái
+00:24:41.489 bóng thì khi cái bóng này có dòng kích
+00:24:44.039 là B B E sẽ có dòng chạy xe làm xôi cái
+00:24:47.190 nguồn của Star là nguồn từ chân T1 chải
+00:24:50.519 răng đo lại nguồn 5V thì xuống mát thì
+00:24:53.909 đây là khối điều khiển nguồn vụ tài tử
+00:24:57.690 vi Xử lý CPU thì người ta đang sử máy
+00:25:00.070 cắt chép
+00:25:03.960 bóc tách ra thì đây là khối nguồn suối
+00:25:07.210 nguồn đi chứ làm bóp biến áp và với
+00:25:10.240 nguồn AC và biến áp và cầu nhốt thì lúc
+00:25:13.810 này là sẽ tạo ra đối với ngoài nguồn AC
+00:25:17.320 thì ta thấy là đây chính là cái nguồn
+00:25:18.850 12V DC được nguồn 5V như nguồn 5V thì
+00:25:22.240 cấp ở CPU
+00:25:27.120 về phân tích thì thứ nhất là các em ghi
+00:25:29.890 về mặt nguồn nguồn 220V
+00:25:34.350 nguồn 220V thì dây cấp trước tiên
+00:25:40.230 quạt đi qua cầu chì để cấp và sơ cấp
+00:25:43.630 điện áp và đồng thời tới chân chung của
+00:25:45.610 Zara
+00:25:47.220 thì da của Zara
+00:25:49.470 sẽ được cấp vào cho từ D8 chờ đến tuần
+00:25:53.200 đến năm cho đến lên 8 là cầu đi ốt để
+00:25:57.190 cấp xe tải Van sản là A 200vdc
+00:26:02.080 và đồng thời ra một cây sắt cập vào cái
+00:26:04.970 giắc cắm này sẽ cấp trước cho toàn bộ
+00:26:06.620 của cải Ace
+00:26:09.040 thứ hai là danh còn điều khiển
+00:26:11.800 đến lần lượt đi vào các hai chân tê 1
+00:26:14.840 của 4 chép đi vào các tay chân tê 1 của
+00:26:17.570 4 Chắc trong đó
+00:26:19.930 Z1 Z2 Z3 Z4 chap 1 chap 2 để điều khiển
+00:26:26.060 cho động cơ để đảo chiều quay của động
+00:26:28.700 cơ máy phải mà quay trái giờ cái phần
+00:26:31.400 động cơ thì đầy ra giới thiệu của chúng
+00:26:33.650 ta đá quan sát giờ xem
+00:26:38.470 [âm nhạc]
+00:26:39.850 và check 3 điều khiển cho ban cấp nước
+00:26:42.740 xét 4 điều khiển cho van xả nước trong
+00:26:46.160 đó có xả AC và xả DC
+00:26:49.780 đồng thời cấp và sơ cấp điện áp
+00:26:54.010 cấp bao sơ cấp điện áp
+00:26:56.980 và phật xin lỗi đ Mở ra thấy là gì
+00:27:03.139 dây nguồn điều khiển công vào sơ cấp
+00:27:05.399 biến áp
+00:27:06.259 và cấp vào chân số 3 của 7805
+00:27:11.869 đấy là cái dây nguồn 220V điều khiển
+00:27:26.899 đang buồn 12V
+00:27:29.690 từ thứ cấp biến áp
+00:27:32.330 lấy răng nguồn 12V AC
+00:27:35.629 qua cầu nắm nhốt từ D1 tới D4 sẽ lấy ra
+00:27:40.229 nguồn 12vdc
+00:27:42.259 nguồn 12vdc
+00:27:44.509 được cấp vào chân một
+00:27:46.820 buổi xe ổn áp nguồn là 70 80 năm và được
+00:27:52.019 cấp trên Zalo qua cuộn dây của Zara thì
+00:27:55.049 đứng chờ chân C của bóng quý 15 là vừa
+00:27:58.259 phân tích ý à
+00:28:15.480 Mà Thương ca sĩ Phân tích về cái nguồn
+00:28:17.860 5V DC
+00:28:19.770 từ chân ba của IC 7805
+00:28:23.610 ta sẽ lấy ra cái nguồn 5V thì 15 V này
+00:28:27.400 thì cất vào các cái chân T1 đi vào các
+00:28:29.350 chân T1 của cá chép trong đó là tên là
+00:28:32.110 một tên là hai đây là ba tìm được 4
+00:28:35.400 và có cái nguồn 5V này sẽ chảy từ T1 sân
+00:28:38.350 cờ
+00:28:39.360 chạy thứ 1 xanh gà đứng chờ khác thì
+00:28:41.950 chân C của móng có thể là bóng bán dẫn
+00:28:44.140 có thể là xe không chạy nào để khi có
+00:28:47.350 lệnh từ vi xử lý sẽ được nối mắt để mở
+00:28:50.650 cho phép
+00:28:52.470 và cấp 115 gửi xe vi xử lý cấp cho còn
+00:28:56.620 chích
+00:28:57.420 cấp cho chân 14 của Ace bộ giải mã tín
+00:29:01.070 hiệu phao
+00:29:03.220 IC giải mã tín hiệu phao
+00:29:06.670 chúng ta sẽ đi về các điều kiện IC vi xử
+00:29:09.290 lý làm việc
+00:29:11.080 Thứ nhất là nguồn nuôi cho C
+00:29:13.930 là chất 15 là chân nối với nguồn 5V chân
+00:29:18.770 sáu là không muốn
+00:29:21.550 chân sáu là không vôn
+00:29:24.760 mạch dao động chạy C
+00:29:27.640 đó là chân 16/17 kết nối với thành anh
+00:29:31.820 ra động nhanh của hai chân
+00:29:35.050 và có một chân được nối tụ ở bên ngoài
+00:29:39.490 còn mỗi tụ bên ngoài
+00:29:43.780 với mạch khởi động
+00:29:45.820 máy mạch khởi động
+00:29:47.890 chạy xe
+00:29:52.600 mạch khởi động thì chân số 5 của Excel
+00:29:55.430 vi xử lý thằng nối với mạch khởi động
+00:29:56.510 thì đó chính là hình thức làm chậm đến
+00:29:58.640 áp so với chân nguồn nuôi ở trong đó
+00:30:00.809 trong cái mạch này thì người ta sử dụng
+00:30:02.070 1 tấn chở là 10k và một con tục ổn định
+00:30:05.789 cư
+00:30:06.710 khi mà Nguồn 5V đi qua trả 10k để cấp ở
+00:30:10.619 chân số 5 nhưng nó sẽ có khoảng 4 môn
+00:30:13.200 nhưng mà do tụ một lính
+00:30:17.210 104 đứng trước lúc này chỗ nào và khi
+00:30:20.700 nạp đầy thì sẽ có điện áp
+00:30:23.450 chân một quầy C vi xử lý là chân
+00:30:27.619 đưa ra các tín hiệu báo về của công tắc
+00:30:32.239 công tắc cửa
+00:30:34.399 khi ta đóng cửa
+00:30:36.379 thì chân số 1 sẽ có điện áp thấp
+00:30:39.409 để điều khiển cho phụ tải
+00:30:41.929 đồng thời nó cũng chính là đường tín
+00:30:44.729 hiệu báo đi để cấp nguồn cho đèn led báo
+00:30:47.609 mức nước chúng mình như vậy chân số 1
+00:30:49.619 vừa là tín hiệu báo đi vừa là tín hiệu
+00:30:52.109 báo bão về thì trong mạch máy giặt của
+00:30:54.690 toàn rất nhiều các hình chân của vi xử
+00:30:57.779 lý là đang làm hay Thế là cả báo đi vào
+00:31:01.870 vai
+00:31:10.560 Đây là các đường báo đi vào báo về trong
+00:31:13.810 đó là
+00:31:16.200 báo giá camera chép điều khiển ra phim
+00:31:19.150 sex rồi tín hiệu của phím bấm của coi để
+00:31:23.500 cảm biến mực nước
+00:31:27.180 thế thì nhà
+00:31:29.580 là bé lại và đường cảm biến về phao em
+00:31:33.760 như tiếp theo Thành Chân số 2 là chân
+00:31:36.700 đưa tín hiệu máu đi cho đèn led ở chế độ
+00:31:40.180 giặt và lấy tín hiệu báo về của công tắc
+00:31:44.200 sw2
+00:31:45.570 đối với công tắc fw2
+00:31:48.960 đối với công tắc fw2
+00:31:52.830 Lâm Việt Khi tấn công tắc thì chân số 2
+00:31:57.400 trụ điện áp mà khi chân Soha thế
+00:32:03.190 nhưng chúng ta không nhấn công tắc khi
+00:32:06.530 mình ta không ấn công tác
+00:32:13.330 thì lúc này điện áp ở chân xong hai dây
+00:32:16.390 điện áp ở chân số 2 Nguyễn Toàn dân
+00:32:19.390 vào lúc này xe vi xử lý
+00:32:22.330 sẽ cài đặt ở cài đặt trong y sinh lý là
+00:32:27.320 thiên đường tín hiệu báo về chân số 2
+00:32:28.610 theo một ngày đếm đếm số lần sụt áp để
+00:32:32.930 tao biết là phải ta nên chọn chế độ nào
+00:32:35.180 thì ra chỉ có bấm một phím bấm xong rồi
+00:32:37.640 bấm tiếp bấm tiếp thì mà chúng ta thấy
+00:32:39.230 nó sẽ đánh ở đó chế độ khác nhau hãy nó
+00:32:41.750 sẽ đẩy triển ra chế độ khác nhau trong
+00:32:44.000 số 3 đã chân Đưa cái điện áp báo ra cho
+00:32:48.170 đèn led để thực hiện những năm sắp tới
+00:32:50.380 chân số 4 thì lấy điện áp bảo vệ từ IC
+00:32:55.640 giải mã sao
+00:32:58.600 chân số 5 đó là chân nối với mạch khởi
+00:33:01.919 động thấy C
+00:33:04.369 chân số 6 là chân nối mắt đây là thấy
+00:33:08.969 đang đi mà toàn bộ của các chân của IC
+00:33:11.179 đối với những chân mày thứ bóng đá vừa
+00:33:13.440 phân tích luôn chặn số 7 ở chân Số 8
+00:33:17.570 là hai chân để đưa tín hiệu
+00:33:19.969 điện áp hoặc là xung điện quạt trần đình
+00:33:23.729 Thiên để định Thiên bờ chấm b quả bóng
+00:33:26.009 quý 3 là thứ 4 thì chả điên ra đang sử
+00:33:27.929 dụng là trở 47k để kích ngồi cho các ghi
+00:33:30.629 chép trong đó là tê là một Đây là hai để
+00:33:33.899 cấp nguồn cho các động cơ thực hiện các
+00:33:35.999 chức năng quay phải quay trái
+00:33:38.059 dưới chân từ 9 là chân đưa điện áp định
+00:33:42.960 Thiên Bảo Chấn bê của bóng q2 để Chiếc
+00:33:47.039 Ba làm việc điều khiển
+00:33:50.269 van cấp nước
+00:33:52.549 chân số
+00:33:55.369 4A Xin lỗi để điều khiển bán đất nước
+00:33:58.830 chân - 10A có người cái điện áp bình
+00:34:01.210 thiên vào chân B của quy mô để điều
+00:34:03.250 khiển cho chép 4 cấp nguồn cho bonsai
+00:34:07.169 cấp nguồn cho bạn sản
+00:34:10.050 xuất 11 đưa điện áp bình thiên vào trước
+00:34:14.918 bê của bóng quy năm Lúc này ra đây làm
+00:34:17.260 việc với có nguồn cấp trước trong vụ tai
+00:34:19.350 rồi chân 12 thì phở bò nghĩa 5 đến 30
+00:34:23.620 kết nối gì cản cho 13 này trước đưa tín
+00:34:25.540 hiệu
+00:34:26.340 điện áp không vốn
+00:34:30.270 hay ta gọi là mắt
+00:34:32.940 cho toàn bộ để hiển thị
+00:34:35.489 chân 14 là chân tín hiệu báo đi
+00:34:40.440 làm việc bằng cách nối mắt cho toàn bộ
+00:34:43.418 các bạn coi
+00:34:45.929 đôi mắt cho còi hết là chân được nối Mắt
+00:34:50.020 Cho coi chân 15 là nguồn nuôi 16 17 đang
+00:34:54.909 nối với thằng anh gia tộc chương 18
+00:34:58.350 vừa là tín hiệu Anh vừa làm thí nghiệm
+00:35:01.250 bảo vệ bảo đi cho đèn led báo chế độ mắt
+00:35:05.450 và báo về cho công tắc
+00:35:08.260 fw40 tắc fapper
+00:35:17.320 và khi đã ấn vào công tắc fw4 thì chân
+00:35:20.390 18 này xuống điện áp và IC người ta cũng
+00:35:22.940 cài đặt theo cái hình thức đếm ở bị chân
+00:35:25.700 số 18 Chân 19 là chân vừa là tín hiệu
+00:35:29.960 báo đi vừa là thí nghiệm bao ve
+00:35:33.820 bảo đi cho đèn led báo chế độ giặt là
+00:35:38.240 báo đi cho đèn led báo sẽ có vú bảo vệ
+00:35:40.280 cho công tác
+00:35:42.370 cấp 3 thì lúc này đi xe vi xử lý cũng
+00:35:46.490 cài đặt sự sụt điện áp theo một cái hình
+00:35:48.860 thức đếm số lần số áp ở chân người xin
+00:35:52.180 được chân 20 cũng vừa là chân tín hiệu
+00:35:55.130 báo đi vừa là chân tí niệm nào về thì
+00:35:58.250 báo đi cho đèn led
+00:36:00.030 hai nước cao và bảo vệ và công tắc MW
+00:36:03.110 đối với công tác nguồn
+00:36:05.450 thì trong vi xử lý thì cũng đặt cài đặt
+00:36:08.310 ở nhà trần 20 thì phải thừa nhận cái tín
+00:36:11.760 hiệu suất điện áp theo một cái hình thức
+00:36:13.530 đến số lần số cặp
+00:36:15.800 đấy là đối với thầy đã phân tích toàn bộ
+00:36:19.280 về cái mạch đa năng máy giặt cửa trên
+00:36:22.340 ngâm máy giặt cửa trên thùng đứng
+00:36:26.570 bây giờ hãy chờ phân tích giới thiệu cho
+00:36:30.510 chúng ta đối với mạch đa năng máy giặt
+00:36:33.870 cửa trước lồng ngang đốt các loại mạch
+00:36:36.360 này thì đây chính là cái mạch mà chúng
+00:36:38.370 ta không có chế độ giặt nước nóng thì
+00:36:40.050 đang được đóng trong một cái vỏ màu hồng
+00:36:41.550 đối với mạch mà đang sử dụng trong có
+00:36:44.520 với chức năng giặt nước nóng thì nóng
+00:36:45.930 đóng một cái vỏ màu màu đỏ
+00:36:49.700 là sơ đồ đấu dây trên một cái vỏ hộp của
+00:36:52.350 ta thì chắc em nhìn vào đây đi Thấy cũng
+00:36:54.660 phân tích giới thiệu qua thì dựa vào các
+00:36:57.570 chân cắm này tốt nhất là các chân cắm
+00:36:59.490 thứ nhất
+00:37:00.600 1.200 mét vuông vào cái dây giắc n
+00:37:06.690 nahy đấy và level with thì trong đó là n
+00:37:10.390 là dây màu đen là giày Tâm trước và dây
+00:37:13.150 màu đỏ là dây một điều khiển
+00:37:15.480 thì đây n để dây nguồn cấp trước thì vào
+00:37:19.390 bo động lực thì khi và vo động lực nền
+00:37:21.580 cấp vào xơ biến áp để tạo ra các điện áp
+00:37:23.650 thấp rồi dây cấp trước sẽ đi vào công
+00:37:27.070 tắc cô và Quý Tỵ cho thấy là sẽ cất vào
+00:37:30.370 viên thạch Anh BTC và đứng chờ xem tiếp
+00:37:32.920 điểm của công tác thi công tác làm việc
+00:37:35.140 thì ra tiếp điểm của chúng ta sẽ được
+00:37:38.200 cấp vào đôn Quick là đưa bằng tín hiệu
+00:37:40.780 để biết được cửa của chúng ta thì đây là
+00:37:43.420 ký hiệu là đúng mic đấy là răng đưa tín
+00:37:46.900 hiệu báo về báo
+00:37:49.830 tóm tắt cửa rồi đi xuống đi chưa Ra đây
+00:37:53.140 cấp trước vào cho một là bơm sạc bàn cấp
+00:37:56.740 nước đặt ở chế độ giặt
+00:38:00.020 em gửi ban cơm nước ở chế độ vú rồi một
+00:38:03.290 van cấp nước nóng nước nóng thì nước này
+00:38:05.840 là lấy trực tiếp từ chiến trường trên
+00:38:08.470 bình tắm nóng lạnh thì loại này là không
+00:38:10.880 có sẽ đốt chút mà lấy nước nóng ở bé
+00:38:13.070 ngoan thì đối với bom mà có sẽ đốt Bun
+00:38:15.500 thì người ta chỉ có
+00:38:17.170 chép của Công tắc cửa rồi chép quá
+00:38:21.730 chép của bơm xả chép của van cấp nước
+00:38:24.680 đôi chắc của động cơ
+00:38:30.970 đối với di nguồn điều khiển là dây màu
+00:38:33.680 đỏ khi dây màu đỏ thì đi vào trong tủ
+00:38:36.470 lạnh động lực thì khi vào mạch động lực
+00:38:38.150 để bảo giờ Người láp đồng thời Bác chân
+00:38:42.110 T1 của 4 của các ghi chép trong đó là
+00:38:46.090 bên ngoài thì bọn chúng ta thấy là ta
+00:38:48.560 vào chân chung của hao Pháp Lực trịa này
+00:38:53.240 là mức nước thấp cái À là muốn bấp bênh
+00:38:56.330 là muốn nước cam vì cả hai cặp tiếp điểm
+00:38:58.370 giữa chừng ở trên a mà không và b đều là
+00:39:03.300 cặp tiếp điểm thường mở là các cặp tiếp
+00:39:05.640 điểm đơn nhưng một cặp tiếp điểm bảo
+00:39:08.130 mừng nó cấp có nghĩa là sử dụng một
+00:39:09.510 lượng hơi nhỏ đóng vào một cái Sử dụng
+00:39:12.450 hơi lớn hơn Đây là theo cái
+00:39:15.710 điểm của xe đạp
+00:39:37.520 thì đây là đối với
+00:39:48.800 tiếp tục
+00:39:51.020 ta sẽ sáng
+00:39:53.570 yến mạch
+00:39:55.190 mạch động lực thì thành sẽ phân tích
+00:39:57.450 quan mà chúng ta sẽ ghi sai à Nghe danh
+00:40:00.970 một nơ để ra nguồn cấp trước thì báo xơ
+00:40:02.710 biến áp dây nguồn lờ này vào sơ mi nắp
+00:40:05.800 đi chung với những nguồn 5V thì đầu tiên
+00:40:08.950 là vào các tay chân tê 1 của chép trong
+00:40:10.930 đó là chép một điều khiển cho động cơ ở
+00:40:14.050 chân T1 của chép hai chân Thứ hai ra một
+00:40:17.230 miếng sắt cắm thì đây chính là công tắc
+00:40:18.760 Cường và chân T1 của cheker ra của chép
+00:40:22.630 ba
+00:40:24.390 ra của nó thì Z3 thì ta thấy đặt chén
+00:40:28.720 được nối với
+00:40:30.180 dắt của bạn của bơm xả bảo chép bốn ra
+00:40:35.320 của Z4
+00:40:37.170 bị chân T2 sẽ được nối với
+00:40:42.720 chân T2 của chúng ta sẽ được nối với
+00:40:49.560 của chép bốn này thì được nối với van
+00:40:52.270 Cấp nước ở chế độ giặt vào chân Team 1
+00:40:54.880 của Z5 ra của check năm thì được nối với
+00:40:58.080 bàn cơm nước ở chế độ Em
+00:41:02.020 ăn cơm nước của chúng ta ở những chế độ
+00:41:05.290 sạc for
+00:41:08.290 thì dễ nguồn 12V thì thứ cấp biến áp qua
+00:41:12.620 cầu nắng thì chưa thấy là có mức đường
+00:41:15.560 đi vào cái mạch bảo vệ Asus
+00:41:17.830 và mạch bảo vệ Asus qua cầu nắng tôi
+00:41:21.590 được là nguồn 12vdc tủ lọc nguồn 1/4 tủ
+00:41:25.880 lạnh yếu 1.000 mi-25
+00:41:29.200 V10 12V này thì cấp ở trên 1785 tiếp tục
+00:41:33.470 ra đây chúng ta thấy lên đi vào hai Rơle
+00:41:36.850 đi vào hai da đen
+00:41:38.980 thì khi vào hai Rơle này thì ta thấy là
+00:41:41.570 quay ra đứng chờ cho 16 rồi sẽ phải đọc
+00:41:44.590 dùng nguồn 12V
+00:41:47.320 cấp cho còi
+00:41:52.720 đã sang nguồn 5V
+00:41:56.290 từ thứ cấp từ chân ba của 7805 Nghe danh
+00:42:00.990 nguồn 5V 5V thì đi chung với nguồn 220V
+00:42:04.200 này trong đó vào sơn T1 của chép một
+00:42:09.380 trải qua chân gà và đứng chờ trấn 15 với
+00:42:13.830 xe khuếch đại đầu
+00:42:15.170 vào chân T1
+00:42:17.210 của chét
+00:42:19.160 20 xăng chân G của chiếc Ai đứng chờ cho
+00:42:24.000 13 tuổi xe khách ngày nào
+00:42:26.300 dựa vào Chân T1 của chap 4 truyền thông
+00:42:29.970 sang sân g lúc này và chân số 10 với xe
+00:42:34.080 khách chạy nào và trước 15 rạch và chân
+00:42:38.580 T1 của chép ra sân giờ để đối với trên
+00:42:43.050 12 của IC khuếch đại đạo
+00:42:46.970 154 liên tiếp tính chất đấy là đi vào
+00:42:50.570 mạch cảm biến tốc
+00:42:53.810 tiếp xuống dưới là một lát ngã tư rẽ
+00:42:57.840 sang bên tay trái thì ta thấy là và I
+00:43:00.270 của quy
+00:43:03.150 12 13
+00:43:05.730 để khi mà bóng này làm việc sẽ cấp mát
+00:43:08.590 trong màn hình thịt
+00:43:10.050 rồi sang bên tay phải thì ta thấy đã đi
+00:43:13.480 vào cảm biến ở cái đường Pháp Lực ở mức
+00:43:17.650 lương thấp công tác an toàn rồi là mức
+00:43:21.940 nước cam
+00:43:27.180 giường cấp và chân 32
+00:43:29.940 quẩy chevy sleep lên trên thì chúng ta
+00:43:33.130 thấy là đi vào mạch aces vào mạch khởi
+00:43:37.030 động cho vi xử lý ở trường xuống đây
+00:43:42.030 tiếp tục
+00:43:45.180 cấp 110
+00:43:48.030 xử lý đấy là cái nguồn năm 54 và bây giờ
+00:43:52.510 thì chúng ta cũng sẽ phân tích và các
+00:43:53.830 điều kiện đi xe với xử lý làm việc thứ
+00:43:56.740 nhất
+00:43:57.630 vẫn tích từ chân 1A u2700
+00:44:01.990 5.5 của Star thì vào trước 7 cũng sẽ vẫn
+00:44:04.580 chạy nào và chân đối xứng là chân 10 nối
+00:44:07.460 thông xuống mát như vậy chương 65 là
+00:44:09.380 thuộc tín hiệu báo đi nhìn vào đây thì
+00:44:11.480 tôi thấy là sẽ báo đi cho phép ba là xin
+00:44:15.020 lỗi
+00:44:16.060 cf400 số 6 vào chân 665 11 được nổi mắt
+00:44:21.730 và mát cho sec
+00:44:23.860 3
+00:44:26.110 trang 11
+00:44:30.100 trên 10
+00:44:35.590 chương 11 là chân
+00:44:45.190 vào chân
+00:44:49.930 chúng ta đang xét là cái chân số
+00:44:53.140 666 thì
+00:44:56.620 vào chân số 611 truyền thông chống mát
+00:45:00.030 từ lúc này điều khiển cho chép bơm xả
+00:45:04.670 bơm xả chân số 7 là mạch khởi động cho
+00:45:09.470 lái xe vi xử lý Trần số 8
+00:45:12.860 rồi à
+00:45:14.720 số 8 số 9 là 2 chân đưa vào 45 của xe
+00:45:20.460 khuếch đại đảo để điều khiển cho chiếc
+00:45:23.840 trong đó là ví dụ như này à
+00:45:26.810 chân số 8 này ra đây vào chân số 5 12
+00:45:31.230 truyền thông chung mát 12 điều khiển cho
+00:45:33.180 chép năm dân số 9 vào chân 413 chỉ không
+00:45:37.140 xuống mát điều khiển cho cánh cửa
+00:45:40.640 mười là nguồn nuôi 11
+00:45:44.630 11 là chân báo về của
+00:45:47.210 mạch adiz chân 12
+00:45:52.580 12 là mạch cảm biến tốc 12 là mày cảm
+00:45:56.250 biến tốc đây 13a
+00:46:00.010 a13 và chân hai chân đối xứng của chúng
+00:46:02.350 ta đối sống mát điều khiển từ
+00:46:05.550 z114 và chân một trận đối xứng 576 nổi
+00:46:10.210 mát nối mạng cho hai Rơle as high elf
+00:46:14.350 được mới mắt điều khiển cho động cơ quay
+00:46:16.270 trái quay phải
+00:46:18.510 điều khiển động cơ quay trái quay phải
+00:46:23.760 chân 755 là chân tín hiệu báo về của mức
+00:46:27.940 nước thấp
+00:46:29.580 phao chân 16 là chân tín hiệu bảo vệ của
+00:46:33.880 công tắc cơ chân 17
+00:46:37.320 17
+00:46:39.150 là Chân Kỷ Niệm báo Đi qua chợ Đình
+00:46:42.160 Thiên cho bóng
+00:46:44.730 uiq3
+00:46:46.560 điều kiện cho coi
+00:46:56.550 tin tiếp theo nhé
+00:47:00.020 khi
+00:47:00.700 bé chân 18
+00:47:05.920 18 19 và mình chắc chắn bò
+00:47:09.040 18 19 và vòng đi giắc cắm là gì
+00:47:12.700 t remote và cái gì hai
+00:47:18.100 chân 20
+00:47:20.320 trên 20
+00:47:22.360 là chân của chúng ta cũng đưa tín hiệu
+00:47:26.150 của cảm biến đó diện của cảm biến phao ở
+00:47:30.140 mức nâng cao
+00:47:31.240 sinh 21
+00:47:33.790 một nhánh thì vào tên gì
+00:47:37.330 Tên gì Mấy ạ
+00:47:42.010 DJ một vào TV Một và đồng thời là đi vào
+00:47:46.640 bo hiển thị chân
+00:47:49.870 22
+00:47:51.700 22 23 24 25 cho đến
+00:47:57.310 29 là cái chân đưa Hương đồ khi mở ra
+00:48:02.630 đèn hiển thị bảo ra thì bảo e có kết hợp
+00:48:06.270 thì đấy là đối với Bo đây cái bo hiển
+00:48:10.530 thị đây Bây giờ các em ghi thầy nối với
+00:48:13.490 phân tích về mặt đa năng cửa trước mạng
+00:48:19.200 đa năng cửa trước
+00:48:21.380 nhất
+00:48:25.520 là nguồn 220V thì dây nguồn cấp trước n
+00:48:30.420 thì được cấp vào mạch động lực để cấp
+00:48:33.900 cho sơ của biến áp đồng thời
+00:48:36.650 tới chân của tiếp điểm của công tắc
+00:48:39.500 và cấp cho tiền tiếng Anh trong công tác
+00:48:43.310 được cấp cho giắc cắm Đốm ích trên bo
+00:48:46.620 mạch động lực để đưa cái tín hiệu báo
+00:48:50.130 công tắc của em đóng cửa
+00:48:53.810 đồng thời cấp trước trận động cơ để vào
+00:48:57.510 chân nó chính là vào nối ở bên vào Số
+00:49:00.040 Một
+00:49:02.040 của cuộn dây store đồng thời đi tới được
+00:49:06.070 cấp cho các phải tải trong đó là có thể
+00:49:10.030 tải như là diệt là văn cấp van nước
+00:49:14.070 van cấp nước đôi
+00:49:16.200 van cấp nước như van cấp nước đôi bơm xả
+00:49:22.500 mở ra nguồn điều khiển ở DL đi vào mạch
+00:49:26.320 động lực để cấp vào xơ biến áp đồng thời
+00:49:30.090 tới chân chung của foul áp lực cơ và sao
+00:49:34.570 áp lực này là sao cơ là có ba chân đều
+00:49:37.870 có 2 cặp chất điểm là cặp cái điểm đóng
+00:49:40.060 mở
+00:49:41.430 tức là đóng bảo là mức rất thấp mà ở
+00:49:44.740 trần a
+00:49:46.170 bà chân B đã bảo muốn nước cam
+00:49:53.460 xanh về nguồn 12V
+00:49:56.340 thì đối với nguồn 12V thì chân Anh Dương
+00:50:00.740 12V
+00:50:01.870 thì được cấp vào cho loa
+00:50:05.800 qua cuộn dây của loa đứng chờ chân C
+00:50:09.620 bóng bán dẫn nguồn 12V DC thì còn được
+00:50:13.490 cấp vào chân 1 của 7805
+00:50:16.210 một số mạch thì sẽ vào người đó là chân
+00:50:20.360 chính của xe không Cái nào một số mạch
+00:50:22.850 thì đi xe không để đảo có sử dụng luôn
+00:50:24.820 bạn nguồn 5V là sẽ phân tích về điều
+00:50:27.680 kiện là nguồn 5V từ chân số 3 của IC
+00:50:33.220 7805 được tụ lọc nguồn E2 xanh phẳng
+00:50:36.230 điện áp để cấp cho phụ tải như sau nguồn
+00:50:39.410 5V lần lượt được cấp và các cái chân như
+00:50:41.600 là chân T1 của chép năm để điều khiển
+00:50:45.310 giờ muộn riêng một năm môn được cấp vào
+00:50:48.410 trong mạch cảm biến tốc
+00:50:49.900 cấp ở trong mạch bảo vệ Asus cấp vào
+00:50:53.240 chân
+00:50:55.120 của Q1 Q2 để cấp nguồn cho Bo hiển thị ở
+00:51:00.030 khu
+00:51:03.200 rừng nguồn 5V thì còn được cấp nguồn
+00:51:06.720 nuôi cho xe vi xử lý đó là chân 32 ở
+00:51:08.880 trong số 10
+00:51:10.100 cấp cho mạch khởi động TC
+00:51:13.580 cấp vào mạch báo tín hiệu của công tắc
+00:51:19.250 của và năng lực
+00:51:30.810 [âm nhạc]
+00:51:32.090 được các điều kiện IC vi xử lý làm việc
+00:51:35.990 thì thứ nhất là nguồn nuôi say xe
+00:51:39.110 là chân ba hai chân 10
+00:51:42.560 nối nguồn lắm Nằm vôn
+00:51:46.220 dưỡng chất một và Z4 được nối nguồn
+00:51:49.380 không vôn
+00:51:54.380 thạch anh giao động chạy xe đó là trận 2
+00:51:58.980 lần thứ ba nó thành Anh Ừ anh này ba
+00:52:01.180 chân có tục dao động ở bên trong nhóm
+00:52:04.330 mạch khởi động cho xe
+00:52:06.300 thì chính ở chân số 7 Trần số 7 ta để
+00:52:10.480 nối với mạch khởi động chạy xe đó chính
+00:52:12.280 ngày biết làm chậm đẹp đuôi
+00:52:14.940 thì chúng ta sẽ đi về các phần mềm tín
+00:52:17.080 hiệu báo về
+00:52:18.000 thì chân 11 là chân báo tín hiệu báo về
+00:52:21.970 của mạch bảo vệ ACS
+00:52:23.970 chân 12
+00:52:26.220 là chân nhận tín hiệu của cảm
+00:52:30.330 biến của động cơ chân 13
+00:52:34.680 là chấp nhận tín hiệu bảo về của pháp
+00:52:38.920 luật
+00:52:39.960 báo mới con sắp chân 14 là chân nhận tín
+00:52:43.840 nhiệm của công tác an toàn
+00:52:46.050 chắc 15
+00:52:48.150 đã chấp nhận tín hiệu quả cao áp lực
+00:52:52.140 hay còn gọi là chẳng biết mức nước ở mất
+00:52:55.690 nước cam Trần 21 Nếu kết hợp với chân 2
+00:52:59.440 chip Anh bảo bè của công tác Chrome văn
+00:53:02.800 công tác chương trình chân 21 bật kết
+00:53:06.110 hợp với chất 28 thì một anh sụt của anh
+00:53:08.450 rất Vì đó chính là nhận tín hiệu về của
+00:53:11.060 công tác Manu trận 21
+00:53:14.890 bằng kết hợp với
+00:53:19.480 25 nhận tín hiệu bảo về của công tác
+00:53:24.070 chân 21 mà kết hợp với chất 20 sẽ nhận
+00:53:28.580 tín hiệu báo về của công tác con em
+00:53:30.470 trong đó là Trang 21 kỳ sụt ở trong 25
+00:53:33.170 vì dân hàng từ dân chúng ta sẽ đi về các
+00:53:36.620 đường tín hiệu báo đi
+00:53:38.560 trong đó Chân năm là chân đưa tín hiệu
+00:53:41.480 báo rẽ đưa tín hiệu xung báo ra vào trấn
+00:53:45.950 bệnh của ACB nhảy nào để điều khiển nó
+00:53:48.260 chép 4 điều kiện cho van Cấp nước ở chợ
+00:53:50.990 giặt chăn số 6 là chân đưa cái tín hiệu
+00:53:54.550 xung báo ra vào chân số 6 bị sẽ phải
+00:53:58.760 nhảy nào điều khiển khi
+00:54:01.070 cài đặt 3 điều khiển Châu Sa
+00:54:04.250 chân Số 8 là chân đưa tín hiệu xung bảo
+00:54:07.890 ra vào năm của IC khuếch đại nào để điều
+00:54:10.950 khiển cho chép tl5 điều kiện cho van Cấp
+00:54:14.520 nước ở chế độ rũ
+00:54:25.700 điều khiển van Cấp nước ở chế độ rũ
+00:54:33.440 chân số 9 là chân đưa tín hiệu xung báo
+00:54:37.260 ra và chân 40 xe khách nhảy nào
+00:54:39.500 điều khiển cho tên tl2 điều khiển cho
+00:54:44.100 Công tắc cửa chân 13 là chân đưa tín
+00:54:46.860 hiệu xung báo ra và Sơn hay của xe khách
+00:54:49.380 chạy nào điều khiển cho Rơle xin lỗi
+00:54:52.200 điều khiển cho chép được một điều khiển
+00:54:54.270 động cơ chân 14 là chân đưa tín hiệu
+00:54:57.450 xung báo ra vào chân Ừ thì phải đau chân
+00:55:02.050 hại của Rơle sẽ thay đổi chiều quay của
+00:55:05.080 động cơ
+00:55:06.750 em đi thay đổi chiều quay của động cơ
+00:55:08.580 thì ta chỉ cần thay đổi nguồn điện cấp
+00:55:10.500 vào trong cuộc của chổi than rô ở bên
+00:55:14.610 trong thở than nhờ vào hai triệu trở
+00:55:16.320 thành của bắp chân với bẫy chân đưa tín
+00:55:18.810 hiệu xung báo ra và Trấn B quả bóng 3
+00:55:21.750 điều khiển cho coi chừng 22 là trận đưa
+00:55:24.930 tín hiệu mắt báo cho đèn hiển thị trong
+00:55:27.660 đó có đèn đó rim Đơn Sơ chân 24 là trận
+00:55:31.800 đưa tín hiệu mắt báo cho đèn Watson chân
+00:55:35.640 25 là chân đưa tín hiệu mắt cho đèn led
+00:55:38.340 trái tim chân 26 là chân đưa tín hiệu
+00:55:41.700 mắt cho đèn led thể hiện chế độ Quick
+00:55:46.250 chân 27 là chân đưa tín hiệu mắt cho đèn
+00:55:49.860 hiển thị word chân 28 là chân đưa tín
+00:55:53.820 hiệu led cho đèn thị báo mức nước là ai
+00:55:58.350 xin lỗi báo là tốc độ tốc độ quay là 48
+00:56:01.920 trong vòng trên 400 vòng và đèn led là
+00:56:04.080 norman trận 29 là Trần đưa a mắt cho đèn
+00:56:08.370 hiển thị
+00:56:09.930 steam
+00:56:12.090 Bá
+00:56:14.280 Intex Intex inch
+00:56:19.530 đấy là đối với
+00:56:21.900 toàn bộ về cái mạch đa năng trên đứng và
+00:56:27.970 mạch đa năng cửa trước lồng ngang thấy
+00:56:30.100 đá giới thiệu cho cả lớp thì đối với một
+00:56:33.520 số kế mạch ở một số thì bo mạch khác
+00:56:37.120 chúng ta sẽ được phân tích ở trong cái
+00:56:39.130 phần nâng cao và chúng ta cũng sẽ được
+00:56:42.430 phân tích chi tiết hơn đối với đo đếm
+00:56:46.420 thực tế đối với Khi mà ta học thực hành
+00:56:50.340 bài học của chúng ta đến đây là kết thúc
+00:56:53.100 các em về nhà xem lại bài và chuẩn bị
+00:56:56.560 bài mới nhất thầy Xin chào em hẹn gặp
+00:56:58.960 lại vào buổi học sau

@@ -1,0 +1,815 @@
+# tactiq.io free youtube transcript
+# Bài 2.5 Van Áp Lực Máy Giặt - Thiết Bị Điện - Học NghềII Dạy Nghề Thanh Xuân 93 NguyễnTuân0936989090
+# https://www.youtube.com/watch/1yiEC09CruM
+
+00:00:00.000 Xin chào các em
+00:00:01.730 buổi học ngày hôm nay hai vai trò tiếp
+00:00:05.040 tục sang bài thứ hai thiết bị điện và
+00:00:08.940 tái Điện phân một lớn chúng ta đang đi
+00:00:12.450 tìm hiểu hết để các phụ tải điện trong
+00:00:16.199 máy giặt thì sang phần
+00:00:18.890 2.2 chúng ta sẽ đi tìm hiểu về thiết bị
+00:00:21.449 điện giờ sân bay học trước chúng ta đã
+00:00:24.630 khái niệm Thế nào là thiết bị điện thế
+00:00:26.460 nào là phụ tài thì đối với thiết bị điện
+00:00:29.119 thì đang được
+00:00:31.309 khái niệm là các thiết bị điều khiển
+00:00:34.410 nguồn phụ tài đốt thêm nội dung của phần
+00:00:37.290 này chúng ta sẽ đi tìm hiểu về các thiết
+00:00:40.079 bị điện trong đó có và áp lực hay còn
+00:00:43.140 gọi là cảm biến nước có công tắc an toàn
+00:00:46.219 huấn Rơle không tránh Nhiệt độ có bảng
+00:00:49.829 điều khiển
+00:00:50.690 thì phần 1
+00:00:52.550 thì phải trò chúng ta sẽ đi tìm hiểu về
+00:00:54.870 bán áp lực đối với áp lực
+00:00:58.520 tình chúng ta đang có khi người ta được
+00:01:01.179 gọi là 35 động cơ và Pháp luật hiện từ
+00:01:03.780 đối ăn cơm
+00:01:05.670 và bán điện tử để phân biệt Thế nào là
+00:01:08.799 van áp được cơ Thế nào là bán được điện
+00:01:11.020 tử chúng ta phân biệt bằng cách như sau
+00:01:13.259 đối với 35 được cơ thứ nhất là có núm
+00:01:17.259 điều chỉnh mức nước thứ hai
+00:01:21.869 thứ hai ta có thể thổi vào ông giáp Nếu
+00:01:25.750 tội và ông đã nắp mong kêu về đóng mở về
+00:01:30.430 cặp tiếp điểm có sự thay đổi về trạng
+00:01:32.229 thái đóng nắp để Dứt điểm thì lấy làm ăn
+00:01:33.789 cơ đối Văn điện tử thì thứ nhất là không
+00:01:37.630 còn đúng điều chỉnh lại mức nước thứ hai
+00:01:40.770 những ai là chúng ta thổi vào ông già
+00:01:45.100 nắp chứ không có sự thay đổi trạng thái
+00:01:47.979 đóng nắp để các điểm đó chính là ăn điện
+00:01:50.860 tử
+00:01:51.990 thiết bị này đang được lắp đặt trong máy
+00:01:54.850 giặt thì vẫn những nhiệm vụ gì Hình như
+00:01:57.819 chúng ta đã biết được là trong cái máy
+00:01:59.500 giặt à hai ba lần bốn lần ngâm nước thì
+00:02:03.350 khi cấp nước vùng tùy thuộc theo chế độ
+00:02:05.869 giặt là nhiều quần áo ít quần áo trọng
+00:02:08.690 lượng đồ giặt nhiều ít mà mức nước của
+00:02:11.510 chúng ta có sự thay đổi mức nước thấp
+00:02:13.430 mức nước cao Hứa Đức trung bình
+00:02:17.590 khi mất đức đạt yêu cầu thì chúng ta
+00:02:20.480 thấy lúc này máy giặt ngắt nguồn cho ban
+00:02:23.810 tâm nước Đồng thời động cơ với thực hiện
+00:02:25.730 quá trình hoạt động và khi về chợ xa
+00:02:28.400 mình chúng ta cũng thấy là nếu bên trong
+00:02:32.060 nước bên trong thùng chứa Con Nước thì
+00:02:34.459 không thấy máy lạnh hoạt động và bên
+00:02:36.110 trong phòng chiếu Khi nào hết nước thì
+00:02:37.579 chúng ta mới thấy máy hoạt động như vậy
+00:02:40.540 như vậy
+00:02:42.250 nhiệm vụ của Văn Áp lực thì đang được
+00:02:46.069 lắp đặt trong máy giặt với cái Nhiệm vụ
+00:02:48.290 là khống chế mức nước trong thùng chứa
+00:02:50.860 để thực hiện những chức năng giặt vú và
+00:02:55.459 đồng thời báo mua đất trong thùng chứa
+00:02:57.349 hết máy thực hiện chế độ mắt khi
+00:03:02.209 phân loại và cấu tạo thì chúng ta đang
+00:03:04.950 có hai loại người ta được gọi là pha nắp
+00:03:06.600 đựng cơm và bạn đã được tính từ thì đầu
+00:03:10.470 tiên chúng ta sẽ đi tìm hiểu về vẫn ăn
+00:03:13.230 được cơm thì trước hình ảnh của thầy thì
+00:03:15.959 đây chính là 35 động cơ thì được cấu tạo
+00:03:18.300 bởi các chi tiết như sau một lần thân
+00:03:21.690 văn hay
+00:03:23.720 là giắc cắm ba lần núm điều chỉnh của
+00:03:27.450 các nước bốn là lỗi giáp vào năm là màn
+00:03:33.030 cao su 6 là tháng đầy sẽ tác động lên cơ
+00:03:37.530 cấu lật nóng 7 chính là cơ cấu lần là kỷ
+00:03:39.720 niệm 8 là con nít trên chính tâm có mang
+00:03:43.970 của Thân Văn ở phía sau
+00:03:46.850 đây chính là thích điều chỉnh để mất
+00:03:50.310 nước thì đối với đúng sai thì khi ta say
+00:03:53.459 núm xoay sẽ thay đổi về cái trục lệch
+00:03:55.440 tâm tác động những cái lò xo bên trong
+00:03:57.650 tác động mà cái lò bánh trong chị sẽ
+00:04:00.610 thay đổi lực nén
+00:04:01.980 lên cơ cấu lật thì lúc đó sẽ thay đổi
+00:04:05.709 được lượng nước chúng ta sẽ khống chế
+00:04:08.200 mức nước cao vẫn sắp về cấu tạo thì đây
+00:04:12.610 chính là thân van một thân van nài hai
+00:04:15.220 chân giắc cắm bà muốn xoay 4 ống hơi vào
+00:04:18.250 năm làm bằng cao su 6 là tháng đầy 7 giờ
+00:04:22.000 hết điểm 8 được ít điều chỉnh mức nước
+00:04:24.010 về phân loại thì đang có hai loại thì
+00:04:27.370 đối với loại hai chân là loại 3 chân đây
+00:04:29.800 thì chúng ta thấy là đối với loại 3 chân
+00:04:31.889 thì trong đó là chân chung là chân
+00:04:36.000 chung là chân nguồn hoặc nguồn và chân
+00:04:39.370 nó là tiếp điểm thường mở
+00:04:41.820 nói nó là tiếp điểm ta tiếp điểm thường
+00:04:45.389 mở sẽ điều khiển là nhát nước và điều
+00:04:49.210 khiển chế độ giặt giũ NC là đối với của
+00:04:53.199 chúng ta là cặp tiếp điểm Thường đóng sẽ
+00:04:56.169 điều khiển cấp nước và điều khiển trên
+00:04:57.880 mắt in đối với 2 anh khi đã thay đổi
+00:05:01.160 tình trạng thái thì sẽ đưa cái thương
+00:05:02.629 hiệu về cho bo mạch điều khiển những này
+00:05:04.789 để cấp nước hay là để ngắt ngắt nước
+00:05:08.949 Nga nguyên lý làm việc như sau
+00:05:11.440 kinh chúng ta bấm máy ở chế độ giặt chú
+00:05:13.699 thì đầu tiên là nước xem đi vào Bên
+00:05:15.860 trong cái thùng trước cũng chứa là cái
+00:05:17.479 lồng nhựa bên ngoài chứa nước lúc này
+00:05:20.569 chúng ta biết được là ban đầu thì ở
+00:05:22.699 trong cái tóc hát này là không khí khi
+00:05:24.379 nước chảy vào thì chiếm chỗ trong các
+00:05:25.879 phép tính khi nước vào bên trong góc
+00:05:28.190 khác nước vào Khánh đầy thì làm áp suất
+00:05:31.699 không khí ở trong nước pháp này tăng sẽ
+00:05:34.370 đi theo ông Dân áp Đi theo ông giáp này
+00:05:37.159 đi vào Bên trong đi vào Bên trong van
+00:05:40.099 thì khi đi vào Bên trong van thì chúng
+00:05:42.380 ta biết được là lúc này
+00:05:44.560 các màn cao su
+00:05:46.900 màn cao su sẽ từ từ nâng lên là tác động
+00:05:50.569 nên thì cơ cấu lần tác động lên nhìn tôi
+00:05:52.849 cầu lập thì khi tác động lên dịch cơ cấu
+00:05:54.469 luật này thì sẽ thay đổi nhưng trạng
+00:05:56.060 thái đóng nắp để tiếp điểm thay đổi
+00:05:58.610 trạng thái nóng mắt được điểm sự thay
+00:06:00.630 đổi những trạng thái đóng mắt này tiếp
+00:06:02.040 điểm đường tín hiệu điều khiển để cho
+00:06:03.840 mạch mà lúc này mau hoạch biết được là
+00:06:05.550 chúng ta đủ nước hay là hết nước
+00:06:08.690 để điều khiển ở chế độ giặt rú hay là
+00:06:12.570 bắt
+00:06:13.670 về nguyên lý các em ghi cho thành khi
+00:06:18.300 bắt đầu máy hoạt động ở chế độ giặt khi
+00:06:21.720 bắt đầu máy hoạt động ở chế độ giặt nước
+00:06:24.420 vào bên trong thùng chứa
+00:06:26.210 nước vào bên trong thùng chứa làm áp
+00:06:29.460 suất không khí trong Tok app tăng dần
+00:06:32.120 làm áp suất không khí trong góc áp tăng
+00:06:35.190 dần theo ống dẫn nắp đi vào Bên trong
+00:06:38.370 văn theo ống Snap đi vào Bên trong ban
+00:06:43.280 lúc này màn cao su từ từ nâng lên màn
+00:06:48.000 cao su từ từ đăng lên
+00:06:50.450 tháng đầy sẽ tác động lên cơ cấu lần
+00:06:55.190 anh đẩy sẽ tác động lên cơ cấu lần đến
+00:06:58.980 khi nào mức nước trong cài đặt yêu cầu
+00:07:02.339 đạt yêu cầu cũng là thời điểm cơ cấu này
+00:07:06.659 thay đổi trạng thái đóng ngắt tiếp điểm
+00:07:11.219 thay đổi trạng thái đóng ngắt tiếp điểm
+00:07:15.360 khi thay đổi trạng thái đóng ngắt tiếp
+00:07:17.529 điểm lúc này chán ngắt nguồn cho van cấp
+00:07:21.129 nước Đồng thời sẽ cấp nguồn cho động cơ
+00:07:25.119 máy lúc này Thực hiện chế độ giặt giúp
+00:07:30.449 Thiện chế độ giặt giũ
+00:07:34.229 và khi về chưa mắt van xả của chúng ta
+00:07:38.110 sẽ làm việc kéo đấm giảm cần lý hợp thì
+00:07:41.620 cái kéo nấm xào cần đi học thì xả nước
+00:07:43.509 bẩn trong thùng chứa ra ngoài thì chính
+00:07:45.159 van áp lực sẽ báo thì trong nhà sản xuất
+00:07:48.550 người ta không đăng lập trình ở 2 chế độ
+00:07:50.830 1 lập thời gian xả thì thời gian xả cũng
+00:07:54.699 chính là bằng người thả rắn cái răng cấp
+00:07:56.559 em cấp vào 2 phút là đủ nước thì thời
+00:07:59.319 gian xả ớt có phải là hai phút
+00:08:02.590 sau với thời gian xả đấy cộng với van áp
+00:08:06.620 lực phải thay đổi trở về cái trạng thái
+00:08:08.780 ban đầu thì lúc đó sẽ biết được là bên
+00:08:12.379 trong thùng chứa của chúng ta đã hết
+00:08:14.180 nước và đá hết nước lúc này mới cho phép
+00:08:16.520 bắt Nhưng nếu sau thời gian xả là 2 phút
+00:08:19.370 ạ nhưng mà và năng lực vẫn đang báo là
+00:08:23.419 đầy nước có nghĩa là trạng thái của ta
+00:08:25.009 đó là C và đang đóng xanh đỏ là vẫn là
+00:08:27.590 con nước là còn nước thì lúc này sẽ
+00:08:30.229 không cho mắt
+00:08:31.390 cái đó chính là nguyên lý làm việc của
+00:08:34.429 bạn đã được cơ về đức tính như chúng ta
+00:08:38.539 đã biết được là về cấu tạo và về nguyên
+00:08:40.700 lý làm việc thì về hư hỏng thì tướng
+00:08:42.589 hỏng và các dạng nào thì bây giờ các em
+00:08:44.660 xem lại về Cái nguyên lý làm việc thầy
+00:08:46.850 nghĩ xong nhất
+00:08:48.820 một là do quá trình giặt lâu ngày chúng
+00:08:52.550 ta không vệ sinh bảo dưỡng gây ra hiện
+00:08:54.290 tượng tắc cao cấp
+00:08:55.540 copac tiếng Anh thì uống dân áp
+00:09:00.030 em ấm giáp tiếng không Thứ ba
+00:09:03.860 làm bằng cao su bị rách
+00:09:06.710 từ là tiếp điểm C đang nóng nó chồng thì
+00:09:13.080 lúc này
+00:09:14.810 sẽ xảy ra hiện tượng là nước cấp liên
+00:09:17.610 tục không ngắt Bởi vì lúc này không có
+00:09:21.240 tín hiệu thôi hoặc tín hiệu hơi có nhưng
+00:09:24.570 mà tiếp điểm thì gia đình Sở đối với
+00:09:26.520 trường hợp tắc này là Thùng thì chúng ta
+00:09:28.950 thấy là không có tín hiệu hơi lúc này mà
+00:09:30.480 nó số không tác động lên cơ cấu lực
+00:09:31.860 không thay đổi được trạng thái đóng mắt
+00:09:33.870 là tiếp điểm thì nước cấp liên tục không
+00:09:35.580 ngắt Chắc là tiếp theo
+00:09:38.480 trường hợp tiếp theo Nếu C và NC mà
+00:09:42.090 không tiếp xúc này ban đầu thì lúc này
+00:09:43.860 cũng không đưa tín hiệu về cháu bảo mạch
+00:09:45.570 thì bo mạch biết được là của chúng ta là
+00:09:48.200 không xuất lệnh không xuất lệnh cho van
+00:09:51.210 cấp nước thì lúc này bán cơm lớp chúng
+00:09:52.680 ta cũng không vào nó bị không làm việc
+00:09:54.020 không có điện cấp van tâm nước do đó là
+00:09:56.880 nước không cấp khi máy hoạt động chế độ
+00:09:59.280 giặt luôn à ở dưới tiếp theo chúng ta có
+00:10:02.050 nước nào mà một kiểm tra nhập là C và NC
+00:10:05.230 không tiếp xúc xin lỗi C và no không
+00:10:07.960 tiếp không tiếp xúc thì khi c&amp;mo mà
+00:10:11.290 không tiếp xúc thì dẫn tới tình trạng là
+00:10:12.820 nhà nước cấp đủ nát nước nhưng mày không
+00:10:15.580 không giặt không giặt trường hợp tiếp
+00:10:19.270 theo là C và nó bị chập C và nó họ bị
+00:10:21.970 chập thì nó bị chập ngay ban đầu thì bây
+00:10:24.310 giờ là chưa đủ gấp máy giặt chưa đủ nước
+00:10:27.460 máy ra giặt là về cho đầu bắt thì chúng
+00:10:28.900 ta thấy con gì là không bắt không bắt
+00:10:31.240 đấy là đối với van áp lực thì chúng ta
+00:10:34.630 đã thấy là đối với bạn ăn được cơ mà khi
+00:10:36.940 hỏng thì cũng đã xảy ra một số những
+00:10:38.590 hiện tượng bệnh
+00:10:43.170 về hư hỏng thì vẫn áp lực
+00:10:46.560 hư hỏng máy giặt có rất nhiều biểu hiện
+00:10:49.770 nhất là hỏng ống dẫn up stock k-pop hỏng
+00:10:55.090 bằng cao su tiếp điểm C và NC bị chậm
+00:10:58.480 thì máy giặt đang có ở nhà nước vào liên
+00:11:01.819 tục không ngắt
+00:11:04.269 giữa tiếp điểm C mà nó không tiếp xúc
+00:11:07.660 thì máy giặt sẽ có biểu hiện cấp nước đổ
+00:11:11.089 nát nước nhưng mày không giặt du học ở
+00:11:14.540 trạng thái
+00:11:15.320 [âm nhạc]
+00:11:16.749 tiếp điểm C và NC không tiếp xúc thì máy
+00:11:22.730 có biểu hiện là không Tâm nước vào trong
+00:11:24.920 mày
+00:11:26.920 tiếp điểm C và nó bị chậm thì chưa cấp
+00:11:30.589 nước mày đã giặt rút
+00:11:32.589 ngoài ra chúng ta còn hỏng ở những
+00:11:35.239 trường hợp là lò xo nén nên cơ cấu lần
+00:11:38.410 lúc này quá Lạ quá Lạ hoặc là do là con
+00:11:42.379 do thợ hoặc và cho chúng ta chỉ xoáy cái
+00:11:45.230 biết điều chỉnh mức nước vào quá lớn làm
+00:11:48.259 lò xo quá nặng thì lúc đó là gì là mức
+00:11:51.019 nước thấp tính năng được bình thường
+00:11:52.129 nhưng muốn nâng cao thế không nát đến
+00:11:54.230 đây là một trong những cái mà sau này
+00:11:55.459 các em cần lưu ý khi các em thay
+00:11:58.029 vàn Áp lực thì chúng ta cần a cho máy
+00:12:01.110 kiểm tra ở chế độ lấy mức nước cao nhất
+00:12:03.210 khi lấy mức nước cao nhất của chúng ta
+00:12:05.280 nó phải phải là mặc nhưng khi mà chúng
+00:12:07.260 ta lấy mất nước cao nhất lại xảy ra một
+00:12:09.360 cái hiện tượng lâm rất thấp thì mát mà
+00:12:12.630 nước nước ao thì không nhắn đấy là do lò
+00:12:15.720 xo so với chúng ta
+00:12:19.730 về kiểm tra thì đối với pháp được cơ thì
+00:12:23.870 có sự thay đổi trạng thái bị đóng cắt
+00:12:26.310 với các điểm do nó về kiểm tra đối với
+00:12:28.260 và áp lực cơ chúng ta sẽ dùng đồng hồ
+00:12:30.570 vạn năng để thằng đó ích một ôm đo vào
+00:12:34.020 các cặp chân của bạn áp lực sau đó thổi
+00:12:38.070 vào ông gian áp và Nếu có sự thay đổi
+00:12:40.830 trạng thái đóng ngắt tiếp điểm là van
+00:12:44.430 tốt để kiểm tra cả ông giáp cần kiểm tra
+00:12:47.670 về màn cao su thì chúng ta cố gắng là
+00:12:49.410 khi bị to thổi vào ông đã nát thì ví dụ
+00:12:51.300 như thành thủy ông grab thành sẽ gặp lại
+00:12:53.010 để kiểm tra xem phần hơi người ta có bị
+00:12:55.320 tuột bị hụt hơi không thì nếu mà bị hợp
+00:12:58.140 bất hơi thì có nghĩa là khi chúng ta
+00:13:01.150 đang đi
+00:13:02.190 đang bị ở trong một cái Diễn thì bất hơi
+00:13:06.060 phải mất hơn khi là mất hơi thì nó bị
+00:13:09.310 khùng
+00:13:10.800 Còn khi thay thế thì ta phải thay đúng
+00:13:13.810 chủng loạn đúng hình dạng kích thước cho
+00:13:16.210 phù hợp với mức nước mà chúng ta khống
+00:13:19.000 chế đối với từng loại máy trong đó có 26
+00:13:22.330 cân 6 cân dưới 7kg 7 cân rưỡi 28 kg Vân
+00:13:26.500 Vân
+00:13:28.950 Vân Lưu ý
+00:13:31.590 mp35 lực cơ lưu ý của chúng ta thì thứ
+00:13:35.050 nhất là 35 được cơ trong máy giặt cửa
+00:13:37.360 trước lồng ngang thì cũng có cấu tạo và
+00:13:41.170 nguyên lý giống với Phan áp lực của máy
+00:13:43.450 giặt cửa trên
+00:13:44.490 nhưng thứ nhất là
+00:13:47.550 thơm là có từ 4 chân
+00:13:50.010 4 chân đầu điện trở lên còn đối với Văn
+00:13:53.770 cơ của bo mạch đa năng của máy giặt cửa
+00:13:56.590 trước lòng anh thì nó chỉ có 300 thôi
+00:13:58.090 tất cả những cái có được thế à ở lớp zin
+00:14:01.009 vỏ nhà sản xuất trong đã phải dòng máy
+00:14:03.379 cửa trước lồng ngang thì gương là có bốn
+00:14:05.689 chân thì nó sẽ có 2 cặp tiếp điểm
+00:14:08.679 thứ hai là man của máy giặt cửa trước
+00:14:12.019 lồng ngang thì là không có lúm chọn mực
+00:14:15.110 nước Bởi vì người ta sẽ cố định là mức
+00:14:17.600 nước trong loại máy giặt cửa trước làm
+00:14:20.600 ngay không được phép vượt qua trục cơ
+00:14:23.509 của trung trước thì tại sao phải để nói
+00:14:25.970 là không cần qua trục cơ của thằng chiếu
+00:14:27.350 ở mình khi mà chúng ta mất nước cùng ta
+00:14:30.410 là cao hơn chục cơ
+00:14:32.230 của thùng chứa thì khi đó máy giặt giá
+00:14:35.929 rất hay hỏng đi dạo này hỏng đi
+00:14:39.519 rồi và áp lực 3 chân thì ta có thể thay
+00:14:43.999 thế cho loại hai chân nhưng mà chúng ta
+00:14:45.649 sẽ xem nhà sản xuất đang sử dụng cặp
+00:14:48.379 tiếp điểm Thường đóng 2 cấp tiếp điểm
+00:14:50.389 thứ mở và chúng ta chọn và cấp điện sản
+00:14:54.230 phẩm à
+00:14:56.700 và Đồng thời khi thay thế các loại như
+00:14:59.640 vậy thì chúng ta cần phải điều chỉnh vận
+00:15:04.020 hành máy ở chế độ lấy mức nước cam thì
+00:15:07.080 khi vận hành máy ở chế độ lấy nước nước
+00:15:08.520 cao Lúc này phải có sự mắt nước hợp lý
+00:15:13.290 thì lúc đó nào được Nhưng nếu mà chúng
+00:15:16.560 ta thấy là có sự ngắt nước của chúng ta
+00:15:18.030 không hợp lý ta cần phải cân chỉnh mà
+00:15:19.530 biết điều chỉnh Tôi ví dụ nếu nước của
+00:15:22.590 tôi làm ít quá Nếu ít quạt thì sẽ dẫn
+00:15:25.740 tới một tí hiện tượng là quần áo của ta
+00:15:28.500 sẽ bị nhầm lắm nhưng nếu mà chắc là lý
+00:15:30.840 điều chỉnh mức nước quá lớn thì nước của
+00:15:33.780 chúng ta có thể là chan qua ống chống
+00:15:35.160 tràn rồi nhưng chưa cắt nhưng không át
+00:15:37.380 đấy là một trong những cái chúng ta cần
+00:15:39.030 lấy Như Ý là ta cần phải điều chỉnh sao
+00:15:40.920 cho Khoa học
+00:15:41.900 và khi thay thế ông giáp cũng vậy thì ta
+00:15:45.360 phải thấy đúng về chiều dài đúng để tiết
+00:15:47.880 kiệm tiền lương để mức nước khống chế
+00:15:50.700 trong thùng chứa của tập hợp A
+00:15:53.870 [âm nhạc]
+00:15:56.710 em mấy giờ chúng ta sẽ đi tìm hiểu về
+00:15:59.710 bạn áp lực điện tử
+00:16:02.070 in đâu thì đâu giờ thấy đã giới thiệu
+00:16:06.250 cho cả lớp là phân biệt để bạn ăn được
+00:16:08.410 cơ mà bán được điện tử thì đối với pen
+00:16:10.420 áp lực nghĩa từ ý khi mà ra thổi vào ống
+00:16:13.330 hơi ông Giáp Thì lúc này không có sự
+00:16:16.420 thay đổi trạng thái đóng ngắt để tiêm
+00:16:18.640 cho nó không có tiếng kêu tách tách loại
+00:16:21.310 văn này thì từ trước đến nay thì nhà sản
+00:16:23.410 xuất người ta đang sử dụng là một trong
+00:16:25.420 hai loại
+00:16:26.190 được gọi là van áp lực đặt hàng quá tuổi
+00:16:30.910 tham thì hãy quét rửa than thì giống một
+00:16:33.160 biến giờ thì các loại này thì trước đây
+00:16:36.250 khi mà chúng ta dùng thì rất hay xảy ra
+00:16:37.690 các hiện tượng là sau một thời gian thì
+00:16:40.120 tan quét rửa than chị tiếp xúc quanh ta
+00:16:41.800 không tốt sẽ dẫn tới tình trạng máy bị
+00:16:44.680 báo lỗi do đó là
+00:16:47.400 không nạp được Nhấn ghế yêu
+00:16:51.240 mà có một số những cái điểm nghiệp chỉ
+00:16:53.920 như vậy là loại Ban này rất ít à chị
+00:16:56.720 Dung dùng được một thời gian thì em
+00:16:59.420 không dùng nữa đây ít giờ bắt gặp
+00:17:03.610 một đối với
+00:17:05.740 loại
+00:17:07.510 bạn đã được điện tử sử dụng là cuộn dây
+00:17:11.300 và lõi sắt khi sử dụng là rất là nhiều
+00:17:14.199 thì đối với loại cuộn dây nói sắp này
+00:17:16.670 thì người ta có thể sử dụng nói chúng ta
+00:17:18.650 là nói sắp từ hoặc là nói Facebook nó
+00:17:21.380 sắp tưởng và lõi kép
+00:17:23.050 có thể là loại hai chân và có thể là
+00:17:25.730 loại ba ba chân
+00:17:27.940 thì đối với loại hai chân thì có túc
+00:17:31.780 được gắn ở ở bên ngoài một số thì vẫn có
+00:17:36.650 tổ bên trong mà đối với loại 3 chân thì
+00:17:39.080 có hai cụ mà chấm dứt trận nối mắt
+00:17:42.880 bây giờ mày Tao chủ yếu là người ta sử
+00:17:44.960 dụng lại tan quét rửa than là xin lỗi
+00:17:46.760 lại cuộn dây màn sắt
+00:17:49.000 thì về nguyên lý làm việc thì như sau
+00:17:51.080 thì các em nhìn vào sơ đồ này thì đây là
+00:17:53.720 loại cuộn dây và lõi sắt Xem
+00:17:57.410 video tiếp cuộn dây đồng da sắt thì về
+00:17:59.760 nguyên lý thì cũng tương tự đối với loại
+00:18:02.820 văn
+00:18:03.650 cơ thì khi nước vào bên trong thùng chứa
+00:18:06.720 đây thì nước vào chiếm số Đẩy cái không
+00:18:10.680 khí trong công tác theo ống dẫn áp đi
+00:18:12.810 vào Bên trong van thì cái đi vào Bên
+00:18:15.210 trong van thì đồng thời áp suất cao thì
+00:18:18.630 thắng đẩy nói sẽ từ đi lên bàn thắng với
+00:18:21.990 lực đẩy của lò xo
+00:18:24.950 viết về Bến Tre này người ta gọi là biết
+00:18:27.060 điều chỉnh mức cấp để thay đổi những nét
+00:18:29.100 sức nén của lò dò ý bây giờ là chúng ta
+00:18:31.950 thấy là khi mà cứ nói sắp từ học nó nói
+00:18:34.140 Phillip di chuyển ở bên trong cuộn dây
+00:18:35.900 khi di chuyển ở bên trong Còn dây thì
+00:18:38.100 chúng ta thấy là biến cuộn cảm biến cái
+00:18:41.250 cuộn cảm là ban đầu mà chúng ta là muộn
+00:18:43.290 cả nói Không khí chuyển sang cuộn cảm có
+00:18:47.610 lõi sắt từ hoặc nói sẽ đít ý khi đó xét
+00:18:52.290 Thay đổi cái thí nghiệm xung dao động
+00:18:53.730 xung dao động đi nè cho xe à Hay là đi
+00:18:57.669 về cho vi xử lý đi trước khi ở đây là
+00:19:00.130 sung của chúng ta Đây là sim thì lúc đó
+00:19:02.409 lần đầu tiên là người ta sẽ cho sung vào
+00:19:04.090 rồi bắt đầu là thay đổi về cuộn cảm thì
+00:19:06.850 sẽ lấy súng ra nhưng sung này hình sin
+00:19:08.860 thì trong vi xử lý thì người ta chủ yếu
+00:19:10.240 là mình đã sử dụng gạch vuông
+00:19:12.059 xơ đỏ tín hiệu đưa sung vào tín hiệu xử
+00:19:15.520 lý xung chuyển từ xung sim Samsung vuông
+00:19:17.770 thì đều là qua một IC giải mã sao DC
+00:19:21.039 giải mã phao này chính lần IC là
+00:19:24.929 4069
+00:19:27.630 IC 4069
+00:19:31.080 tc4069 là thấy đây ví dụ như là trong
+00:19:34.840 một cái bo mạch thì thầy đưa ra thì
+00:19:37.990 trong đó là anh sẽ giải mà sao tc-400 6
+00:19:40.690 4 4 0 6 9 của chúng ta đến đang có là
+00:19:43.960 sáu ốc thì bố một lốc thì trong đó là
+00:19:46.270 người ta sẽ á chủ yếu là chúng ta sẽ sử
+00:19:48.010 dụng là 2 lốc hoặc là chúng ta có thể sử
+00:19:49.750 dụng
+00:19:51.090 4 lốc thì theo trong đó là đầu tiên là
+00:19:54.399 chân năm phần trăm sáu là tao đưa
+00:19:56.690 vì
+00:19:57.250 vậy trong đó có sẽ đưa cái tín hiệu xung
+00:20:02.050 tín hiệu xung của chúng ta là đi vào
+00:20:04.430 foul và khi cái tín hiệu đi quay về thì
+00:20:07.520 quay về thì sẽ xử lý dung bạn sẽ xử lý
+00:20:11.000 dung từ sim sang xung vuông thì đối với
+00:20:14.690 tín hiệu này thì
+00:20:16.030 ban đầu thì tùy thuộc theo từng loại thì
+00:20:20.120 ở nhà sản xuất thì trong đó là ký hiệu
+00:20:22.040 sung ban đầu của xa thì nó sẽ ra độc
+00:20:24.830 nhưng mà nó sẽ dao động thì từng loại là
+00:20:27.470 từ 20 cho đến khoảng 40 thì độ Hz ạ
+00:20:35.590 Lúc này chúng ta thấy là gì
+00:20:38.320 chúng ta thấy là ví dụ nhìn thấy lấy một
+00:20:40.700 cái ví dụ như là ban đầu là loại mày a
+00:20:43.730 của thầy đang là
+00:20:47.470 39 độ Hz thì đây là cái giá trị ban đầu
+00:20:50.600 thì chính những giá trị ban đầu thì
+00:20:53.090 chính các giá trị ban đầu này thì nhà
+00:20:54.320 sản xuất sẽ lấy cái giá trị ban đầu này
+00:20:55.940 là đưa không giống với bạn ăn được cơ là
+00:20:59.640 một là cấp nước
+00:21:01.430 22 tính toàn diện hay là kiểu mắt này là
+00:21:06.300 chế độ bắt đấy là hiện giá trị Văn Đồng
+00:21:08.480 Đây là cái giá trị ban đầu của Thật ra
+00:21:10.620 là 30
+00:21:12.920 thì đổ hạt Z
+00:21:17.450 và khi bàn lúc này chúng ta thấy là khi
+00:21:20.910 mà nói sẽ đi vào bên trong thì nó sẽ
+00:21:23.550 thay đổi thì cuộn cảm chuyển từ cuộn cảm
+00:21:26.420 không nói sang cuộn cảm có nói thì thay
+00:21:29.340 đổi cái cảm khác khi thay đổi cảm kháng
+00:21:31.650 sẽ thay đổi cái nhiều sung chúng ta thấy
+00:21:33.900 là khi những nước đi vào ít thì cuộn dây
+00:21:36.270 này của có thành Ví dụ như 1/3 đến chiều
+00:21:39.330 dài cuộn dây của thầy là đang có nói thì
+00:21:41.160 lúc này cảm kháng của ta nhỏ
+00:21:44.270 nhưng mà nó sẽ lớn hơn tôi Vĩnh Trường
+00:21:46.440 gặp là toàn bộ não của chúng ta đã nói
+00:21:48.420 không ký thì bây giờ này ví dụ như mức
+00:21:50.460 được lâu của thầy là đưa về là
+00:21:54.170 a28 thi đấu Hz
+00:21:57.890 mức trung bình thì nó sắp từ lại đi sâu
+00:22:00.840 hơn vào bên trong thì tôi đưa vào là 20
+00:22:03.510 đưa ký hiệu về là 26khz
+00:22:05.900 và đối với hắn là mất nước cao nhất thì
+00:22:09.510 cái đó sẽ từ này lại đi sâu hơn vào bên
+00:22:11.070 trong thì bây giờ là thầy đưa về 24 Thì
+00:22:14.490 đó Hz đây là tùy thuộc theo mình nhà sản
+00:22:16.620 xuất người ta lập trình và khi tín hiệu
+00:22:18.210 đưa về trùng với Tín hiệu là cài đặt thì
+00:22:20.610 lúc đó là CPU lúc này nè xuất lệnh ra sẽ
+00:22:24.330 ngắt nguồn và bán cấp nước và đồng thời
+00:22:25.860 xuất lệnh cho động cơ máy thực hiện chế
+00:22:28.050 độ giặt giũ và khi về chế độ vắt thì van
+00:22:30.510 xả làm việc thì sẽ thấy là lò xo này
+00:22:32.430 phải đẩy nó sẽ từ Trở về trạng thái ban
+00:22:34.230 đầu là 30khz thì lúc bò máy mới mắt thì
+00:22:37.830 lúc đó mai mới mắt nhưng nếu mà chúng ta
+00:22:39.390 không đạt được 30kwh nhé trứng đây Máy
+00:22:41.160 sẽ bắt cái máy xe bắt thì chính là tan
+00:22:44.100 áp lực này thì thứ nhất là đối với
+00:22:47.570 chúng ta cũng rất là khó để chúng ta nên
+00:22:50.880 kiểm tra được chính xác trình kiểm tra
+00:22:53.460 được là để tạo ra súng một cái khoản
+00:22:55.750 sung là thường mà chúng ta đi à Sửa chữa
+00:22:58.570 thì từng loại đã thấy là từ 20 đến 30k
+00:23:01.000 ghz là là tốt thì muốn đo được xong thì
+00:23:04.750 chúng ta phải sử dụng đồng hồ Ocean Road
+00:23:06.220 là do Còn đối với chúng ta sử dụng đồng
+00:23:08.919 hồ vạn năng thì các em chỉ đo được ở một
+00:23:12.100 cái dạng là bị mất rồi bị chậm thôi là
+00:23:14.320 biết được chết thôi chứ còn mì nếu không
+00:23:16.269 đất không gặp thì để sung ra là cái giá
+00:23:18.460 trị cho đúng ở nhà sản xuất thì rất là
+00:23:20.110 khó ta không thể biết được là thứ hai là
+00:23:22.570 thức đoạn thì muốn con loại thì người ta
+00:23:24.880 để nó sẽ Từ này nó làm ở bên trong cao
+00:23:27.610 hay thấp so với cuộn dây chính cái bệnh
+00:23:31.179 là nối các loại này thì pin thì chúng ta
+00:23:32.529 chỉnh cái viết tăng rắm nước này có rất
+00:23:34.720 nhiều trường hợp là chúng ta chỉnh là sẽ
+00:23:37.240 bị sai số ở giá trị bắt đầu thì máy sẽ
+00:23:39.399 bắt thì đối với loại này thì theo cái
+00:23:42.039 kinh nghiệm thì mà thấy đi làm thì thấy
+00:23:43.480 chán thường thấy là
+00:23:45.360 đối với sai số ở trong cái chế độ là ví
+00:23:48.580 dụ như là cái phao lực này thì người ta
+00:23:50.470 cho sai số bằng là mười phần trăm
+00:23:53.810 ở trong đó nhá trong đó có sự sai số
+00:23:57.080 chúng ta là quá sự cộng Chương 10 phần
+00:23:58.490 trăm
+00:23:59.380 trong đó này ở chế có mắt chỉ + -5 phần
+00:24:02.450 trăm bắt của chúng ta là cộng 95 phần
+00:24:04.940 trăm và chết có mặt của chúng ta cho sai
+00:24:08.210 số giặt chút đi cho xài số 50 phần trăm
+00:24:10.010 thì nên có rất nhiều cái chân thật là
+00:24:11.540 cái file mà chúng ta thì vẫn cấp nước
+00:24:14.000 vẫn bình thường vẫn dạng bình thường
+00:24:16.340 nhưng khi về cho mắt lại bỏ bật đấy là
+00:24:18.590 cái sự sai số của tao nằm ở trong phạm
+00:24:20.030 vi nói gì lớn hơn 5 phần trăm nhỏ hơn 10
+00:24:22.640 thì chúng ta cũng rất là hay gặp đối với
+00:24:24.920 cái tình trạng này và hay gặp đối với
+00:24:26.930 tình trạng này thì đối với loại van này
+00:24:28.670 thì do chúng ta không có tao thằng chi
+00:24:31.880 tiết các trang thiết bị đo cũng thể thì
+00:24:35.330 chúng ta thường là dựa vào một số biểu
+00:24:37.430 hiện thai thực thì khi nghi ngờ là ban
+00:24:40.370 thì chúng ta sẽ Vệ sinh sạch còn đối với
+00:24:42.170 trường hợp này thì các em có thể là do
+00:24:43.610 thứ nhất là đo xem đã có tín hiệu là
+00:24:45.980 sung vào hay chưa sung vào à cảm biến
+00:24:50.000 mực nước Anh chưa và đã có súng ra chưa
+00:24:51.560 thì nếu mà chưa có sung thì đường là gì
+00:24:53.820 Cho mình xin lại mã phao hoặc là sao mày
+00:24:57.360 Đức còn đối với sung có sung quay về rồi
+00:24:59.940 mà vẫn không đạt thì chúng ta cũng có
+00:25:01.620 thể là kiểm tra mày Giải Mà sao hai
+00:25:03.180 người trải mà phang từ đối với thí sinh
+00:25:04.830 này mà sao ra cũng không đo được mà
+00:25:07.110 thông thường thì ở bên trong Để cái cái
+00:25:09.780 cái
+00:25:10.940 xảo lực thì có thụ và con tụ thường Hoặc
+00:25:15.030 là các đường tín hiệu đi về này thì tao
+00:25:16.770 đi học Số còn tủ thường của ta nó
+00:25:20.180 ở trạng thái này là trạng thái bị do bị
+00:25:23.550 đứt thì chúng ta cần phải kiểm tra cần
+00:25:25.830 phải kiểm tra
+00:25:27.860 thì đây là đối với nói sắp từ của chúng
+00:25:31.050 ta sẽ di động dao động như sau dao động
+00:25:35.130 đi này thì đây là thành cắt ra một lúc
+00:25:37.950 lốc ở trong nghĩ xin lạy má sao anh
+00:25:41.040 trong ý xây lại mà sao
+00:25:43.700 giờ đây là thầy Lấy một ví dụ thì em nói
+00:25:47.130 từ hoặc là nói Thấy di chuyển ở bên
+00:25:49.260 trong
+00:25:51.890 bể Văn vật điện tử các loại cuộn dây và
+00:25:55.090 nó sắc
+00:25:56.309 thì về cấu tạo thì cũng tương tự đối với
+00:25:59.490 van áp lực cấu tạo thì cũng tương tự đối
+00:26:03.010 lên án đang được cơ Chúng ta không có
+00:26:04.480 thần ban chúng ta có
+00:26:07.799 chân giắc cắm chúng ta có lỗ grab vào
+00:26:11.850 thì đối với lúc này là sẽ không không có
+00:26:15.730 lẽ không có tiếp điểm chúng ta sẽ có
+00:26:17.260 cuộn dây có lõi sắt rồi là có dạng của
+00:26:20.380 lò xo có biết điều chỉnh Anh có biết
+00:26:22.840 điều chỉnh cũng bảo bên trên để tác động
+00:26:24.190 vào lò xo để cắt động ngược lại đối với
+00:26:26.980 các loại xe từ loại thấy cuộn dây này
+00:26:29.620 thì đối với loại 3 chân thì ta sẽ có 20
+00:26:31.360 tụi chấm dứt được nước mắt và đối với
+00:26:33.340 loại mà ta đang có hai chân thì chúng ta
+00:26:35.440 sẽ nối một con cùng thôi an đuổi một con
+00:26:38.080 tụng thôi
+00:26:39.809 Thì về nguyên lý làm việc thì khi nước
+00:26:42.580 nước trong thùng chứa tăng dần tan dần
+00:26:45.519 thì lúc này
+00:26:47.070 nén không khí trong cáp tăng theo nén
+00:26:51.970 không khí trong góc áp xe tăng và theo
+00:26:55.820 ông giáp đi vào Bên trong văn theo ống
+00:26:58.700 dẫn em đi bảo vệ tinh cam ban
+00:27:01.090 lúc này màng cao su từ từ được nâng lên
+00:27:04.900 màn cao su từ từ đứng đăng lên
+00:27:08.560 đẩy nói sắp từ
+00:27:11.710 hoặc lõi ferrit di chuyển vào bên trong
+00:27:15.950 cuộn dây
+00:27:17.320 di chuyển vào bên trong cuộn dây
+00:27:20.500 trong cuộn dây lúc này trở thành cuộn
+00:27:24.350 cảm
+00:27:26.230 từ nói không khí mày nói cách khác là
+00:27:29.330 cuộn cảm không nói sang cuộn cảm có nói
+00:27:33.140 sắp từ hoặc nói ferit cuộn cảm có nói
+00:27:37.340 sắp từ hoặc nói phép
+00:27:39.640 do đó sẽ làm thay đổi cảm kháng của cuộn
+00:27:43.580 cảm sẽ làm thay đổi cảm kháng của cuộn
+00:27:46.310 cảm làm thay đổi xung điện
+00:27:50.380 làm thay đổi một cái tín hiệu Xung
+00:27:53.820 em nói sắp từ đi lên càng càng sâu vào
+00:27:57.450 bên trong cuộn dây thì cảm kháng càng
+00:27:59.490 tăng tần số sẽ cắn rằng mức xung điện
+00:28:03.060 bảo vệ IC giảm
+00:28:05.600 và đến khi nào tín hiệu xung
+00:28:10.010 đưa về IC vi xử lý bằng với cái tín hiệu
+00:28:14.280 xung hay tín hiệu điện áp mà thật cái
+00:28:15.630 đặt của Tăng kỹ sư ở nhà sản xuất người
+00:28:19.320 ta cài đặt ở bên trong thì lúc này đi xe
+00:28:22.710 biết được là mất nước đã Đù đi xe chắn
+00:28:25.470 suất lạnh ngắt nguồn cho ăn cơm nước
+00:28:28.400 suất lạnh ngắt nguồn cho ban công lớp
+00:28:30.660 đồng thời
+00:28:32.420 xét cấp nguồn cho động cơ
+00:28:35.690 để thực hiện chế độ giặt dù để thực hiện
+00:28:40.770 chế độ giặt rũ
+00:28:43.940 nhưng
+00:28:46.220 khi về chế độ mắt vì mức nước ở trong
+00:28:49.920 cái thùng chứa đực xả ra ngoài
+00:28:53.830 từ lúc này lò xo sẽ đẩy cái nói sắp từ
+00:28:56.200 hoặc nói phét
+00:28:58.350 giờ trở về trạng thái ban đầu đi về cái
+00:29:01.990 trạng thái ban đầu
+00:29:05.039 thì lúc này tín hiệu đi về IC vi xử lý
+00:29:08.799 thì kaycee thì xử lý biết được
+00:29:10.799 là bên trong của chúng ta đã hết là hết
+00:29:13.899 nước vào lúc đó cọ với thời gian được
+00:29:17.470 lập trình bằng cái thời gian cấp lớp thì
+00:29:19.960 khi đó là quãng thời gian mà xài cộng
+00:29:23.380 với Tín hiệu phao báo về là nó hết nước
+00:29:25.029 thì lúc này mới cho phép là gì mình cho
+00:29:26.830 thêm vào mắt à
+00:29:28.960 a
+00:29:30.240 đối với nguyên lý làm việc đối với loại
+00:29:32.799 tan quét chổi than thì cũng tương tự như
+00:29:34.720 vậy
+00:29:35.410 [âm nhạc]
+00:29:37.230 thì đối với loại khanh khách chở than
+00:29:39.190 thì cũng tương tự là khi mất nước trong
+00:29:41.649 thùng chứa tăng dần
+00:29:43.770 thế cũng nước vào càng lớn thì cũng sẽ
+00:29:47.110 làm áp suất không khí trong góc áp tăng
+00:29:49.649 làm áp suất không khí trong cáp tăng đẩy
+00:29:53.740 mạnh cao su cũng từ từ được nâng lên đẩy
+00:29:57.100 màng cao su từ từ được nâng lên
+00:29:59.250 thanh quét sẽ quét trên cửa than
+00:30:02.520 anh quét lúc này sẽ quét trên trời than
+00:30:05.730 để làm thay đổi giá trị điện trở
+00:30:09.720 thay đổi thì giá trị điện trở
+00:30:12.510 lúc này
+00:30:15.210 điện áp bảo vệ cho IC có sự thay đổi
+00:30:19.380 điện áp bảo về cho IC có sự thay đổi đến
+00:30:23.830 khi nào trùng với điện áp được cài đặt
+00:30:28.940 ở chung với điện áp được cài đặt
+00:30:32.800 cùng với điện áp lực cài đặt
+00:30:39.250 tí xe vi xử lý chán ngắt nguồn cho van
+00:30:43.280 cấp nước
+00:30:44.350 IC vi xử lý sáng làm nguồn cho ban các
+00:30:47.120 nước Đồng thời
+00:30:49.960 cấp nguồn cho động cơ
+00:30:52.610 Ừ để thực hiện chế độ giặt giúp
+00:30:57.400 để thực hiện chế độ giặt du
+00:31:00.730 nhưng
+00:31:02.260 khi về chế độ mắt
+00:31:04.870 khi về cho mắt thì man sản sẽ làm việc
+00:31:10.059 văn sản sẽ làm việc sẽ là áp suất không
+00:31:13.670 khí giảm
+00:31:16.030 làm áp suất không khí giảm lò xo đẩy
+00:31:20.510 Thanh quét
+00:31:21.730 về vị trí ban đầu
+00:31:24.010 và khi về vị trí ban đầu lúc đó máy mới
+00:31:28.070 cho phép bắt lúc đó máy cho thấy mắt ạ ừ
+00:31:32.380 ừ
+00:31:34.780 Ừ
+00:31:40.590 thì về đứng lòng
+00:31:42.660 từng gặp kiểm tra và thay thế thì đối
+00:31:46.120 với van lắp đặt điện tử thì về cơ bản
+00:31:47.680 thì rất ít bị hỏng mà thường nó hỏng là
+00:31:50.770 cái dạng như là chân ra cắm tiếp xúc
+00:31:52.720 không tốt
+00:31:54.390 tín hiệu bó với cái sai
+00:31:56.760 do đó trước khi
+00:31:59.250 thay thế kiểm tra thay thế thì chúng ta
+00:32:02.140 nên vệ sinh phải các chân giắc cắm và
+00:32:04.510 Nếu không được thì chúng ta sẽ tiến hành
+00:32:06.310 thay thử
+00:32:07.770 còn đối với về kiểm tra Thì thấy vừa con
+00:32:11.050 nói là nếu mà kiểm tra thì chúng ta phải
+00:32:12.580 sử dụng cái đồng hồ đồng hồ oshino tối
+00:32:15.760 thiểu nhất là em mua cái loại đồng hồ mà
+00:32:17.500 rẻ nhất ít chức năng mà chỉ đó sung đó
+00:32:20.020 số thì cũng rơi hoặc là 6 triệu con nối
+00:32:22.390 với cái loại mà cao cấp hơn một chút thì
+00:32:25.030 chúng ta thấy là nó có thể lên đến là
+00:32:26.590 dịp nên đến 10 hơn 10 triệu có thể 450
+00:32:30.490 triệu không có thế nên là để mà về mà
+00:32:33.430 chúng ta đo của mình có một cái van áp
+00:32:36.680 lực này thì chúng ta thấy là nhiều khi
+00:32:38.870 người ta nói vui với nhau là rẻ lắm mua
+00:32:41.210 một con dao một con dao vàng để về cắt
+00:32:43.520 tiết gà
+00:32:45.940 nên là họ chúng ta thì cũng không yêu
+00:32:48.770 những thợ mà có đầu tư về các thế đồng
+00:32:53.480 hồ Sino
+00:32:54.490 cũng không nhiều chỉ như vậy là chúng ta
+00:32:57.080 thường là chúng ta sẽ á kiểm tra mày các
+00:32:59.150 chân giắc cắm
+00:33:00.160 kiểm tra phải kết thúc và sau đó chúng
+00:33:03.200 ta sẽ á Cái thử nhưng riêng đối với loại
+00:33:05.120 này các em cần lưu ý thấy có chia sẻ rồi
+00:33:09.950 chúng ta mà đối với và nắp được này thì
+00:33:12.560 nó sắp từ ta thì mốt nhà sản xuất thì
+00:33:15.470 người ta sẽ để nó sẽ từ là cao thấp số
+00:33:18.020 vòng dây rồi cảm kháng làm cho cái kí
+00:33:20.450 hiệu là sung số và được đảm bảo về ban
+00:33:22.970 đầu là có sử khác nhau thì chính vì có
+00:33:25.730 sự khác nhau như vậy thì thấy có nói là
+00:33:28.300 nếu mà sai số của chúng ta là nhiều lần
+00:33:30.860 trên năm phần trăm lớn hơn 5 phần trăm
+00:33:32.900 là không bắt được nó không bắt được 39
+00:33:36.090 mẹ là chúng ta phải thay Đúng đây này
+00:33:37.770 Đúng loại máy ra đời máy Còn nếu không
+00:33:40.350 thì ta phải chỉ người chúng ta phải đo
+00:33:42.270 cho tao phải dò tần số làm sao lại chúng
+00:33:44.430 ta chung là cái tần số lúc nó cái gì nó
+00:33:46.650 mới bắt nó mới mắt thì có rất nhiều hơn
+00:33:49.380 trên thị trường có rất nhiều các ban Ví
+00:33:50.580 dụ như toàn la hay là xanh tô thì chúng
+00:33:52.860 ta này rất giống nhau nhiều khi thì
+00:33:54.510 chúng ta đang thay lắp đồng cho nhau
+00:33:55.770 nhưng mà trên thực tế là nó sẽ bị sai về
+00:33:57.950 máy tín hiệu xung số và ban đầu thì nên
+00:34:00.360 là chúng ta muốn thay lần ít ra cần phải
+00:34:02.640 nắm được là đối với panna là bao nhiêu
+00:34:05.430 tần số 3 về là bao nhiêu tô cái giá trị
+00:34:08.820 ban đầu là báo về bao nhiêu và nó chỉ
+00:34:10.409 chúng ta để có đồng hồ chí nôn 5 bịch
+00:34:12.000 bình thường là gì à Nếu như chúng ta sai
+00:34:14.580 thì biết là chúng ta chỉ mò thôi và chỉ
+00:34:17.250 mò này thì nào mà bắt được nó Okay bố
+00:34:19.199 trí như vậy là chúng ta chỉ cần sử cho
+00:34:21.150 mắt các em triển cần thử tải về sẽ bắt
+00:34:24.150 Nếu mà thử về chế độ vắt mà bắt được là
+00:34:27.659 bán và tốt làm ăn tốt
+00:34:30.590 đối với pháp được điện tử mà khi hỏng
+00:34:33.000 thì lúc này máy sẽ gây ra hiện em có
+00:34:35.500 nhiều biểu hiện thì chúng ta có thể là
+00:34:37.389 cha mà Báo lỗi trên
+00:34:40.409 chân mạng Google thì chúng ta thấy rằng
+00:34:43.030 rất nhiều thì mà Báo lỗi mà tiền lại máy
+00:34:46.270 thì muốn một loại máy thì có mà Báo lỗi
+00:34:48.280 khác nhau thì nó không cái ví dụ như thế
+00:34:50.620 nào đối với hư hỏng về ban áp lực điện
+00:34:54.668 tử thường gặp
+00:34:56.940 thì thứ nhất là có các biểu hiện như là
+00:34:59.530 biểu hiện của chúng ta là bấm luôn nữa
+00:35:02.230 ấn phím sẽ tắt cái là máy báo lỗi luôn
+00:35:03.990 rồi giặt xong máy không vắt hoặc là khi
+00:35:08.950 ta chọn chế độ giặt tự động thì máy có
+00:35:10.780 thể là không cân đồ giặt Để chọn lấy mất
+00:35:12.940 nước thì cái cân đồ giặt ra thì ban đầu
+00:35:15.760 chúng ta giặt máy xé quay trái quay phải
+00:35:18.310 mục đích để cân bột giặt tại sao lại
+00:35:20.800 biết được là được nước nhiều dư lượng
+00:35:22.900 nước ít
+00:35:24.060 cái là quần áo nhiều còn học ít thì lấy
+00:35:26.890 mức nước cao hơn thấp
+00:35:29.910 rồi chưa giặt xong máy tự ngắt nguồn rẻ
+00:35:34.790 em yêu dù đã ngắt nước
+00:35:37.180 thì nước vào đủ ngắt nước nhưng lại
+00:35:41.330 không không giặt và máy báo lỗi
+00:35:43.840 và một số dòng thì có màn hình huỳnh
+00:35:46.280 quang thì ở trên gì của chúng ta sẽ có
+00:35:49.220 báo lên cái màn hiển thị thì ví dụ như
+00:35:51.920 là lơ j mà Báo lỗi còn Việt Nam là Fe d
+00:35:56.270 e e
+00:35:58.690 đối với Samsung mà Báo lỗi của da có thể
+00:36:02.030 là đê Hitachi và báo lỗi người ta sẽ lại
+00:36:05.840 F1
+00:36:06.700 f0c một
+00:36:08.470 Panasonic mà Báo lỗi U11 đầu lại chín
+00:36:12.740 xát và C2 Toshiba lại e49 Vân thì chúng
+00:36:19.160 ta có thể là dễ đời máy nhá chứ không
+00:36:21.800 phải là cái cái cái báo lỗi này chúng ta
+00:36:24.440 là áp dụng cho tất cả LG là như vậy ta
+00:36:27.380 cũng để áp dụng cho tất cả là Pana bởi
+00:36:29.720 vì nó kỹ thuật cao Model của nhà sản
+00:36:31.790 xuất của màu đen thì luôn luôn đánh thay
+00:36:33.260 đổi Chúng ta mình cập nhật thường xuyên
+00:36:34.800 ở
+00:36:35.420 đây là đối với
+00:36:37.370 thầy đã giới thiệu cho cả lớp phải là
+00:36:40.290 giới thiệu cho cả lớp đối với bạn áp lực
+00:36:43.080 và nam cực
+00:36:45.980 bài học của chúng ta thì đến đây là kết
+00:36:49.080 thúc
+00:36:51.290 thì đối với các em về nhà xem lại bài và
+00:36:55.650 chuẩn bị bài mới cho thầy thì buổi sau
+00:36:57.630 chúng ta sẽ đi tiếp sang công tác an
+00:36:59.760 toàn để xin chào cả lớp hẹn gặp lại các
+00:37:02.610 bạn vào buổi học sau

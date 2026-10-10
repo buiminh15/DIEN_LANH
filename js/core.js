@@ -13,10 +13,11 @@
 
   // Đăng ký bài: gộp theo id (bài "sắp có" chỉ có metadata, bài thật có thêm nội dung)
   DL.register = function (l) {
-    const i = DL.lessons.findIndex(x => x.id === l.id);
+    l.cat = l.cat || 'tu-lanh'; l.key = l.cat === 'tu-lanh' ? l.id : l.cat + '-' + l.id;
+    const i = DL.lessons.findIndex(x => x.id === l.id && x.cat === l.cat);
     if (i >= 0) DL.lessons[i] = Object.assign({}, DL.lessons[i], l);
     else DL.lessons.push(l);
-    DL.lessons.sort((a, b) => a.id - b.id);
+    DL.lessons.sort((a, b) => a.cat === b.cat ? a.id - b.id : a.cat < b.cat ? -1 : 1);
   };
   DL.progress = function (id) {
     const p = store.get('p' + id, {});
@@ -24,7 +25,7 @@
   };
   DL.setProgress = function (id, patch) { store.set('p' + id, Object.assign(store.get('p' + id, {}), patch)); };
   DL.percent = function (l) {
-    const p = DL.progress(l.id);
+    const p = DL.progress(l.key);
     const cards = l.flashcards ? Math.min(1, p.cards / l.flashcards.length) : 0;
     const parts = [p.visited ? 1 : 0, cards, p.quiz / 100, p.sort ? 1 : 0];
     return Math.round(parts.reduce((a, b) => a + b, 0) / parts.length * 100);
@@ -33,9 +34,9 @@
   /* ---------------- Flashcard ---------------- */
   DL.flashcards = function (root, lesson) {
     let deck = lesson.flashcards.map((c, i) => Object.assign({ i }, c));
-    let known = new Set(store.get('known' + lesson.id, []));
+    let known = new Set(store.get('known' + lesson.key, []));
     let idx = 0, onlyUnknown = false;
-    const save = () => { store.set('known' + lesson.id, [...known]); DL.setProgress(lesson.id, { cards: known.size }); };
+    const save = () => { store.set('known' + lesson.key, [...known]); DL.setProgress(lesson.key, { cards: known.size }); };
     const cur = () => (onlyUnknown ? deck.filter(c => !known.has(c.i)) : deck);
 
     function draw() {
@@ -114,8 +115,8 @@
       nx.onclick = () => { i++; draw(); };
     }
     function end() {
-      const pct = Math.round(score / qs.length * 100), best = Math.max(pct, DL.progress(lesson.id).quiz);
-      DL.setProgress(lesson.id, { quiz: best });
+      const pct = Math.round(score / qs.length * 100), best = Math.max(pct, DL.progress(lesson.key).quiz);
+      DL.setProgress(lesson.key, { quiz: best });
       const msg = pct >= 90 ? 'Xuất sắc! Bạn nắm rất chắc bài này.' : pct >= 70 ? 'Khá tốt! Xem lại vài câu sai bên dưới để chắc hơn.' : 'Cần ôn thêm. Đọc lại bài học và lật flashcard rồi thử lại nhé.';
       root.innerHTML = `<div class="pcard score"><div class="ring" style="color:${pct >= 70 ? 'var(--ok)' : 'var(--warm)'}">${score}/${qs.length}</div>
         <p class="msg" style="margin-inline:auto">${pct}% · ${msg}<br>Điểm cao nhất: ${best}%</p>
@@ -183,7 +184,7 @@
       if (placed < items.length) { res.innerHTML = `<div class="why">Còn ${items.length - placed} thẻ chưa đặt. Hãy đặt hết rồi kiểm tra nhé.</div>`; return; }
       checked = true; render();
       const good = items.filter(x => place[x.id] === x.b).length;
-      if (good === items.length) DL.setProgress(lesson.id, { sort: true });
+      if (good === items.length) DL.setProgress(lesson.key, { sort: true });
       res.innerHTML = `<div class="why" style="border-color:${good === items.length ? 'var(--ok)' : 'var(--warm)'}"><b>${good}/${items.length} thẻ đúng.</b> ${good === items.length ? '🎉 Hoàn hảo!' : 'Thẻ đỏ là chưa đúng cột — bấm “Làm lại” để thử lần nữa.'}</div>`;
     };
     root.querySelector('#rst').onclick = () => { items.forEach(x => place[x.id] = null); sel = null; checked = false; root.querySelector('#res').innerHTML = ''; render(); };
@@ -229,7 +230,7 @@
       root.querySelector('#chk').onclick = () => {
         checked = true; draw();
         const good = list.filter((x, k) => x.i === k).length;
-        if (good === list.length) { const p = DL.progress(lesson.id); DL.setProgress(lesson.id, { order: Math.max(p.order, 1) }); }
+        if (good === list.length) { const p = DL.progress(lesson.key); DL.setProgress(lesson.key, { order: Math.max(p.order, 1) }); }
         root.querySelector('#res').innerHTML = `<div class="why" style="border-color:${good === list.length ? 'var(--ok)' : 'var(--warm)'}"><b>${good}/${list.length} bước đúng vị trí.</b> ${good === list.length ? '🎉 Đúng thứ tự!' : 'Xanh là đúng, đỏ là sai vị trí. Bấm “Xáo lại” để thử lại.'}</div>`;
       };
       root.querySelector('#rst').onclick = mount;

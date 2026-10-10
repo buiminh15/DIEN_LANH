@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<!-- saved from url=(0092)https://b042e6b0-88a6-4e77-81f0-07a8a10482d3.frame.claudeusercontent.com/_f/1790728508-cec0/ -->
+<html lang="vi"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!-- frame-runtime --><script>window.__FRAME_PREAMBLE={"v":1,"cred":"cookie","capabilities":{"artifact":"artifact.w_ePPE-a.js","assets":"assets.DOAjpBS9.js","comments":"comments.BcqPhVn7.js","db":"db.zFlAA4qL.js","dictation":"dictation.f3j7VXQ8.js","downloads":"downloads.axDW2QAi.js","embed":"embed.SWCZLzn6.js","endpoints":"endpoints.BPfoKaE1.js","files":"files.IkpCjcgM.js","mcp":"mcp.kl0G36TA.js","network":"network.B5UA9Su4.js","permissions":"permissions.6yWoDecA.js","reads":"reads.Bgov9hIw.js","room":"room.Dy3vHyq9.js","sample":"sample.D5wHJkl_.js","self":"artifact.w_ePPE-a.js","user":"user.CB0zJsP2.js"},"transforms":"_transforms.DF0fPd9f.js","comments":"_comments.CVOoGJSh.js","translate":"_translate.DqxC5ek1.js","ldx":"_ldx.B4FSryPi.js"}   </script><script>(function(){"use strict";function fr(t){return t==="cookie"||t==="query"?t:void 0}function dr(t){return typeof t=="number"&&Number.isSafeInteger(t)&&t>0?t:void 0}var to=3e5;function hr(t,e){try{const r=t("navigation")[0],n=[r.responseStart,r.redirectEnd-r.redirectStart,r.domContentLoadedEventStart,e(),r.connectEnd-r.domainLookupStart,r.responseStart-r.requestStart];r.requestStart>0||(n.length=4);for(let a=0;a<n.length;a++)if(n[a]>=0&&n[a]<=3e5)n[a]=n[a]|0;else{if(a<4)return;n.length=4}return n}catch{return}}var pr=["light","dark","system"],mr=/^[A-Za-z0-9_-]{1,64}$/,Lt=/^[a-zA-Z_:][a-zA-Z0-9_:.-]{0,127}$/,vr=new Set(["class","hidden","value","checked","style","title","alt","placeholder","lang","dir","role","tabindex","disabled","readonly","contenteditable","open","colspan","rowspan"]);function _r(t){const e=t.toLowerCase();return e.startsWith("data-")||e.startsWith("aria-")||vr.has(e)}var Ot="data-ldx-props";function yr(t,e){if(e.toLowerCase()===Ot)return!0;const r=t.getAttribute(Ot);if(r===null)return!1;try{const n=JSON.parse(r);if(n===null||typeof n!="object"||Array.isArray(n))return!0;const a=e.toLowerCase();return Object.keys(n).some(s=>s.toLowerCase()===a)}catch{return!0}}var ro="http://www.w3.org/1999/xhtml",gr="http://www.w3.org/2000/svg",wr=new Set(["script","style","iframe","noscript","noframes","noembed","xmp","plaintext","template","title","textarea","object","embed"]),br=new Set(["script","style"]);function Er(t){const e=t.localName.toLowerCase();return t.namespaceURI==="http://www.w3.org/1999/xhtml"?!wr.has(e):t.namespaceURI===gr?!br.has(e):!1}function tt(t,e){return t===e||(t===160||t===32)&&(e===160||e===32)}function Sr(t,e){const r=t.length,n=e.length;let a=0;for(;a<r&&a<n&&tt(t.charCodeAt(a),e.charCodeAt(a));)a++;let s=0;for(;s<r-a&&s<n-a&&tt(t.charCodeAt(r-1-s),e.charCodeAt(n-1-s));)s++;return{p:a,s}}function kr(t,e){const r=t.firstChild;if(t.childNodes.length!==1||r===null||r.nodeType!==Node.TEXT_NODE){t.textContent=e;return}const n=r.data,a=n.length,s=e.length,{p:l,s:c}=Sr(n,e);l===a&&c===0&&a===s||r.replaceData(l,a-l-c,e.slice(l,s-c));const T=r.data,w=t.ownerDocument.getSelection?.()??null,_=w!==null&&w.rangeCount>0&&(w.anchorNode===r||w.focusNode===r)?{anchor:w.anchorNode,anchorOffset:w.anchorOffset,focus:w.focusNode,focusOffset:w.focusOffset}:null;let h=-1,A=-1;for(let p=0;p<T.length&&p<e.length;p++){const j=T.charCodeAt(p),R=e.charCodeAt(p);j!==R&&tt(j,R)&&(h<0&&(h=p),A=p)}const O=h>=0;if(O&&r.replaceData(h,A-h+1,e.slice(h,A+1)),O&&_!==null&&_.anchor!==null&&_.focus!==null)try{w.setBaseAndExtent(_.anchor,_.anchorOffset,_.focus,_.focusOffset)}catch{}}var Ar=new Set(["html","head","body","frameset"]);function Rr(t){return t.namespaceURI==="http://www.w3.org/1999/xhtml"&&Ar.has(t.localName)}function Tr(t){if(t===null||typeof t!="object")return!1;const e=t;if(typeof e.target!="string"||!mr.test(e.target)||e.text!==void 0&&typeof e.text!="string")return!1;if(e.attrsSet!==void 0){if(e.attrsSet===null||typeof e.attrsSet!="object")return!1;for(const[r,n]of Object.entries(e.attrsSet))if(!Lt.test(r)||typeof n!="string")return!1}if(e.attrsRemoved!==void 0){if(!Array.isArray(e.attrsRemoved))return!1;for(const r of e.attrsRemoved)if(typeof r!="string"||!Lt.test(r))return!1}return!0}function Lr(t,e){if(t===null||typeof t!="object")return!1;const{seq:r,elements:n}=t;if(typeof r!="number"||!Number.isSafeInteger(r)||!Array.isArray(n)||n.length===0||n.length>64)return!1;for(let a=0;a<n.length;a++)if(!e(n[a]))return!1;return!0}function Or(t){return t===null||typeof t!="object"?!1:Lr(t.__frame_patch,Tr)}function Mr(t){if(t===null||typeof t!="object")return!1;const e=t.__frame_init;return e!==null&&typeof e=="object"}function Pr(t){return t!==null&&typeof t=="object"&&t.__frame_size_poke===!0}function Nr(t){if(t===null||typeof t!="object")return!1;const e=t.__frame_host_visible;return e!==null&&typeof e=="object"&&typeof e.visible=="boolean"}function Cr(t){if(t===null||typeof t!="object")return!1;const e=t.__frame_theme;if(e===null||typeof e!="object")return!1;const r=e.theme;return typeof r=="string"&&pr.includes(r)}var Fr=["ok","empty","snapshot_error","snapshot_timeout","unclonable","oversize","unavailable","restore_error","withheld"],jr=["TypeError","RangeError","ReferenceError","SyntaxError","DataCloneError","QuotaExceededError","AbortError","TimeoutError","SecurityError","Error","other"];function xr(t){return typeof t=="string"&&jr.includes(t)?t:"other"}var Ir=Object.freeze({until:null,now:!1}),Dr="__claude_hot",Hr="__claude_hot_in",Br=/^__claude_hot(?:_in)?(?::|$)/,Mt=/^[0-9a-z]{1,32}$/,rt=t=>t===void 0?Dr:"__claude_hot:"+t,Le=t=>t===void 0?Hr:"__claude_hot_in:"+t;function qr(t,e){const r=[];for(let n=0;n<t.length;n++){const a=t.key(n);a!==null&&a!==e&&Br.test(a)&&r.push(a)}for(const n of r)t.removeItem(n)}function Ur(t){let e=null;try{e=q(JSON.parse(t)?.hot)}catch{return null}return e===null||typeof e.k!="string"||!Mt.test(e.k)?null:he(e.g)?{k:e.k,g:e.g}:{k:e.k}}var no=262144,Kr=3e3,Gr=5e3,Pt=/^[a-z0-9._:-]{1,64}$/,$r=["none","hot-restart","hard-reload"],zr=["asset","doc","added","removed"],Wr=1500,Vr=/^[0-9a-f]{64}$/;function q(t){return t!==null&&typeof t=="object"?t:null}function he(t){return typeof t=="number"&&Number.isInteger(t)&&t>=0&&t<2**31}function Nt(t){return t===void 0||typeof t=="number"&&Number.isFinite(t)}function Xr(t){return t===void 0||typeof t=="string"&&Pt.test(t)}function Ct(t){const e=q(t);return e!==null&&(e.until===null||typeof e.until=="number"&&Number.isFinite(e.until))&&typeof e.now=="boolean"}function nt(t){const e=q(t);return e!==null&&typeof e.ver=="string"&&e.ver.length<=128&&Nt(e.seq)&&typeof e.handoff=="string"&&Fr.includes(e.handoff)&&Xr(e.note)}function Ft(t){const e=q(t);return e!==null&&he(e.gen)&&(e.phase==="final"||e.phase==="pending")&&(e.from===null||nt(e.from))}function Yr(t){const e=q(t);return e!==null&&e.kv===1&&he(e.gen)&&nt(e.from)&&Object.hasOwn(e,"data")}function Jr(t){const e=q(t);return e!==null&&e.__frame_hot_snapshot===!0&&he(e.gen)&&typeof e.timeoutMs=="number"&&e.timeoutMs>=0&&e.timeoutMs<=6e4&&(e.handoff===void 0||typeof e.handoff=="boolean")&&(e.deadline===void 0||Ct(e.deadline))&&Nt(e.seq)&&(e.note===void 0||typeof e.note=="string")&&(e.key===void 0||typeof e.key=="string")}function Zr(t){const e=q(t);return e!==null&&e.__frame_hot_start===!0&&he(e.gen)&&nt(e.from)}function Qr(t){return typeof t=="string"&&t.length>=1&&t.length<=128}function jt(t){return q(t)!==null&&!Array.isArray(t)}function en(t){const e=q(t);return e!==null&&e.__frame_cap_grant===!0&&typeof e.cap=="string"&&Qr(e.ver)&&(e.grant===void 0||jt(e.grant))&&(e.budgets===void 0||jt(e.budgets)&&Object.values(e.budgets).every(Number.isFinite))&&(e.brokerGen===void 0||he(e.brokerGen))}function tn(t){const e=q(t);return e!==null&&e.__frame_cap_rewired===!0&&(e.caps===void 0||Array.isArray(e.caps)&&e.caps.every(r=>typeof r=="string"))&&(e.brokerGen===void 0||he(e.brokerGen))}function Ge(t){const e=q(t);return e!==null&&typeof e.ver=="string"&&e.ver.length<=128&&Number.isFinite(e.seq)}function xt(t){if(t==null||typeof t=="string")return!0;const e=q(t);return e!==null&&typeof e.doc=="string"&&typeof e.profile=="string"}function rn(t){const e=q(t);return e!==null&&typeof e.path=="string"&&zr.includes(e.kind)&&xt(e.from)&&xt(e.to)}function nn(t){return t===null?null:Object.freeze(t.filter(rn))}function on(t){const e=q(t);return e!==null&&e.__frame_hot_update===!0&&Number.isFinite(e.id)&&Ge(e.from)&&Ge(e.to)&&(e.changed===null||Array.isArray(e.changed))&&$r.includes(e.required)&&Ct(e.deadline)&&typeof e.verdictTimeoutMs=="number"&&e.verdictTimeoutMs>=0&&e.verdictTimeoutMs<=6e4&&(e.preflight===void 0||typeof e.preflight=="string"&&Vr.test(e.preflight))}function an(t){const e=q(t);return e!==null&&e.__frame_hot_readdress===!0&&Ge(e.from)&&Ge(e.to)}var pe=/^[\w.-]+\.js$/;function sn(t,e,r){return r?"inert":typeof e=="string"&&pe.test(e)?t?[e]:"inert":t?"inert":"framed"}var It=Object.freeze({[Symbol("claude.hot.restart")]:!0});function Dt(t,e){let r;try{r=t??sessionStorage}catch{return null}const n=rt(e?.k),a=Le(e?.k);let s=null;try{s=r.getItem(n)}catch{}try{r.removeItem(n)}catch{}try{qr(r,a)}catch{}let l=null;if(s!==null&&!(e!==null&&e.g===void 0))try{const c=JSON.parse(s);Yr(c)&&(e===null||c.gen===e.g)&&(l=c)}catch{}if(l===null)try{r.removeItem(a)}catch{}return l}function Ht(){const t=/^\/_f\/([^/]{1,128})\//.exec(location.pathname);return t?t[1]:""}var ln=/^[^/\\?#]{1,128}$/,ot=t=>ln.test(t)&&t!=="."&&t!=="..";function Bt(t,e,r){const n=new URL(t),a="/_f/"+e+"/";if(!e||!n.pathname.startsWith(a)||!ot(r))return null;const s=n.search.slice(1).split("&").filter(l=>!/^__frame_t(?:=|$)/.test(l)).join("&");return n.origin+"/_f/"+r+"/"+n.pathname.slice(a.length)+(s?"?"+s:"")+n.hash}var $e="{}";function Oe(t){if(!t)return null;const e={ver:t.ver,handoff:t.handoff};return t.seq!==void 0&&(e.seq=t.seq),t.note!==void 0&&(e.note=t.note),e}function qt(t,e){return t!==null&&t.note===void 0&&e?.note!==void 0?{...t,note:e.note}:t}function Ut(t){const e=t?.k;return e!==null&&typeof e=="object"?e:void 0}function cn(t,e,r,n=null){const a=setTimeout,s=clearTimeout,l=queueMicrotask,c=performance.now.bind(performance),T=new TextEncoder;let w=null,_=null;try{w=history,_=w.replaceState.bind(w)}catch{}const h=(...o)=>{try{console.warn(...o)}catch{}};let A=Ht(),O=null;try{O=sessionStorage}catch{}const p={storage:O,fetch:typeof fetch=="function"?fetch.bind(globalThis):null,entry:location.origin+location.pathname+location.search,ver:A,priors:[],key:n?.k};let j=n?.k;const R=typeof requestAnimationFrame=="function"?requestAnimationFrame:o=>a(()=>o(c()),16);let y=e?.data??{},b=Oe(e?.from),x=e?.gen??0,D=e!==null,B=!1,G=!1,H=null,be=!1;const Fe=new AbortController;let je=null,U=null,Ee=null,xe=!1,le=()=>{};const ce=new Promise(o=>{le=o});let ve=!1,u=!1,E=!1,m,g=null,I=!1,$=!1,K=!1,te=!1,Y=!1,_e=!1;const ye=o=>{for(const f of[rt(o),Le(o)])try{O?.removeItem(f)}catch{}},z=(o,f)=>{try{f!==null&&r.post(o,f)}catch{}},Ie=()=>Y||=K&&(U===null||te),J=()=>{const o={__frame_hot:!0,ready:U!==null,accept:Ee!==null,demand:!0};_e=!Y,_e&&(o.booting=!0),ve&&(o.readData=!0),E&&(o.threw=!0),g?.assess&&(o.preflight=!0),z(o,H)};let De=!1,re=!1,ue=!1,He=!1;const Je=()=>{De||!be||ue||(De=!0,z({__frame_reveal_hold:!0},"*"))},Se=()=>new Promise(o=>{let f,d=0;const v=M=>{if(f===void 0)f=M;else if(M!==f||++d>=8){o();return}try{R(v)}catch{o()}};try{R(v)}catch{o()}}),Be=()=>{ue=!0,z({__frame_reveal_ready:!0},"*")},qe=o=>{re||(re=!0,o.then(f=>{if(f===!1)return;let d=null;try{d=g?.settle?.()??null}catch{}return(d===null?Se():new Promise(v=>{a(v,50),Promise.resolve(d).then(v,v)}).then(Se)).then(Be)}))},gt=()=>{if(He||!ue)return;He=!0;const o=()=>{try{g?.afterReveal?.()}catch{}};o(),Se().then(()=>{o(),Be()})},ee=(o=!1)=>{if(xe||U===null||!D||!G)return;xe=!0;const f=U,d=y;l(()=>{let v;try{v=f(d)}catch(P){throw le(!1),P}let M=!1;try{M=typeof v?.then=="function"}catch{}if(!M){le(!0);return}Promise.resolve(v).then(()=>le(!0),P=>{le(!1),l(()=>{throw P})})}),qe(o?ce:r.dcl.then(()=>ce))},fe=o=>typeof o=="string"&&Pt.test(o)?o:void 0,ke=o=>{const f={__frame_hot_restart:!0},d=fe(o?.note);d!==void 0&&(f.note=d),o?.required==="hard-reload"&&(f.required="hard-reload"),z(f,H)},Ue=Object.freeze({get data(){return G||(u=!0),!D&&!ve&&(ve=!0,G&&J()),y},get from(){return b},get gen(){return x},signal:Fe.signal,snapshot(o){typeof o=="function"&&(je=o)},ready(o){typeof o!="function"||U!==null||(U=o,Je(),J(),B&&z({__frame_hot_ready:!0,gen:x},H),ee())},accept(o){typeof o=="function"&&(Ee=o,J())},restart(o){const f={note:o?.note,required:o?.required};if(G){ke(f);return}const d=m;m={note:fe(d?.note)??f.note,required:d?.required==="hard-reload"||f.required==="hard-reload"?"hard-reload":void 0}}});let i=null,S=()=>{};const k=new Promise(o=>{S=o});let N=null;const Z=()=>N??=r.dcl.then(()=>{let o=!1;try{o=i!==null&&i.expect()}catch{}if(!o)return;const f=i.maxMs;return new Promise(d=>{k.then(d),a(d,f)})}),Q=()=>{if(!I||$||g===null)return;$=!0;const o=g;Z().then(()=>{try{ue||o.afterStart(Ut(e),!1)}catch{}})},de=o=>{e!==null&&u&&(ve=!0),y={},b=null,x=0;try{O?.removeItem(Le(n?.k))}catch{}e!==null&&!o&&qe(r.dcl.then(()=>U!==null?ce:void 0))},$n=()=>{I=!0,qe(Z().then(()=>U!==null?ce:void 0)),Q()};try{addEventListener("error",()=>{E||U!==null||(E=!0,J())})}catch{}const sr=()=>{a(()=>{!Y&&Ie()&&_e&&J()},0)};try{K=document.readyState==="complete",K||addEventListener("load",()=>{K=!0,sr()},{once:!0})}catch{K=!0}Ie(),ce.then(()=>{te=!0,sr()});let ge=-1,wt,bt,Ke=!0,Et=!1,St,Ze=null;const kt=o=>{const f=Ze===null;Ze=Ke&&o[0]!=="withheld"?o:["withheld",o[1],$e];let d=o[0];if(Ke&&d!=="withheld"){const M={ver:A,handoff:d};wt!==void 0&&(M.seq=wt),bt!==void 0&&(M.note=bt);try{if(O===null)throw new Error("no storage");O.setItem(rt(j),'{"kv":1,"gen":'+ge+',"from":'+JSON.stringify(M)+(St!==void 0?',"k":'+JSON.stringify(St):"")+',"data":'+(d==="ok"?o[2]:$e)+"}")}catch{d="unavailable"}}else{d="withheld",ye(j);try{g?.release?.()}catch{}}const v={__frame_hot_snapshotted:!0,gen:ge,handoff:d,bytes:o[1]};o[3]!==void 0&&(v.errName=o[3]),z(v,H),f&&(d==="snapshot_error"||d==="unclonable"||d==="oversize")&&h("claude.hot: snapshot",d,o[3])},Ae=o=>{try{return xr(o?.name)}catch{return"other"}},Re=(o,f,d=0)=>kt(f===void 0?[o,d,$e]:[o,d,$e,Ae(f)]),zn=o=>{if(o.gen<=ge)return;const f=ge>=0;if(ge=o.gen,wt=o.seq,bt=fe(o.note),typeof o.key=="string"&&Mt.test(o.key)&&o.key!==j&&(ye(j),j=o.key),Ke&&=o.handoff!==!1,f){Ze!==null?kt(Ze):Et&&z({__frame_hot_held:!0,gen:ge},H);return}Fe.abort();const d=Object.freeze({handoff:Ke,timeoutMs:o.timeoutMs,deadline:o.deadline??Ir}),v=je,M=()=>{if(Ke)try{St=g?.capture()}catch{}if(v===null){Re("empty");return}let L=!1;const W=a(()=>{L||(L=!0,Re("snapshot_timeout"))},Math.max(0,d.timeoutMs));Promise.resolve().then(()=>v(d)).then(Te=>{if(L)return;L=!0,s(W);let ne;try{ne=JSON.stringify(Te)}catch(At){Re("unclonable",At);return}if(typeof ne!="string"){Re("unclonable");return}let oe=ne.length;try{oe=T.encode(ne).length}catch{}if(oe>262144){Re("oversize",void 0,oe);return}kt(["ok",oe,ne])},Te=>{L||(L=!0,s(W),Re("snapshot_error",Te))})};let P=null;try{P=g?.holdForIme()??null}catch{}if(P===null)M();else{Et=!0,z({__frame_hot_held:!0,gen:ge},H);const L=()=>{Et=!1,M()};P.then(L,L)}},Wn=o=>{if(!B||D||U===null||o.gen!==x)return;let f=null;try{f=Dt(O,n&&{k:n.k,g:o.gen})}catch{}if(f!==null&&f.gen!==o.gen){f=null;try{O?.removeItem(Le(n?.k))}catch{}}y=f?.data??{},b=qt(Oe(f?.from??o.from),Oe(o.from)),f!==null&&(x=f.gen),D=!0,B=!1;const d=Ut(f);ce.then(v=>{try{v&&g?.afterStart(d,!0)}catch{}}),ee(!0)},ir=o=>{const f=A,d=p.entry;let v="",M,P=null;try{if(v=location.href,M=w.state,P=Bt(v,f,o),P!==null)if(_(M,"",P),location.pathname.startsWith("/_f/"+o+"/"))P=location.href;else return{failed:"navigate event canceled"}}catch(L){return{failed:Ae(L)}}A=p.ver=o,p.priors.push(f)>8&&p.priors.splice(1,1);try{p.entry=Bt(d,f,o)??d}catch{}return[P,f,d,v,M]},Vn=({from:o,to:f})=>{let d,v;if(!ot(f.ver))d="adopt_failed",v="not a version path segment";else if(f.ver===A)d="adopted";else if(!A||o.ver!==A)d="stale";else{const P=ir(f.ver);"failed"in P?(d="adopt_failed",v=P.failed):d=P[0]===null?"adopt_skipped":"adopted"}v!==void 0&&h(`claude.hot: could not move this page's URL to its new version folder /_f/${f.ver}/ (${v})`);const M={__frame_hot_readdressed:!0,to:f.ver,at:A,outcome:d};z(M,H)};let Qe=0;const Xn=o=>{const f=Ee;if(f===null||o.id<=Qe)return;Qe=o.id;const d=g?.assess;if(o.preflight===void 0||d===void 0){lr(o,f);return}let v=!1;const M=W=>{v||(v=!0,s(L),o.id===Qe&&lr(o,f,W))},P=()=>M(d.timeout(o)),L=a(P,Wr+100);d.run(o,window).then(M,P)},lr=(o,f,d)=>{let v,M=!1,P=!1,L,W,Te=null;const ne=C=>{if(P)return!1;if(L!==void 0&&L!==C)return h(`claude.hot: u.${C}() ignored - u.${L}() was called first`),!1;const ae=L===void 0;return L=C,ae},oe=C=>{L="restart",h(`claude.hot: ${C} - restarting`)},At=()=>{if(!ne("adopt")||o.id!==Qe)return;const C=o.to.ver;if(et.required!=="none"){oe(`u.adopt() needs required 'none', it is '${et.required}'`);return}if(!ot(C)){oe("u.adopt() cannot address this version");return}if(!A||C===A)return;const ae=ir(C);if("failed"in ae){W="adopt_failed",oe(`adopt_failed ${ae.failed}; URL not changed`);return}const[X,Tt,Zn,ur,Qn]=ae;X===null?(W="adopt_skipped",h(`claude.hot: adopt_skipped - page already left /_f/${Tt}/; URL not changed, update still applied`)):W="adopted",Te=()=>{if(A===C){if(X!==null)try{if(location.href!==X)h("claude.hot: adopt_revert_skipped - update not applied; URL left where the page navigated");else{if(_(Qn,"",ur),location.href!==ur){h("claude.hot: adopt_revert_failed navigate event canceled - URL still at the new version");return}W="adopt_reverted",h("claude.hot: adopt_reverted - adopt() was called but the handler threw; URL restored")}}catch(eo){h(`claude.hot: adopt_revert_failed ${Ae(eo)} - URL still at the new version`);return}A=p.ver=Tt,p.entry=Zn,p.priors[p.priors.length-1]===Tt&&p.priors.pop(),X===null&&(W=void 0)}}},et=Object.freeze({from:{ver:o.from.ver,seq:o.from.seq},to:{ver:o.to.ver,seq:o.to.seq},changed:nn(o.changed),required:o.required,deadline:o.deadline,adopt:At,defer(){return ne("defer")&&et.deadline.now&&oe("u.defer() past the deadline"),It},restart(C){return ne("restart"),L==="restart"&&!P&&(v??=fe(C?.note),M||=C?.required==="hard-reload"),It},...d?.update}),Yn=(C,ae)=>{P=!0,C==="threw"?(Te?.(),v??=Ae(ae).toLowerCase()):L===void 0&&h(C==="timeout"?"claude.hot: accept handler did not answer in time - restarting":"claude.hot: accept handler settled without defer/restart/adopt - restarting");const X={__frame_hot_verdict:!0,id:o.id};X.verdict=C==="threw"||L===void 0||L==="restart"?"restart":L==="adopt"?"applied":"deferred",X.verdict==="restart"&&(M&&(X.required="hard-reload"),v!==void 0&&(X.note=v)),W!==void 0&&(X.verdict==="applied"||W!=="adopted")&&(X.adopt=W),z(Object.assign(X,d?.verdict),H)};let cr=!1;const Rt=(C,ae)=>cr?!1:(cr=!0,s(Jn),Yn(C,ae),!0),Jn=a(()=>Rt("timeout"),o.verdictTimeoutMs);Promise.resolve().then(()=>f(et)).then(()=>Rt("settled"),C=>{!Rt("threw",C)&&L==="adopt"&&ke({note:Ae(C).toLowerCase()}),h("claude.hot: accept",Ae(C))})};try{t.hot===void 0&&Object.defineProperty(t,"hot",{value:Ue,writable:!1,configurable:!1,enumerable:!1})}catch{}return{hot:Ue,boot:p,afterConnect(){be=!0,(e!==null||U!==null)&&Je()},onInit(o,f){H=f,G=!0;const d=Ft(o)?o:null;d?.phase==="final"&&e!==null&&e.gen===d.gen?(D=!0,b=qt(b,Oe(d.from)),$n()):(B=d?.phase==="pending",de(B),D=!B,x=d?.gen??0,b=Oe(d?.from)),J(),_e&&a(()=>{Y||(Y=!0,J())},Gr),B&&U!==null&&z({__frame_hot_ready:!0,gen:x},f),m!==void 0&&(ke(m),m=void 0),ee()},onNoInit(){G=!0,de(!1),D=!0,ee()},onShell(o){return o?.__frame_revealed===!0?(gt(),!1):Jr(o)?(zn(o),!0):Zr(o)?(Wn(o),!0):on(o)?(Xn(o),!0):an(o)?(Vn(o),!0):!1},attachExtras(o){g=o,Q(),o.assess&&J()},inSlot:()=>Le(j),hydration(o,f){i??={expect:o,maxMs:f}},hydrated(){S()},carried(){return D?y:{}},presented:()=>ue}}var oo="frame_ldx_runtime",un="frame_ldx_build",ao="script#an-form",fn=256;function at(t,e,r){for(const n of t)r(n)&&t.delete(n);t.size>=fn&&!t.has(e)&&t.delete(t.values().next().value),t.add(e)}function Me(t,e,r,n){try{const a=t[e];if(typeof a!="function")return;t[e]=function(...s){if(n){let c;try{c=n(this)}catch{}if(c!==void 0)return c}const l=a.apply(this,s);try{r?.(this)}catch{}return l}}catch{}}var dn=()=>{},st;function hn(){if(st)return st;const t={media:new Set,contexts:new Set,wakeLocks:new Set,gate:null,refuse:null,onStart:null,onStop:null};st=t;const e=l=>t.gate?.(l),r=l=>{t.onStop?.(l)},n=window.HTMLMediaElement?.prototype;n&&(Me(n,"play",l=>{at(t.media,l,c=>c.paused),t.onStart?.(l)},e),Me(n,"pause",r));const a=window.AudioContext,s=window.AudioNode?.prototype;a&&s&&(Me(s,"connect",l=>{const c=l.context;c instanceof a&&(at(t.contexts,c,T=>T.state==="closed"),t.onStart?.(c))}),Me(a.prototype,"resume",void 0,e),Me(a.prototype,"suspend",r));try{const l=window.WakeLock?.prototype,c=l?.request;l&&typeof c=="function"&&(l.request=function(...T){if(t.refuse)return t.refuse();const w=c.apply(this,T);return Promise.resolve(w).then(_=>{at(t.wakeLocks,_,h=>h.released),t.onStart?.(_)},dn),w})}catch{}return t}function pn(t){let e=window;for(let r=0;e.parent&&e.parent!==e&&r<8;r++)if(e=e.parent,t(e))return!0;return!1}function mn(){let t=null;const e=()=>t??parent,r=n=>t?n===t:pn(a=>a===n);return{post(n,a){if(t){e().postMessage(n,a);return}let s=parent;for(let l=0;l<8&&(s.postMessage(n,a),!(!s.parent||s.parent===s));l++)s=s.parent},on(n){const a=s=>{const l=s.source;r(l)&&n(s.data,s.origin,s.isTrusted,()=>{t??=l})};return addEventListener("message",a),()=>removeEventListener("message",a)},port:n=>({post(a,s){if(s?.activation){e().postMessage(a,{targetOrigin:n,includeUserActivation:!0});return}if(s?.transfer){e().postMessage(a,n,s.transfer);return}e().postMessage(a,n)},on(a,s){const l=c=>{r(c.source)&&c.origin===n&&a(c.data,c)};return addEventListener("message",l,s),()=>removeEventListener("message",l,s)}})}}function vn(){const t={post:()=>{},on:()=>()=>{}};return{...t,port:()=>t}}var _n=500,yn=2e4,gn="data-token-reads",wn="data-frame-refused-watch",bn="data-frame-unsupported",En=/(?:^|\s)stylesheet(?:\s|$)/i;function Sn(t,e){let r="";if(t instanceof HTMLScriptElement?r=t.src:t instanceof HTMLLinkElement&&En.test(t.rel)&&(r=t.href),!r)return null;try{const n=new URL(r);return n.origin===location.origin&&n.pathname.startsWith(e)?n.origin+n.pathname:null}catch{return null}}function kn(t,e,r){if(!t||e!=="query")return;const n="/_f/"+t+"/";document.documentElement.setAttribute(wn,"");const a=location.href,s=fetch,l=setTimeout,c={method:"HEAD",cache:"no-store",credentials:"same-origin"},T=p=>p.ok||p.status===304;let w=!1,_=!1;const h=()=>removeEventListener("error",O,!0),A=async p=>{const j=await s(p,c);if(T(j))_=!0;else if(j.status===403){const R=await s(a,c);if(T(R)){const y=(await s(p,c)).status;y===403?(_=!0,document.documentElement.setAttribute(bn,""),r()):y<500&&(_=!0)}else R.status>=400&&R.status<500&&(_=!0)}},O=p=>{if(_||w)return;if(document.documentElement.hasAttribute(gn)){_=!0,h();return}const j=Sn(p.target,n);j&&(w=!0,l(()=>{A(j).catch(()=>{}).finally(()=>{w=!1,_&&h()})},_n))};addEventListener("error",O,!0),addEventListener("load",h,{once:!0}),l(h,yn)}var it="__frame_scroll",An=150,Rn=310,Tn=160,Ln=3e4,Kt="p,h1,h2,h3,h4,h5,h6,li,pre,blockquote,tr,dt,dd,figcaption,summary",Gt=()=>innerWidth<=Rn&&innerHeight<=Tn,$t=t=>{const e=document.createTreeWalker(t,NodeFilter.SHOW_TEXT);let r="";for(;r.length<600&&e.nextNode();)r+=e.currentNode.nodeValue.slice(0,600-r.length);const n=r.replace(/\s+/g," ").trim().slice(0,120);let a=2166136261;for(let s=0;s<n.length;s++)a=Math.imul(a^n.charCodeAt(s),16777619);return n.length>11?a>>>0||1:0},zt=t=>{for(let e=t;e&&e!==document.scrollingElement;e=e.parentElement){const r=getComputedStyle(e).position;if(r==="fixed"||r==="sticky"||e!==t&&e.scrollTop)return!1}return!0},On=()=>{const t=[],e=[];try{for(let r=0;r<16;r++){const n=document.elementFromPoint(innerWidth/(r%2?4:2),innerHeight*(r>>1)/8+1);let a=n?.closest(Kt)??n;for(;a&&!a.matches(Kt)&&![...a.childNodes].some(l=>l.nodeType===3&&l.nodeValue?.trim());)a=a.parentElement;const s=a&&!e.includes(a)?$t(a):0;s&&!t.some(l=>l[0]===s&&l[2]===a.tagName)&&zt(a)&&(e.push(a),t.push([s,Math.round(a.getBoundingClientRect().top),a.tagName]))}}catch{}return t.sort((r,n)=>+(r[1]<0)-+(n[1]<0)),t.length?t.slice(0,3):void 0},Mn=t=>{try{for(const[e,r,n]of t.a??[]){const a=document.getElementsByTagName(n);let s;for(let c=0;c<a.length&&a.length<5e3;c++)$t(a[c])===e&&(s=s===void 0||s?.contains(a[c])?a[c]:null);const l=s?.getBoundingClientRect();if(l?.height&&s.checkVisibility?.()!==!1&&zt(s)&&isFinite(r))return Math.max(0,Math.round(scrollY+l.top-r))}}catch{}return t.y};function Pn(){let t=0,e=!1,r=!1,n=!1,a={y:0},s=null;const l=b=>{try{sessionStorage.setItem(it,JSON.stringify(b))}catch{}},c=b=>{if(clearTimeout(t),s===null)return;const x=s;s=null,l({y:x,a:b&&x>0?On():void 0})},T=()=>{if(e){e=!1;return}r=!0,s=scrollY,clearTimeout(t),t=setTimeout(c,An,!0)};try{addEventListener("scroll",T,{passive:!0}),addEventListener("pagehide",()=>c())}catch{}const w=()=>{let b;try{b=sessionStorage.getItem(it)}catch{return null}if(b===null)return null;let x;try{x=JSON.parse(b)}catch{x=null}const{y:D,a:B}=x??{};if(!(typeof D=="number"&&Number.isFinite(D)&&D>=0)){try{sessionStorage.removeItem(it)}catch{}return null}const G=H=>Array.isArray(H)&&typeof H[0]=="number"&&Number.isFinite(H[1])&&typeof H[2]=="string";return{y:D,a:Array.isArray(B)&&B.length<4&&B.every(G)?B:void 0}};let _=!1,h=-1;const A=b=>{try{const x=scrollY,D=Mn(b);scrollTo({top:D,left:0,behavior:"instant"}),a=Gt()?b:{y:D,a:b.a},n=!0,clearTimeout(t),s=null,l(a),h=scrollY,h!==x&&(e=!0);const B=D!==b.y&&document.readyState!=="complete";(h!==D||B)&&!_&&(_=!0,addEventListener("load",()=>{try{scrollY===h&&A(w()??a)}catch{}},{once:!0}))}catch{}},O=()=>{try{return!!location.hash}catch{return!0}};let p=!1;const j=()=>{try{if(p||!Gt())return;p=!0;const b=Date.now(),x=()=>{try{removeEventListener("resize",x)}catch{}Date.now()-b>Ln||r||O()||A(w()??a)};addEventListener("resize",x)}catch{}};let R=!1,y=!1;return{restore(){if(R||(R=!0,O()))return;const b=w();b!==null&&(A(b),j())},promoted(){if(y||(y=!0,O()))return;const b=w();b!==null?(A(b),j()):n&&A(a)}}}function Nn(t,e,r,n){let a=null;try{a=window.trustedTypes?.createPolicy("frame-runtime",{createScriptURL:T=>T})??null}catch{}const s=window.Worker,l=s?.prototype,c=Object.freeze({Worker:s,workerOn:l?.addEventListener,workerPost:l?.postMessage,workerTerminate:l?.terminate,fetch:window.fetch.bind(window),preventDefault:Event.prototype.preventDefault,now:Date.now,policy:a,origins:e});r(t).then(T=>T?.bootTopLevel?T.bootTopLevel(c,n):n.settle()).catch(()=>n.settle())}var so="modulepreload",io=function(t){return"/"+t},lo={},Cn=function(e,r,n){let a=Promise.resolve();function s(l){const c=new Event("vite:preloadError",{cancelable:!0});if(c.payload=l,window.dispatchEvent(c),!c.defaultPrevented)throw l}return a.then(l=>{for(const c of l||[])c.status==="rejected"&&s(c.reason);return e().catch(s)})},Fn=window===top,Wt=Object.getOwnPropertyDescriptor(window,"claude"),ze=sn(Fn,window.__FRAME_PREAMBLE?.topLevel,Wt?.writable===!1),lt=typeof ze=="object"&&ze[0],F=lt?vn():mn();(function(){const t=Object.defineProperty,e=globalThis,r=["RTCPeerConnection","webkitRTCPeerConnection","RTCDataChannel","RTCIceCandidate","RTCSessionDescription","RTCRtpSender","RTCRtpReceiver"];let n=0;for(let a=0;a<r.length;a++){const s=r[a];try{t(e,s,{value:void 0,writable:!1,configurable:!1})}catch{try{delete e[s]}catch{}try{t(e,s,{value:void 0,writable:!1,configurable:!0})}catch{}}typeof e[s]=="function"&&n++}if(n&&ze==="framed")try{F.post({__frame_rtc_lockdown_failed:n},"*")}catch{}})();var Vt=1e4,jn=2e3,ct=2e3,ut=Object.freeze([...window.__FRAME_PREAMBLE?.origins??["https://claude.ai","https://preview.claude.ai"]]);function Xt(t){for(const e of ut)if(e.endsWith(":*"))try{const r=new URL(t);if(`${r.protocol}//${r.hostname}:*`===e)return!0}catch{}else if(t===e)return!0;return!1}var Pe=Object.freeze({...window.__FRAME_PREAMBLE?.capabilities}),Ne=window.__FRAME_PREAMBLE?.transforms,ft=window.__FRAME_PREAMBLE?.comments,dt=window.__FRAME_PREAMBLE?.translate,me=window.__FRAME_PREAMBLE?.ldx,We=fr(window.__FRAME_PREAMBLE?.cred),Yt=(()=>{try{const[t]=performance.getEntriesByType("navigation"),e=t?.serverTiming?.find(r=>r.name==="frame-cred-exp");return e!==void 0&&/^\d{1,15}$/.test(e.description)?dr(Number(e.description)):void 0}catch{return}})();function Jt(t){return Cn(()=>import("/_runtime/"+t),void 0)}var Ce=new Set,Zt=setTimeout,xn=fetch,In=AbortController,Dn=800+800*Math.random(),Hn=3e3,Ve=null,Qt=new Map;function Bn(t,e){let r=Qt.get(t);return r||Qt.set(t,r=qn(t,e)),r}function qn(t,e){if(Ve?.has(t))return Promise.resolve("csp");if(navigator.onLine===!1)return Promise.resolve("offline");const r=new In;let n=!1;return Zt(()=>{n=!0,r.abort()},Hn),xn("/_runtime/"+t,{signal:r.signal}).then(a=>(r.abort(),a.ok?/javascript/i.test(a.headers.get("content-type")??"")?e instanceof Error&&/:\d+:\d+\)?$/m.test(e.stack??"")?"eval":"served":"mime":"http"),()=>n?"timeout":Ve?.has(t)?"csp":"net")}function se(t){if(!Ve){const e=Ve=new Set;try{document.addEventListener("securitypolicyviolation",r=>{const n=/\/_runtime\/([^/?#]+)/.exec(r.blockedURI);n&&r.disposition!=="report"&&e.add(n[1])})}catch{}}return Jt(t).catch(()=>new Promise(e=>Zt(e,Dn)).then(()=>Jt(t+"?r=1")).then(e=>(e!==void 0&&Ce.add(t),e)))}function er(t,e,r){return{contract:t.contract,changes:new Set(t.changes??[]),flags:new Set(t.flags??[]),capabilities:t.capabilities??{},capBudgets:t.capBudgets??{},brokerGen:t.brokerGen,transforms:new Map,shellOrigin:e,shell:r,mount:yt,hooks:Xe,pipe:()=>({wrap:(n,a)=>(...s)=>{try{return a(...s)}catch(l){return Promise.reject(l)}}})}}var we=null,V=null;function tr(t,e,r){try{Object.defineProperty(t,e,{value:r,writable:!1,configurable:!1,enumerable:!0})}catch{try{Object.defineProperty(t,e,{value:r,writable:!1,configurable:!0,enumerable:!0})}catch{}}}var ht=!1,Xe={editBefore:null,edit:null};function Un(t,e,r=!1){const n=[];let a;if(r)try{Xe.editBefore?.(t)}catch{}for(const s of t.elements){const l=document.querySelector(`[data-id="${s.target}"]`);if(!l){a=s.target;break}if([...Object.keys(s.attrsSet??{}),...s.attrsRemoved??[]].some(c=>!_r(c)||yr(l,c))){a=s.target;break}if(s.text!==void 0&&(!Er(l)||Rr(l))){a=s.target;break}for(const[c,T]of Object.entries(s.attrsSet??{}))if(!nr(l,c)){try{l.setAttribute(c,T)}catch{}rr(l,c,T)}for(const c of s.attrsRemoved??[])nr(l,c)||(l.removeAttribute(c),rr(l,c,null));typeof s.text=="string"&&kr(l,s.text),n.push(s.target)}if(r)try{Xe.edit?.(t.seq,n,a)}catch{}if(a!==void 0){F.post({__frame_patch_miss:{seq:t.seq}},e);return}try{document.dispatchEvent(new CustomEvent("claude:edit",{detail:{seq:t.seq,targets:n}}))}catch{}}function rr(t,e,r){if(!(t instanceof HTMLInputElement))return;const n=e.toLowerCase();n==="checked"?t.checked=r!==null:n==="value"&&t.type!=="file"&&(t.value=r??"")}function nr(t,e){const r=e.toLowerCase(),n=t;return r==="data-id"||(r==="value"||r==="checked")&&(n.__artifactSecret===!0||/^(password|hidden|file)$/.test(n.type??"")||/(^|\s)(cc-|one-time-code|current-password|new-password)/i.test(`${t.getAttribute("autocomplete")??""} ${n.autocomplete??""}`))}function or(t){const e=document.documentElement;t==="light"||t==="dark"?(e.dataset.theme=t,e.style.colorScheme=t,ht=!0):ht&&(delete e.dataset.theme,e.style.colorScheme="",ht=!1)}var ie=new Map,pt=null;function mt(){let t;const e={u:new Promise(r=>{t=r}),r:r=>{e.done=!0,t(r)},done:!1,nulled:!1};return e}function Ye(t,e){t.nulled=!0,t.ver=e,t.r(null)}function vt(t,e){for(const[r,n]of ie)n.done||(e&&n.asked?e(r,n):Ye(n,t))}function Kn(){for(const t of ie.values())if(t.asked&&!t.done)return!0;return!1}var Gn=Object.freeze(Object.assign(Object.create(null),{call:Function.prototype.call,apply:Function.prototype.apply,bind:Function.prototype.bind})),_t=!1,yt=(t,e)=>{let r=ie.get(t);if(r?.nulled&&_t)r=mt(),ie.set(t,r);else if(!r||r.done){r?.nulled&&V&&F.post({__frame_cap_telemetry:{kind:"cap-load-error",cap:t,phase:"install"}},V);return}const n=typeof e=="function"?Object.setPrototypeOf(e,Gn):Object.assign(Object.create(null),e);typeof n.then=="function"&&delete n.then,r.want=void 0,r.r(Object.freeze(n))};function ar(){const t=Wt?.value??{};tr(window,"claude",t);for(const e of Object.keys(Pe)){if(t[e]!==void 0){tr(t,e,t[e]);continue}ie.set(e,mt())}if(t.use===void 0){const e=r=>{if(typeof r!="string"||!Object.hasOwn(Pe,r))return Promise.resolve(null);let n=ie.get(r);return n?(pt&&(n.nulled||n.want!==void 0)&&(n=pt(r,n)),n.asked=!0,n.u):Promise.resolve(t[r]??null)};try{Object.defineProperty(t,"use",{value:e,writable:!0,configurable:!0,enumerable:!1})}catch{}}return t}if(ze==="framed"){let t;const e=Ne&&pe.test(Ne)?se(Ne).catch(u=>{t={f:Ne,e:u}}):Promise.resolve(void 0),r=u=>{if(u.type==="auxclick"&&u.button!==1)return;const E=u.target,m=E&&E.closest?E.closest("a[href],area[href]"):null;if(!m)return;const g=m.getAttribute("href");if(!g)return;let I;try{I=new URL(g,document.baseURI)}catch{return}if((I.protocol==="http:"||I.protocol==="https:")&&I.origin!==location.origin){u.preventDefault();const $=(m.getAttribute("target")??"").toLowerCase(),K=u.type==="auxclick"||u.metaKey||u.ctrlKey||u.shiftKey||u.altKey||!["","_self","_top","_parent"].includes($);F.post({__frame_nav:!0,url:I.href,newTab:K},"*")}};addEventListener("click",r,!0),addEventListener("auxclick",r,!0);const n={},a=u=>{u.isTrusted&&(n.pointer=!0)},s=u=>{u.isTrusted&&(n.click=!0)};addEventListener("pointermove",a,{capture:!0,passive:!0}),addEventListener("click",s,{capture:!0,passive:!0});const l={cb:null};addEventListener("keydown",u=>l.cb?.(u),!0);const c={cb:null};addEventListener("keydown",u=>c.cb?.(u));const T=hn();e.then(u=>u?.installEscapeForward?.(l,E=>{V&&F.post(E,V)})),e.then(u=>{try{u?.installFocusKeep?.()}catch{}}),e.then(u=>{if(!u?.wireNav)return;const E=F.port("*");u.wireNav(E),removeEventListener("click",r,!0),removeEventListener("auxclick",r,!0),removeEventListener("pointermove",a,!0),removeEventListener("click",s,!0),u.wireEngagement?.(n,E,T)});let w=null;try{w=Pn()}catch{}const _=document.readyState==="loading"?new Promise(u=>document.addEventListener("DOMContentLoaded",()=>u(),{once:!0})):Promise.resolve();let h="dcl",A=!1;_.then(()=>{A=!0});let O=null,p=null;try{p=Ur(window.name),O=Dt(null,p)}catch{}const j=ar();let R=null;try{R=cn(j,O,{post:(u,E)=>F.post(u,E),dcl:_},p)}catch{}e.then(u=>{try{R&&u?.installHotExtras?.(R)}catch{}});let y=null;const b=()=>Array.isArray(y?.flags)&&y.flags.includes("frame_ldx_runtime")&&!!me&&pe.test(me)&&document.querySelector("script#an-form")!==null;try{R?.hydration(b,Kr)}catch{}let x=null,D=0;const B=F.on((u,E,m,g)=>{Xt(E)&&Mr(u)&&(g(),y=u.__frame_init,V=E,B(),clearTimeout(D),x?.())});if(We){const u=Yt===void 0?{__frame_cred:We}:{__frame_cred:We,exp:Yt};for(const E of ut)try{E.endsWith(":*")||F.post(u,E)}catch{}}F.post({__frame_connect:!0},"*");try{R?.afterConnect()}catch{}const G=setTimeout,H=clearTimeout;let be=()=>NaN,Fe=()=>[];try{be=performance.now.bind(performance),Fe=performance.getEntriesByType.bind(performance)}catch{}let je=0;const U=()=>{try{F.post({__frame_alive:!0},"*")}catch{}je=G(U,jn)},Ee=()=>H(je);U(),addEventListener("load",Ee,{once:!0});const xe=new Promise(u=>{x=u,D=setTimeout(()=>{B(),u()},Vt)}),le=new WeakSet;addEventListener("error",u=>{u.target&&le.add(u.target)},!0);try{kn(Ht(),We,()=>{e.then(u=>{try{u?.drawRefusedNotice?.()}catch{}})})}catch{}const ce=()=>{let u=[];try{u=[...document.querySelectorAll("link[rel~=stylesheet]:not([rel~=alternate])")].filter(m=>!m.sheet&&!m.disabled&&!le.has(m)&&m.getAttribute("href")&&URL.canParse(m.href)&&(!m.media||matchMedia(m.media).matches))}catch{}let E=u.length;return E===0?Promise.resolve():new Promise(m=>{try{const g=ct-be();g>0&&(h="sheets");const I=G(m,g>0?g<ct?g:ct:0),$=()=>{--E===0&&(H(I),m())};for(const K of u)K.addEventListener("load",$,{once:!0}),K.addEventListener("error",$,{once:!0})}catch{m()}})};_.then(()=>{try{w?.restore()}catch{}}),Promise.all([xe,_,e]).then(([,,u])=>{if(y?.hostOverlays!==!0||!V)return;const E=I=>{try{return I?.()===!0}catch{return!1}},m=E(u?.declaresCover),g=y.hostSides===!0?{cover:m,sides:E(u?.declaresSides)}:{cover:m};if(F.post({__frame_layout:g},V),y.hostBackground===!0){const I=V;try{u?.watchBackground?.($=>F.post({__frame_layout:{...g,background:$}},I))}catch{}}});const ve={cb:null};F.on((u,E)=>{if(Xt(E)&&Pr(u)){try{w?.promoted()}catch{}ve.cb?.()}}),xe.then(async()=>{if(!y||!V){vt();try{R?.onNoInit()}catch{}return}if(or(y.theme),y.hostVisible===!1&&e.then(i=>i?.applyHostVisible?.(!1,T)),y.hostKeys!==void 0){const i=V,S=y.hostKeys;e.then(k=>k?.installHostKeyForward?.(c,S,N=>F.post(N,i)))}try{R?.onInit(y.hot,V)}catch{}let u;const E=()=>{try{!u&&me&&b()&&(u=se(me),u.then(i=>i?.prefetch?.()).catch(()=>{}))}catch{}};E(),_.then(E);const m=V,g=F.port(m),I=(i,S)=>F.post({__frame_cap_telemetry:{kind:"cap-load-error",cap:i,phase:S}},m),$=(i,S,k)=>{new Promise(N=>N(Bn(S,k))).then(N=>I(i,N),()=>I(i))},K=i=>F.post({__frame_cap_recovered:{cap:i}},m);let te=y.brokerGen;const Y=()=>R?.boot.ver??"",_e=Y(),ye=(i,S)=>{const k=Y();H(S.t),S.want=k,S.t=G(()=>{S.done||Ye(S,k)},Vt),F.post({__frame_cap_want:!0,cap:i,ver:k},m)},z=(i,S)=>{const k=ie.get(i.cap),N=Pe[i.cap];if(!S||!k||k.done||k.want!==i.ver||!pe.test(N))return;if(H(k.t),k.want=void 0,te=i.brokerGen??te,i.ver!==Y()){ye(i.cap,k);return}if(!i.grant||i.cap==="network"){Ye(k,i.ver);return}const Z=we,Q=we={...Z,capabilities:{...Z.capabilities,[i.cap]:i.grant},capBudgets:{...Z.capBudgets,[i.cap]:{...Z.capBudgets[i.cap],...i.budgets}}};se(N).then(de=>{Ce.has(N)&&K(i.cap),Q.brokerGen=te,_t=!0;try{de?.install?.(Q)}catch{I(i.cap,"install")}finally{_t=!1}},de=>$(i.cap,N,de)).then(()=>{k.done||Ye(k,i.ver)})};let Ie=!1,J=!1;F.on((i,S,k)=>{if(S!==m)return;try{if(R?.onShell(i))return}catch{}if(Cr(i)&&or(i.__frame_theme.theme),en(i)&&z(i,k),k&&tn(i)&&(te=i.brokerGen??te),Nr(i)){const Q=i.__frame_host_visible.visible;e.then(de=>de?.applyHostVisible?.(Q,T))}Or(i)&&Un(i.__frame_patch,m,k);const N=i?.__fc_mode;N&&typeof N=="object"&&!Ie&&ft&&pe.test(ft)&&(Ie=!0,se(ft).then(Q=>Q.install?.(m,N.on===!0,g)).catch(()=>{}));const Z=i?.__ft_cmd;Z&&typeof Z=="object"&&!J&&dt&&pe.test(dt)&&(J=!0,se(dt).then(Q=>Q.install?.(m,Z,g)).catch(()=>{}))});const De=Object.keys(y.capabilities??{}).filter(i=>Object.hasOwn(Pe,i)).map(i=>[i,Pe[i]]).filter(i=>typeof i[1]=="string"&&pe.test(i[1])),re=m;let ue=!1,He=()=>{};const Je=new Promise(i=>{He=()=>{ue=!0,i()}}),Se=()=>(ue||(h="caps"),Je),Be=O!==null||Ft(y.hot)||y.hostVisible===!1||y.hostOverlays===!0;A&&(h="init");const qe=_.then(()=>Be?Se():new Promise(i=>G(i,0))).then(ce).then(()=>{let i=!0;try{i=Be||Kn()}catch{}return i?Se():void 0}).then(()=>{Ee();const i=hr(Fe,be);F.post(i?{__frame_ready:!0,nav:i,gate:h}:{__frame_ready:!0,gate:h},re),e.then(S=>{S?.installSizeReporter?.(re,ve,g),S?.installPaintReporter?.(g)})}),gt=await Promise.allSettled(De.map(([,i])=>se(i))),ee=await e;if(ee?.buildBoot||(t?$("_transforms",t.f,t.e):I("_transforms")),ee?.buildBoot)try{we=ee.buildBoot(y,ee.TRANSFORMS??{},{shellOrigin:re,mount:yt,hooks:Xe,shell:g},i=>F.post({__frame_cap_telemetry:i},re))}catch{I("_transforms","install"),we=er(y,re,g)}else we=er(y,re,g);ee?.buildBoot&&Ce.has(Ne??"")&&K("_transforms");const fe=we;fe.brokerGen=te,gt.forEach((i,S)=>{const[k,N]=De[S];if(i.status!=="fulfilled"){$(k,N,i.reason);return}Ce.has(N)&&K(k);try{i.value?.install?.(fe)}catch{I(k,"install")}});const ke=y.capWants===!0;ke&&(pt=(i,S)=>{const k=Y();if(!k)return S;if(!S.nulled)return S.want!==k&&ye(i,S),S;if(k===S.ver)return S;const N=mt();return ie.set(i,N),ye(i,N),N}),vt(_e,ke&&Y()!==_e?ye:void 0),He(),await qe;let Ue=!1;try{Ue=b()}catch{}me&&Ue?(u??se(me)).then(i=>i?.boot?.({shellOrigin:m,build:fe.flags.has(un),hot:R?.hot??null,carried:R?.carried(),presented:()=>R?.presented()??!0})).catch(()=>!1).then(i=>{R?.hydrated(),i!==!0?I("_ldx"):Ce.has(me)&&K("_ldx")}):R?.hydrated()})}else lt&&(ar(),Nn(lt,ut,se,{settle:vt,mount:yt}))})();</script><!-- /frame-runtime -->
+
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Tủ lạnh làm lạnh như thế nào?</title>
+<link rel="preconnect" href="https://fonts.googleapis.com/">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+<link href="./css2" rel="stylesheet">
+<style>
+:root{
+  --bg:#E8EDEE; --surface:#F6F9F9; --ink:#12262F; --muted:#4C6069; --line:#C3CFD3;
+  --cold:#1F6FB5; --cold-l:#7CC0EA; --hot:#D6402F; --warm:#E0862B; --brass:#B58A2E;
+  --casing:#D3DCDF; --cold-tint:#DCEBF5; --cold-tint2:#EAF3F9; --hot-tint:#F6E1DC; --heat:#B4582B;
+  --focus:#0B57D0;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0D171C; --surface:#14242B; --ink:#E4EDF0; --muted:#9BB0B8; --line:#28414B;
+    --cold:#5AA8E6; --cold-l:#8FCBF0; --hot:#F0604D; --warm:#F0A044; --brass:#D2A94A;
+    --casing:#26404A; --cold-tint:#17334A; --cold-tint2:#132A3B; --hot-tint:#3A1F1C; --heat:#E58A5A;
+    --focus:#8AB4F8;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0D171C; --surface:#14242B; --ink:#E4EDF0; --muted:#9BB0B8; --line:#28414B;
+  --cold:#5AA8E6; --cold-l:#8FCBF0; --hot:#F0604D; --warm:#F0A044; --brass:#D2A94A;
+  --casing:#26404A; --cold-tint:#17334A; --cold-tint2:#132A3B; --hot-tint:#3A1F1C; --heat:#E58A5A;
+  --focus:#8AB4F8;
+}
+html{scroll-padding-top:env(safe-area-inset-top,0px);height:auto}
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.65 'Be Vietnam Pro',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;-webkit-text-size-adjust:100%}
+.wrap{max-width:1040px;margin:0 auto;padding:28px 18px 64px}
+h1,h2,h3{font-family:'Barlow Condensed','Arial Narrow',Impact,sans-serif;font-weight:700;line-height:1.05;margin:0;letter-spacing:.005em}
+h1{font-size:clamp(44px,9vw,84px)}
+h2{font-size:clamp(32px,5vw,46px);margin-bottom:10px}
+h3{font-size:28px}
+p{margin:0 0 12px;max-width:68ch}
+.intro{font-size:18px;color:var(--muted);margin-top:16px;max-width:52ch}
+section{margin-top:72px}
+:focus-visible{outline:3px solid var(--focus);outline-offset:2px;border-radius:4px}
+
+/* diagram */
+.stage{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:10px 6px 4px;margin-top:28px}
+#cycle{display:block;width:100%;height:auto;max-height:78vh}
+.lbl{font:700 19px 'Be Vietnam Pro',sans-serif;fill:var(--ink)}
+.sub{font:400 15px 'Be Vietnam Pro',sans-serif;fill:var(--muted)}
+.zone{font:500 15px 'Be Vietnam Pro',sans-serif;fill:var(--muted)}
+.casing{fill:none;stroke:var(--casing);stroke-linejoin:round;stroke-linecap:round}
+#pipes path{fill:none;stroke-linejoin:round;stroke-linecap:round}
+.leader{stroke:var(--muted);stroke-width:1.5;stroke-dasharray:2 4;fill:none}
+.part{cursor:pointer}
+.part .hl{fill:none;stroke:var(--ink);stroke-width:2;stroke-dasharray:5 4;opacity:0;transition:opacity .2s}
+.part:hover .hl{opacity:.45}
+.part.sel .hl{opacity:1}
+.badge circle{fill:var(--ink);transition:fill .2s}
+.badge text{font:700 16px 'Be Vietnam Pro',sans-serif;fill:var(--bg);text-anchor:middle}
+.part.sel .badge circle{fill:var(--cold)}
+.heat{stroke:var(--heat);stroke-width:3;fill:none;stroke-linecap:round}
+.heat-h{fill:var(--heat)}
+@keyframes pulse{0%,100%{opacity:.25}50%{opacity:1}}
+@keyframes piston{0%,100%{transform:translateX(0)}50%{transform:translateX(18px)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+.run .heat-g{animation:pulse 1.6s ease-in-out infinite}
+.run .heat-g.b{animation-delay:.5s}
+.run #piston{animation:piston var(--pd,.6s) ease-in-out infinite}
+#piston{transform-box:fill-box}
+.controls{display:flex;flex-wrap:wrap;gap:14px 22px;align-items:center;padding:8px 12px 14px}
+.btn{font:500 15px 'Be Vietnam Pro',sans-serif;color:var(--ink);background:transparent;border:2px solid var(--ink);border-radius:999px;padding:8px 18px;cursor:pointer;min-height:44px}
+.btn:hover{background:var(--ink);color:var(--bg)}
+.controls label{display:flex;align-items:center;gap:10px;font-size:15px;color:var(--muted)}
+input[type=range]{accent-color:var(--cold);width:150px;min-height:32px}
+.legend{display:flex;flex-wrap:wrap;gap:8px 20px;padding:0 12px 12px;font-size:14px;color:var(--muted)}
+.legend span{display:inline-flex;align-items:center;gap:8px}
+.legend i{width:26px;height:6px;border-radius:3px;display:inline-block}
+
+/* tabs + panel */
+.tabs{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-top:22px}
+.tab{font:500 15px/1.25 'Be Vietnam Pro',sans-serif;text-align:left;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:10px 12px;cursor:pointer;min-height:56px;display:flex;gap:10px;align-items:center}
+.tab b{display:inline-grid;place-items:center;flex:none;width:26px;height:26px;border-radius:50%;background:var(--ink);color:var(--bg);font-size:14px}
+.tab[aria-pressed=true]{border-color:var(--cold);box-shadow:inset 0 0 0 2px var(--cold)}
+.tab[aria-pressed=true] b{background:var(--cold)}
+.panel{margin-top:14px;padding:22px 22px 18px;background:var(--surface);border:1px solid var(--line);border-left:6px solid var(--cold);border-radius:8px}
+.panel h3{margin-bottom:8px}
+.io{display:grid;grid-template-columns:1fr 1fr;gap:10px 18px;margin:16px 0}
+.io div{font-size:14px;color:var(--muted)}
+.io strong{display:flex;align-items:center;gap:8px;color:var(--ink);font-size:16px;font-weight:500;margin-top:2px}
+.io strong i{width:12px;height:12px;border-radius:50%;flex:none}
+.meters{display:grid;gap:14px;margin:8px 0 16px}
+.meter{display:grid;grid-template-columns:82px 1fr;align-items:center;gap:12px;font-size:14px;color:var(--muted)}
+.track{position:relative;height:8px;border-radius:4px;background:linear-gradient(90deg,var(--cold-l),var(--cold) 35%,var(--warm) 70%,var(--hot))}
+.track i{position:absolute;top:50%;width:18px;height:18px;margin:-9px 0 0 -9px;border-radius:50%;border:3px solid var(--ink);background:var(--surface);transition:left .6s cubic-bezier(.3,.7,.2,1)}
+.track i.out{background:var(--ink)}
+.mkey{font-size:13px;color:var(--muted);margin:-6px 0 14px}
+.fail{border-top:1px solid var(--line);padding-top:12px;margin:0;font-size:15px}
+
+/* boiling point */
+.lab{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:22px}
+.lab .row{display:flex;flex-wrap:wrap;gap:8px 28px;align-items:flex-end;justify-content:space-between}
+.big{font:700 clamp(54px,12vw,88px)/1 'Barlow Condensed',sans-serif}
+.big small{font-size:.4em;font-weight:600;color:var(--muted);margin-left:6px}
+.lab input[type=range]{width:100%;margin:18px 0 6px}
+.scale{position:relative;height:56px;margin:8px 8px 0}
+.scale .bar{position:absolute;left:0;right:0;top:20px;height:10px;border-radius:5px;background:linear-gradient(90deg,var(--cold-l),var(--cold) 40%,var(--warm) 75%,var(--hot))}
+.scale .mk{position:absolute;top:0;transform:translateX(-50%);font-size:13px;color:var(--muted);text-align:center;white-space:nowrap}
+.scale .mk::after{content:'';display:block;width:2px;height:20px;background:var(--ink);margin:0 auto}
+.scale .mk.low{top:0}
+.scale .now{position:absolute;top:14px;width:22px;height:22px;margin-left:-11px;border-radius:50%;background:var(--ink);border:4px solid var(--surface);box-shadow:0 0 0 2px var(--ink);transition:left .15s}
+.verdict{margin:14px 0 0;font-weight:500;min-height:3.3em}
+.presets{display:flex;flex-wrap:wrap;gap:10px;margin-top:12px}
+
+/* fridge */
+.fridge{display:grid;grid-template-columns:minmax(0,420px) minmax(0,1fr);gap:24px;align-items:start;margin-top:18px}
+#fridge{width:100%;height:auto;display:block;background:var(--surface);border:1px solid var(--line);border-radius:10px}
+.hot circle{fill:var(--surface);stroke:var(--ink);stroke-width:2;transition:fill .2s}
+.hot text{font:700 13px 'Be Vietnam Pro',sans-serif;fill:var(--ink);text-anchor:middle}
+.hot{cursor:pointer}
+.hot.sel circle{fill:var(--ink)}
+.hot.sel text{fill:var(--bg)}
+.fl{font:500 14px 'Be Vietnam Pro',sans-serif;fill:var(--muted)}
+.fan{transform-box:fill-box;transform-origin:center}
+.run .fan{animation:spin 1.2s linear infinite}
+.fbtns{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:14px}
+.fbtns .tab{min-height:48px;padding:8px 10px;font-size:14px}
+.fpanel{padding:18px 20px;background:var(--surface);border:1px solid var(--line);border-left:6px solid var(--warm);border-radius:8px}
+.fpanel h3{margin-bottom:6px}
+
+/* quiz */
+.q{padding:18px 0;border-top:1px solid var(--line)}
+.q:first-of-type{border-top:0}
+.q p{font-weight:500;margin-bottom:10px}
+.opts{display:grid;gap:8px}
+.opt{font:400 15px/1.4 'Be Vietnam Pro',sans-serif;text-align:left;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:11px 14px;cursor:pointer;min-height:46px}
+.opt:hover:not(:disabled){border-color:var(--ink)}
+.opt.ok{border-color:#2E8B57;box-shadow:inset 0 0 0 2px #2E8B57}
+.opt.no{border-color:var(--hot);box-shadow:inset 0 0 0 2px var(--hot)}
+.opt:disabled{cursor:default;color:var(--ink)}
+.why{font-size:14px;color:var(--muted);margin:10px 0 0}
+#score{font:700 30px 'Barlow Condensed',sans-serif;margin-top:14px}
+
+footer{margin-top:64px;padding-top:18px;border-top:1px solid var(--line);font-size:14px;color:var(--muted)}
+
+@media (max-width:760px){
+  .tabs{grid-template-columns:1fr 1fr}
+  .fridge{grid-template-columns:1fr}
+  #fridge{max-width:420px;margin:0 auto}
+  .io{grid-template-columns:1fr}
+  .panel{padding:18px 16px}
+  section{margin-top:56px}
+}
+@media (prefers-reduced-motion: reduce){
+  .run .heat-g,.run #piston,.run .fan{animation:none}
+  .track i{transition:none}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>Tủ lạnh làm lạnh<br>như thế nào?</h1>
+  <p class="intro">Gas lạnh chạy một vòng kín qua bốn bộ phận, mỗi vòng chuyển một ít nhiệt từ trong tủ ra ngoài phòng. Bấm vào từng bộ phận để xem nó làm gì.</p>
+</header>
+
+<!-- ============ DIAGRAM ============ -->
+<div class="stage" id="stage">
+<svg id="cycle" class="run" viewBox="0 0 660 480" role="img" aria-label="Sơ đồ vòng tuần hoàn gas lạnh gồm máy nén, dàn nóng, ống mao dẫn và dàn lạnh">
+  <defs>
+    <lineargradient id="gEvap" gradientUnits="userSpaceOnUse" x1="0" y1="375" x2="0" y2="115">
+      <stop offset="0" style="stop-color:var(--cold-l)"></stop><stop offset="1" style="stop-color:var(--cold)"></stop>
+    </lineargradient>
+    <lineargradient id="gCond" gradientUnits="userSpaceOnUse" x1="0" y1="115" x2="0" y2="375">
+      <stop offset="0" style="stop-color:var(--hot)"></stop><stop offset=".4" style="stop-color:var(--hot)"></stop>
+      <stop offset=".7" style="stop-color:var(--warm)"></stop><stop offset="1" style="stop-color:var(--warm)"></stop>
+    </lineargradient>
+    <marker id="ah" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L10 5L0 10z" class="heat-h"></path></marker>
+  </defs>
+
+  <rect x="10" y="85" width="160" height="330" rx="14" style="fill:var(--cold-tint)"></rect>
+  <rect x="468" y="85" width="182" height="330" rx="14" style="fill:var(--hot-tint)"></rect>
+  <text class="zone" transform="translate(29 250) rotate(-90)" text-anchor="middle">Bên trong tủ</text>
+  <text class="zone" transform="translate(637 250) rotate(-90)" text-anchor="middle">Phía sau tủ</text>
+
+  <g class="heat-g"><path class="heat" d="M164 170 L136 170" marker-end="url(#ah)"></path></g>
+  <g class="heat-g b"><path class="heat" d="M164 330 L136 330" marker-end="url(#ah)"></path></g>
+  <g class="heat-g"><path class="heat" d="M590 170 L618 170" marker-end="url(#ah)"></path></g>
+  <g class="heat-g b"><path class="heat" d="M590 330 L618 330" marker-end="url(#ah)"></path></g>
+
+  <g id="casings"><path d="M95 375 L65.0 360.6 L125.0 331.7 L65.0 302.8 L125.0 273.9 L65.0 245.0 L125.0 216.1 L65.0 187.2 L125.0 158.3 L65.0 129.4 L95 115" class="casing" style="stroke-width: 12;"></path><path d="M95 115L95 50L286 50" class="casing" style="stroke-width: 12;"></path><path d="M286 50L354 50" class="casing" style="stroke-width: 12;"></path><path d="M354 50L550 50L550 115" class="casing" style="stroke-width: 12;"></path><path d="M550 115 L580.0 128.0 L520.0 154.0 L580.0 180.0 L520.0 206.0 L580.0 232.0 L520.0 258.0 L580.0 284.0 L520.0 310.0 L580.0 336.0 L520.0 362.0 L550 375" class="casing" style="stroke-width: 12;"></path><path d="M550 375L550 445L350 445" class="casing" style="stroke-width: 12;"></path><path d="M350 445 L343.8 454.0 L331.3 436.0 L318.8 454.0 L306.3 436.0 L293.8 454.0 L281.3 436.0 L268.8 454.0 L256.3 436.0 L250 445" class="casing" style="stroke-width: 8.5;"></path><path d="M250 445L95 445L95 375" class="casing" style="stroke-width: 12;"></path></g>
+  <g id="pipes"><path d="M95 375 L65.0 360.6 L125.0 331.7 L65.0 302.8 L125.0 273.9 L65.0 245.0 L125.0 216.1 L65.0 187.2 L125.0 158.3 L65.0 129.4 L95 115" style="stroke: url(&quot;#gEvap&quot;); stroke-width: 7;"></path><path d="M95 115L95 50L286 50" style="stroke: var(--cold); stroke-width: 7;"></path><path d="M286 50L354 50" style="stroke: var(--hot); stroke-width: 7;"></path><path d="M354 50L550 50L550 115" style="stroke: var(--hot); stroke-width: 7;"></path><path d="M550 115 L580.0 128.0 L520.0 154.0 L580.0 180.0 L520.0 206.0 L580.0 232.0 L520.0 258.0 L580.0 284.0 L520.0 310.0 L580.0 336.0 L520.0 362.0 L550 375" style="stroke: url(&quot;#gCond&quot;); stroke-width: 7;"></path><path d="M550 375L550 445L350 445" style="stroke: var(--warm); stroke-width: 7;"></path><path d="M350 445 L343.8 454.0 L331.3 436.0 L318.8 454.0 L306.3 436.0 L293.8 454.0 L281.3 436.0 L268.8 454.0 L256.3 436.0 L250 445" style="stroke: var(--warm); stroke-width: 3.5;"></path><path d="M250 445L95 445L95 375" style="stroke: var(--cold-l); stroke-width: 7;"></path></g>
+  <g id="dots" style="fill:#fff;pointer-events:none"><circle r="3.2" cx="239.5" cy="445.0"></circle><circle r="3.2" cx="219.4" cy="445.0"></circle><circle r="3.2" cx="199.3" cy="445.0"></circle><circle r="3.2" cx="179.3" cy="445.0"></circle><circle r="3.2" cx="159.2" cy="445.0"></circle><circle r="3.2" cx="139.1" cy="445.0"></circle><circle r="3.2" cx="119.1" cy="445.0"></circle><circle r="3.2" cx="99.0" cy="445.0"></circle><circle r="3.2" cx="95.0" cy="428.9"></circle><circle r="3.2" cx="95.0" cy="408.9"></circle><circle r="3.2" cx="95.0" cy="388.8"></circle><circle r="3.2" cx="89.3" cy="372.3"></circle><circle r="3.2" cx="71.2" cy="363.6"></circle><circle r="3.2" cx="76.8" cy="354.9"></circle><circle r="3.2" cx="94.9" cy="346.2"></circle><circle r="3.2" cx="113.0" cy="337.5"></circle><circle r="3.2" cx="118.9" cy="328.8"></circle><circle r="3.2" cx="100.8" cy="320.1"></circle><circle r="3.2" cx="82.8" cy="311.4"></circle><circle r="3.2" cx="65.3" cy="302.6"></circle><circle r="3.2" cx="83.4" cy="293.9"></circle><circle r="3.2" cx="101.5" cy="285.2"></circle><circle r="3.2" cx="119.6" cy="276.5"></circle><circle r="3.2" cx="112.4" cy="267.8"></circle><circle r="3.2" cx="94.3" cy="259.1"></circle><circle r="3.2" cx="76.2" cy="250.4"></circle><circle r="3.2" cx="71.9" cy="241.7"></circle><circle r="3.2" cx="90.0" cy="233.0"></circle><circle r="3.2" cx="108.0" cy="224.3"></circle><circle r="3.2" cx="123.9" cy="215.6"></circle><circle r="3.2" cx="105.8" cy="206.8"></circle><circle r="3.2" cx="87.7" cy="198.1"></circle><circle r="3.2" cx="69.6" cy="189.4"></circle><circle r="3.2" cx="78.4" cy="180.7"></circle><circle r="3.2" cx="96.5" cy="172.0"></circle><circle r="3.2" cx="114.6" cy="163.3"></circle><circle r="3.2" cx="117.3" cy="154.6"></circle><circle r="3.2" cx="99.2" cy="145.9"></circle><circle r="3.2" cx="81.1" cy="137.2"></circle><circle r="3.2" cx="66.9" cy="128.5"></circle><circle r="3.2" cx="85.0" cy="119.8"></circle><circle r="3.2" cx="95.0" cy="106.0"></circle><circle r="3.2" cx="95.0" cy="85.9"></circle><circle r="3.2" cx="95.0" cy="65.9"></circle><circle r="3.2" cx="99.2" cy="50.0"></circle><circle r="3.2" cx="119.3" cy="50.0"></circle><circle r="3.2" cx="139.3" cy="50.0"></circle><circle r="3.2" cx="159.4" cy="50.0"></circle><circle r="3.2" cx="179.5" cy="50.0"></circle><circle r="3.2" cx="199.6" cy="50.0"></circle><circle r="3.2" cx="219.6" cy="50.0"></circle><circle r="3.2" cx="239.7" cy="50.0"></circle><circle r="3.2" cx="259.8" cy="50.0"></circle><circle r="3.2" cx="279.8" cy="50.0"></circle><circle r="3.2" cx="299.9" cy="50.0"></circle><circle r="3.2" cx="320.0" cy="50.0"></circle><circle r="3.2" cx="340.0" cy="50.0"></circle><circle r="3.2" cx="360.1" cy="50.0"></circle><circle r="3.2" cx="380.2" cy="50.0"></circle><circle r="3.2" cx="400.2" cy="50.0"></circle><circle r="3.2" cx="420.3" cy="50.0"></circle><circle r="3.2" cx="440.4" cy="50.0"></circle><circle r="3.2" cx="460.4" cy="50.0"></circle><circle r="3.2" cx="480.5" cy="50.0"></circle><circle r="3.2" cx="500.6" cy="50.0"></circle><circle r="3.2" cx="520.6" cy="50.0"></circle><circle r="3.2" cx="540.7" cy="50.0"></circle><circle r="3.2" cx="550.0" cy="60.8"></circle><circle r="3.2" cx="550.0" cy="80.9"></circle><circle r="3.2" cx="550.0" cy="100.9"></circle><circle r="3.2" cx="555.5" cy="117.4"></circle><circle r="3.2" cx="573.9" cy="125.4"></circle><circle r="3.2" cx="567.7" cy="133.3"></circle><circle r="3.2" cx="549.3" cy="141.3"></circle><circle r="3.2" cx="530.8" cy="149.3"></circle><circle r="3.2" cx="527.6" cy="157.3"></circle><circle r="3.2" cx="546.0" cy="165.3"></circle><circle r="3.2" cx="564.4" cy="173.2"></circle><circle r="3.2" cx="577.2" cy="181.2"></circle><circle r="3.2" cx="558.8" cy="189.2"></circle><circle r="3.2" cx="540.4" cy="197.2"></circle><circle r="3.2" cx="522.0" cy="205.2"></circle><circle r="3.2" cx="536.5" cy="213.1"></circle><circle r="3.2" cx="554.9" cy="221.1"></circle><circle r="3.2" cx="573.3" cy="229.1"></circle><circle r="3.2" cx="568.3" cy="237.1"></circle><circle r="3.2" cx="549.9" cy="245.1"></circle><circle r="3.2" cx="531.5" cy="253.0"></circle><circle r="3.2" cx="526.9" cy="261.0"></circle><circle r="3.2" cx="545.4" cy="269.0"></circle><circle r="3.2" cx="563.8" cy="277.0"></circle><circle r="3.2" cx="577.8" cy="284.9"></circle><circle r="3.2" cx="559.4" cy="292.9"></circle><circle r="3.2" cx="541.0" cy="300.9"></circle><circle r="3.2" cx="522.6" cy="308.9"></circle><circle r="3.2" cx="535.8" cy="316.9"></circle><circle r="3.2" cx="554.3" cy="324.8"></circle><circle r="3.2" cx="572.7" cy="332.8"></circle><circle r="3.2" cx="568.9" cy="340.8"></circle><circle r="3.2" cx="550.5" cy="348.8"></circle><circle r="3.2" cx="532.1" cy="356.8"></circle><circle r="3.2" cx="526.3" cy="364.7"></circle><circle r="3.2" cx="544.7" cy="372.7"></circle><circle r="3.2" cx="550.0" cy="389.3"></circle><circle r="3.2" cx="550.0" cy="409.4"></circle><circle r="3.2" cx="550.0" cy="429.5"></circle><circle r="3.2" cx="545.5" cy="445.0"></circle><circle r="3.2" cx="525.4" cy="445.0"></circle><circle r="3.2" cx="505.3" cy="445.0"></circle><circle r="3.2" cx="485.3" cy="445.0"></circle><circle r="3.2" cx="465.2" cy="445.0"></circle><circle r="3.2" cx="445.1" cy="445.0"></circle><circle r="3.2" cx="425.0" cy="445.0"></circle><circle r="3.2" cx="405.0" cy="445.0"></circle><circle r="3.2" cx="384.9" cy="445.0"></circle><circle r="3.2" cx="364.8" cy="445.0"></circle><circle r="2" cx="347.0" cy="449.3"></circle><circle r="2" cx="335.6" cy="442.2"></circle><circle r="2" cx="324.2" cy="446.3"></circle><circle r="2" cx="312.7" cy="445.2"></circle><circle r="2" cx="301.3" cy="443.3"></circle><circle r="2" cx="289.8" cy="448.3"></circle><circle r="2" cx="278.4" cy="440.2"></circle><circle r="2" cx="266.9" cy="451.3"></circle><circle r="2" cx="255.5" cy="437.2"></circle></g>
+
+  <!-- 4 Dàn lạnh -->
+  <g class="part" data-part="evap" tabindex="0" role="button" aria-label="Dàn lạnh">
+    <rect class="hl" x="48" y="100" width="94" height="290" rx="16"></rect>
+    <rect x="40" y="95" width="110" height="300" fill="transparent"></rect>
+    <path class="leader" d="M128 250 L188 250"></path>
+    <g class="badge"><circle cx="205" cy="250" r="15"></circle><text x="205" y="256">4</text></g>
+    <text class="lbl" x="230" y="248">Dàn lạnh</text><text class="sub" x="230" y="270">hút nhiệt</text>
+  </g>
+  <!-- 2 Dàn nóng -->
+  <g class="part" data-part="cond" tabindex="0" role="button" aria-label="Dàn nóng">
+    <rect class="hl" x="503" y="100" width="94" height="290" rx="16"></rect>
+    <rect x="495" y="95" width="110" height="300" fill="transparent"></rect>
+    <path class="leader" d="M452 250 L512 250"></path>
+    <g class="badge"><circle cx="435" cy="250" r="15"></circle><text x="435" y="256">2</text></g>
+    <text class="lbl" x="410" y="248" text-anchor="end">Dàn nóng</text><text class="sub" x="410" y="270" text-anchor="end">thải nhiệt</text>
+  </g>
+  <!-- 3 Ống mao dẫn -->
+  <g class="part" data-part="cap" tabindex="0" role="button" aria-label="Ống mao dẫn">
+    <rect class="hl" x="238" y="428" width="124" height="34" rx="12"></rect>
+    <rect x="232" y="422" width="136" height="46" fill="transparent"></rect>
+    <path class="leader" d="M300 410 L300 430"></path>
+    <g class="badge"><circle cx="300" cy="392" r="15"></circle><text x="300" y="398">3</text></g>
+    <text class="lbl" x="300" y="338" text-anchor="middle">Ống mao dẫn</text><text class="sub" x="300" y="360" text-anchor="middle">giảm áp</text>
+  </g>
+  <!-- 1 Máy nén -->
+  <g class="part sel" data-part="comp" tabindex="0" role="button" aria-label="Máy nén">
+    <circle cx="320" cy="50" r="34" style="fill:var(--ink)"></circle>
+    <rect x="300" y="41" width="40" height="18" rx="3" style="fill:var(--surface)"></rect>
+    <rect id="piston" x="303" y="44" width="9" height="12" rx="2" style="fill:var(--hot)"></rect>
+    <circle class="hl" cx="320" cy="50" r="44"></circle>
+    <circle cx="320" cy="50" r="46" fill="transparent"></circle>
+    <path class="leader" d="M320 96 L320 102"></path>
+    <g class="badge"><circle cx="320" cy="118" r="15"></circle><text x="320" y="124">1</text></g>
+    <text class="lbl" x="320" y="152" text-anchor="middle">Máy nén</text><text class="sub" x="320" y="173" text-anchor="middle">nén gas</text>
+  </g>
+</svg>
+
+<div class="controls">
+  <button class="btn" id="play" type="button" aria-pressed="false">Tạm dừng</button>
+  <label>Tốc độ <input id="speed" type="range" min="0.4" max="2.5" step="0.1" value="1" aria-label="Tốc độ chảy của gas"></label>
+</div>
+<div class="legend">
+  <span><i style="background:var(--hot)"></i>hơi nóng, áp suất cao</span>
+  <span><i style="background:var(--warm)"></i>lỏng ấm, áp suất cao</span>
+  <span><i style="background:var(--cold-l)"></i>lỏng lạnh, áp suất thấp</span>
+  <span><i style="background:var(--cold)"></i>hơi lạnh, áp suất thấp</span>
+</div>
+</div>
+
+<div class="tabs" id="tabs"><button class="tab" type="button" data-part="comp" aria-pressed="true"><b>1</b><span>Máy nén</span></button><button class="tab" type="button" data-part="cond" aria-pressed="false"><b>2</b><span>Dàn nóng</span></button><button class="tab" type="button" data-part="cap" aria-pressed="false"><b>3</b><span>Ống mao dẫn</span></button><button class="tab" type="button" data-part="evap" aria-pressed="false"><b>4</b><span>Dàn lạnh</span></button></div>
+<article class="panel" id="panel" aria-live="polite"><h3>1. Máy nén (lốc)</h3><p class="lead">Trái tim của hệ thống. Máy hút hơi gas lạnh, áp suất thấp từ dàn lạnh rồi nén lên áp suất cao. Bị nén nên gas nóng lên rất nhiều, có thể 60–90 °C, và được đẩy sang dàn nóng. Máy nén không trực tiếp làm lạnh; nó tạo ra chênh lệch áp suất để gas mang được nhiệt đi.</p><div class="io"><div>Gas đi vào<strong><i style="background: var(--cold);"></i><span>Hơi lạnh, áp suất thấp</span></strong></div><div>Gas đi ra<strong><i style="background: var(--hot);"></i><span>Hơi nóng, áp suất cao</span></strong></div></div><div class="meters"><div class="meter"><span>Áp suất</span><div class="track"><i class="in" id="pin"></i><i class="out" id="pout"></i></div></div><div class="meter"><span>Nhiệt độ</span><div class="track"><i class="in" id="tin"></i><i class="out" id="tout"></i></div></div></div><p class="mkey">Vòng rỗng là lúc vào, vòng đặc là lúc ra.</p><p class="fail">Khi hỏng: máy chạy mà tủ không lạnh, kêu to bất thường, hoặc rơ le nhảy liên tục do kẹt cơ hay cháy cuộn dây.</p></article>
+
+<!-- ============ WHY ============ -->
+<section id="why">
+  <h2>Vì sao đổi áp suất lại đổi được nhiệt độ?</h2>
+  <p>Mọi chất lỏng đều sôi ở một nhiệt độ phụ thuộc vào áp suất. Gas lạnh (ví dụ R600a) bị hạ áp suất xuống thấp thì sôi ở nhiệt độ rất thấp, và khi sôi nó hút nhiệt từ xung quanh. Bị nén lên áp suất cao thì nó chỉ ngưng tụ ở nhiệt độ cao hơn phòng, và khi ngưng nó nhả nhiệt ra ngoài. Kéo thanh trượt để thử.</p>
+  <div class="lab">
+    <div class="row">
+      <div class="big"><span id="bt">−23</span><small>°C</small></div>
+      <div style="text-align:right;color:var(--muted);font-size:15px">Nhiệt độ sôi / ngưng của gas R600a<br>ở áp suất <b id="bp" style="color:var(--ink)">0,65</b> bar (tuyệt đối)</div>
+    </div>
+    <input id="pr" type="range" min="0.44" max="6.9" step="0.01" value="0.65" aria-label="Áp suất gas">
+    <div class="scale" aria-hidden="true">
+      <div class="bar"></div>
+      <div class="mk" id="mkF" style="left: 15%;">ngăn đá −18 °C</div>
+      <div class="mk" id="mkR" style="left: 77.5%; top: 0px;">phòng 32 °C</div>
+      <div class="now" id="now" style="left: 9.34609%;"></div>
+    </div>
+    <p class="verdict" id="verdict">Gas sôi ở nhiệt độ thấp hơn ngăn đá (−18 °C), nên nó hút được nhiệt từ thực phẩm. Đây là điều kiện của dàn lạnh.</p>
+    <div class="presets">
+      <button class="btn" type="button" data-p="0.65">Ở dàn lạnh</button>
+      <button class="btn" type="button" data-p="5">Ở dàn nóng</button>
+    </div>
+  </div>
+  <p style="margin-top:12px;font-size:14px;color:var(--muted)">Số liệu làm tròn, dùng để minh họa cho gas R600a (isobutan).</p>
+</section>
+
+<!-- ============ FRIDGE ============ -->
+<section id="inside">
+  <h2>Các bộ phận nằm ở đâu trong tủ thật?</h2>
+  <p>Mặt cắt ngang một tủ lạnh quạt gió (no-frost) hai ngăn. Ngoài bốn bộ phận chính còn có những thiết bị phụ giúp tủ chạy đúng và bền.</p>
+  <div class="fridge">
+    <svg id="fridge" viewBox="0 0 420 530" role="img" aria-label="Mặt cắt tủ lạnh với các bộ phận đánh số từ 1 đến 9" class="run">
+      <defs>
+        <lineargradient id="gFC" gradientUnits="userSpaceOnUse" x1="0" y1="60" x2="0" y2="430">
+          <stop offset="0" style="stop-color:var(--hot)"></stop><stop offset=".5" style="stop-color:var(--hot)"></stop><stop offset=".85" style="stop-color:var(--warm)"></stop><stop offset="1" style="stop-color:var(--warm)"></stop>
+        </lineargradient>
+      </defs>
+      <rect x="70" y="20" width="250" height="490" rx="16" style="fill:var(--surface)"></rect>
+      <rect x="286" y="24" width="30" height="482" style="fill:var(--line);opacity:.55"></rect>
+      <rect x="95" y="42" width="190" height="140" rx="4" style="fill:var(--cold-tint)"></rect>
+      <rect x="95" y="196" width="190" height="248" rx="4" style="fill:var(--cold-tint2)"></rect>
+      <rect x="95" y="452" width="190" height="52" rx="4" style="fill:var(--line);opacity:.5"></rect>
+      <g style="stroke:var(--casing);stroke-width:4">
+        <path d="M95 270H285"></path><path d="M95 335H285"></path><path d="M95 398H285"></path>
+      </g>
+      <g style="opacity:.75">
+        <rect x="108" y="238" width="13" height="32" rx="3" style="fill:var(--cold)"></rect>
+        <rect x="128" y="250" width="40" height="20" rx="3" style="fill:var(--warm)"></rect>
+        <rect x="112" y="308" width="30" height="27" rx="4" style="fill:var(--hot)"></rect>
+        <rect x="150" y="300" width="46" height="35" rx="3" style="fill:var(--brass)"></rect>
+        <rect x="112" y="368" width="70" height="30" rx="3" style="fill:var(--cold-l)"></rect>
+        <rect x="108" y="410" width="90" height="30" rx="4" style="fill:none;stroke:var(--muted);stroke-width:2"></rect>
+      </g>
+      <rect x="70" y="20" width="250" height="490" rx="16" style="fill:none;stroke:var(--ink);stroke-width:3"></rect>
+      <rect x="70" y="20" width="22" height="490" rx="11" style="fill:var(--casing);stroke:var(--ink);stroke-width:2"></rect>
+      <rect x="55" y="180" width="8" height="80" rx="4" style="fill:var(--ink)"></rect>
+      <text class="fl" x="103" y="62">Ngăn đá</text>
+      <text class="fl" x="103" y="216">Ngăn mát</text>
+
+      <!-- pipes -->
+      <path d="M268 52 L296 52 L296 496 L220 496" style="fill:none;stroke:var(--cold);stroke-width:3.5;stroke-linejoin:round"></path>
+      <path d="M340 462 L312 462 L312 178 L268 178" style="fill:none;stroke:var(--warm);stroke-width:2;stroke-dasharray:5 3"></path>
+      <path d="M220 474 L362 474 L362 52 L340 52 L340 60" style="fill:none;stroke:var(--hot);stroke-width:3.5;stroke-linejoin:round"></path>
+      <path id="fCond" style="fill:none;stroke:url(#gFC);stroke-width:3.5;stroke-linejoin:round" d="M340 60 L352.0 73.2 L328.0 99.6 L352.0 126.1 L328.0 152.5 L352.0 178.9 L328.0 205.4 L352.0 231.8 L328.0 258.2 L352.0 284.6 L328.0 311.1 L352.0 337.5 L328.0 363.9 L352.0 390.4 L328.0 416.8 L340 430"></path>
+      <path d="M340 430 L340 440" style="fill:none;stroke:var(--warm);stroke-width:3.5"></path>
+      <path id="fEvap" style="fill:none;stroke:var(--cold);stroke-width:3.5;stroke-linejoin:round" d="M268 176 L258.0 168.3 L278.0 152.8 L258.0 137.3 L278.0 121.8 L258.0 106.3 L278.0 90.8 L258.0 75.3 L278.0 59.8 L268 52"></path>
+      <path id="fHeat" style="fill:none;stroke:var(--warm);stroke-width:2" d="M247 58 L250.0 61.6 L244.0 68.7 L250.0 75.8 L244.0 82.9 L250.0 90.1 L244.0 97.2 L250.0 104.3 L244.0 111.4 L250.0 118.6 L244.0 125.7 L250.0 132.8 L244.0 139.9 L250.0 147.1 L244.0 154.2 L250.0 161.3 L244.0 168.4 L247 172"></path>
+      <path d="M255 236 L285 236" style="stroke:var(--muted);stroke-width:1.5"></path>
+
+      <!-- parts -->
+      <rect x="333" y="436" width="14" height="26" rx="6" style="fill:var(--brass);stroke:var(--ink);stroke-width:1.5"></rect>
+      <rect x="140" y="462" width="80" height="40" rx="18" style="fill:var(--ink)"></rect>
+      <rect x="108" y="470" width="24" height="24" rx="4" style="fill:var(--warm);stroke:var(--ink);stroke-width:1.5"></rect>
+      <path d="M132 482 L140 482" style="stroke:var(--ink);stroke-width:2"></path>
+      <circle cx="255" cy="236" r="6" style="fill:var(--brass);stroke:var(--ink);stroke-width:1.5"></circle>
+      <g class="fan">
+        <circle cx="225" cy="110" r="17" style="fill:none;stroke:none"></circle>
+        <g style="fill:var(--ink)">
+          <ellipse cx="225" cy="99" rx="4" ry="9"></ellipse><ellipse cx="236" cy="110" rx="9" ry="4"></ellipse>
+          <ellipse cx="225" cy="121" rx="4" ry="9"></ellipse><ellipse cx="214" cy="110" rx="9" ry="4"></ellipse>
+        </g>
+      </g>
+      <circle cx="225" cy="110" r="17" style="fill:none;stroke:var(--ink);stroke-width:2"></circle>
+      <path class="leader" d="M347 449 L366 449"></path>
+
+      <g id="fmarks"><g class="hot sel" data-f="1" tabindex="0" role="button" aria-label="Máy nén"><circle cx="180" cy="482" r="11"></circle><text x="180" y="486.5">1</text></g><g class="hot" data-f="2" tabindex="0" role="button" aria-label="Rơ le khởi động"><circle cx="120" cy="482" r="11"></circle><text x="120" y="486.5">2</text></g><g class="hot" data-f="3" tabindex="0" role="button" aria-label="Dàn nóng"><circle cx="340" cy="245" r="11"></circle><text x="340" y="249.5">3</text></g><g class="hot" data-f="4" tabindex="0" role="button" aria-label="Bộ sấy lọc"><circle cx="376" cy="449" r="11"></circle><text x="376" y="453.5">4</text></g><g class="hot" data-f="5" tabindex="0" role="button" aria-label="Ống mao dẫn"><circle cx="312" cy="330" r="11"></circle><text x="312" y="334.5">5</text></g><g class="hot" data-f="6" tabindex="0" role="button" aria-label="Dàn lạnh"><circle cx="268" cy="114" r="11"></circle><text x="268" y="118.5">6</text></g><g class="hot" data-f="7" tabindex="0" role="button" aria-label="Quạt dàn lạnh"><circle cx="225" cy="146" r="11"></circle><text x="225" y="150.5">7</text></g><g class="hot" data-f="8" tabindex="0" role="button" aria-label="Điện trở xả đá"><circle cx="226" cy="172" r="11"></circle><text x="226" y="176.5">8</text></g><g class="hot" data-f="9" tabindex="0" role="button" aria-label="Cảm biến nhiệt độ"><circle cx="228" cy="236" r="11"></circle><text x="228" y="240.5">9</text></g></g>
+    </svg>
+    <div>
+      <div class="fbtns" id="fbtns"><button type="button" class="tab" data-f="1" aria-pressed="true"><b>1</b><span>Máy nén</span></button><button type="button" class="tab" data-f="2" aria-pressed="false"><b>2</b><span>Rơ le khởi động</span></button><button type="button" class="tab" data-f="3" aria-pressed="false"><b>3</b><span>Dàn nóng</span></button><button type="button" class="tab" data-f="4" aria-pressed="false"><b>4</b><span>Bộ sấy lọc</span></button><button type="button" class="tab" data-f="5" aria-pressed="false"><b>5</b><span>Ống mao dẫn</span></button><button type="button" class="tab" data-f="6" aria-pressed="false"><b>6</b><span>Dàn lạnh</span></button><button type="button" class="tab" data-f="7" aria-pressed="false"><b>7</b><span>Quạt dàn lạnh</span></button><button type="button" class="tab" data-f="8" aria-pressed="false"><b>8</b><span>Điện trở xả đá</span></button><button type="button" class="tab" data-f="9" aria-pressed="false"><b>9</b><span>Cảm biến nhiệt độ</span></button></div>
+      <article class="fpanel" id="fpanel" aria-live="polite"><h3>1. Máy nén</h3><p>Nằm ở đáy, phía sau tủ. Đây là máy nén kín: động cơ và piston nằm chung trong một vỏ thép hàn kín. Nó hút hơi lạnh từ dàn lạnh, nén thành hơi nóng áp suất cao và đẩy tới dàn nóng.</p><p class="fail">Hỏng: chạy mà không lạnh, kêu to, ngắt liên tục.</p></article>
+    </div>
+  </div>
+</section>
+
+<!-- ============ QUIZ ============ -->
+<section id="quiz">
+  <h2>Thử sức</h2>
+  <div id="qs"><div class="q"><p>1. Bộ phận nào làm tăng áp suất của gas lạnh?</p><div class="opts"><button type="button" class="opt">Máy nén</button><button type="button" class="opt">Dàn nóng</button><button type="button" class="opt">Ống mao dẫn</button></div><p class="why" hidden="">Máy nén hút hơi áp thấp và nén lên áp cao. Ống mao dẫn làm ngược lại: giảm áp.</p></div><div class="q"><p>2. Gas chuyển từ hơi sang lỏng ở đâu?</p><div class="opts"><button type="button" class="opt">Dàn lạnh</button><button type="button" class="opt">Dàn nóng</button><button type="button" class="opt">Máy nén</button></div><p class="why" hidden="">Ở dàn nóng, gas nhả nhiệt ra không khí và ngưng tụ thành lỏng.</p></div><div class="q"><p>3. Vì sao gas lạnh đi mạnh sau khi qua ống mao dẫn?</p><div class="opts"><button type="button" class="opt">Vì ống đồng dẫn nhiệt rất tốt</button><button type="button" class="opt">Vì áp suất giảm nên nhiệt độ sôi giảm theo</button><button type="button" class="opt">Vì quạt thổi gió lạnh vào ống</button></div><p class="why" hidden="">Áp suất giảm mạnh kéo nhiệt độ sôi của gas xuống rất thấp, một phần gas hóa hơi ngay và cả dòng lạnh đi.</p></div><div class="q"><p>4. Dàn nóng bám bụi dày và tủ đặt sát tường thì thường xảy ra điều gì?</p><div class="opts"><button type="button" class="opt">Tủ lạnh sâu hơn</button><button type="button" class="opt">Thải nhiệt kém, tủ chạy liên tục và tốn điện</button><button type="button" class="opt">Gas bị rò ra ngoài</button></div><p class="why" hidden="">Nhiệt không thoát ra được nên áp suất và nhiệt độ phía cao áp tăng, máy nén phải chạy lâu hơn.</p></div><div class="q"><p>5. Ngăn đá lạnh bình thường nhưng ngăn mát không lạnh, nghe tiếng ù hoặc lạch cạch. Nên nghi ngờ trước hết điều gì?</p><div class="opts"><button type="button" class="opt">Quạt dàn lạnh bị kẹt hoặc tuyết cản gió</button><button type="button" class="opt">Máy nén cháy</button><button type="button" class="opt">Rơ le khởi động hỏng</button></div><p class="why" hidden="">Ngăn mát lấy lạnh nhờ gió từ dàn lạnh. Máy nén chạy tốt thì ngăn đá vẫn lạnh; gió không xuống được thì ngăn mát kém lạnh.</p></div></div>
+  <div id="score" aria-live="polite"></div>
+</section>
+
+<footer>
+  <p>Trang này chỉ dùng để học. Nhiều tủ lạnh hiện nay dùng gas R600a rất dễ cháy; việc xả gas, hàn ống và nạp gas cần thợ được đào tạo và dụng cụ phù hợp. Các con số áp suất, nhiệt độ là giá trị minh họa gần đúng, thực tế khác nhau tùy dòng tủ, loại gas và nhiệt độ phòng.</p>
+</footer>
+</div>
+
+<script>
+(function(){
+"use strict";
+var NS="http://www.w3.org/2000/svg";
+function mk(tag,attrs){var e=document.createElementNS(NS,tag);for(var k in attrs)e.setAttribute(k,attrs[k]);return e}
+function zig(p0,p1,amp,n){
+  var dx=p1[0]-p0[0],dy=p1[1]-p0[1],L=Math.hypot(dx,dy),nx=-dy/L,ny=dx/L,d="M"+p0[0]+" "+p0[1];
+  for(var i=0;i<n;i++){var t=(i+.5)/n,s=i%2?1:-1;
+    d+=" L"+(p0[0]+dx*t+nx*amp*s).toFixed(1)+" "+(p0[1]+dy*t+ny*amp*s).toFixed(1)}
+  return d+" L"+p1[0]+" "+p1[1];
+}
+var reduce=window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+/* ---------- cycle diagram ---------- */
+var svg=document.getElementById("cycle");
+var segs=[
+  {d:zig([95,375],[95,115],30,9),stroke:"url(#gEvap)",w:7},
+  {d:"M95 115L95 50L286 50",stroke:"var(--cold)",w:7},
+  {d:"M286 50L354 50",stroke:"var(--hot)",w:7},
+  {d:"M354 50L550 50L550 115",stroke:"var(--hot)",w:7},
+  {d:zig([550,115],[550,375],30,10),stroke:"url(#gCond)",w:7},
+  {d:"M550 375L550 445L350 445",stroke:"var(--warm)",w:7},
+  {d:zig([350,445],[250,445],9,8),stroke:"var(--warm)",w:3.5,r:2},
+  {d:"M250 445L95 445L95 375",stroke:"var(--cold-l)",w:7}
+];
+var gc=document.getElementById("casings"),gp=document.getElementById("pipes"),total=0;
+segs.forEach(function(s){
+  var c=mk("path",{d:s.d,"class":"casing"});c.style.strokeWidth=s.w+5;gc.appendChild(c);
+  var p=mk("path",{d:s.d});p.style.stroke=s.stroke;p.style.strokeWidth=s.w;gp.appendChild(p);
+  s.el=p;s.len=p.getTotalLength();total+=s.len;
+});
+var N=Math.round(total/20),dots=[],dg=document.getElementById("dots");
+for(var i=0;i<N;i++){var c=mk("circle",{r:3.2,cx:0,cy:0});dg.appendChild(c);dots.push(c)}
+var off=0,last=performance.now(),playing=!reduce,speed=1;
+function place(){
+  for(var i=0;i<N;i++){
+    var s=(off+i*total/N)%total,k=0;
+    while(k<segs.length-1&&s>segs[k].len){s-=segs[k].len;k++}
+    var pt=segs[k].el.getPointAtLength(Math.min(s,segs[k].len));
+    dots[i].setAttribute("cx",pt.x.toFixed(1));dots[i].setAttribute("cy",pt.y.toFixed(1));
+    dots[i].setAttribute("r",segs[k].r||3.2);
+  }
+}
+function frame(now){
+  var dt=Math.min((now-last)/1000,.1);last=now;
+  if(playing){off=(off+dt*70*speed)%total;place()}
+  requestAnimationFrame(frame);
+}
+place();requestAnimationFrame(frame);
+
+var playBtn=document.getElementById("play"),fridgeSvg=document.getElementById("fridge");
+function setPlay(v){
+  playing=v;
+  svg.classList.toggle("run",v);fridgeSvg.classList.toggle("run",v);
+  playBtn.textContent=v?"Tạm dừng":"Chạy tiếp";
+  playBtn.setAttribute("aria-pressed",v?"false":"true");
+}
+playBtn.addEventListener("click",function(){setPlay(!playing)});
+setPlay(playing);
+document.getElementById("speed").addEventListener("input",function(e){
+  speed=parseFloat(e.target.value);svg.style.setProperty("--pd",(0.6/speed).toFixed(2)+"s");
+});
+
+/* ---------- part panel ---------- */
+var P={
+  comp:{n:1,name:"Máy nén (lốc)",
+    lead:"Trái tim của hệ thống. Máy hút hơi gas lạnh, áp suất thấp từ dàn lạnh rồi nén lên áp suất cao. Bị nén nên gas nóng lên rất nhiều, có thể 60–90 °C, và được đẩy sang dàn nóng. Máy nén không trực tiếp làm lạnh; nó tạo ra chênh lệch áp suất để gas mang được nhiệt đi.",
+    i:["Hơi lạnh, áp suất thấp","var(--cold)"],o:["Hơi nóng, áp suất cao","var(--hot)"],
+    pi:12,po:86,ti:25,to:92,
+    fail:"Khi hỏng: máy chạy mà tủ không lạnh, kêu to bất thường, hoặc rơ le nhảy liên tục do kẹt cơ hay cháy cuộn dây."},
+  cond:{n:2,name:"Dàn nóng",
+    lead:"Dãy ống ở mặt sau, hoặc chạy ẩn trong vỏ hai bên hông tủ. Gas nóng thải nhiệt ra không khí, nguội dần rồi ngưng tụ từ hơi sang lỏng. Nhiệt thải ra gồm nhiệt lấy từ thực phẩm cộng với phần điện năng của máy nén, nên phía sau tủ luôn ấm.",
+    i:["Hơi nóng, áp suất cao","var(--hot)"],o:["Lỏng ấm, áp suất cao","var(--warm)"],
+    pi:84,po:80,ti:92,to:48,
+    fail:"Khi bám bụi hoặc đặt sát tường: thải nhiệt kém, tủ chạy liên tục, tốn điện và lạnh yếu."},
+  cap:{n:3,name:"Ống mao dẫn (hoặc van tiết lưu)",
+    lead:"Ống đồng rất nhỏ, dài vài mét, thường cuộn lại. Lòng ống hẹp làm lỏng bị cản dòng nên áp suất tụt mạnh. Áp suất giảm thì nhiệt độ sôi của gas giảm theo: một phần gas hóa hơi ngay và cả dòng lạnh xuống khoảng −25 °C. Tủ lớn hoặc điều hòa dùng van tiết lưu để làm cùng việc này và chỉnh được lưu lượng.",
+    i:["Lỏng ấm, áp suất cao","var(--warm)"],o:["Lỏng lạnh, áp suất thấp","var(--cold-l)"],
+    pi:80,po:12,ti:48,to:20,
+    fail:"Khi nghẹt (do ẩm, cặn bẩn): dàn lạnh không đóng tuyết, dàn nóng nóng bất thường, máy chạy mà không lạnh."},
+  evap:{n:4,name:"Dàn lạnh",
+    lead:"Nằm trong ngăn đá, thường che sau tấm ốp. Gas lỏng lạnh sôi ở đây và hút nhiệt của không khí trong tủ, quạt thổi không khí qua dàn để việc trao đổi nhiệt nhanh hơn. \"Tạo ra lạnh\" thực chất là lấy nhiệt đi. Gas bay hơi hết rồi được máy nén hút về, vòng mới bắt đầu.",
+    i:["Lỏng lạnh, áp suất thấp","var(--cold-l)"],o:["Hơi lạnh, áp suất thấp","var(--cold)"],
+    pi:12,po:12,ti:20,to:28,
+    fail:"Khi đóng tuyết dày: trao đổi nhiệt kém, gió yếu. Đó là lý do tủ có điện trở xả đá làm tan tuyết định kỳ."}
+};
+var order=["comp","cond","cap","evap"],tabs=document.getElementById("tabs"),panel=document.getElementById("panel");
+order.forEach(function(id){
+  var b=document.createElement("button");b.className="tab";b.type="button";b.dataset.part=id;
+  b.innerHTML="<b>"+P[id].n+"</b><span>"+P[id].name.split(" (")[0]+"</span>";
+  b.addEventListener("click",function(){select(id)});tabs.appendChild(b);
+});
+panel.innerHTML='<h3></h3><p class="lead"></p><div class="io"><div>Gas đi vào<strong><i></i><span></span></strong></div><div>Gas đi ra<strong><i></i><span></span></strong></div></div>'+
+ '<div class="meters"><div class="meter"><span>Áp suất</span><div class="track"><i class="in" id="pin"></i><i class="out" id="pout"></i></div></div>'+
+ '<div class="meter"><span>Nhiệt độ</span><div class="track"><i class="in" id="tin"></i><i class="out" id="tout"></i></div></div></div>'+
+ '<p class="mkey">Vòng rỗng là lúc vào, vòng đặc là lúc ra.</p><p class="fail"></p>';
+function select(id){
+  var d=P[id];
+  document.querySelectorAll(".part").forEach(function(g){g.classList.toggle("sel",g.dataset.part===id)});
+  document.querySelectorAll(".tab[data-part]").forEach(function(t){t.setAttribute("aria-pressed",t.dataset.part===id?"true":"false")});
+  panel.querySelector("h3").textContent=d.n+". "+d.name;
+  panel.querySelector(".lead").textContent=d.lead;
+  var st=panel.querySelectorAll(".io strong");
+  st[0].querySelector("i").style.background=d.i[1];st[0].querySelector("span").textContent=d.i[0];
+  st[1].querySelector("i").style.background=d.o[1];st[1].querySelector("span").textContent=d.o[0];
+  ["pin","pout","tin","tout"].forEach(function(k){document.getElementById(k).style.left=d[k]+"%"});
+  panel.querySelector(".fail").textContent=d.fail;
+}
+document.querySelectorAll(".part").forEach(function(g){
+  g.addEventListener("click",function(){select(g.dataset.part)});
+  g.addEventListener("keydown",function(e){if(e.key==="Enter"||e.key===" "){e.preventDefault();select(g.dataset.part)}});
+});
+select("comp");
+
+/* ---------- boiling point ---------- */
+var T=[[-30,.44],[-25,.58],[-20,.73],[-10,1.1],[0,1.57],[10,2.17],[20,2.99],[30,4.0],[40,5.3],[50,6.9]];
+function tOf(p){
+  for(var i=0;i<T.length-1;i++){
+    if(p<=T[i+1][1]||i===T.length-2){
+      var a=Math.log(T[i][1]),b=Math.log(T[i+1][1]),f=(Math.log(p)-a)/(b-a);
+      return T[i][0]+f*(T[i+1][0]-T[i][0]);
+    }
+  }
+}
+var pr=document.getElementById("pr"),bt=document.getElementById("bt"),bp=document.getElementById("bp"),
+    now=document.getElementById("now"),vd=document.getElementById("verdict");
+var LO=-30,HI=50;
+function pos(t){return (Math.max(LO,Math.min(HI,t))-LO)/(HI-LO)*100+"%"}
+document.getElementById("mkF").style.left=pos(-18);
+document.getElementById("mkR").style.left=pos(32);
+document.getElementById("mkR").style.top="0";
+function fmt(x,dp){return x.toFixed(dp).replace(".",",").replace("-","−")}
+function upd(){
+  var p=parseFloat(pr.value),t=tOf(p);
+  bt.textContent=fmt(Math.round(t),0);bp.textContent=fmt(p,2);now.style.left=pos(t);
+  if(t<-18)vd.textContent="Gas sôi ở nhiệt độ thấp hơn ngăn đá (−18 °C), nên nó hút được nhiệt từ thực phẩm. Đây là điều kiện của dàn lạnh.";
+  else if(t>32)vd.textContent="Gas ngưng ở nhiệt độ cao hơn phòng (32 °C), nên nó nhả được nhiệt ra không khí. Đây là điều kiện của dàn nóng.";
+  else vd.textContent="Nhiệt độ này nằm giữa ngăn đá và căn phòng: gas chưa hút được nhiệt từ tủ và cũng chưa nhả được nhiệt ra ngoài. Cần hạ áp thấp hơn hoặc nén cao hơn.";
+}
+pr.addEventListener("input",upd);
+document.querySelectorAll(".presets .btn").forEach(function(b){
+  b.addEventListener("click",function(){pr.value=b.dataset.p;upd()});
+});
+upd();
+
+/* ---------- real fridge ---------- */
+document.getElementById("fCond").setAttribute("d",zig([340,60],[340,430],12,14));
+document.getElementById("fEvap").setAttribute("d",zig([268,176],[268,52],10,8));
+document.getElementById("fHeat").setAttribute("d",zig([247,58],[247,172],3,16));
+var F=[
+ {n:1,name:"Máy nén",x:180,y:482,t:"Nằm ở đáy, phía sau tủ. Đây là máy nén kín: động cơ và piston nằm chung trong một vỏ thép hàn kín. Nó hút hơi lạnh từ dàn lạnh, nén thành hơi nóng áp suất cao và đẩy tới dàn nóng.",f:"Hỏng: chạy mà không lạnh, kêu to, ngắt liên tục."},
+ {n:2,name:"Rơ le khởi động",x:120,y:482,t:"Gắn sát máy nén. Nó cấp điện cho cuộn khởi động trong tích tắc đầu rồi ngắt ra, đồng thời bảo vệ khi quá dòng hoặc quá nóng. Tủ đời mới thường thay bằng bo điều khiển inverter.",f:"Hỏng: nghe tiếng \"tạch\" mà máy không chạy, hoặc chạy vài giây rồi ngắt."},
+ {n:3,name:"Dàn nóng",x:340,y:245,t:"Dãy ống nằm phía sau, hoặc ẩn trong vỏ hai bên hông. Gas nóng nhả nhiệt ra không khí và ngưng thành lỏng. Cần khoảng hở vài cm sau tủ để không khí lưu thông.",f:"Hỏng: bám bụi hoặc thiếu thông thoáng làm tủ chạy liên tục, tốn điện."},
+ {n:4,name:"Bộ sấy lọc",x:376,y:449,t:"Ống nhỏ chứa hạt hút ẩm và lưới lọc, đặt ngay sau dàn nóng. Nó giữ nước và cặn bẩn không lọt vào ống mao dẫn, vì một giọt nước đóng băng cũng đủ làm nghẹt ống.",f:"Hỏng: gây triệu chứng giống nghẹt mao dẫn. Mỗi khi mở hệ thống để sửa thì thay mới."},
+ {n:5,name:"Ống mao dẫn",x:312,y:330,t:"Ống đồng rất nhỏ, thường quấn sát ống hồi về để trao đổi nhiệt, đi trong lớp cách nhiệt tới đầu vào dàn lạnh. Nó làm gas giảm áp suất và lạnh sâu.",f:"Hỏng: nghẹt ẩm hoặc cặn làm dàn lạnh không lạnh."},
+ {n:6,name:"Dàn lạnh",x:268,y:114,t:"Nằm sau tấm ốp ở thành sau ngăn đá. Gas lỏng lạnh sôi trong ống, hút nhiệt của không khí đi qua và làm không khí lạnh xuống.",f:"Hỏng: tuyết đóng dày cản gió, ngăn đá và ngăn mát kém lạnh."},
+ {n:7,name:"Quạt dàn lạnh",x:225,y:146,t:"Thổi không khí qua dàn lạnh rồi phân phối luồng gió lạnh xuống ngăn mát qua các cửa gió. Tủ quạt gió có quạt này; tủ làm lạnh trực tiếp thì không.",f:"Hỏng hoặc kẹt đá: ngăn đá vẫn lạnh nhưng ngăn mát không lạnh, kêu ù ù hoặc lạch cạch."},
+ {n:8,name:"Điện trở xả đá",x:226,y:172,t:"Cứ vài giờ bo mạch bật điện trở này một lần để làm tan lớp tuyết bám trên dàn lạnh. Nước chảy xuống khay rồi bay hơi ở phía sau tủ. Đi kèm cầu chì nhiệt để an toàn.",f:"Hỏng: tuyết phủ dày dần, gió yếu, ngăn mát kém lạnh dần."},
+ {n:9,name:"Cảm biến nhiệt độ",x:228,y:236,t:"Đo nhiệt độ trong ngăn (điện trở nhiệt). Bo mạch đọc giá trị này để quyết định lúc nào bật hoặc tắt máy nén, giữ ngăn mát khoảng 3–5 °C và ngăn đá khoảng −18 °C.",f:"Hỏng hoặc lệch: tủ chạy liên tục làm đông đá đồ ở ngăn mát, hoặc chạy không đủ làm đồ nhanh hỏng."}
+];
+var fm=document.getElementById("fmarks"),fb=document.getElementById("fbtns"),fp=document.getElementById("fpanel");
+F.forEach(function(p){
+  var g=mk("g",{"class":"hot","data-f":p.n,tabindex:0,role:"button","aria-label":p.name});
+  g.appendChild(mk("circle",{cx:p.x,cy:p.y,r:11}));
+  var t=mk("text",{x:p.x,y:p.y+4.5});t.textContent=p.n;g.appendChild(t);
+  g.addEventListener("click",function(){fsel(p.n)});
+  g.addEventListener("keydown",function(e){if(e.key==="Enter"||e.key===" "){e.preventDefault();fsel(p.n)}});
+  fm.appendChild(g);
+  var b=document.createElement("button");b.type="button";b.className="tab";b.dataset.f=p.n;
+  b.innerHTML="<b>"+p.n+"</b><span>"+p.name+"</span>";
+  b.addEventListener("click",function(){fsel(p.n)});fb.appendChild(b);
+});
+function fsel(n){
+  var p=F[n-1];
+  document.querySelectorAll(".hot").forEach(function(g){g.classList.toggle("sel",+g.dataset.f===n)});
+  document.querySelectorAll("#fbtns .tab").forEach(function(b){b.setAttribute("aria-pressed",+b.dataset.f===n?"true":"false")});
+  fp.innerHTML="<h3></h3><p></p><p class='fail'></p>";
+  fp.querySelector("h3").textContent=p.n+". "+p.name;
+  fp.querySelector("p").textContent=p.t;
+  fp.querySelector(".fail").textContent=p.f;
+}
+fsel(1);
+
+/* ---------- quiz ---------- */
+var Q=[
+ {q:"Bộ phận nào làm tăng áp suất của gas lạnh?",o:["Máy nén","Dàn nóng","Ống mao dẫn"],a:0,w:"Máy nén hút hơi áp thấp và nén lên áp cao. Ống mao dẫn làm ngược lại: giảm áp."},
+ {q:"Gas chuyển từ hơi sang lỏng ở đâu?",o:["Dàn lạnh","Dàn nóng","Máy nén"],a:1,w:"Ở dàn nóng, gas nhả nhiệt ra không khí và ngưng tụ thành lỏng."},
+ {q:"Vì sao gas lạnh đi mạnh sau khi qua ống mao dẫn?",o:["Vì ống đồng dẫn nhiệt rất tốt","Vì áp suất giảm nên nhiệt độ sôi giảm theo","Vì quạt thổi gió lạnh vào ống"],a:1,w:"Áp suất giảm mạnh kéo nhiệt độ sôi của gas xuống rất thấp, một phần gas hóa hơi ngay và cả dòng lạnh đi."},
+ {q:"Dàn nóng bám bụi dày và tủ đặt sát tường thì thường xảy ra điều gì?",o:["Tủ lạnh sâu hơn","Thải nhiệt kém, tủ chạy liên tục và tốn điện","Gas bị rò ra ngoài"],a:1,w:"Nhiệt không thoát ra được nên áp suất và nhiệt độ phía cao áp tăng, máy nén phải chạy lâu hơn."},
+ {q:"Ngăn đá lạnh bình thường nhưng ngăn mát không lạnh, nghe tiếng ù hoặc lạch cạch. Nên nghi ngờ trước hết điều gì?",o:["Quạt dàn lạnh bị kẹt hoặc tuyết cản gió","Máy nén cháy","Rơ le khởi động hỏng"],a:0,w:"Ngăn mát lấy lạnh nhờ gió từ dàn lạnh. Máy nén chạy tốt thì ngăn đá vẫn lạnh; gió không xuống được thì ngăn mát kém lạnh."}
+];
+var qs=document.getElementById("qs"),answered=0,right=0,sc=document.getElementById("score");
+Q.forEach(function(item,qi){
+  var w=document.createElement("div");w.className="q";
+  var p=document.createElement("p");p.textContent=(qi+1)+". "+item.q;w.appendChild(p);
+  var box=document.createElement("div");box.className="opts";w.appendChild(box);
+  var why=document.createElement("p");why.className="why";why.hidden=true;why.textContent=item.w;w.appendChild(why);
+  item.o.forEach(function(text,oi){
+    var b=document.createElement("button");b.type="button";b.className="opt";b.textContent=text;
+    b.addEventListener("click",function(){
+      box.querySelectorAll(".opt").forEach(function(x,xi){x.disabled=true;if(xi===item.a)x.classList.add("ok")});
+      if(oi!==item.a)b.classList.add("no");else right++;
+      why.hidden=false;answered++;
+      if(answered===Q.length)sc.textContent="Bạn đúng "+right+"/"+Q.length+" câu."+(right===Q.length?" Rất chắc tay.":" Xem lại bốn bộ phận ở đầu trang rồi thử lại nhé.");
+    });
+    box.appendChild(b);
+  });
+  qs.appendChild(w);
+});
+})();
+</script>
+
+
+</body></html>

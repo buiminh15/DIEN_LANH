@@ -1,0 +1,950 @@
+# tactiq.io free youtube transcript
+# Bài 3 - Rơ Le Khởi Động - Thiết Bị Điện Phụ Tải Điện II Dạy Nghề Thanh Xuân 93NT 0936989090
+# https://www.youtube.com/watch/_yWv5ikUPyc
+
+00:00:00.238 Hello students. We will continue to the
+00:00:03.163 third lesson in the domestic
+00:00:07.709 refrigerator system module. In lesson 3
+00:00:12.731 , we are exploring electrical devices
+00:00:15.087 and electrical loads. In the previous
+00:00:18.728 session, we learned about the
+00:00:20.219 protection relay. Today, we will learn
+00:00:24.876 about the start relay for the motor.
+00:00:34.687 Regarding the motor start relay, we
+00:00:36.628 previously learned that for a motor to
+00:00:38.731 operate, it must always be accompanied
+00:00:40.834 by a start relay and a protection relay
+00:00:42.937 . We have already covered the
+00:00:50.234 protection relay, which is used to
+00:00:51.927 protect the motor. So, how does the
+00:00:56.059 start relay work? Let's find out
+00:00:59.715 together. Currently on the market,
+00:01:03.941 motors use one of two types of start
+00:01:06.034 relays, as you can see in the image.
+00:01:10.387 These are the two types of start relays
+00:01:12.478 . One is called a mechanical relay, and
+00:01:14.708 the other is an electronic relay. So,
+00:01:18.948 what is the purpose of the start relay
+00:01:21.015 in starting the motor? In this lesson,
+00:01:26.861 we will cover several key points. First
+00:01:32.407 is the purpose of the relay. Second is
+00:01:36.147 the structure and working principle of
+00:01:38.144 the start relay. Third are the failure
+00:01:42.103 symptoms, testing, replacement, and
+00:01:44.183 some notes for the lesson. Before
+00:01:49.145 moving on to the purpose of the relay,
+00:01:51.171 let's look back at the motor wiring
+00:01:53.041 diagram. In the previous session, we
+00:01:58.332 studied the wiring diagram for a
+00:02:00.199 single-phase asynchronous motor. In
+00:02:06.141 general, and specifically for the
+00:02:08.199 compressor motor, there are three pins
+00:02:10.559 labeled common, run, and start, powered
+00:02:12.980 by a two-wire single-phase source. Once
+00:02:18.291 installed, to power the motor, one
+00:02:25.729 power wire is connected to the common
+00:02:27.965 pin. One power wire will be connected
+00:02:33.586 to the run pin. The start pin receives
+00:02:39.231 power from the run pin but through a
+00:02:41.217 switch K, where switch K is denoted as
+00:02:43.310 the start relay for the motor. Now,
+00:02:49.700 look at the diagram, and I will analyze
+00:02:52.097 it again. For the case of switch K, I
+00:02:56.706 will examine one of the two following
+00:02:58.806 scenarios. Case one, switch K is in the
+00:03:04.886 open state. The power source now only
+00:03:09.250 flows through the motor's running
+00:03:11.145 winding and returns to the source,
+00:03:13.096 completing the circuit; thus, no
+00:03:14.935 phase-shifted magnetic field is
+00:03:16.719 generated. At this moment, the magnetic
+00:03:23.308 force generated at the running winding
+00:03:25.412 is parallel to the magnetic core, so
+00:03:27.409 the motor is not yet running. Now, the
+00:03:33.631 switch K is closed. We will consider
+00:03:35.909 the second case, which is when switch K
+00:03:38.024 is closed. When switch K is closed, the
+00:03:41.816 power source flows through both
+00:03:43.576 windings, that is the running winding
+00:03:45.666 and the starting winding, generating a
+00:03:47.811 phase-shifted magnetic field that
+00:03:49.681 pushes the rotor to turn. And regarding
+00:03:54.159 the windings, the structure of the
+00:03:55.895 windings we have already studied. The
+00:03:58.658 starting winding is only wound with a
+00:04:00.623 specific number of turns and wire
+00:04:02.382 cross-section. Only wound with a
+00:04:04.200 specific number of turns and wire
+00:04:05.919 cross-section. One, our wire
+00:04:09.485 cross-section is smaller, and the
+00:04:11.444 number of turns is short, so it can
+00:04:13.519 only withstand and operate for a very
+00:04:15.708 short period of time. Therefore, when
+00:04:19.524 the motor rotation reaches 70 to 75%of
+00:04:22.205 its speed, the switch K opens the
+00:04:24.542 circuit. to cut off power to the
+00:04:28.297 starting winding to avoid damaging or
+00:04:30.240 burning out the starting winding. Thus,
+00:04:35.502 the function of the relay at this time
+00:04:37.634 is to automatically control the power,
+00:04:39.766 that is, automatically close or
+00:04:41.516 disconnect the starting winding to
+00:04:43.430 start the motor. Ah, when starting the
+00:04:47.533 motor, it will automatically close. And
+00:04:51.045 when starting, once the motor reaches
+00:04:53.649 70 to 75%of its speed, it will
+00:04:55.774 automatically cut off power to the
+00:05:01.435 starting winding to end the startup. So
+00:05:06.744 that is the function of the starting
+00:05:08.645 relay: to control the power for the
+00:05:10.494 starting winding. Control power for the
+00:05:15.402 starting winding to create a rotating
+00:05:17.508 magnetic field, making the rotor turn.
+00:05:24.535 Start the motor to operate, start the
+00:05:26.663 motor to operate, but when the block
+00:05:28.735 operates reaching 70 to 75%of its speed
+00:05:38.312 , the relay also automatically cuts off
+00:05:40.931 power to the starting winding to finish
+00:05:43.551 one startup cycle. This is the function
+00:05:51.809 of the starting relay. Regarding
+00:05:55.840 classification, for starting relays,
+00:05:58.060 there are two types on the market: one
+00:06:00.400 called electronic relay, also known as
+00:06:02.740 solid-state relay, and mechanical
+00:06:04.780 starting relay. They are called current
+00:06:09.257 starting relays, winding starting
+00:06:11.301 relays, and so on. In today's lesson,
+00:06:15.518 we will first explore the motor
+00:06:17.215 starting relay, and then we will look
+00:06:19.230 into the electronic relay later. This
+00:06:23.894 is the actual appearance of a motor
+00:06:25.781 starting relay. So, what are the
+00:06:29.632 construction, working principle, and
+00:06:31.777 common faults of the starting relay,
+00:06:33.921 and how do we check it? We will move on
+00:06:38.418 to the construction and working
+00:06:40.005 principle of the motor starting relay.
+00:06:42.021 First, students, please look at this
+00:06:44.266 image of the starting relay, showing
+00:06:46.511 its construction, schematic symbol, and
+00:06:48.939 actual external appearance. Regarding
+00:06:54.304 construction, the motor starting relay,
+00:06:57.240 also known as a current relay, consists
+00:07:00.176 of: one, the cover; two, the stationary
+00:07:03.112 contact; three, the moving contact;
+00:07:05.754 four, the coil on the outside; five,
+00:07:08.470 the contact spring; and six, the
+00:07:10.892 contact support. Seven is the magnetic
+00:07:16.657 iron core. Seven is the magnetic iron
+00:07:18.915 core. That is the construction. Wiring
+00:07:24.562 diagram. The symbol on the wiring
+00:07:26.636 diagram and the external appearance of
+00:07:28.628 the starting relay. And this is our
+00:07:30.907 actual appearance. However, for motor
+00:07:34.298 starting relays, in reality, we have
+00:07:36.784 two types. These two types are based on
+00:07:41.354 the number of pins, or some documents
+00:07:43.483 refer to them as three-pin relays and
+00:07:45.611 four-pin relays. For the three-pin
+00:07:48.678 relay, it is a one-input and two-output
+00:07:52.120 type: one is the power input pin, and
+00:07:54.113 the two output pins connect to the run
+00:07:56.159 and start terminals, so it is called a
+00:07:58.205 one-input two-output type. And this
+00:08:00.734 type does not use a capacitor, while
+00:08:02.818 the two-input two-output type does use
+00:08:05.014 a capacitor. That covers the
+00:08:07.725 classification. So, what are the wiring
+00:08:10.981 diagrams for these two types and how do
+00:08:13.189 they work? We will explore the wiring
+00:08:16.957 diagram for each type. First, students,
+00:08:21.249 please observe this image; this is the
+00:08:23.638 wiring diagram for the one-input
+00:08:25.659 two-output type without a capacitor. No
+00:08:30.073 capacitor installed. First, I will note
+00:08:34.370 here the three main components. First
+00:08:38.258 is the coil, the iron core, and the
+00:08:40.460 contact. And the contact is an NO
+00:08:42.383 contact, or normally open contact.
+00:08:44.297 Normally open contact. And this is the
+00:08:47.543 state of the wiring diagram. So first,
+00:08:50.558 we will observe the diagram. Students,
+00:08:53.492 please draw and observe the diagram. I
+00:08:56.570 will analyze the working process. At
+00:09:00.794 this moment, our contact is a normally
+00:09:03.071 open contact, and now I will power the
+00:09:05.348 motor. When powering the motor, please
+00:09:08.333 observe the diagram. First, the power
+00:09:11.339 source goes through the relay coil,
+00:09:13.304 which is connected in series with the
+00:09:15.378 run winding, and returns to the source.
+00:09:22.745 At this moment, when we supply power,
+00:09:24.816 the current only flows through the
+00:09:26.723 motor's run winding, so the magnetic
+00:09:28.740 force generated is parallel to the
+00:09:30.647 magnetic frame in the relay. In other
+00:09:36.422 words, a phase-shifted magnetic field
+00:09:38.394 has not yet been generated. No
+00:09:40.045 phase-shifted magnetic field is
+00:09:41.650 generated yet. The current flowing
+00:09:43.330 through the relay coil and the run
+00:09:44.866 winding is at its maximum. At its
+00:09:46.520 maximum. As we know, whenever current
+00:09:51.046 flows through a coil, the coil itself
+00:09:53.311 becomes an electromagnet. And becoming
+00:10:00.721 an electromagnet, the magnetic field B
+00:10:03.166 will equal I times L. Excuse me, B will
+00:10:05.672 equal I. I is the current, L is the
+00:10:07.929 coil inductance. So we see that the
+00:10:14.029 magnetic field now depends on the
+00:10:15.718 current. The magnetic field now depends
+00:10:18.168 on the current. Because initially, the
+00:10:21.566 current flowing through the relay coil
+00:10:23.548 and the run winding is at its maximum.
+00:10:26.769 At this point, the relay generates the
+00:10:29.031 strongest magnetic field, the largest
+00:10:31.236 magnetic field possible. The strong
+00:10:34.241 magnetic field pulls the magnetic core
+00:10:36.410 inside. It pulls the magnetic core
+00:10:38.419 inside and closes the contact. Observe
+00:10:41.297 the closed contact state. And when the
+00:10:44.773 contact closes, the power source will
+00:10:46.836 then flow through both coils. The power
+00:10:49.721 source goes through the relay coil to
+00:10:53.491 supply the motor's run winding. And we
+00:10:57.807 see one source path goes through the
+00:10:59.742 contact to supply the start terminal.
+00:11:03.698 To supply the start terminal. Through
+00:11:10.118 the common terminal and back to the
+00:11:11.721 source. At this point, the power flows
+00:11:13.849 through both coils and generates a
+00:11:15.786 rotating magnetic field, a
+00:11:17.281 phase-shifted magnetic field that
+00:11:19.163 pushes the rotor to turn. And as the
+00:11:22.319 rotor spins faster, the current flowing
+00:11:24.486 through the relay coil decreases, which
+00:11:26.652 is called magnetic dropout. Magnetic
+00:11:31.096 dropout; when the current decreases,
+00:11:33.272 please look at the diagram, as the
+00:11:35.331 current drops, the magnetic field at
+00:11:37.507 the relay coil also decreases. When the
+00:11:41.925 magnetic field decreases, the magnetic
+00:11:44.001 core, due to gravity, will fall and
+00:11:45.916 open the contact to cut off power to
+00:11:47.885 the start winding. And when power to
+00:11:49.980 the start winding is cut off, one
+00:11:51.940 starting cycle is completed; cutting
+00:11:54.073 power to the start winding ends a start
+00:11:56.379 cycle. So this is the working principle
+00:12:02.510 of the starting relay for the one-in,
+00:12:04.575 two-out type without a capacitor. Now,
+00:12:12.397 let's look at the two-in, two-out type
+00:12:14.715 with a start capacitor; this is the
+00:12:16.855 schematic diagram for a starting relay
+00:12:19.173 with two inputs and two outputs
+00:12:21.075 equipped with a start capacitor.
+00:12:32.543 Initially, I will analyze it: because
+00:12:34.677 the relay contacts are currently open,
+00:12:36.868 the power flows through the relay coil
+00:12:39.059 connected in series with the motor's
+00:12:41.138 run winding, returning to the source.
+00:12:47.243 At this moment, no phase-shifted
+00:12:49.210 magnetic field is generated in the
+00:12:51.297 motor windings; the current through the
+00:12:53.682 relay coil and the motor's run winding
+00:12:56.008 is at its maximum, creating a magnetic
+00:12:58.333 field in the relay coil that pulls the
+00:13:00.658 contact—excuse me, pulls the armature
+00:13:02.984 , closes the contact, and closes the
+00:13:08.830 contact. Regarding the state when the
+00:13:11.542 contact is closed, we see the capacitor
+00:13:13.837 circuit is completed, and its task is
+00:13:16.017 to charge and discharge, charging and
+00:13:18.197 discharging as the amplitude changes.
+00:13:20.889 Therefore, when the contact is closed,
+00:13:23.065 the start capacitor performs the
+00:13:24.907 charging and discharging process. When
+00:13:27.398 charging and discharging, it creates a
+00:13:29.547 current. Because at this time, the
+00:13:31.468 capacitor's discharge source is
+00:13:33.167 connected in series with the power
+00:13:35.025 source. This causes the discharged
+00:13:37.160 voltage passing through the start
+00:13:38.858 winding to be at its maximum. It is at
+00:13:41.295 its maximum. And when passing through
+00:13:43.283 the start winding at its maximum, it
+00:13:45.114 creates a torque. It creates an initial
+00:13:47.286 torque that is also at its maximum. And
+00:13:49.699 when creating an initial torque that is
+00:13:51.613 at its maximum. It overcomes the
+00:13:55.363 motor's inertia more easily and quickly
+00:13:57.412 to start the motor. And as the motor
+00:14:01.990 spins faster and reaches the speed, we
+00:14:07.576 should remember that it reaches the
+00:14:09.810 speed, and when it reaches the speed,
+00:14:12.168 the speed reaches from 70 to 75%of the
+00:14:14.589 rated speed, then at this moment, at
+00:14:16.885 this moment the current drops, at this
+00:14:22.413 moment the current drops, the current
+00:14:26.934 drops, the armature falls, opening the
+00:14:29.239 contact, and at this moment our start
+00:14:31.485 capacitor is open-circuited and also
+00:14:35.580 has no charging or discharging, there,
+00:14:37.623 open-circuited and no charging or
+00:14:39.405 discharging to end a starting cycle.
+00:14:41.392 Regarding the CS capacitor that we
+00:14:43.471 learned about last lesson, the CS
+00:14:45.491 capacitor is a start capacitor
+00:14:47.333 connected in series with switch K, and
+00:14:49.650 this contact is our switch K, the same
+00:14:51.968 switch K in the motor wiring diagram
+00:14:54.166 from the previous lesson. So, we have
+00:15:00.462 explored the working principle of the
+00:15:02.448 relay for starting the motor. When
+00:15:07.649 power is supplied to the motor, note
+00:15:09.598 that when supplying power to the motor,
+00:15:14.341 the relay contact is normally open. It
+00:15:18.920 is normally open, so current only flows
+00:15:21.183 through the coil of the motor and the
+00:15:26.088 coil of the relay. At this moment, the
+00:15:31.389 current passing through the motor coil
+00:15:35.792 has not yet generated a phase-shifted
+00:15:37.822 magnetic field. No phase-shifted
+00:15:39.826 magnetic field is generated yet. The
+00:15:43.341 motor is not yet running, and the
+00:15:45.005 current through the relay coil and the
+00:15:46.913 motor coil is at its maximum. It is at
+00:15:50.697 its maximum, so the magnetic field
+00:15:54.735 generated at the relay coil is also at
+00:15:56.843 its maximum. It is also at its maximum,
+00:16:00.474 which will pull the magnetic iron core
+00:16:02.565 to close the contact. Pulling the
+00:16:05.566 magnetic iron core to close the contact
+00:16:07.657 supplies power to the starting coil. At
+00:16:12.302 this point, current flows through both
+00:16:14.600 coils. At this point, current flows
+00:16:17.652 through both coils, so it generates a
+00:16:22.238 rotating magnetic field and makes the
+00:16:24.299 rotor spin. It generates a rotating
+00:16:27.133 magnetic field and makes the rotor spin
+00:16:29.111 . The block operates, and as the rotor
+00:16:40.206 spins faster, the current decreases.
+00:16:43.421 The faster the rotor spins, the more
+00:16:45.475 the current decreases. At this point,
+00:16:49.350 the block operates and reaches 70 to 75
+00:16:52.078 %of its speed. Reaches 70 to 75%of its
+00:16:57.674 speed. 70 to 75%of its speed. The
+00:17:10.357 current flowing through the relay coil.
+00:17:17.352 The current will flow through the coil
+00:17:22.877 of the relay and decrease. The magnetic
+00:17:28.265 force generated decreases, the magnetic
+00:17:30.610 force generated decreases, the magnetic
+00:17:37.633 iron core falls down. The magnetic iron
+00:17:45.372 core falls down. Falls down. Falls down
+00:18:10.113 . Disconnects the contact, ending one
+00:18:20.520 startup cycle. Disconnects the contact,
+00:18:29.539 ending one startup cycle. So that is
+00:18:59.795 regarding the working principle of the
+00:19:03.967 relay. Oh, mistake, mistake, no, I
+00:19:21.607 pressed the wrong button, sorry. No, no
+00:19:25.228 , we are still filming, I just pressed
+00:19:27.554 the wrong button. Now we will move on
+00:19:45.538 to faults, inspection, and replacement.
+00:19:50.385 Before we go to the faults section,
+00:19:52.228 please look back at the construction
+00:19:54.123 diagram. First, the construction of the
+00:20:00.158 relay consists of three parts: the coil
+00:20:05.475 , the iron core, and the contact. The
+00:20:10.620 coil, the iron core, and the contact.
+00:20:18.652 Thus, for a good relay, a good relay
+00:20:20.663 needs to meet the condition that all
+00:20:22.674 these three parts must be in good
+00:20:24.522 condition. So now, let's examine the
+00:20:30.647 malfunctions: what symptoms will the
+00:20:32.751 refrigerator or the compressor motor
+00:20:34.854 exhibit? Now, look at the diagram, I
+00:20:38.971 will analyze the coils, which usually
+00:20:41.290 fail due to short circuits or wire
+00:20:43.426 breakage. As we know, magnetic field B
+00:20:48.513 equals IL. If there is a short circuit,
+00:20:52.045 the inductance, or reactance, becomes
+00:20:54.293 smaller. As it decreases, the generated
+00:20:56.426 magnetic field also becomes weaker.
+00:20:58.287 Therefore, it might be unable to pull
+00:21:00.317 the magnetic core in. Secondly, if it
+00:21:03.705 is broken, there will be no current
+00:21:05.732 flowing through. Let's take note: first
+00:21:09.978 , if I consider the case of a broken
+00:21:11.996 coil, the circuit is initially open,
+00:21:14.014 there is no current flowing, and at
+00:21:15.978 this time the motor does not operate,
+00:21:18.051 current equals zero. The second case is
+00:21:22.876 a jammed magnetic core where the
+00:21:24.480 contacts do not touch, so the magnetic
+00:21:26.376 field is generated, pulling the core
+00:21:28.175 inside but failing to close the
+00:21:29.730 contacts. At this point, our electrical
+00:21:31.824 circuit and power source only flow
+00:21:33.640 through the run winding, not the start
+00:21:35.663 winding, so no phase-shifted magnetic
+00:21:37.635 field is created. In this case, the
+00:21:39.496 compressor does not operate, and the
+00:21:41.304 current is at its highest. In the case
+00:21:45.019 where the contacts close but the
+00:21:46.999 magnetic core is jammed or the contacts
+00:21:49.399 are shorted, the motor operates and
+00:21:51.558 reaches 70 to 75%of the specified speed
+00:21:53.898 , but the contacts do not release or
+00:21:56.118 disconnect. We can see that when the
+00:21:59.169 contacts do not disconnect, it becomes
+00:22:01.302 a two-load situation, and the
+00:22:02.943 compressor motor does generate a
+00:22:04.748 phase-shifted magnetic field, so it
+00:22:06.717 obviously runs, but the current is high
+00:22:08.850 . It operates, but the current is high.
+00:22:12.335 So that is regarding the malfunctions.
+00:22:14.392 So, write this down: regarding
+00:22:16.411 malfunctions, of the starter, it often
+00:22:19.960 fails in the form of burnt coils,
+00:22:24.156 broken wires, or contacts not touching,
+00:22:30.406 or a jammed magnetic core, the
+00:22:32.208 compressor will show symptoms. First,
+00:22:37.334 the compressor does not operate,
+00:22:39.349 current equals zero. Ah, if it doesn't
+00:22:42.274 start and the current is zero, we saw
+00:22:44.520 in the previous lesson that there are
+00:22:46.766 causes such as compressor failure due
+00:22:49.011 to a broken coil, a faulty protection
+00:22:51.257 relay, no power supply, or broken wires
+00:22:53.621 in the circuit. The compressor does not
+00:22:57.826 operate, current is high. Well, for
+00:22:59.566 high current, in the previous session
+00:23:01.168 we learned that the compressor motor
+00:23:02.727 can get mechanically stuck, have
+00:23:04.118 rotor-stator friction, or coil shorts
+00:23:05.720 leading to the compressor not running
+00:23:07.322 and high current. The compressor runs,
+00:23:09.141 but the current is not high. High. In
+00:23:15.741 the case where the compressor motor is
+00:23:17.793 operating but the current is high,
+00:23:19.635 there are causes such as the motor
+00:23:21.477 being slightly stuck, or a partial
+00:23:23.318 blockage in the condenser, right?
+00:23:26.218 Partial blockage. Or the high-side
+00:23:29.643 pressure is too high; when there is a
+00:23:31.550 partial blockage or high ambient
+00:23:33.206 temperature, it causes high pressure.
+00:23:35.163 High pressure leads to the compressor
+00:23:37.034 operating but with high current, or
+00:23:38.808 weak voltage, etc., so we see there are
+00:23:40.778 many reasons leading to the compressor
+00:23:42.700 running but with high current. So now,
+00:23:45.779 how do we perform the check? To check,
+00:23:51.390 it depends on each type, whether it has
+00:23:53.749 a capacitor installed or not. I invite
+00:23:56.452 you all to look back at the circuit
+00:23:58.153 diagram. We will proceed to check the
+00:24:01.821 relay; for type 1 relay, if you look at
+00:24:07.745 the diagram for the type 1 relay, or in
+00:24:10.051 other words, the three-pin relay, we
+00:24:12.183 will check it by inspecting the coil,
+00:24:14.373 the iron core, and the contact points
+00:24:16.563 as follows. First, we will observe the
+00:24:20.944 color of the coil. Because our coil is
+00:24:24.277 exposed on the outside, we can see it.
+00:24:27.217 We will observe the shape and the color
+00:24:29.142 of the relay coil to see if the wire is
+00:24:31.067 burnt or blackened. After that, we keep
+00:24:33.811 the relay contact position as normally
+00:24:36.047 open. We proceed to measure pin 1 and
+00:24:38.975 pin M. The needle shows a low
+00:24:43.912 resistance value. Low, that means the
+00:24:48.190 coil is not broken. Good. Then we
+00:24:50.397 measure 1 and S, the needle does not
+00:24:51.844 move, so I will check the iron core to
+00:24:53.369 see if it is stuck and if the contact
+00:24:54.855 points are making good contact. We turn
+00:24:56.574 the relay upside down. Turn the relay
+00:24:58.529 upside down, and at this moment, you
+00:25:00.343 will see the magnetic iron core drop
+00:25:02.156 down. A good contact will close the
+00:25:03.994 circuit. So this is the checking method
+00:25:06.158 . If the needle moves, it is good; if
+00:25:08.208 the needle does not move, it is faulty.
+00:25:11.759 For type two, for type two, firstly we
+00:25:16.548 will measure the pins. There are two
+00:25:19.033 ways to measure. The first method is to
+00:25:22.293 short the two input pins and measure
+00:25:24.265 them against the two output pins,
+00:25:26.078 turning it into a type 1 relay. For the
+00:25:35.288 second method, we measure pin 1, which
+00:25:37.459 means measuring any of the two input
+00:25:39.519 pins against the two output pins. At
+00:25:44.672 that point, one pair will make the
+00:25:46.738 needle move, which are pin 1 and pin M;
+00:25:49.100 this is the coil. The remaining input
+00:25:51.484 pin and output pin will not make the
+00:25:53.126 needle move; the input pin and output
+00:25:54.812 pin will not make the needle move. At
+00:25:58.616 this time, we flip the relay over; if
+00:26:02.837 the needle moves, it is good, and if it
+00:26:05.143 does not move, it is faulty. So that is
+00:26:08.029 for the testing method, where we will
+00:26:11.904 use this multimeter. First, observe,
+00:26:13.975 then proceed to measure by setting it
+00:26:16.082 to the normally open contact position,
+00:26:19.633 set it to the normally open contact
+00:26:21.698 position, and then, for example, if we
+00:26:23.935 measure type 1 vs and the needle does
+00:26:26.115 not move, we flip the relay over like
+00:26:28.295 this. If the needle moves, it is good,
+00:26:30.511 and if it does not move, it is faulty.
+00:26:32.976 That is the measurement method. For
+00:26:36.020 testing, first we observe the color of
+00:26:43.558 the coil and the external shape of the
+00:26:45.490 relay. And set the relay in the
+00:26:52.226 normally open contact position. Set the
+00:26:54.620 relay in the normally open contact
+00:26:56.445 position, and use a multimeter to test.
+00:27:04.716 Use a multimeter to test. For the
+00:27:16.639 one-input, two-output type, without a
+00:27:19.928 capacitor installed, we measure pin 1
+00:27:25.198 and pin M. We measure pin 1 and pin M;
+00:27:27.739 the needle moves, showing a very small
+00:27:30.280 resistance value, which is the coil.
+00:27:38.414 Then measure pin 1 and pin S; the
+00:27:40.522 needle does not move. Measure pin 1 and
+00:27:43.774 pin S; the needle does not move. We
+00:27:48.865 also flip the relay over. If the needle
+00:27:52.199 moves, it is good; if the needle does
+00:27:54.463 not move, it is faulty. For the type
+00:28:05.011 with two outputs and a start capacitor
+00:28:07.123 installed, we have two measurement
+00:28:09.018 methods. The first method is to short
+00:28:12.387 the two input pins into one and measure
+00:28:14.557 similarly to the type 1 relay. As for
+00:28:17.283 the second method, after observing the
+00:28:20.570 color, we also set the relay to the
+00:28:22.452 normally open contact position and use
+00:28:24.492 the multimeter on the x1 scale. First,
+00:28:27.044 we measure pin 1 and pin M. The needle
+00:28:30.982 moves, showing a small resistance value
+00:28:33.233 . This is the coil of the relay. The
+00:28:38.398 remaining pins are two and S; the
+00:28:40.266 needle does not move. We also flip the
+00:28:43.231 relay over. If the needle moves, it is
+00:28:45.845 good; if the needle does not move, it
+00:28:47.994 is faulty. So that is for testing the
+00:28:54.825 motor starting relay. Regarding
+00:28:58.485 replacement. When replacing a motor
+00:29:04.177 starting relay, or a current starting
+00:29:06.442 relay, we base it on the shape, type,
+00:29:08.708 and power of the relay to ensure it
+00:29:10.854 fits. We will rely on the shape, type,
+00:29:16.665 and power of the relay to ensure it is
+00:29:18.920 suitable. So the most important thing
+00:29:29.430 is the power. Now, to understand why
+00:29:35.056 power is so important, please observe
+00:29:37.399 the wiring diagram, and I will analyze
+00:29:39.802 why it is so critical. For example,
+00:29:50.519 let's look at the diagram. For instance
+00:29:53.422 , if I have a 1/6 horsepower starting
+00:29:55.931 relay. That is 1/6 horsepower. For this
+00:30:02.527 coil, they calculate the magnetic core,
+00:30:04.714 determining how much current must pass
+00:30:06.847 through the coil so the magnetic force
+00:30:08.979 generated is enough to lift the core.
+00:30:13.736 I'll take the 1/6 horsepower example,
+00:30:15.943 where our current must be greater than
+00:30:18.208 1A. Greater than 1A. There. Whereas for
+00:30:27.477 a 1/6 horsepower compressor, my current
+00:30:30.305 is only 0.9 to 1A. I'll take 0.95. I'll
+00:30:41.583 take 0.95. So, upon initial start, is
+00:30:44.638 the starting current value three or how
+00:30:46.891 many times larger than the rated
+00:30:48.751 current? Now, 0.9 multiplied by 3, well
+00:30:57.046 , 3 times 0.95, we get 2.7, 2.85, so
+00:31:00.355 our current is greater than 1, and the
+00:31:03.842 motor operates normally. For a motor
+00:31:07.529 operating normally, when we clamp the
+00:31:09.508 ammeter, how does it appear? Initially,
+00:31:11.636 the clamp meter needle shows a large
+00:31:13.552 current value; this is the starting
+00:31:15.416 current. Then it shows a small current
+00:31:17.550 value, less than or equal to the rated
+00:31:19.655 current marked on the body, meaning the
+00:31:21.814 motor is running. But if now I take a
+00:31:30.650 1/6 horsepower relay and install it on
+00:31:33.105 a 1/2 horsepower compressor, where our
+00:31:35.560 rated current is 1.5 A, then at start,
+00:31:38.014 it's three or four times higher than
+00:31:40.343 the rated current, which we see is
+00:31:42.546 greater than 1A. And when it runs at
+00:31:48.742 the rated 1.5 A, at this point, we see
+00:31:51.618 our 1.5 is also very large. When 1.5 is
+00:31:55.187 also very large, it is still greater
+00:31:57.820 than 1.5 is very high, so we know that
+00:32:02.056 1A passing through this coil generates
+00:32:04.319 a magnetic field strong enough to pull
+00:32:06.582 the magnetic core, and 1.5 still pulls
+00:32:08.846 the magnetic core. Therefore, the
+00:32:10.667 magnetic core does not drop, and since
+00:32:12.427 it does not drop, it continues to power
+00:32:14.232 both the run and start windings. So at
+00:32:16.055 this point, the compressor runs with
+00:32:17.774 high current. The compressor runs with
+00:32:19.674 high current. And if it runs with this
+00:32:21.539 high current and our protector does not
+00:32:23.399 trip, it will cause the start winding
+00:32:25.165 to burn out. Causing the start winding
+00:32:27.148 to burn out. So that is for that case.
+00:32:32.088 Our case here is the one where we
+00:32:33.858 replaced it with a relay power smaller
+00:32:35.889 than the compressor power, so the
+00:32:37.660 compressor motor runs but with high
+00:32:39.535 current; what are the symptoms? Ah,
+00:32:43.084 initially the clamp meter needle shows
+00:32:45.255 a high current value, then it shows a
+00:32:47.370 lower current value. The initial high
+00:32:49.334 current is called the starting current.
+00:32:51.155 Lower than the starting current value,
+00:32:52.965 the motor runs but the current is still
+00:32:54.822 higher than the rated current. So those
+00:32:57.206 are the symptoms for the case where the
+00:32:59.016 power of the relay is smaller than the
+00:33:03.273 power of the motor. But if my relay is
+00:33:06.791 1/6 HP, a current through this coil
+00:33:09.089 greater than 1A will pull it. But if it
+00:33:12.633 is less than 1A, it will remain open.
+00:33:14.776 So if I install it on a 1/12 HP
+00:33:17.239 compressor, our current is only 0.3 to
+00:33:20.242 0.4; let's take 0.3. 0.3, so now if we
+00:33:23.744 multiply by 3 times, we only get 0.9.
+00:33:27.853 So 0.9 is a very small current passing
+00:33:30.242 through the relay coil, not enough to
+00:33:32.570 lift this magnetic core up. Therefore,
+00:33:35.254 no phase-shifted magnetic field is
+00:33:37.051 generated, and at this point, the
+00:33:38.796 compressor does not run. So in this
+00:33:41.072 case, when replacing, if we do not know
+00:33:46.587 the power of the relay and the power of
+00:33:48.741 the motor, we will choose a relay with
+00:33:50.841 equivalent shape and size, then power
+00:33:56.517 it up and rely on the clamp meter to
+00:33:58.504 draw a conclusion. So that is for the
+00:34:02.368 note part. And the second note,
+00:34:06.561 secondly, when installing the relay, we
+00:34:08.841 must also position the relay according
+00:34:11.063 to the normally open contact. According
+00:34:13.876 to the normally open contact, and rely
+00:34:15.978 on the initial high current to pull the
+00:34:18.134 magnetic core to close the contact. The
+00:34:21.831 second note to remember is that for
+00:34:23.914 motors that do not require a start
+00:34:25.938 capacitor, but we use a two-in, two-out
+00:34:28.251 relay, we must short-circuit the
+00:34:30.159 capacitor terminals. We must remove the
+00:34:33.239 capacitor and short-circuit pins one
+00:34:35.108 and two to start it. That is all of our
+00:34:43.408 notes. Note that when installing the
+00:34:49.597 start relay on a compressor motor, it
+00:34:51.549 must be installed in the correct
+00:34:53.244 orientation. The correct orientation is
+00:34:59.334 such that the relay contact is always
+00:35:01.350 open. On the market, we have
+00:35:03.102 compressors with standard and inverted
+00:35:05.210 pin layouts. For compressor motors,
+00:35:07.197 there are cases where the common pin is
+00:35:09.278 on top and the two running/start pins
+00:35:11.255 are on the bottom. But there are cases
+00:35:13.175 where it is the opposite: the common
+00:35:14.808 pin is on the bottom and the two
+00:35:16.265 running/start pins are on top. In
+00:35:18.144 reality, manufacturers have designed
+00:35:20.299 relays to be compatible with the motors
+00:35:22.570 . Therefore, we must install it so that
+00:35:26.425 the contact remains open. Initially,
+00:35:28.585 the relay contact is always in the open
+00:35:30.812 state. The second note regarding the
+00:35:37.234 two-in, two-out relay type that uses a
+00:35:39.487 capacitor when we install it for a
+00:35:41.508 motor. when we install it for a motor.
+00:35:46.148 And if there is no need to use a
+00:35:47.875 capacitor, if there is no need to use a
+00:35:49.968 capacitor, we must short-circuit the
+00:35:51.905 capacitor terminals. We must
+00:35:53.460 short-circuit the capacitor terminals.
+00:35:59.694 The third case is if there are no power
+00:36:01.729 specifications for the relay or the
+00:36:03.560 motor. In this case, we replace it with
+00:36:12.017 a relay of similar shape and size and
+00:36:14.231 use a clamp meter to draw a conclusion.
+00:36:17.775 The conclusion is as follows. In the
+00:36:20.715 first case, we initially rely on the
+00:36:22.717 clamp meter, and here I am drawing the
+00:36:24.826 clamp meter. Initially, the clamp meter
+00:36:27.039 needle indicates a large current value.
+00:36:29.253 And this is the starting current. This
+00:36:30.993 is the starting current. Then, very
+00:36:33.281 quickly, the needle indicates a small
+00:36:35.237 current value, which is lower than the
+00:36:37.246 rated current value marked on the motor
+00:36:39.305 body. In this case, the motor is
+00:36:43.302 already running with normal current,
+00:36:45.219 meaning it has started, which implies
+00:36:47.188 the power of the relay and the power of
+00:36:49.260 the compressor are compatible.
+00:36:53.312 Compatible. Let's move on to a second
+00:36:58.349 case. Let's move on to a second case.
+00:37:01.601 Initially, the clamp meter needle
+00:37:03.409 indicates a high current value. This is
+00:37:05.503 what we call the starting current. Then
+00:37:07.353 afterwards, it still indicates a value,
+00:37:11.159 meaning it stays at the initial
+00:37:12.780 starting current value without dropping
+00:37:14.755 . And if we leave it for a long time,
+00:37:16.672 the properly functioning protection
+00:37:18.439 relay will trip, and it will return to
+00:37:20.353 zero. So in this case, we can see that
+00:37:22.417 a phase-shifted magnetic field is not
+00:37:24.396 being generated, failing to pull the
+00:37:26.323 iron core. The power of the relay is
+00:37:28.898 much greater than the power of the
+00:37:30.581 motor. So if the clamp meter needle
+00:37:33.687 always indicates a high current value
+00:37:35.645 and does not return, in this case, the
+00:37:37.654 power of the relay is greater than the
+00:37:39.663 power of the compressor. And for the
+00:37:41.575 third case, initially, the clamp meter
+00:37:45.553 needle indicates a high current value,
+00:37:47.441 which is called the starting current.
+00:37:49.565 Then afterwards, it indicates a value
+00:37:53.561 smaller than the starting current but
+00:37:55.646 still greater than the rated current,
+00:37:57.730 so in this case, we conclude that a
+00:37:59.705 phase-shifted magnetic field is
+00:38:01.461 generated, and we conclude the power of
+00:38:03.655 the relay and the power of the motor.
+00:38:09.546 The power of the relay and the power of
+00:38:11.432 the motor are compatible. Oh, excuse me
+00:38:14.957 , in this case, we conclude that the
+00:38:17.303 power of the relay is smaller than the
+00:38:21.335 power of the motor. Therefore, it
+00:38:23.281 cannot release the contact. If the
+00:38:27.213 clamp meter needle initially indicates
+00:38:29.287 a high current, then later indicates a
+00:38:31.362 smaller current that is still greater
+00:38:33.383 than the rated current, then we
+00:38:35.085 conclude the relay power is too low. We
+00:38:40.001 already know that the starting relay
+00:38:41.963 acts as a switch K, controlling the
+00:38:43.872 power for the starting coil. It
+00:38:49.840 controls the power for the starting
+00:38:52.013 coil to start the compressor motor, and
+00:38:54.429 when the motor runs and reaches 70 to
+00:38:56.723 75%speed, the relay will open its
+00:38:58.776 contact. For refrigerator compressor
+00:39:05.290 motors, they use one of two types of
+00:39:07.390 starting relays. The starting relay,
+00:39:10.832 some people call it the start relay.
+00:39:13.538 The first is the current starter relay,
+00:39:15.720 also known as the coil starter relay.
+00:39:19.284 Starting relay. The second starting
+00:39:23.160 relay is the semiconductor starter
+00:39:25.101 relay or electronic starter relay. Now
+00:39:31.437 I will guide you through each type of
+00:39:33.343 relay and how to test its capacity
+00:39:35.098 relative to the motor. First, regarding
+00:39:42.461 the current starter relay, we covered
+00:39:48.298 its construction in the previous lesson
+00:39:50.468 . Basically, it is divided into three
+00:39:55.367 main parts. One is the contact. Contact
+00:40:01.876 . Two is the relay coil. Three. The
+00:40:07.208 coil of the relay. Three is the
+00:40:09.676 magnetic core inside. Basically, we are
+00:40:14.693 dividing it into three parts: coil,
+00:40:18.665 contact. Contact, and the magnetic core
+00:40:23.646 inside. Magnetic core. Moving up and
+00:40:27.999 down inside. So, to check the relay, we
+00:40:36.549 will also check those three parts. That
+00:40:43.487 is the coil, the contact, and the
+00:40:48.353 magnetic core. When measuring, we use a
+00:40:53.695 multimeter. We use a multimeter
+00:40:59.643 set to the x1 ohm range. Short the two
+00:41:03.510 probes together.
+00:41:06.576 Adjust the needle to the zero position,
+00:41:08.810 then we measure. For current starter
+00:41:13.060 relays, we have two types. One is the
+00:41:16.760 relay type with one input and two
+00:41:18.732 outputs. The two output pins are
+00:41:21.808 connected to the running pin, the
+00:41:23.524 starting pin, and the power input pin.
+00:41:26.329 This type does not use a capacitor. To
+00:41:30.530 check it, first we observe the shape
+00:41:32.545 and color of the relay coil. Then use
+00:41:36.301 the multimeter to measure. Since the
+00:41:39.622 relay's normally open contact is
+00:41:41.471 oriented downwards like this. Looking
+00:41:45.757 at the downward orientation, we measure
+00:41:47.957 the input pin by placing one probe on
+00:41:50.047 the input and one on the two outputs.
+00:41:54.795 There is one time the needle moves.
+00:41:57.404 This is the relay coil. It means our
+00:42:01.060 coil is good. Switching to the
+00:42:03.290 direction where it doesn't move.
+00:42:05.437 Switching to the direction where it
+00:42:06.998 doesn't move, then at this point, we
+00:42:13.696 check the relay contact by flipping the
+00:42:15.896 output side downwards. Flip this side
+00:42:22.146 downwards, look closely, students. I
+00:42:27.487 flip it downwards; if the needle moves,
+00:42:29.751 it proves that our magnetic core and
+00:42:31.846 contact are in good condition.
+00:42:37.455 Regarding the relay type with two
+00:42:42.565 inputs and two outputs. This type uses
+00:42:47.127 a capacitor, and the capacitor we are
+00:42:49.395 using is a start capacitor. To check,
+00:42:53.992 we measure any one of the two input
+00:42:56.007 pins with the two output pins.
+00:43:01.868 Measuring any one of the two input pins
+00:43:04.134 with the two output pins, there is one
+00:43:06.344 pair where the needle moves, so this is
+00:43:13.374 the coil. Remaining are two pins; one
+00:43:17.222 input and one output where the needle
+00:43:19.605 does not move; one input, and one
+00:43:23.617 output where the needle does not move.
+00:43:26.346 At this point, we flip the relay upside
+00:43:28.805 down; if the needle moves, the relay is
+00:43:31.265 good. You can also use a wire to
+00:43:36.387 short-circuit the two input pins
+00:43:38.108 together. Shorting the two input pins
+00:43:43.441 together turns it into a one-input,
+00:43:45.590 two-output relay. And we measure it
+00:43:47.712 similarly to a one-input, two-output
+00:43:49.782 relay. For a starting relay, when
+00:43:58.223 installing for a motor, it is required
+00:44:00.288 that we match the relay's power with
+00:44:02.247 the compressor motor to start the motor
+00:44:04.312 . But if we replace it with a relay
+00:44:15.466 smaller than the compressor motor's
+00:44:17.443 power, then the motor operates but
+00:44:25.204 cannot disconnect the contacts, so the
+00:44:27.285 compressor runs with high current, and
+00:44:29.366 if the protector doesn't trip in time,
+00:44:31.447 it will burn out the start winding. But
+00:44:35.461 if we replace it with a relay where the
+00:44:40.353 relay's power exceeds the motor's power
+00:44:42.482 , then the current passing through the
+00:44:44.611 relay coil will not lift the iron core
+00:44:46.740 to close the contacts, so there is no
+00:44:48.814 power to the start winding, no
+00:44:50.506 phase-shifted magnetic field is
+00:44:52.253 generated, and the compressor does not
+00:44:54.382 start. Therefore, on the body of the
+00:44:58.901 relay, it is always labeled with the
+00:45:03.435 power specifications of the relay. For
+00:45:05.522 example, the relay I have here is
+00:45:11.934 labeled 1/5 HP at 220V, so we should
+00:45:14.801 replace it with a 1/5 HP motor. In
+00:45:26.156 cases where we replace the relay for a
+00:45:28.292 motor but don't know the relay's power
+00:45:30.428 or the motor's power, we must rely on a
+00:45:32.619 clamp meter to determine if the relay
+00:45:34.700 power and motor power are compatible.
+00:45:44.636 Now, I will install the relay onto the
+00:45:46.730 motor and check if the relay's power is
+00:45:48.878 suitable. I have a compressor motor
+00:46:08.214 like this, and when installing, our
+00:46:13.702 requirement is to install it with the
+00:46:18.968 normally open contacts facing downward.
+00:46:22.595 Therefore, for some motors, if the pins
+00:46:24.792 are reversed, we won't be able to fit
+00:46:26.879 it. It will not fit. Here, I am using a
+00:46:33.180 relay with one input and two outputs. I
+00:46:38.201 will install it first. I will supply
+00:46:49.897 power. I will power the motor and we
+00:47:08.383 will rely on the clamp meter. Then we
+00:47:24.455 will observe the meter needle. We will
+00:47:33.326 observe the meter needle. We set the
+00:47:35.492 current measurement scale to X6. We
+00:47:39.820 observe the meter needle. If the needle
+00:47:44.183 rises and returns to a stable current
+00:47:46.156 value lower than the rated current, we
+00:47:48.180 conclude that the relay's power is
+00:47:49.997 suitable for the motor and it has
+00:47:51.761 successfully started the compressor
+00:47:53.630 motor. Now I will replace it with a
+00:48:02.393 higher-power relay for us to observe.
+00:48:07.569 We will see, for example, I have a
+00:48:09.754 motor relay with very high power, a
+00:48:12.001 large coil, and high capacity; I will
+00:48:14.374 check the relay and measure it. Then we
+00:48:20.226 will see what happens in cases where we
+00:48:22.223 replace it incorrectly. The coil is
+00:48:34.556 good, the relay is flipped upside down.
+00:48:39.736 The contacts of the relay contacts are
+00:48:53.090 good. The magnetic core falls down, the
+00:48:56.119 contacts close. Now I will install a
+00:49:00.595 relay, and we will observe that if we
+00:49:02.727 replace it with an unsuitable one, the
+00:49:04.914 motor cannot start. There, we see the
+00:49:20.697 motor does not start, it runs at a high
+00:49:22.923 current; this is the case when the
+00:49:24.872 relay's power is greater than the
+00:49:26.764 motor's power. As for the case where
+00:49:31.496 the relay's power is smaller, the motor
+00:49:33.454 runs but the current is higher than the
+00:49:35.412 rated current. Now I will guide you
+00:49:37.481 through the diagram for the second type
+00:49:39.304 of installation. For the two-in,
+00:49:44.411 two-out type with a starting capacitor,
+00:49:46.790 we see the contacts rise, so we will
+00:49:48.991 always follow the diagram. One power
+00:49:57.606 source is supplied to
+00:50:03.101 the common pin. One power source is
+00:50:05.072 supplied to the run pin. The start pin
+00:50:08.571 takes power from the run pin through
+00:50:10.388 the capacitor and the switch. So, first
+00:50:14.491 , we supply power to the common pin and
+00:50:17.055 the run pin. Based on the coil, I will
+00:50:23.960 supply power to the run pin. Next, for
+00:50:31.081 using a capacitor, I will use it as a
+00:50:33.337 starting capacitor, connected in series
+00:50:35.712 with the switch to the start pin. Then
+00:50:42.657 I will connect the capacitor
+00:50:44.165 installation pin to the starting
+00:50:45.880 capacitor. It connects to the power
+00:50:57.216 source at the run pin. This one. And if
+00:51:04.589 the motor does not need to use a
+00:51:06.507 capacitor, we can short-circuit the
+00:51:12.079 capacitor connection pins. In other
+00:51:14.484 words, the input and output pins. We
+00:51:21.318 short the capacitor pins, meaning the
+00:51:23.606 two input pins become one, turning it
+00:51:25.895 into a type one relay. Now, please
+00:51:30.391 observe the meter needle. When I supply
+00:51:35.970 power, the motor starts normally. But
+00:51:39.424 if the capacitor unfortunately fails,
+00:51:41.590 this motor will not run either. I will
+00:51:43.821 use a broken capacitor as an example.
+00:51:45.841 The capacitor is broken in an open
+00:51:47.565 state. I will disconnect these
+00:51:49.159 capacitor pins so you can observe. We
+00:51:53.789 also observe that in this case, the
+00:51:55.741 motor will not run. This is the wiring
+00:52:07.041 diagram for the motor using a current
+00:52:09.094 start relay. Type one in and two out,
+00:52:13.666 type two in and two out. And now, you
+00:52:15.832 will perform the practice for me.
+00:52:19.060 Before finishing the lesson, we will
+00:52:20.914 reinforce the knowledge of the lesson.
+00:52:23.503 We have learned about the function,
+00:52:25.331 structure, and operating principle of
+00:52:27.261 the starter relay, faults, inspection,
+00:52:30.884 replacement, and some notes regarding
+00:52:33.204 the relay. So, go home, study the
+00:52:38.178 lesson, and at the same time preview
+00:52:40.376 how the semiconductor starter relay
+00:52:42.514 starts and what its operating principle
+00:52:44.890 is. I would like to say goodbye to the
+00:52:48.438 whole class.

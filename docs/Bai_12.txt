@@ -1,0 +1,627 @@
+# tactiq.io free youtube transcript
+# Bài 3 - Tụ Điện, Công Tắc , Hệ Thống Xả Tuyết Tủ Lạnh II Dạy Nghề Thanh Xuân 93 NguyễnTuân0936989090
+# https://www.youtube.com/watch/N8IpKO12hFc
+
+00:00:00.000 Xin chào anh em chúng ta tiếp tục sàn
+00:00:03.540 bài học đó là bài 3 trong
+00:00:08.179 thiết bị điện phụ tải điện Trong sơ đồ
+00:00:11.670 mạch điện tủ lạnh dâm dục Hôm nay thằng
+00:00:14.910 ta sang phần sau tụ điện công tắc hệ
+00:00:18.660 thống
+00:00:19.310 Xả tuyết
+00:00:22.640 thì đầu tiên chúng ta đi tìm hiểu về tụ
+00:00:26.130 điện
+00:00:27.349 thì đối với tụ điện thì tụ điện ở phần
+00:00:31.140 học điện tử Cao Bằng chúng ta cũng đã đi
+00:00:33.360 tìm hiểu về tụ tụ điện có chức năng đánh
+00:00:37.590 nào Bà xa và khi lắp đặt cho động cơ thì
+00:00:41.969 buổi học về động cơ chúng ta cũng đã đi
+00:00:44.250 tìm hiểu chúng ta đang có hai tốp đó là
+00:00:47.460 cục âm là tục tích
+00:00:49.190 ý khi lắp điện về công dụng này thì khi
+00:00:52.559 lắp trong mạch điện tủ lạnh xoay chiều
+00:00:54.890 có lắp đặt cho động cơ thì tục có các
+00:00:57.750 chức năng là
+00:01:00.010 Ừ từ trường lệch pha giữa hai cuộn dây
+00:01:02.170 chạy đề để tạo ra mômen khởi động và làm
+00:01:07.390 việc để tăng hiệu suất
+00:01:10.259 cho tủ lạnh khi nào là khởi động thì lấy
+00:01:14.140 ví dụ đổi liên tục mà ta gọi là Tùng
+00:01:16.840 Kích có mắc nối tiếp với giờ này khởi
+00:01:20.229 động thì tục này với công dụng để tạo
+00:01:22.930 mômen khởi động đối với tụ mà mắt song
+00:01:26.470 song với tụng âm thanh được gọi là tục
+00:01:30.549 làm việc thì đối với cụ này trẻ có cái
+00:01:34.060 công dụng là tạo nên mô men vừa khởi
+00:01:36.340 động vừa
+00:01:38.550 làm việc cho động cơ thì chúng ta không
+00:01:42.520 có hai loại đó là phụ ngâm và tục kích
+00:01:45.030 ngâm chủ tịch
+00:01:48.299 nhưng ta đem cần phải nhớ Đây là khi lắp
+00:01:51.280 đặt cho động cơ thì ta sẽ gọi là Tùng âm
+00:01:53.500 và tục tích còn đối với ở phần học điện
+00:01:56.860 tử các bằng thì chúng ta không nói đến
+00:02:00.020 khi mà chúng ta chỉ có đủ thường đổ hóa
+00:02:03.670 bạn tụ tinh trình
+00:02:06.729 về tù Nhâm Tý các em xem mấy cái sơ đồ
+00:02:10.399 mạch điện thì buổi học hôm trước chúng
+00:02:13.099 ta đã đi tìm hiểu trong và động cơ blog
+00:02:15.220 đó thành 3 hình 4 hình ba là tụt này với
+00:02:21.049 những công dụng là nắp xa và tạo ra
+00:02:24.319 mômen khởi động và làm việc còn nói cái
+00:02:26.450 gì bốn là vừa lắp ngâm có cả Phục Kích
+00:02:29.150 Của cả ra phải được thì đối với tụ có
+00:02:32.060 chức năng tạo ra mômen khởi động và làm
+00:02:35.450 việc thì do tục làm việc trong một thời
+00:02:38.450 gian rất là dài nên tục thường có cái
+00:02:41.329 hình dạng tinh cực lớn Sony tính nhỏ
+00:02:45.319 điện áp chịu đựng cao
+00:02:47.020 [âm nhạc]
+00:02:48.099 khi tục của chúng ta để thường có
+00:02:51.700 Sony là nhỏ hơn hoặc bằng 60m và điện áp
+00:02:56.299 chứa đựng thì từ 400 đến 500 V AC I có
+00:03:01.010 bốn trăm cho đến 500 V AC đây chính là
+00:03:05.130 đối với phụ ngâm đây chính là đối với
+00:03:07.709 tục ngâm
+00:03:11.450 buổi học về động cơ blog thì chúng ta
+00:03:15.000 cũng đã dùng đối với tụi ngâm
+00:03:17.420 để khắc phục đối với trường hợp động cơ
+00:03:20.280 blog quên Đăng ký khi đó chúng ta sẽ
+00:03:22.739 dùng đúng âm thì sẽ giảm được Dong so
+00:03:25.650 với đồ ăn dòng cho ta từ 0,3 trở xuống
+00:03:34.910 với trục
+00:03:38.330 vít Đột Kích Địt có chức năng
+00:03:42.019 tạo ra mômen khởi động ban đầu cho động
+00:03:46.050 cơ
+00:03:47.000 vào loại này thì làm việc trong thời
+00:03:49.050 gian rất ngắn thì buổi học hôm trước
+00:03:52.080 chúng ta cũng đã đi tìm hiểu
+00:03:53.930 đi Chị Khởi động và khi động cơ Block
+00:03:57.390 hoạt động và đạt được từ 70 đến 75 phần
+00:04:00.010 Thế giờ đang ở Đắk Lắk thì cũng đồng
+00:04:02.260 nghĩa với tục sẽ nắn
+00:04:05.220 nót tục làm việc trong thời gian rất
+00:04:07.390 ngắn nên thường có kích thước nhỏ điện
+00:04:09.970 áp chất lượng thấp và thông thường xuống
+00:04:12.340 i còn ra là lớn hơn hoặc bằng 40m và
+00:04:14.950 điện áp trước là từ 160
+00:04:17.880 cho đến 250v AC đương nhiên là nỗi nhớ
+00:04:21.850 là để áp chế được phải lớn hơn càng tốt
+00:04:24.220 không sao cả
+00:04:25.830 về sơ đồ đây chính là đối với sơ đồ
+00:04:30.000 sử dụng đúng kích đó là mắc nối tiếp với
+00:04:32.919 quá can và mắc nối tiếp được hóa cao
+00:04:35.560 trong cái hình 24 trồng cây sơ đồ mạch
+00:04:38.289 điện
+00:04:38.940 cho động cơ bản lúc buổi học trước chúng
+00:04:42.100 ta cũng đã đi tìm hiểu về lưu ý
+00:04:44.729 thì cả hai loại thụ trên
+00:04:47.610 đều là tục hóa không phân cực và khi lắp
+00:04:51.370 thì lắp đặt cho động cơ điện xoay chiều
+00:04:54.940 ý nếu mà người ta mắc song song với Rơle
+00:04:58.180 khởi động thì được gọi là tủ sử dụng âm
+00:05:00.919 và mắc nối tiếp với giá này phải động
+00:05:02.629 được gọi là thủ kích
+00:05:07.840 Thì đấy là đối với tục vậy khi tụ này nó
+00:05:11.930 hỏng
+00:05:12.669 thì như chúng ta đã biết rồi ở phần điện
+00:05:15.560 tử cơ bản thì các em đã đi tìm hiểu đối
+00:05:18.800 với trường hợp là tụ khi bị hỏng thì
+00:05:20.870 thường hỏng là cái dạng như là trọc rồi
+00:05:23.990 dứt dò cô chất điện môi
+00:05:26.919 thì lúc này nếu là phục kích thì do nhu
+00:05:30.830 cầu động cơ bản gốc cần phải sử dụng cụ
+00:05:33.139 kích động cơ mới hoạt động được Do đó
+00:05:36.110 khi tục hỏng sẽ dẫn tới tình trạng là
+00:05:38.449 không khởi động được không khởi động
+00:05:40.370 được dòng cam
+00:05:42.430 đối trường hợp là Tùng Lâm thì tục ngâm
+00:05:46.099 lúc này đang hỗ trợ làm việc thì thành
+00:05:48.080 có nói là chúng ta lắp đúng ngâm vào thì
+00:05:51.349 lúc này có 2 công dụng đó là sử
+00:05:55.000 dụng cuộn đề hỗ trợ cùng bọn Trạch để
+00:05:58.669 làm việc để nó cái rõ to lý do đó
+00:06:01.790 tăng mômen làm việc tăng nhưng mỗi mét
+00:06:05.370 làm việc chính Vậy khi tăng cái bóng đen
+00:06:08.550 làm việc thì công suất hút đẩy chúng ta
+00:06:10.410 đang lên Mập này công suất này chúng ta
+00:06:13.830 không đá tăng bậc thứ hai thứ hai là đối
+00:06:18.720 với trường hợp là nếu chúng ta sử dụng
+00:06:20.130 đối với giá rẻ khởi động là điện tử ít
+00:06:23.700 ra hoạt động điện tử khi ngắt điện rồi
+00:06:26.760 có điện ngay đối với da chưa nguội hoặc
+00:06:31.140 là do thì ra lắp áp sát với vỏ của động
+00:06:34.620 cơ và vỏ của động cơ để rất nóng vào nắp
+00:06:37.710 nhựa để bảo vệ chính mạch công việc muộn
+00:06:39.900 để để chúng ta hoạt động trở lại là rất
+00:06:42.510 đàn ông chính vì đi sau này chính vì đi
+00:06:45.810 dạo này
+00:06:46.760 mà có thể động cơ mà nó không khởi động
+00:06:49.080 được dòng cam sau đó khi sử dụng cùng âm
+00:06:52.560 thì sẽ hỗ trợ cùng làm việc thì bây giờ
+00:06:55.080 là đúng âm vào lòng có thể dẫn tới tình
+00:06:58.290 trạng là à chỉ có thể là không khởi động
+00:07:01.569 được hay là khởi động được nhưng mà Đọc
+00:07:04.300 blog hoạt động nhưng giọng ca động của
+00:07:06.999 nó hoạt động như dòng cao đây là đối với
+00:07:09.330 cùng âm
+00:07:14.490 để kiểm tra đối với tụ thì thấy nhắc lại
+00:07:18.939 ở phần điện trở các bàn ra được học rồi
+00:07:20.939 là ta sẽ mượn cái điện áp ở trong cái
+00:07:24.669 đồng hồ vạn năng để chúng ta đo nạp sản
+00:07:27.129 xuất thúc bằng cách là dùng đồng hồ vạn
+00:07:29.919 năng để theo dõi ôm và tụ có xuống đi
+00:07:32.020 lớn để thằng Hồng Nhỏ và Suối nhỏ để
+00:07:34.449 nhóm lớn ta sẽ đo mà đảo chiều cái lo
+00:07:37.319 hai chân của tụi Nếu Kim lên nhanh này
+00:07:40.509 nhanh là tốt nếu Kim không lên là tốt em
+00:07:45.339 lên mà không về đây là bị chọc và Kim
+00:07:49.749 lên nhanh hay chậm là bị rò hoặc trang
+00:07:52.899 điểm môi Thì đấy là đối với
+00:07:55.860 cách kiểm tra mà về thay thế thì mọi xử
+00:08:00.050 lý cái này là dẹp đối với tục để khi
+00:08:02.780 thay thế tụi ta phải thay đúng về chị
+00:08:04.789 cũng biết đúng về giá trị điện áp chịu
+00:08:06.740 đựng như chân thân thì do hai cái tủ này
+00:08:08.900 thì nó thấy là người ta có thể sử dụng
+00:08:10.280 là cũng ngâm để thay làm cục kích nhưng
+00:08:14.629 không ai người ta dùng tục ích lại thay
+00:08:16.069 làm cực âm do kích thì có cái để ăn
+00:08:18.860 trứng nhỏ còn ngâm thì có cái điện năng
+00:08:21.800 chịu lực lớn hơn đấy là đối với tục đêm
+00:08:24.470 nay ta xanh tiếp sang 6.2 là sẽ định về
+00:08:27.770 công tác
+00:08:30.370 gì về công tắc
+00:08:32.380 thì công dụng của công tác thì công tác
+00:08:35.899 năng lực cài ngay mép cánh cửa và có thể
+00:08:38.990 nằm ở giữa hai ngăn ngăn đông vào ngăn
+00:08:40.969 mát có công dụng
+00:08:43.240 là đóng ngắt nguồn cho đen hoặc đóng
+00:08:46.880 ngắt nguồn trước còn
+00:08:48.160 đóng ngắt nguồn đối với công tắc cho đèn
+00:08:52.510 thì chúng ta biết được là đối với công
+00:08:55.339 tắc cho đèn thì ta mở cửa thì đèn sạc để
+00:08:58.850 mở cửa thì đèn sạc à lý do đó công tác
+00:09:01.710 này là công tác tiếp điểm của ta thưởng
+00:09:04.340 thầm đọc thì công tắc đèn này thì thường
+00:09:08.040 được cài ở bên cạnh mép cửa và dựa vào
+00:09:13.170 cánh cửa tác động lên công tác
+00:09:16.160 để kiểm tra thì bằng cách này do tiếp
+00:09:19.410 điểm của ta là Việt Hương đóng nên chúng
+00:09:21.210 ta chưa ăn đúng do vào hai chân tiên
+00:09:23.730 điểm của công tác chiến lên Xong mạch
+00:09:25.890 giờ bằng Không ông ấy sau đó là tao tác
+00:09:29.550 động là ăn đúng công tác thì tao thấy là
+00:09:32.090 em không lên nữa hay nói cái khác là có
+00:09:35.190 sự thay đổi trạng thái phải nóng mắt với
+00:09:36.750 điểm thì kết luận là công tác tốt nên là
+00:09:39.780 tiếp điểm của ta là cái điểm thường đau
+00:09:41.300 đối với công tắc quạt địa chỉ áp dụng
+00:09:44.310 đối với trường hợp là tủ lạnh gián tiếp
+00:09:46.290 có quạt quạt gió
+00:09:51.230 để tránh xảy ra tình trạng khi ta mở cửa
+00:09:54.500 thì gió thổi kèn hơi lạnh ra ngoài Chính
+00:09:58.350 vì lý do này
+00:10:00.010 chúng ta sẽ sử dụng đối với công tác bạn
+00:10:02.920 ấy không phải là tủ nào cũng có có những
+00:10:04.870 cái tủ ra thì không có công tắc quạt
+00:10:07.110 thì công tắc quạt thì nên là tiếp điểm
+00:10:09.250 thường mở thì thầm mở thì lúc này sẽ là
+00:10:11.950 nỗi nhớ là chúng ta mở cửa ra này không
+00:10:13.600 tác động lên công tác kiểm tra phải ngắt
+00:10:15.510 tiếp điểm của thằng ác tính công tác
+00:10:18.130 quan này thì đang được lắp đặt ở bến
+00:10:19.990 sườn mép cánh cửa và cũng đang điều
+00:10:24.160 khiển nguồn cho quạt dựa vào cánh cửa
+00:10:26.140 tùng để kiểm tra đối với những trường
+00:10:28.690 hợp này thì ta kiểm tra bằng cách như
+00:10:30.010 sau này chúng ta chữ ẩn đúng công tác gì
+00:10:33.340 tiếp điểm của tao đang trào mạnh điểm ra
+00:10:35.650 khỏi mạch và khi đã Tấn Dũng công tắc
+00:10:37.950 thì lúc này có người ta đóng cửa đấy Thế
+00:10:40.840 lúc này không có nghĩa là tao hai đầu
+00:10:43.720 chẳng thích tắm thì lúc này tiến lên giá
+00:10:45.340 trị điện trở bằng không thì ta kết luận
+00:10:47.140 là công tắc tốt
+00:10:50.460 Lý do là tiếp điểm Do đó công tác tướng
+00:10:53.530 hỏng dưới dạng đã bị chậm hoặc là tiếp
+00:10:56.710 điểm của Star không tiếp xúc thì bánh
+00:11:00.019 anh
+00:11:01.119 nói với công tắc đèn
+00:11:03.910 thì nếu mà đèn của thức ăn đối với
+00:11:06.170 trường hợp là không tiếp xúc thì đèn
+00:11:07.759 không sáng mình sẽ không tiện lợi cho
+00:11:09.920 người sử dụng
+00:11:11.079 không tiện lợi cho người sử dụng và lúc
+00:11:13.790 này
+00:11:15.549 chúng ta lý đô mới nhất là vào buổi tối
+00:11:18.019 thì rất là không tiện
+00:11:20.110 Còn đối với đèn luôn sáng thì như chúng
+00:11:23.449 ta đã biết đèn thì kiếm số đông hiện nay
+00:11:25.209 là đèn sợi đốt và số ít thì đèn Led lý
+00:11:29.119 do đen là sẽ tốt thì chính Vậy là sợi
+00:11:31.369 đốt thì biến điện năng thành Quang Đăng
+00:11:33.259 và đồng thời tỏa nhiệt và do đó nhiệt
+00:11:36.470 tỏa ra chỉ tiêu nhiệt cho vào chính mệnh
+00:11:38.689 tủ lạnh sẽ kém lạnh
+00:11:45.069 về công tắc quạt
+00:11:47.079 Nếu quạt của ta luôn quay thì khi mở cửa
+00:11:50.869 thì tủ Xem dẫn tính tình trạng là kém
+00:11:52.790 lạnh mà tốn điện và quạt không quay cái
+00:11:57.230 tủ sẽ không lạnh quá sẽ không quay được
+00:12:00.030 Ừ
+00:12:02.720 đấy là đối với
+00:12:05.900 là công tắc quạt
+00:12:12.610 thì phải kiểm tra
+00:12:15.340 tin để kiểm tra thế này do là tiếp điểm
+00:12:18.170 chính vì vậy chúng ta sẽ dùng đồng hồ
+00:12:20.690 vạn năng để chúng ta đó thì lúc này dùng
+00:12:25.340 đồng hồ vạn năng để tăng X1 ôm
+00:12:27.520 đo vào các chân đấu điện và có tác động
+00:12:32.840 Ấn núm công tắc và Nếu có sự thay đổi
+00:12:36.580 trả tháng đóng ngắt tiếp điểm gì ta kết
+00:12:41.120 luận là công tác tốt cho sự thay đổi
+00:12:43.850 trạng thái đóng ngắt lấy cái điểm thì ta
+00:12:46.640 kết luận là cũng tốt
+00:12:54.940 về thay thế
+00:12:57.010 thì công tác hư hỏng thì trước tiên ta
+00:12:59.780 có thể vệ sinh cái cái điểm bằng cách là
+00:13:01.640 dùng đánh giá quýt chúng ta đánh cá tiếp
+00:13:04.730 điểm
+00:13:05.910 Ê bà kiểm tra lại và Nếu không được thì
+00:13:08.220 tao phải thành công tác mới lý do không
+00:13:10.950 tắt được ai ở ngay mép cánh cửa hoặc là
+00:13:13.170 nằm dưới ánh nắng Đông và nhắm mắt mà nó
+00:13:15.180 dựa vào cánh cửa tác động lên công tắc
+00:13:17.930 chính vì lý do này mà chúng ta phải thay
+00:13:21.120 đúng chủng loại Nếu mà chúng ta không
+00:13:23.160 đúng tủ lạnh thứ nhất là thể Lấy một ví
+00:13:24.810 dụ như là rất sai tắc có nhỏ thì đã đóng
+00:13:27.480 cửa vào thì cửa ra là được đây thì công
+00:13:30.630 tác lọt vào bên trong và không tác động
+00:13:32.220 được tới cái điểm và nếu ta thay to quá
+00:13:35.910 không nhắc vừa
+00:13:37.190 trong hai công tắc này tuyệt đối là thấy
+00:13:40.620 là tao không dựa vào rất nhiều tủ lạnh
+00:13:42.240 là chúng ta mở cửa ra quạt vẫn quay nên
+00:13:44.760 tao để mà nói tắt Nếu không có công tắc
+00:13:47.400 quạt Còn riêng công tắc đèn thì bắt buộc
+00:13:49.080 phải dùng bắt buộc phải tạm dừng
+00:13:52.460 đấy là đối với công tác thì các bạn có
+00:13:57.060 thể là xem cái video về cách kiểm tra
+00:14:00.090 công tác
+00:14:02.030 như sau
+00:14:04.340 bạn xem một tí anh Thành thấy hướng dẫn
+00:14:08.350 lại cách kiểm tra lại công tắc thì đây
+00:14:11.410 là đùa với công tác cửa trong mạch điện
+00:14:13.269 tủ lạnh thì đang được gắn ở mép cánh cửa
+00:14:17.170 hoặc ở dưới ngăn đông với nhắm mắt nhiệm
+00:14:21.489 vụ công tác điều khiển nguồn cho đèn để
+00:14:26.499 chiếu sáng khi người sử dụng mở cửa để
+00:14:30.579 lấy sản phẩm
+00:14:32.069 thứ Hai điều khiển nguồn cho quạt
+00:14:35.819 để khi ra mở cửa
+00:14:38.639 thì nhắc quạt để giảm quá trình hơi lạnh
+00:14:42.069 bị mất đi
+00:14:43.199 do đó để kiểm tra
+00:14:45.889 a đối với động cơ quan
+00:14:48.220 thì lúc này chúng ta cũng chén dùng đồng
+00:14:50.749 hồ này chúng ta kiểm tra à
+00:14:54.170 a
+00:14:57.160 đối với
+00:14:59.680 công tác tác dụng đồng hồ vạn năng để
+00:15:03.170 tăng kích một chập 2 que chỉnh kim đồng
+00:15:06.290 hồ về vị trí không sau đó là đo thì đối
+00:15:09.709 với công tắc chúng ta đang có hai loại
+00:15:11.060 Một loại là công tắc đơn và một loại là
+00:15:14.750 công tắc ép đơn là có hai chân và công
+00:15:17.899 tắc kép có ba chân Đúng lại không tác
+00:15:20.690 đơn anh cũng đã ghép thì chúng ta sẽ
+00:15:23.029 phân ra công tắc và đen và công tác quan
+00:15:25.990 thì công tác có đen là khi cho nó mở cửa
+00:15:29.709 thì có nghĩa cánh quạt ta công tác động
+00:15:32.350 nên công tác
+00:15:34.449 thì mở cửa đèn sáng thì ở trạng thái
+00:15:37.970 tiếp điểm lúc đó là các điểm cần đóng
+00:15:40.519 thì chúng ta sẽ lo
+00:15:47.139 thì ví dụ như thế lò tiếp điểm Thường
+00:15:50.149 đóng
+00:15:51.250 mở cửa ra Các điểm nóng đây chính I
+00:15:56.330 danced
+00:16:00.440 đối với công tác quạt thì ngược lại
+00:16:04.130 đối với công tắc quạt thì ngược lại đối
+00:16:06.360 với công tắc đèn và tiếp điểm thường mở
+00:16:08.339 nghĩa là kia mà không cần đo chưa tác
+00:16:10.860 động vào muốn ấn thì ta đo thì kiếm
+00:16:14.580 không lên ấn vào thì Kim lên thì đấy là
+00:16:16.950 của quạt còn đối với của đèn thì tiếp
+00:16:20.370 điểm Thường đóng này nhìn này
+00:16:23.149 ban đầu thì đòi em lên này anh đọc mà
+00:16:26.339 đúng công tắc này nhắn này thì đây chính
+00:16:29.040 là công tắc
+00:16:38.839 thì đối với loại công tắc ba chân này
+00:16:41.040 thì chúng ta đến nhớ là sẽ không còn
+00:16:43.529 chân chung một trận chung và một chân
+00:16:46.470 đặc được ký hiệu là đó 100 năm được ký
+00:16:49.320 hiệu là nó c thì đối với lo Cứ Điểm
+00:16:51.510 Thường mở và đối với NC là cái Điểm
+00:16:53.850 Thường đóng em lúc này anh thay dùng
+00:16:57.730 đồng hồ vạn năng và thể đo thì một que
+00:16:59.710 được cố định ở chân trần Chung Một què
+00:17:01.780 thành chén tác động sang đó O và O C sau
+00:17:04.990 đó là Ấn tay vào công tắc và khi vậy
+00:17:07.959 Thấy Ấn tay vào công tắc và có sử thay
+00:17:09.699 đổi trạng thái đóng ngắt về tiếp điểm
+00:17:13.829 thì đây chính là một công tác thật tốt
+00:17:17.250 Anh có sự thay đổi trạng thái tiếp điểm
+00:17:19.810 chỉ là công tắc tốt
+00:17:22.079 đối với một số công tác mà đang được cài
+00:17:24.939 ngang mép cánh cửa mà người ta đã sử
+00:17:26.560 dụng là hai cánh để tác động lên đúng
+00:17:28.270 nhấn công tắc và có thể là có nhiều chân
+00:17:29.830 có thể có nhiều chân thì tôi lấy ví dụ
+00:17:32.200 có những cái tủ lạnh còn ta có thể là có
+00:17:34.620 bà ngăn 4 ngăn
+00:17:37.320 trong đó thì chúng ta thấy là tùy thuộc
+00:17:40.570 xem là chúng ta đang sử dụng là hai dàn
+00:17:42.310 độc lập hay là một giàn có 2 quạt hay là
+00:17:44.380 hai đen mà chúng ta có nhiều chân thì về
+00:17:48.280 cơ bản là chúng ta cũng lo gì thứ nhất
+00:17:51.520 là riêng đối với
+00:17:54.169 mở đèn thì ta chỉ tác động vào một núp
+00:17:56.690 một núm của ngăn mát không nắp mắt thì
+00:17:59.629 tác động vào một lúc công tác thì đấy
+00:18:01.129 chính là công tác của đen nhưng đối với
+00:18:03.109 quạt gió thì chúng ta nên nhớ nà Nếu là
+00:18:06.109 sử dụng một giàn và sử dụng quạt gió đối
+00:18:08.119 lưu từ ngăn trên cùng năm dưới thì chính
+00:18:09.919 các bạn là chúng ta cần tác động cả hai
+00:18:11.299 cả 2 núm công tắc sau đó cần đo Nếu có
+00:18:14.299 sự thay đổi cái trạng thái đóng ngắt thế
+00:18:16.999 là ta sẽ phải tác động vào cả hai nguồn
+00:18:18.499 gốc các bạn chỉ cần là một núi không
+00:18:20.600 đóng Bị quạt của đang cái điểm quạt ta
+00:18:22.639 cũng hỏi
+00:18:23.739 đài quan họ để tránh cho nó cái cầu gió
+00:18:26.389 lạnh chỉ có thể là thổi gió lạnh ở ngăn
+00:18:28.399 mát ra ngoài hay là cuộc gió lạnh ở ngăn
+00:18:30.200 chặn Đông ra ngoài thì chính bạn là đối
+00:18:32.869 với kiểm tra về công tác quạt ta được ấn
+00:18:34.460 có cả hai hai núm thì cái em nhìn vào
+00:18:37.070 thì thì thấy đo thì mình sẽ ấn vào cả
+00:18:39.289 hai đứa chỉ ấn vào cả hai núm thì lúc
+00:18:42.139 này thầy đã biết được là từ chế độ là ấn
+00:18:46.639 một ốm hay là nó chế độ 2 núm thì tôi
+00:18:49.249 biết được là công tắc này ra đó Nó hiện
+00:18:51.139 đang công tác đâu là đèn ở đó là quạt
+00:18:54.679 a2g 4 là nằm ở bên ngoài đấy không nhau
+00:18:57.509 mà trong đó là có chân 1 và chân Diệu
+00:19:01.610 chất một và chân mua
+00:19:05.330 ở đây thì chúng ta nên nhớ là gì khi
+00:19:09.029 thấy đo thì có những trường hợp là gì là
+00:19:13.879 chân chân 1 2 3 4 đấy
+00:19:21.470 chỉ khi thấy tác động
+00:19:24.139 gì đối với loại công tác này thì có hai
+00:19:27.690 chân của đèn còn hai chân của đèn
+00:19:30.740 trong đó là gì là 24 24 thì
+00:19:36.799 anh thăm nhau
+00:19:39.559 24 thì lại nằm ở ngoài còn chân một tác
+00:19:43.830 động với chấm ba hay là một đối với hai
+00:19:45.749 thì trong đó là một lần châm chung thì
+00:19:48.059 thấy đo thì một thông với hai hoặc là
+00:19:50.549 trong 14:00 ở đấy là một là chung 24 là
+00:19:53.820 đen hai và ba sẽ là của quạt ngày 24
+00:19:57.879 tháng nhau thì em có thể lắp chân đèn
+00:19:59.559 vào chân hạ được một bộ được
+00:20:01.740 cái đấy là đối với công tác loại bốn
+00:20:05.740 chân bạn bốn chân thì chúng ta phải nói
+00:20:08.200 như vậy anh sẽ phải nói như vậy đây là
+00:20:10.779 đối với
+00:20:11.970 công tác an toàn
+00:20:14.370 để đặt cách đo đối với công tác an toàn
+00:20:16.720 à
+00:20:21.760 ạ Và bây giờ thì mời cả lớp ta sẽ đo lại
+00:20:26.620 về về công tác và bây giờ chúng ta sẽ
+00:20:29.170 sang tiếp theo vậy đối với hệ thống sản
+00:20:31.600 tiếp tại sao chúng ta cần phải trả tiếp
+00:20:33.480 thì thành nhắc lại đối với buổi họp báo
+00:20:36.310 trước thì chúng ta đã học về nguyên lí
+00:20:38.050 truyền nhiệt nhiệt chỉ truyền từ cao
+00:20:40.030 đẳng cấp trong đó Chúng ta có 3 phương
+00:20:42.010 pháp truyền nhiệt một là dẫn nhiệt dẫn
+00:20:44.560 hiện thì chúng ta phải có gần dân và
+00:20:46.090 phần dẫn Vì sao đến nhớ nà đang là thể
+00:20:48.250 rằng ở trong đó là các kim loại thì bỏ
+00:20:52.660 cái năng suất vẫn nhiệt cao tốt cho nên
+00:20:54.910 người ta thường sử dụng vật rắn là Kim
+00:20:56.590 loạn trong đó có thể là rất nhiều đồng
+00:21:01.080 đồng sắt nhôm có thể là các vật liệu như
+00:21:06.670 đồng sắt nhôm
+00:21:08.490 thì trong nhận
+00:21:10.860 trong mang vật liệu này thì chúng ta đã
+00:21:13.870 biết được là
+00:21:14.940 hay không thì trong đó là đẹp
+00:21:19.950 trong đó là ý là bật điện để chúng ta đã
+00:21:23.270 được nhiều nhôm là điều đã được sử dụng
+00:21:26.360 nhiều và có tính chất là đẹp
+00:21:28.540 năng suất dẫn nhiệt cao năng suất dẫn
+00:21:32.090 nhiệt cao hơn đối với sắp và năng suất
+00:21:34.190 nhiệt cao hơn tất cả đâu hãy năng suất
+00:21:37.430 dẫn nhiệt cao hơn
+00:21:38.890 chính trị bệnh thì sao một cái thời gian
+00:21:41.480 mà chúng ta thấy là hoạt động thì hơi à
+00:21:44.350 Gặp nhiệt độ thấp sẽ xảy ra hiện tượng
+00:21:47.120 đóng tuyết và Đồng Tuyết lúc này năng
+00:21:49.160 suất rất nhiều với ta bị giảm năng suất
+00:21:52.340 vẫn nhận thấy rằng do đó chúng ta cần
+00:21:54.680 phải xả thiết để sau đó sau khi xả tiếp
+00:21:58.130 song đối với cái tủ lạnh ta có được cái
+00:22:00.200 năng suất làm lạnh lạnh cao thì đối với
+00:22:03.020 hệ thống xả tiết thì chức năng của các
+00:22:04.460 hệ thống xả tiếp chính là làm tan Tuyết
+00:22:06.170 và băng đá bám à hệ thống làm lạnh để
+00:22:08.750 sau đó đó là cái năng suất dẫn nhiệt cao
+00:22:11.420 tăng năng suất làm lạnh và chúng ta đang
+00:22:13.880 sử dụng một trong bàn pháp Xả tuyết nhất
+00:22:17.380 là Xả tuyết bằng tay đi trả tiếp bằng
+00:22:21.050 tay thì đây là cá mở màn cho tao đang
+00:22:23.399 dùng đến nguồn nhiệt của môi trường dùng
+00:22:25.919 đến một nhiệt của môi trường
+00:22:27.889 và sử dụng những nguồn nhiệt của môi
+00:22:29.999 trường thì khi tủ làm việc Trong quãng
+00:22:31.229 thời gian thì ta thấy là Tuyết bám nhiều
+00:22:32.759 thành xung quanh Tùng
+00:22:34.759 và bề mặt giá lạnh thì lúc này đang xuất
+00:22:37.320 dẫn nhiệt kém năng suất làm này kém lúc
+00:22:40.200 này ta sẽ trả tiếp bằng cách là nát
+00:22:42.090 nguồn cho tủ
+00:22:43.429 và chờ một cái thời gian sau và cho ta
+00:22:46.409 cho tuyết tan hết mà chưa dùng khăn mềm
+00:22:48.269 thì Long lăng khô xào đó cấp nguồn cho
+00:22:50.609 tủ hoạt động trả lại thì đối với phương
+00:22:52.229 pháp này và thường kết hợp với Bảo dưỡng
+00:22:54.809 tủ lạnh thì do bên trong tủ tao vẫn còn
+00:22:57.479 giá trị sản phẩm để tránh những sản phẩm
+00:22:59.009 bị hỏng thì chính Vậy là gì mà tao chả
+00:23:02.249 tiếc thì chưa ra thương là chúng ta sẽ
+00:23:04.469 phải tiến hành ta phải tiến hành đó
+00:23:06.960 chính là
+00:23:09.080 làm sao tăng tiếp nhanh và dùng khăn mềm
+00:23:12.479 long để đưa các sản phẩm đó quay trở lại
+00:23:15.570 Tùng và làm lạnh chả lặng để tránh
+00:23:17.969 trường hợp có hồng chứ Vậy là đối với Ý
+00:23:21.029 nghĩa phương pháp Ừ thì làm hay là thầy
+00:23:24.760 bản thường hay là thành tư vấn cho khách
+00:23:26.140 hàng bình thường là lấy để sử dụng máy
+00:23:28.330 sấy tóc ta có thể sử dụng quạt gió ta có
+00:23:30.640 thể sử dụng té nước sôi vào để làm sao
+00:23:32.440 ta nghĩ cái kết bạn trên bề mặt dàn sau
+00:23:35.230 đó ra vệ sinh từ đó lau khô để đưa sản
+00:23:37.780 phẩm quay trở lại đối với hình thức sản
+00:23:40.570 xuất thứ hai
+00:23:41.970 là xả tiếp bán tự động thì đối với lúc
+00:23:46.660 này là cũng dùng đến một nhiệt của môi
+00:23:48.010 trường và trong tủ lạnh trực tiếp một
+00:23:50.050 hoặc hai cánh cửa thì chúng ta sẽ thường
+00:23:52.600 lắp đặt game Intel trà đá
+00:23:54.930 và khi kết bán nhiều bề mặt dàn ý kết
+00:23:58.180 bạn nhiều cái bề mặt dàn thì lúc này
+00:24:01.440 chúng ta sẽ tác động vào dân Xả đá thì
+00:24:07.500 tệ Tóm tắt lại về Cái cấu tạo nên cứ
+00:24:10.600 nghĩ lý làm việc của Stella bán cho mọi
+00:24:12.190 người yêu bởi vì hiện giờ lại xa lánh
+00:24:14.890 thì mọi người nên nhớ nhá là nó có cấu
+00:24:17.260 tạo và nguyên lý làm việc
+00:24:19.620 rất giống với
+00:24:21.770 anh khống chế nhiệt độ cơ hay còn gọi là
+00:24:24.560 bộ điều chỉnh nhiệt độ
+00:24:26.320 cũng có vòi cảm biến cũng có ống dẫn
+00:24:29.270 cũng có nguồn xếp hay là hội rắn đầu vào
+00:24:32.840 bên trong có ký ga thì đối với buộc xếp
+00:24:35.420 để thế năng tác động lên tiếp điểm tiếp
+00:24:38.450 điểm của ta lại tìm đâu bạn tiếp điểm
+00:24:40.820 tính thì đối với các điểm động này thì
+00:24:42.890 ngoài chịu tác động của hộp rắn ở thì
+00:24:46.220 chúng ta còn chịu tác động của lò xo
+00:24:48.650 thắt lưng thì nó chỉ thay ở đây thì thay
+00:24:51.500 cái núm điều chỉnh bằng một nút nhấn và
+00:24:53.810 cơ cấu cá dứa thì đối với trường hợp như
+00:24:57.620 thế này nếu khi nhiệt độ cao mà em mà
+00:25:00.200 tác động vào nút nhấn thì lúc này tiếp
+00:25:04.250 điểm trong nền Rơle Xả đá cũng sẽ cắt
+00:25:05.900 nguồn cho đốc ăn nguồn Châu Đốc nhưng do
+00:25:08.810 nhiều cao thì ta chỉ cần bỏ tay ra cái
+00:25:10.610 là cái điểm cho nó đóng xa lạ mà lốc
+00:25:12.740 lạnh được cấp hơn
+00:25:14.800 đấy là đối với những trường hợp nhiệt độ
+00:25:16.700 cao thì nó sẽ không cho phép sạc nhưng
+00:25:19.070 đối với nhiều thấp thì nếu chúng ta
+00:25:21.170 không tác là công tắc thì lúc này tiếp
+00:25:23.309 điểm của Zara vẫn đang đóng để cấp nguồn
+00:25:25.049 cho
+00:25:26.269 cho blog hoạt động và chỉ có khi nào
+00:25:30.389 chúng ta có nhu cầu xả tiết thì lúc đó
+00:25:33.599 chúng ta sẽ tác động và ấn đúng công tắc
+00:25:35.489 và khi em tác động mở ăn đúng công tác
+00:25:37.619 thì lúc này sẽ hở mạch và hở mạch thì
+00:25:41.249 mất nguồn cấp cho động cơ và dựa vào
+00:25:43.349 nguồn nhiệt môi trường để làm tan biết
+00:25:44.849 để làm ra tiếp
+00:25:46.789 nhưng
+00:25:48.679 nhưng khi cái tiếp tan hết thì ra đây nó
+00:25:53.219 sẽ tự đóng nguồn cho động cơ Block hoạt
+00:25:55.559 động trở lại thì đấy là đối với
+00:25:58.369 Rơle sả lá Dạo này trả lại thì mọi người
+00:26:02.249 nên nhớ là khi tiết bán nhiều về mặt dàn
+00:26:04.429 nếu ta tác động
+00:26:06.529 vào núm công tắc của Zara Zara sẽ trả
+00:26:10.320 tiếp vào lúc này rè sẽ cắt cái điểm và
+00:26:13.559 mất nguồn cấp cho động cơ bản lock Dựa
+00:26:15.929 vào nguồn nhiệt môi trường để làm tan
+00:26:17.519 Tuyết nhưng khi tuyết tan hết chỉ ra đây
+00:26:20.099 sẽ tự động đóng cho Xin chào ăn tự động
+00:26:23.530 đóng cửa hoạt động trở lại đây là đối
+00:26:25.690 với xạ tiết của chúng ta là sạc Tuyết
+00:26:28.300 bán tự động bán tự động và đối với loại
+00:26:31.690 này thì có rất nhiều tủ lạnh đang kết
+00:26:33.700 hợp giữa sân sạc đá và ra đây không
+00:26:37.450 chính nhiệt độ vào trong một tí Nếu ta
+00:26:40.270 say xoay theo chiều kim đồng hồ thì hay
+00:26:44.320 ngược chiều kim đồng hồ thì đấy chính là
+00:26:46.210 khống chế nhiệt độ và chúng ta đã biết
+00:26:48.370 được là xoay theo chiều kim đồng hồ thì
+00:26:49.840 không khí nhiệt độ thấp sai ngược chiều
+00:26:52.420 kim đồng hồ để không khí nhiệt độ cao
+00:26:53.740 hơn Còn khi ta tác động Ấn núp ấn Dũng
+00:26:57.340 thẳng cái đúng được thì nó chính giả trả
+00:27:00.100 lại chính là sả lá thì đấy chính là nối
+00:27:02.350 với Xả tuyết bán tự động
+00:27:05.640 phương pháp tiếp theo đó là phương pháp
+00:27:08.020 Xả tuyết tự ạ kìa như đối với chúng ta
+00:27:11.290 biết thật là đối với phương pháp sản
+00:27:12.670 xuất tự động thì đang được Dung đang
+00:27:16.450 được dùng cho cái tủ lạnh gián tiếp
+00:27:18.420 đang được dùng cho tủ lạnh gián tiếp và
+00:27:21.340 được lắp các thiết bị điện và cụ tải
+00:27:23.450 điện như là
+00:27:24.520 giờ này thời gian bị đâm
+00:27:28.060 chỉ nhiệt
+00:27:30.250 xây
+00:27:32.950 và đối với hệ thống Xả tuyết trong tủ
+00:27:35.690 lạnh gián tiếp thì rất là quan trọng vì
+00:27:37.730 chưa biết được rằng chúng ta vừa đi được
+00:27:39.950 tìm hiểu một học trước là về rơle thời
+00:27:42.710 gian để cảm biến âm lịch cầu chi nếu
+00:27:46.720 tủ lạnh không trả được mà lút lút ở chế
+00:27:49.760 độ dày chế độ trái lạnh thì lúc này sẽ
+00:27:52.550 dẫn tới một cái tình trạng là biểu hiện
+00:27:54.290 là tủ sẽ mạnh dần rồi mất lạnh tiếp bám
+00:27:56.840 kín mặt dàn Nhưng nếu bây giờ của chúng
+00:27:59.750 ta thì xả nhưng mà lại không việc chạy
+00:28:02.870 lạnh nhưng mà không xài là biểu hiện như
+00:28:05.090 vậy nhưng bây giờ xả nhưng lại không
+00:28:06.410 chuyển được về cái này thì sẽ dần đỡ một
+00:28:09.080 cái tình trạng là đen sáng của cô độc do
+00:28:12.470 đó trong mạch điện tủ lạnh gián tiếp thì
+00:28:14.360 luôn luôn chuyển đổi đấy chạy lạnh xanh
+00:28:17.180 xả tiết từ chả biết sàng trả lại cái từ
+00:28:20.840 giải quyết xong cái lạnh cho
+00:28:22.669 tất cả là một trong bốn quyết định trong
+00:28:25.710 bệnh viện sẽ viết mấy dòng
+00:28:27.739 biểu hiện chung biểu hiện chung của
+00:28:30.719 chúng ta đã diệt là đều xảy ra một trong
+00:28:34.559 hai biểu hiện một là tủ không hoạt động
+00:28:37.529 thì mình ăn sáng hay
+00:28:39.289 đủ hoạt động nhưng kém lạnh dần rồi mất
+00:28:42.299 mạch và tiếp bán kính là màn rằng Thì
+00:28:44.519 đấy là đối với
+00:28:46.159 hư hỏng trong cái hệ thống xả tiết Thì
+00:28:50.669 đấy là buổi học của chúng ta là đi tìm
+00:28:54.059 hiểu về cái thiết bị điện còn lại trong
+00:28:58.229 mạch điện tủ lạnh gián tiếp trong mạch
+00:29:00.929 điện tủ lạnh dân dụng
+00:29:02.929 bài học của ta đến đây kết thúc
+00:29:07.849 anh em về nhà xem lại bài cũ và xem xiếc
+00:29:12.059 bài mới thế này để bữa sau cho ta vào
+00:29:15.839 lớp và học sẽ được tốt hơn Xin chào và
+00:29:19.769 lớp và hẹn gặp lại các bạn Anh

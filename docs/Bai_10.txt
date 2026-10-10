@@ -1,0 +1,1009 @@
+# tactiq.io free youtube transcript
+# Bài 3 - Rơ Le Thời Gian - Thiết Bị Điện Phụ Tải Điện Tủ Lạnh II Dạy Nghề Thanh Xuân 0936989090
+# https://www.youtube.com/watch/S1xb7tO8GLY
+
+00:00:00.000 Xin chào các em chúng ta tiếp tục sang
+00:00:03.300 buổi học ngày hôm nay như chúng ta đã
+00:00:06.120 biết
+00:00:06.770 chúng ta
+00:00:09.440 như chúng ta đã biết Tủ lạnh đang được
+00:00:12.330 cấu tạo với 3 phân và chúng ta đang đi
+00:00:13.889 tìm hiểu phần mạch điện đó chính để
+00:00:17.010 chúng ta đến đi tìm hiểu về thiết bị
+00:00:18.900 điện
+00:00:20.270 xin hỏi Ngọc ngày mai là đi tiếp sang
+00:00:23.490 phần thiết bị điện
+00:00:27.890 buổi học trước chúng ta đã đi tìm hiểu
+00:00:31.070 về rằng trong tủ lạnh gián tiếp
+00:00:34.430 thì hôm trước thấy đá giới thiệu cho cả
+00:00:37.290 lớp đối với dàn trong tủ lạnh gián tiếp
+00:00:40.379 thì đang có một cái yêu
+00:00:43.040 với Bảo dế tháo lắp là khi được lắp ở
+00:00:46.500 phía sau bên trong ngăn đông là chỉ cần
+00:00:48.000 tháo nghe tấm
+00:00:49.789 nhựa shop cánh gió che chắn ở phía trước
+00:00:53.670 là nó không thể thao dân gian
+00:00:55.699 nhưng chúng ta cũng có một tí nghiệp mà
+00:00:58.590 thầy và trò trong ta đã những ở bài
+00:01:00.910 trước là đối với dàn trong tủ lạnh gián
+00:01:04.000 tiếp nếu nếu ra đến nhớ nếu tiết bám kín
+00:01:09.820 về mặt dàn thì lúc này gió sẽ không đối
+00:01:13.240 lưu được qua dàn và tủ lạnh sẽ có cái
+00:01:15.909 biểu hiện là kép Mạnh và mất mạng như
+00:01:19.060 vậy khi gió không đối lưu được qua bề
+00:01:21.520 mặt dàn vậy để cho cái bề mặt dàn của
+00:01:23.530 chúng ta thông thoáng có thể đối lưu
+00:01:26.259 được để mà làm lạnh nhiều chu kỳ đều
+00:01:30.039 tháng theo năm thì lúc này bên trong tủ
+00:01:33.280 lạnh sẽ lắp đặt một thiết bị đó chính là
+00:01:36.060 hẹn là thiết bị đó lại đồng hồ xả tiết
+00:01:39.640 nằm trong hệ thống Xả tuyết để để
+00:01:44.970 điều khiển nguồn cho cái sấy hay là điều
+00:01:49.780 khiển nguồn sau đó Lộc quạt gió để làm
+00:01:51.310 lạnh
+00:01:53.100 nhiều hôm nay thầy trò ra cho đi tìm
+00:01:55.840 hiểu về cái đồng hồ xả tiết là nói như
+00:01:59.380 nào thì nó sẽ làm việc là sao hư hỏng
+00:02:03.140 từng đọc ở những cái trạng thái nào thì
+00:02:05.600 đấy chính là buổi học ngày nay thì các
+00:02:08.780 em Nhìn chúng ta sẽ sang tiếp tục đó là
+00:02:12.050 phần 4 là 1.4 đó đồng hồ xả xả tuyết
+00:02:15.709 trong phần thiết bị điện trong mạch điện
+00:02:18.610 thì ở trên hình ảnh của chúng ta đây
+00:02:20.690 chính là đồng hồ xả tiếp đồng hồ xả tiết
+00:02:23.599 hay còn gọi là da đen thời gian
+00:02:25.989 vậy đối với thiết bị này thì mang được
+00:02:30.430 lắp đặt ở trong nhà ý tủ lạnh gián tiếp
+00:02:34.489 và với công dụng thì công dụng của chúng
+00:02:37.819 ta
+00:02:38.799 lén điều khiển nguồn cho blog mà quạt
+00:02:42.410 gió để thực hiện chế độ làm lạnh đồng
+00:02:45.260 thoi sẽ điều khiển nguồn chó cho sấy để
+00:02:48.560 xả tiết hoàn toàn tự động
+00:02:50.950 điều khiển nguồn ra sấy để xạ tiết hoàn
+00:02:53.870 toàn tự động
+00:02:57.400 nội dung của bài thì chúng ta sẽ đi tìm
+00:02:59.780 hiểu những công dụng này được cấu tạo
+00:03:02.630 nguyên lý làm việc
+00:03:04.880 về phân loại các loại Rơle
+00:03:07.790 cách xác định trận đấu điện của Zara và
+00:03:11.459 hư hỏng thường gặp
+00:03:13.100 là gặp
+00:03:15.739 đầu tiên chúng ta sẽ sang phần
+00:03:19.670 công dụng
+00:03:23.510 công dụng
+00:03:25.100 của rơle thời gian thiết bị này đang
+00:03:29.280 được lắp đặt trong mạch điện tủ lạnh
+00:03:30.900 gián tiếp và có chức năng
+00:03:34.130 thực hiện chế độ Xả tuyết tự động thực
+00:03:37.739 hiện chế độ Xả tuyết tự lập và chế độ
+00:03:40.980 làm lạnh theo chu kỳ thì lúc này sẽ điều
+00:03:44.670 khiển nguồn cho blog và quạt gió để thực
+00:03:47.340 hiện chế độ chạy lạnh và điều khiển
+00:03:49.019 nguồn cho sấy để trả tiết
+00:03:52.970 về cấu tạo thì các em nhìn trên màn hình
+00:03:55.800 thì thứ nhất là cấu tạo của ở phía sau
+00:03:59.040 của chúng ta đến đây chính là 1 ở đây là
+00:04:01.480 99 động cơ điện của rồi yên rô cho ta
+00:04:04.629 nhìn thấy có rất nhiều các hệ thống bánh
+00:04:06.069 răng này gồm các hệ thống bánh răng cuộn
+00:04:09.069 dây ý khi mà chúng ta lắp vào đến khi có
+00:04:11.530 dòng điện chạy qua cuộn dây của động cơ
+00:04:13.299 rôto này quay Roto quay sẽ truyền chuyển
+00:04:18.160 động lên các hệ thống bánh răng chuyển
+00:04:19.630 động thì cái bánh răng chuyển động này
+00:04:21.579 sẽ truyền chuyển động lên để cái bánh
+00:04:23.110 cam và khi bánh cam của chúng ta sẽ quay
+00:04:25.750 sẽ tác động lên cái tiếp điểm để thay
+00:04:28.660 đổi trạng thái đóng ngắt để cái điểm khi
+00:04:31.180 cái bánh cam này quay hết một vòng cũng
+00:04:33.280 chính là tủ lạnh ở thực hiện hết một cái
+00:04:36.370 Chu Trinh là vừa chạy lạnh vừa sạc thì
+00:04:40.419 trong đó nếu là tiếp điểm cái cặp của
+00:04:42.430 chúng ta nếu tiếp điểm nó đóng thì chẳng
+00:04:43.900 thấy dai tiếp điểm là nóng chẳng thấy
+00:04:46.120 dài
+00:04:47.430 im tiếp điểm đó sẽ điều khiển nguồn cho
+00:04:51.130 cho blog và quạt gió còn tiếp điểm nó
+00:04:53.770 đóng chẳng thà nhắn thì chân đó sẽ điều
+00:04:56.110 kiện nguồn cho diện
+00:04:57.690 cho say à chữ ký làm việc
+00:05:02.410 đầu tiên chúng ta sẽ đi về cấu tạo gồm
+00:05:06.050 một động cơ điện ăn có công suất nhỏ
+00:05:10.180 hệ thống bánh răng bánh cam và tiếp điểm
+00:05:20.379 hệ thống bánh răng bánh cam và tiếp điểm
+00:05:26.470 về nguyên lý làm việc thì các em nhìn
+00:05:29.090 trên
+00:05:30.550 hình ảnh thì khi động cơ điện được cấp
+00:05:33.620 nguồn thì sẽ thấy nó đang truyền chuyển
+00:05:35.539 động tới hệ thống bánh răng thì đây là
+00:05:38.240 thầy giáo tháo cái bánh cam ra ngoài
+00:05:39.500 thấy ra trên thì bánh cam này có cái gờ
+00:05:41.449 Khuyết mà khi lắp đầy đủ màu của Nga như
+00:05:43.550 thế này thì chính bánh cam nó sẽ tác
+00:05:45.199 động lên những địa điểm thì chúng ta nên
+00:05:47.090 nhớ là khi có dòng điện chạy qua cuộn
+00:05:48.860 dây thì hai chân cấp nguồn cho động cơ
+00:05:50.960 đây Bây giờ chúng ta cấp nguồn và 241
+00:05:53.210 trong đẳng cấp nguồn và hai chân của
+00:05:55.310 4chân động cơ và chân cấp nguồn cho động
+00:05:57.680 cơ đến nó kẹp mà nhân dân là chính mà
+00:06:00.030 Xem video quay này đã nhìn thấy là năng
+00:06:02.820 truyền chuyển động ai chuyển động thế hệ
+00:06:05.100 thống minh rằng thì bánh răng này quay
+00:06:07.530 sẽ truyền chuyển động tới tác động như
+00:06:09.240 cái bánh cam 2 tác động lên bánh cam mà
+00:06:11.610 khi tác động lên bánh cam thì làm cho
+00:06:13.710 bánh cam này quay và thay đổi thì trạng
+00:06:16.140 thái đóng cặp với cái điểm để thay đổi
+00:06:18.480 tình trạng thái đóng nắp mới được mà
+00:06:20.940 trong đó thì chế độ dai chế độ tiếp điểm
+00:06:23.310 đó nhưng chẳng hay dài Ví dụ em đi này
+00:06:24.840 đây thì ba đang đóng 4 chẳng hạn là đang
+00:06:27.000 ở trạng thái dai thì trong đó là chân
+00:06:29.430 bàn chân nối nguồn trên 4 sẽ xảy ra á
+00:06:31.110 zabrak sẽ điều khiển nguồn cho blog của
+00:06:33.570 quạt còn chất hay để chân tiếp điểm đặt
+00:06:36.360 nhắn thì là chân 2 sẽ được cấp nguồn chó
+00:06:39.840 chó sấy
+00:06:42.710 tài nguyên lý
+00:06:46.970 về nguyên lý làm việc khi động cơ điện
+00:06:50.370 có nguồn điện cung cấp di động cơ điện
+00:06:54.540 có nguồn điện cung cấp lúc này
+00:06:57.650 dâu to sẽ quay I chị sẽ quay
+00:07:02.610 và sẽ truyền chuyển động sang hệ thống
+00:07:05.830 bánh răng mà sẽ truyền chuyển động sang
+00:07:08.889 hệ thống bánh răng
+00:07:11.020 [âm nhạc]
+00:07:14.279 cắt bánh răng này
+00:07:17.189 sẽ quay các bánh răng này sẽ quay
+00:07:31.229 và làm bánh cam chính
+00:07:33.870 bà sẽ làm cái bánh cam chính
+00:07:38.639 anh
+00:07:41.189 để đóng ngắt tiếp điểm
+00:07:44.999 đánh tan chính sẽ quay để đóng ngắt tiếp
+00:07:49.059 điểm
+00:07:50.370 chuyển đổi chế độ làm việc
+00:07:55.740 chuyển đổi chế độ làm việc à
+00:08:00.020 ừ ừ
+00:08:09.940 A
+00:08:12.570 và Thông thường thì bánh cam quay hết
+00:08:16.000 một vòng
+00:08:17.460 bình thường khi bánh cam quay hết một
+00:08:19.960 vòng
+00:08:27.030 thi
+00:08:28.920 tủ lạnh thực hiện 2 chế độ
+00:08:33.240 tủ lạnh thực hiện 2 chế độ
+00:08:39.419 đó là chế độ làm lạnh và chế độ xả tiết
+00:09:03.210 sự kiện chế độ
+00:09:07.000 [âm nhạc]
+00:09:08.550 làm lạnh Ai chả biết thời gian tiết điểm
+00:09:12.589 nào đóng à
+00:09:26.690 em
+00:09:29.260 hỏi xăm tiếp điểm nào đóng ở trạng thái
+00:09:34.390 dài
+00:09:36.490 thì chân đó sẽ điều khiển nguồn
+00:09:40.720 sau bản lock và quạt gió để làm lạnh
+00:09:47.540 [âm nhạc]
+00:09:50.200 thời gian tiết điểm nào đóng
+00:09:53.110 ở trạng thái lắm
+00:09:57.550 thì chân đó sẽ điều khiển nguồn cho sấy
+00:10:01.160 à
+00:10:10.279 Khi
+00:10:17.529 so sánh a
+00:10:23.990 anh
+00:10:24.940 chị về phân loại
+00:10:27.490 đối với giờ này phải gian
+00:10:30.580 thì hiện nay trên thị trường đang có hai
+00:10:33.080 loại thì hai loại này
+00:10:35.500 thì về cơ bản hình dạng giống nhau chỉ
+00:10:38.839 khác nhau là sự bố trí chân cấp nguồn
+00:10:42.110 cho động cơ le đang được bố trí ở đâu
+00:10:44.750 thì trong đó trong đó loại 1 hay còn gọi
+00:10:49.580 là loại 13 có nghĩa là động cơ Rơle đang
+00:10:52.070 được bố trí ở chân một về sân bay thì
+00:10:54.620 đối với loại này Trong sơ đồ đấu điện
+00:10:56.209 của mạch điện tủ lạnh gián tiếp trong đó
+00:10:58.640 chân một lấy nguồn từ sấy từ cái linh
+00:11:02.270 kiện ta là sấy và cầu chì nhiệt chân hay
+00:11:05.260 ý thường nối với linh kiện là cảm biến
+00:11:08.270 âm hay còn gọi là khó lạnh cầu chì nhiệt
+00:11:11.720 thì ngôn ngữ Thọ thì đã được gọi là sò
+00:11:13.700 dương
+00:11:15.010 trần 3 nối Zara khống chế nhiệt độ
+00:11:19.270 và chân bốn tường nối blog và quả do à
+00:11:24.000 Còn đối với loại hai ta còn được gọi là
+00:11:27.540 một mốt
+00:11:28.550 đang còn được gọi là 14 thì trong đó
+00:11:32.120 trong đó
+00:11:33.800 động cơ Rơle thì đang được bố trí ở chân
+00:11:37.350 1 và chân chân bốn
+00:11:40.560 [âm nhạc]
+00:11:41.930 được bố trí ở chân 1 và chân bốn
+00:11:47.780 trong đó là chân 1
+00:11:50.810 lấy nguồn từ cảm biến âm chân một lấy
+00:11:55.680 nguồn tình cảm lâm
+00:11:58.700 Xuân hay
+00:12:01.010 thường nối với sấy hoặc cầu chì nhiệt
+00:12:06.410 chân ba nối Zara khống chế nhiệt độ
+00:12:10.640 và chân bốn
+00:12:12.770 thương nối bào gốc ở quần giọt ỉa đây
+00:12:16.430 dưới chân hay và chân bốn thì thấy ghi
+00:12:18.780 là thương thì các em thể hiểu là vừa nãy
+00:12:21.450 chúng ta có ghi bày nguyên lý làm việc
+00:12:22.770 đối với nha đam quay hết một vòng thì tủ
+00:12:27.190 lạnh đó thực hiện 2 chế độ chế độ làm
+00:12:29.590 lạnh và chế độ xả tiết và thời gian tiếp
+00:12:32.080 điểm nào đóng ở trạng thái dai thì chân
+00:12:34.900 đó sẽ điều khiển nguồn chó bởi lốc ở
+00:12:36.940 quạt gió bắt thời gian tiết điểm đó Đóng
+00:12:38.560 Mà chẳng thấy nhắn thì chân đó sẽ điều
+00:12:40.270 khiển nguồn đó cho sấy như vậy giữa 2 và
+00:12:43.780 4 này chúng ta cần phải biết được đâu là
+00:12:45.730 chế độ dài và đâu là chế độ chế độ nhắn
+00:12:48.000 ấy thế nên hai mà bốn có thể thay đổi vị
+00:12:50.440 trí cho nhau Quan trọng là đâu là chế độ
+00:12:52.840 dài đâu Chị cứ nhắn chứ các em luôn đừng
+00:12:54.820 có Rập khuôn
+00:12:55.950 thứ hai là rẽ hay là ngắn 4 và dài là
+00:12:58.990 sai mà sao phải lo thực tế là chiến tiền
+00:13:01.930 giờ này mà động do động cơ của chúng ta
+00:13:04.270 là động cơ có công suất nhỏ điện trở của
+00:13:07.270 động cơ le là 5k cho đến 30 câu
+00:13:13.590 5k sẽ đến 30 cầu này thì đấy chính là
+00:13:17.590 động cơ
+00:13:18.600 động cơ le
+00:13:21.180 vậy để phân biệt hai loại Rơle này à ở
+00:13:23.990 nhà chúng ta sẽ phân biệt như nào thì
+00:13:26.839 thành phần nói là hai loại Rơle này rất
+00:13:29.300 giống nhau chỉ khác nhau là động cơ ra
+00:13:32.000 vậy bây giờ đối với trường hợp là thầy
+00:13:34.430 đang có một nhà Zara như thế này nếu mà
+00:13:37.610 chúng ta không biết được
+00:13:39.130 loại ra lý do trên chân số của Zara là
+00:13:43.250 có ký hiệu 1234 thấy Giả sử là ra đây
+00:13:46.399 này là do loại ấy lại modi khi tẩy giả
+00:13:49.670 sử nó sẽ đem lại một thì lúc này ấy sẽ
+00:13:52.100 dùng cái đồng hồ thấy đo động cơ của
+00:13:53.990 Zara và chất bột ở sân bay nói thật sẽ
+00:13:56.149 dùng cái đồng hồ vạn năng để thế nào thì
+00:13:57.620 chấm bột với thứ ba thì bây giờ các em
+00:13:58.850 hãy nhìn vào sơ đồ
+00:14:00.760 tính khi đem nhìn vào sơ đồ này thì cho
+00:14:03.170 thầy thì thầy giấy này Nếu thầy đo vào
+00:14:06.380 chân 1 và chân ba đồng thời thì dùng
+00:14:09.320 tô-vít thầy sẽ Xoay cái trục cam để thay
+00:14:12.380 đổi trạng thái đóng ngắt được cái điểm
+00:14:13.700 thì lúc này ba nóng hay hay là 34 thì ta
+00:14:16.700 thấy nếu ba nóng xanh hay
+00:14:18.940 vẫn kín mạch đẩy vẫn có với giá trị điện
+00:14:21.800 trở của động cơ lẽ là từ 5k Á Châu
+00:14:25.760 nếu bà đóng xăng 4 thì vẫn có giá trị
+00:14:28.200 điện trở từ 5k đến 30 câu thì đây chính
+00:14:30.480 là da đen là một nhưng các em nhìn sang
+00:14:32.160 sơ đồ của loại 2000 sang sơ đồ lại hay
+00:14:35.490 cho thầy Nếu bây giờ thấy đo một và chất
+00:14:38.280 ba
+00:14:39.320 nếu mà không xem chân bốn thì thấy đo
+00:14:42.360 kín mạch sẽ có giá trị điện trở của động
+00:14:44.250 cơ Lộ từ 5k đến 30 câu Nhưng nếu ba đóng
+00:14:47.400 xanh hay thì lúc này thấy mất giá trị
+00:14:49.950 điện chậm và lúc này làm cô vô cùng ô
+00:14:52.110 lúc này là vô cùng ôm đây chính là cách
+00:14:55.440 một là cách mình sẽ do dựa vào điện trở
+00:14:59.250 dựa của động cơ lẽ dựa vào động cơ nhưng
+00:15:02.490 bây giờ đặt một cái giả thiết là nếu
+00:15:04.470 động cơ Bây giờ có thấy nó hỏng thì làm
+00:15:06.060 sao thế lo được chân lập này thì thầy
+00:15:08.550 cũng sẽ có những cái Cách thứ hai Cách
+00:15:10.620 thứ ba cái thấy cũng có những cái Cách
+00:15:12.990 thứ hai của các thứ ba này thể đo thì
+00:15:15.420 đối với Cách thứ hai cái sau 3
+00:15:18.480 Cách thứ 2 thì mọi người nhìn vào đây
+00:15:20.829 mọi người thấy là chân số 2 này chân chế
+00:15:23.380 độ ngắn Đối với mạch loại một Cường nối
+00:15:25.060 linh kiện là cả 15 và chân số 2 chân chế
+00:15:28.029 độ ngắn Đối với linh kiện là đang được
+00:15:30.339 nối với sấy hoặc cầu chi phải sấy hoặc
+00:15:33.699 cầu chì như vậy như vậy thì nếu ở trong
+00:15:38.470 cái mạch điện nếu ở trong mạch điện của
+00:15:41.399 tủ lạnh thì lúc này thành xé dựa vào
+00:15:45.089 ấm chén dựa vào đó chính là dựa vào Chân
+00:15:50.319 cấp nguồn trong cái mạch điện đó là dựa
+00:15:53.259 vào
+00:15:54.300 cái chế độ ngắm trần cấp chế độ ngắn của
+00:15:58.149 động cơ sẽ được nối với linh kiện linh
+00:16:01.480 kiện lao Nếu được với cảm biến âm thì đó
+00:16:04.329 là mạch loạn môn nhưng được Nếu nối với
+00:16:06.339 sấy hoặc là cầu tri đó là mạch ngoài hay
+00:16:09.040 hoặc là thầy tháo động cơ ra như này em
+00:16:11.500 nhìn thấy để chân cô nguồn cho động cơ
+00:16:12.819 thể đang được bố trí kẹp vào đây của vào
+00:16:15.310 một trong bốn chân thì nếu là loại 2 14
+00:16:18.170 14 nằm ở hai đầu em nhìn đây này chúng
+00:16:20.930 ta thấy đang nhìn vào nằm ở hai đầu này
+00:16:22.519 có kẹp này đây chúng ta lại 14 nhưng nếu
+00:16:25.519 nằm ở chân ngoài cùng với chân số 3 kế
+00:16:27.080 tiếp thì đó chính là loại
+00:16:29.470 loại 1 nó chính là loại một cái đấy là
+00:16:33.709 đối với phân biệt nhớ nhà chân số 1 bài
+00:16:36.680 Chân số 4 Nhưng trên thực tế số 4 là đây
+00:16:39.589 phải là chế độ dài nhưng nếu hay là chế
+00:16:41.720 độ dài thì lại tốc và 12 chứ đẳng cấp 1
+00:16:44.870 và 2 thì chính các bạn là tại sao là
+00:16:46.760 thầy thường hay giả sử là thầy chỉ do
+00:16:48.290 trần một với Trấn Ba bởi vì nếu 114 đi
+00:16:52.459 nhớ nhà thấy con nói này các em này hiểu
+00:16:54.769 nhầm là chân 1 với chân chế độ dài
+00:16:57.550 bốn về chế độ dài thì tao mới là một bột
+00:16:59.930 Nhưng nếu bây giờ người ta để hay ở trên
+00:17:02.000 độ dài thì nó phải là một ngay Nếu người
+00:17:04.220 ta đến theo thứ tự gần số 1 là 2 3 4 đấy
+00:17:07.160 là có những cái này ta ra ngoài như tế
+00:17:09.800 là phải biết lo thì các bạn giả sử nó là
+00:17:13.400 loại 1 đo rất dế để ý Làm sao để chúng
+00:17:18.329 ta phân biệt tính cách nhất là giả sử
+00:17:22.770 giờ nè loại 1 Giả sử đây làn da đen là
+00:17:26.520 một
+00:17:27.200 lúc này chúng ta trân dùng đồng hồ vạn
+00:17:29.640 năng chúng ta sẽ dùng đồng hồ vạn năng
+00:17:32.630 để hang đo
+00:17:35.090 x1k
+00:17:40.460 nó bảo trân một và trận 3 cho vào chân
+00:17:44.430 bột và chất 3
+00:17:45.740 sau đó
+00:17:50.090 xoay trục cam ở 2 chế độ dài và ngắn sai
+00:17:55.050 trục cam ở 2 chế độ dày chế độ ngắn
+00:18:01.310 Nếu cả hai chế độ
+00:18:03.510 [âm nhạc]
+00:18:05.120 Kim lên giá trị điện trở
+00:18:09.980 Kim lên giá trị điện trở
+00:18:13.490 từ 5k đến 30 60 Ừ
+00:18:19.200 từ 5k đến 30k ôm
+00:18:23.490 nó làm cho nên loại 1
+00:18:30.000 và nếu có một lần Kim lên
+00:18:34.320 giá trị điện trở và một lần Kim không
+00:18:37.330 lên chỉ vô cùng ôm đó chính là ra lại
+00:18:40.360 anh loại hai đó chính là nó ra đây lại
+00:18:43.750 ngay
+00:19:02.580 đặc sản Cách thứ hai
+00:19:09.780 Cách thứ hai đối với Lara bên trong mạch
+00:19:14.860 điện thì ta có thể dựa ý
+00:19:18.429 đối với xe ở bên trong mạch điện thì ta
+00:19:22.340 có thể dựa vào
+00:19:25.450 mạch điện đó để biết được
+00:19:32.860 loại Rơle
+00:19:35.799 biệt đối với Zen lại một chân số 2
+00:19:40.690 chân số 2 của Zara đây chính là chân số
+00:19:45.289 2 thì mọi người phải nhớ là đây là chân
+00:19:46.789 số 2 là chân chế độ ngắn của Rơle Nếu
+00:19:50.269 được nối với linh kiện là cảm biến âm
+00:19:53.230 Nếu được nối linh kiện là cảm biến âm
+00:19:57.279 thì nó là ra đây lại một đối với sẽ đem
+00:20:00.739 lại hay thì chân số 2 Trần chế độ nắng
+00:20:02.869 được nối với sấy hoặc cầu chì à
+00:20:17.309 có
+00:20:36.230 khoảng cách thứ ba
+00:20:39.139 là tao có thể tháo phần nắp nhựa của
+00:20:42.749 Rơle rồi quan sắt vào chân đấu điện cho
+00:20:47.009 động cơ trên bốn chân Nếu được bố trí ở
+00:20:50.909 chân nhiệt
+00:20:51.889 nếu mà được bố trí ở Trấn
+00:20:55.309 mua với chân bốn
+00:20:59.179 Nếu mà đang được bố trí ở trên 1 của
+00:21:01.710 chân bốn
+00:21:02.869 đó à
+00:21:06.119 khi
+00:21:08.989 con heo loại
+00:21:12.319 Nếu được bố trí ở chân môn với chân bốn
+00:21:21.829 đây chính đàn Rơle của chúng ta là do đá
+00:21:25.489 loại 2 à
+00:21:36.440 ạ
+00:21:38.110 Và nếu bố trí ở chân mày cung với chân
+00:21:40.760 số 3 kế tiếp này giờ ra lại đoạn 1
+00:21:43.840 Đấy là cách phân biệt hai loại da đen
+00:21:52.210 xanh nội dung kế tiếp
+00:21:55.150 đã sang với nội dung kế tiếp
+00:22:00.040 Nhật cách xác định các chân đấu điện của
+00:22:05.240 da đen thì các chân số điện của Soda thì
+00:22:07.730 chúng ta vừa đi tìm hiểu là sơ đồ đấu
+00:22:10.070 điện thì trong đó là đối với xe lại môn
+00:22:12.820 giờ loại 1 thì chân một đang được nỗi
+00:22:15.410 buồn Tớ rất là năng lực lý nguồn từ sấy
+00:22:17.870 vào cổng Chi Dân số 2 thường được nối
+00:22:21.800 với cảm biến ông Trần số
+00:22:24.250 3-0 chế nhiệt độ Trần Số 4 Đường lối vào
+00:22:28.550 lúc được còn giọt đối với mạch loại 2
+00:22:32.170 đối với mạch loại 2
+00:22:34.990 đổi mạch loại 2 ở trong đó là chân 1
+00:22:39.080 thìa chúng ta đến nhớ là lấy nguồn tình
+00:22:42.690 cảm biến chân số 2 thì thường đối với
+00:22:44.790 sấy hoặc Cầu Chi Dân số 3 đối khống chế
+00:22:46.920 nhiệt độ dân số 4 đường nối vào lúc cổ
+00:22:49.200 và gió như vậy chúng ta thấy là sơ đồ
+00:22:51.960 đấu điện của hai loại này thì theo vì
+00:22:53.850 dân số như vậy
+00:22:55.820 Trước tiên là nếu khác rơ le mà năm có
+00:22:59.550 ký hiệu theo số là 1234 thì các em sẽ
+00:23:05.210 chúng ta sẽ làm việc à chúng ta sẽ Á xác
+00:23:08.910 định loại Rơle chế độ dài với chế độ
+00:23:10.890 ngắn Sau đó ta sẽ á lắp đặt theo sơ đồ
+00:23:13.140 đây là đối với các chân của đen có ký
+00:23:16.410 hiệu là không có kia lại nếu có ký hiệu
+00:23:18.990 là 1234 thì các em chỉ cần xác định loại
+00:23:22.290 Zara chế độ dày chế độ ngắn và lắp đặt
+00:23:24.090 theo sơ đồ mà sơ đồ tài gần nêu con đực
+00:23:27.630 Nếu mà không có ký hiệu nếu không có
+00:23:30.450 loại nó không có việc
+00:23:32.180 tí ta xác định các chân đi sau á Đối với
+00:23:36.460 ở
+00:23:37.110 các chân không có ký hiệu nhưng chúng ta
+00:23:40.300 quan sát vào bốn cái chân của Chanel Nếu
+00:23:42.940 có một chân có màu sắc riêng biệt hoặc
+00:23:45.520 có vị trí tách rời thì chân đó thì phải
+00:23:49.180 chân 1 và gần chân một nhất chính là hai
+00:23:52.510 bà đến một
+00:23:57.210 và khi thuận Thầy biết được là 1234 rồi
+00:23:59.890 thì lúc này chúng ta sẽ Á xác định loại
+00:24:02.470 Rơle bằng tất là giả sử động cơ này là
+00:24:04.330 da đen đã mua cho 13
+00:24:06.210 sau đó là Xác định loại Gala xong rồi
+00:24:08.890 chúng ta sẽ lo chế độ dày chế độ nhắn
+00:24:11.470 rồi lắp đặt theo theo sơ đồ đấu điện đó
+00:24:15.340 là các theo sơ đồ đấu điện
+00:24:20.100 còn nếu các chân của Rơle mà không có ký
+00:24:23.320 hiệu đặc trưng của ra đây không có ký
+00:24:25.900 hiệu và được bố trí thằng hành
+00:24:29.070 đúng màu đánh cùng màu
+00:24:32.220 tô màu này bố trí thằng hàng thì lúc này
+00:24:35.500 chúng ta cần phải xác định thực hiện
+00:24:37.160 xong
+00:24:38.020 thì xác định các trận đấu điện như sau
+00:24:40.520 thì để mời các em xem mà về da đen như
+00:24:42.890 thế này
+00:24:44.800 vào dân em như này thì bây giờ thấy sẽ
+00:24:47.120 đổ nhưng sau này sẽ đó như sau
+00:24:50.290 nhất
+00:24:52.990 da đen mà không có ký hiệu đi Ví dụ như
+00:24:56.030 thì coi như là không có kíp
+00:24:58.120 thì thấy sẽ đo như thế này để sẽ đó là
+00:25:01.190 thứ nhất là đò Có 2 cách để có thể dùng
+00:25:04.100 hai cách một là thấy nó Chân ngoài cung
+00:25:06.290 này với nhé chân số 3 kế tiếp
+00:25:10.240 với chân spa tiếp nhìn lúc này chúng ta
+00:25:12.770 nên nhớ nhà có thể làm cho nó lo hơn rơi
+00:25:15.770 mà khoảng là chân đó là nhận là cặp tập
+00:25:17.960 Zalo là một lần thứ ba những có thể là
+00:25:19.670 nó vào cái cặp loa đang là 2 3 4 4 3 2
+00:25:22.780 thì lúc này thầy sẽ đẻ xanh của ta là
+00:25:25.220 Thắng hành đo
+00:25:27.310 x1k ốp mục đích là thành đang đo chân
+00:25:30.410 ngoài cùng với dân số 3 để phải tìm xem
+00:25:31.880 nó là có phải là chân một người sân bay
+00:25:33.920 không
+00:25:35.200 Cách thứ hai Ừ thì nó có được đo chân
+00:25:38.520 ngoài cùng với dân số 2 kế tiếp để thầy
+00:25:40.860 làm gì có thể là rơi vào 12 nhưng có thể
+00:25:43.560 là cặp da đo đang làm việc là ba muốn
+00:25:45.270 thì bây giờ chúng ta sẽ nhìn vào sơ đồ
+00:25:46.800 này
+00:25:48.350 anh Em nhìn lại cái thằng đấy Cái sơ đồ
+00:25:50.780 2 loại thì lấy ví dụ thì lo Chân ngoài
+00:25:54.660 cùng với chân số 3 Nếu là rơi vào khoảng
+00:25:57.480 một đẩy để tăng thang đo vào thời đang
+00:26:00.000 là dễ là ít một ca xoay trục cam cũng
+00:26:03.180 xoay chiều cao bằng hai chế độ thì chúng
+00:26:04.500 ta thấy là nếu cặp led đang là một là ba
+00:26:06.810 thì chắc chắn sẽ có giá trị điện trở của
+00:26:08.940 động cơ giá rẻ là từ 5k đến 30 Tàu ngày
+00:26:11.460 13 nha có giá trị điện trở lại đối với
+00:26:15.300 loại 2 sẽ có một lần đúng không Thì mà
+00:26:17.400 304 xe cộ lần
+00:26:19.100 nhưng nếu bây giờ chúng ta lo mà chúng
+00:26:21.240 ta vô tình làm rơi nó mới cập là 43221
+00:26:24.630 thì em đo Em có thấy như là 420 bao giờ
+00:26:27.600 gặp nhau ba đóng xanh bốn Đinh H2 và ba
+00:26:30.180 đóng hay ngắn bốn như vậy
+00:26:32.060 Nếu em lo 4 và hai im vô cùng home Anh
+00:26:36.490 Vô Cùng
+00:26:38.790 Nếu là vô cùng ông thầy biết được đấy là
+00:26:41.380 cặp Thanh Long là 432 này nằm xem ké là
+00:26:44.080 3 và một đúng không
+00:26:46.020 còn đó luôn cái trường hợp cách thứ hai
+00:26:48.430 là thành sẽ đôi chân ngoài cùng với dân
+00:26:49.900 số 2 cái tiếp để thầy tìm thêm là nếu mà
+00:26:52.450 thông mạch thì đó là một Nó 34 Nhưng nếu
+00:26:55.360 mà có trả thì nó 12 Bây giờ mọi người
+00:26:57.130 nhìn nhá 34 xe con Khi mà ta xoay trục
+00:27:00.010 cam thì ba nóng hay thì nát 4 và 342
+00:27:03.220 người ta thấy nó sẽ gặp ta non đấy mà
+00:27:05.590 hai chân ngoài cùng mà dây bằng 34 thì
+00:27:07.120 sẽ có cặp đi lên thứ mạnh như
+00:27:08.910 nếu không may là ra bằng 12 thì sao 12
+00:27:12.520 đối với loại 1 này Tìm ba đóng xanh hay
+00:27:14.770 thì có nghĩa là có trở của động cơ kín
+00:27:16.660 mạch mà em biết là đồng hồ vạn năng Cho
+00:27:19.390 ra học ở phần điện tử cơ bản thì có nói
+00:27:21.190 lẫn để sang X1 ôm đo tối đa một số loại
+00:27:24.670 đồng hồ là từ không cho đến 2 ca một số
+00:27:27.370 loại đồng hồ thì ko có dải rộng hơn là
+00:27:29.710 từ không cho đến năm cam như vậy thôi là
+00:27:32.380 thấy là nếu mà từ không được lấy hai cái
+00:27:33.760 màu hồng Tao không lên vào đây của chúng
+00:27:35.770 ta mà anh càng 30 câu nói thường trên
+00:27:39.320 thực tế đàn dơi khoảng 20 câu đấy
+00:27:42.490 bên anh bận 13 sẽ có một lần Cứ chờ đấy
+00:27:45.220 hoặc là 3 4 một lần có trở như một Bá 1
+00:27:49.190 và 2 không bao giờ lấy 12 không bao giờ
+00:27:51.740 gặp nhau đóng hay thế hả mạch mà nóng
+00:27:54.470 bốn cũng vẫn là học bạ thì đấy là cách
+00:27:56.510 của da đó đơn giản cách xác định các
+00:27:58.370 chân đối với trường học đối với trường
+00:28:01.550 hợp là các chân không có ký hiệu theo số
+00:28:04.610 đồng màu và thẳng hàng ký cho ra tay thì
+00:28:06.860 ít thôi uống nhiều thì rất là cách 1 này
+00:28:09.320 thì chúng ta sẽ dùng đồng hồ vạn năng để
+00:28:13.070 thang đo x 1 ôm để thằng đo X1 ôm
+00:28:18.490 Nó bảo hai chân ngoài cùng
+00:28:24.100 rồi Sai trục cam ở 2 chế độ
+00:28:27.430 xoay trục cam ở 2 chế độ nếu Kim lên
+00:28:31.700 thông mạch vì chân ngoài cùng là chân
+00:28:34.850 bốn hay nói một cách khác là em đang là
+00:28:37.530 433 và kế tiếp là
+00:28:43.490 321321
+00:28:54.410 văn nếu
+00:28:56.120 kim đồng hồ không lên
+00:28:59.390 có giá trị điện trở lớn mà có cái giá
+00:29:03.750 trị điện trở lên
+00:29:06.500 từ 5K thì 30k Ôm thì chân ngoài cùng
+00:29:11.270 là chân 1 và kế tiếp lá Trần hay Trần 3
+00:29:16.200 và chân bốn H2O
+00:29:36.460 tỷ
+00:29:40.650 lệ Dung
+00:29:42.570 Đồng hồ vạn năng để thằng đo x1k
+00:29:46.710 dùng đồng hồ vạn năng để than đo x1k
+00:29:53.430 lo Bảo Trân ngoài cùng
+00:29:57.240 với chân số 3 kế tiếp đo và chân ngoài
+00:30:01.270 cùng với chân số 3 kế tiếp
+00:30:04.890 rồi cũng xoay trục cam ở 2 chế độ ta
+00:30:08.500 cũng xoay trục cam ở 2 chế độ
+00:30:15.480 nếu kim đồng hồ lên và có giá trị điện
+00:30:21.070 trở lớn
+00:30:22.830 có giá trị điện trở lớn
+00:30:30.690 từ 5k đến 30k ôm
+00:30:34.620 từ 5k xe ôm
+00:30:40.030 thì chân ngoài cùng là chân 1 và kế tiếp
+00:30:45.160 là chân hay Trần ba chân bướm hay nói
+00:30:49.760 cách khác cặp chân ra đò đang là một cả
+00:30:51.500 bạn
+00:30:58.600 và nếu Kim không lên
+00:31:01.630 im cặp chân ngoài cùng đang là chân chân
+00:31:06.320 bốn
+00:31:07.720 hay nói cách khác là cặp Thanh Long là
+00:31:09.980 432 thì kế tiếp là
+00:31:12.550 321
+00:31:16.030 Đấy là cách xác định đây chính là cách
+00:31:18.830 xác định đặt chân đấu điện của Zara đấy
+00:31:22.490 Bây giờ chúng ta sẽ đi sang những hiện
+00:31:23.810 tượng hư hỏng kiểm tra và thay thế như
+00:31:26.720 chúng ta biết được như chúng ta đã biết
+00:31:29.030 được
+00:31:29.800 động cơ Rơle đang được cấu tạo bởi Ba
+00:31:33.440 phần
+00:31:34.390 đó là phần động cơ
+00:31:36.450 ở phần tiếp điểm và phần hệ thống bánh
+00:31:38.730 răng
+00:31:39.380 vậy Đương nhiên một động cơ tốt thì chả
+00:31:41.520 ba phần này tốt mẹ bây giờ động cơ hỏng
+00:31:43.170 là một trong ba đây là này học bệnh tim
+00:31:45.330 nó hỏng thì tủ lạnh sẽ có biểu hiện gì
+00:31:48.200 thì mời cả lớp Xem về một cái sơ đồ một
+00:31:53.160 cái mạch điện vào đây là sơ đồ mạch điện
+00:31:54.840 tủ Hitachi mạnh này của ra mạch điện sử
+00:31:58.500 dụng gen xảy ra lại một Và bây giờ chúng
+00:32:01.230 ta chép Nếu bây giờ bị chập khuyết điểm
+00:32:03.780 dưới 354 hỏng động cơ ở bánh răng
+00:32:08.180 hoặc là 3520 tiếp xúc như vậy chúng ta
+00:32:10.860 thấy này mà luôn luôn đóng 4 là luôn
+00:32:13.980 luôn đóng bốn thì là lúc này tủ trong
+00:32:15.540 hoạt động trong một thời gian rất là dai
+00:32:17.240 và khi tủ hoạt động trong một thời gian
+00:32:19.500 dài
+00:32:20.780 mà không trả được thì lúc này sẽ dẫn tới
+00:32:24.480 một cái tình trạng
+00:32:26.030 sẽ có một cái tình trạng nhìn sau cái
+00:32:29.340 tình trạng của chúng ta chính là
+00:32:31.190 đủ hoạt động trong thời gian dài mà
+00:32:33.720 không nhắn lại tục hoạt động trong một
+00:32:36.090 thời gian A
+00:32:38.160 và khi tử hoạt động trong một thời gian
+00:32:40.270 dài mà không không ngắt để chuyển sang
+00:32:43.330 chế độ sản được thì bây giờ Tuyết sẽ bám
+00:32:44.980 kín mặt dàn
+00:32:46.500 đời tiếp sẽ bán kín về mặt dàn tiết bám
+00:32:49.960 kín bề mặt dàn này không có chị cứ lưu
+00:32:51.310 mà không sự đối lưu thế này tủ sẽ kém
+00:32:53.980 lạnh dần rồi mắt lại thì chính kia chém
+00:32:56.140 lạnh dần thì ở trại trong thời gian rất
+00:32:58.780 là lâu không thể đạt được nhiệt độ ngắt
+00:33:00.400 mà kém lạnh dần của mặt lại và nếu chúng
+00:33:02.230 ta tháo tấm xốp trắng được phía trước ra
+00:33:03.850 thì tôi thấy tuyết bám kín bề mặt rằng
+00:33:06.190 Chính cái sự kém mặt ở đây thì cũng có
+00:33:08.560 rất nhiều nguyên nhân gây là kém lại
+00:33:10.410 nhưng ở đây chúng ta hãy nhớ là quan sát
+00:33:13.780 và bề mặt dàn kém mặt ở đây sẽ tiết bám
+00:33:16.090 dây năm ký nó về mặt dàn Còn đối với kém
+00:33:18.340 lại ví dụ như thế này là chúng ta đã học
+00:33:20.230 rồi nhá nào thì động cơ blog bị phút để
+00:33:23.860 kem thì kém lạnh nhưng không thể có tiếp
+00:33:25.720 bán kính với mặt da được rồi lạ thiếu
+00:33:27.880 gia kém lạnh không thể tiết bám kín mà
+00:33:30.040 giảm được tắc một hệ thống À cũng kém
+00:33:32.230 mạng nhưng không thể bán kính được bề
+00:33:33.820 mặt dàn theo nhiệt độ môi trường quá cao
+00:33:35.710 vẫn luôn à bị cảm lạnh có rất nhiều và
+00:33:37.970 tự nhiên đó là thứ hai là kém mạnh dẫn
+00:33:42.020 đến là không lạnh à không lạnh ở đây thì
+00:33:45.170 lúc bình luận hơi tắc toàn phần hết ga
+00:33:47.620 nhé nào thì chúng ta thấy là trong các
+00:33:50.600 trường hợp mà lốc chạy mà
+00:33:52.900 không lạnh kia dàn ta cũng không có báo
+00:33:56.870 tuyết nhưng ở đây thì kém bạn là gian
+00:33:59.120 lại bán tiếp này bảo tiếp đây còn bó
+00:34:01.760 rằng
+00:34:02.830 còn đối với trường hợp mà 35 Đức nằm ở
+00:34:05.210 vị trí là ba nóng xanh hay đánh tôi nằm
+00:34:07.250 ở vị trí là bà Trong Sáng nay khi chắc
+00:34:09.199 nằm ở vị trí 3 bóng xanh hay thì lúc này
+00:34:11.650 động cơ cũng không không chuyển được
+00:34:14.659 sáng chế độ dài biểu hiện của tủ là chỉ
+00:34:17.360 mình đèn sáng cũng không được chỉ mình
+00:34:19.909 đèn sáng của tôi không hoạt động những
+00:34:21.290 cái gì mà chúng ta đã học được buổi học
+00:34:22.400 hôm trước có thể là do hỏng bộ điều
+00:34:24.949 chỉnh nhiệt độ bộ điều chỉnh nhiệt độ
+00:34:26.480 đấy chứ nó không cháy Nhiệt độ có thể
+00:34:27.710 Rơle bảo vệ hỏng có thể do máy nén
+00:34:31.210 Lúc đấy có thể là do ra Khởi động khởi
+00:34:34.820 động giặc hay là chuột Em đi bình minh
+00:34:37.379 dây dẫn của chúng ta nó bị chuột cắn hay
+00:34:40.980 là bị oxy hóa này Đấy ra các nguyên nhân
+00:34:43.440 dẫn tới là mất nguồn cấp giờ cho mình
+00:34:45.750 đem lại mất nguồn các loại nhạc đấy là
+00:34:48.960 những cái hư hỏng
+00:34:52.699 tiếng lòng là có thể hỏng động cơ hỏng
+00:34:56.010 hệ thống bánh răng hay là hỏng kiểm điểm
+00:34:58.579 Ít tủ lạnh sẽ có biểu hiện một là tủ
+00:35:02.060 không hoạt động không hoạt động thì mình
+00:35:04.800 nhận sai tủ không hoạt động chỉ mình làm
+00:35:07.470 sáng từ lúc không hoạt động thì mình
+00:35:08.880 nhận sạc
+00:35:10.760 hay là tủ có hoạt động
+00:35:14.420 này có hoạt động nhưng kém lạnh dần rồi
+00:35:17.730 mất lạnh nhớ kém lạnh rồi dẫn tới nó bắt
+00:35:20.460 lại và lúc này tiếp bám kín mặt dày mày
+00:35:23.220 nhớ mày sẽ làm quan sát trên mẹ tàn thì
+00:35:25.079 bị Tuyết bám kín biết làm kín bề mặt sản
+00:35:31.400 để kiểm tra thì ta phải đảm bảo được cả
+00:35:35.160 bao nhiêu tố ở động cơ hệ thống bánh
+00:35:38.619 răng và tiếp điểm thì về kiểm tra như
+00:35:41.380 xong là ta sẽ dùng cái đồng hồ vạn năng
+00:35:44.640 để than x1k
+00:35:47.220 bản đo và chân 1 và Trần 3 hoặc chân 1
+00:35:50.710 và chân chân bốn
+00:35:53.070 Nếu Kim Đồng hồ chỉ giá trị điện trở
+00:35:58.290 từ 5k đến 30 cáo
+00:36:01.920 từ 5k đến 30 cái ôm
+00:36:04.980 là cuộn dây không bị đứt
+00:36:07.650 là cuộn dây không bị đứt lúc này
+00:36:12.720 chúng ta sẽ để than ích 1 ôm và đo chân
+00:36:16.270 ba nó không với chân 4 chân bà phải chân
+00:36:18.670 hay
+00:36:20.070 sai trục cam ở 2 chế độ nếu
+00:36:24.119 nếu có sự thay đổi trạng thái đóng mắt
+00:36:29.200 tiên được ví dụ chế độ dài 35043 sẽ rất
+00:36:33.580 hay vào chế độ nhắn thì bà sẽ cho trẻ
+00:36:37.040 nhất bốn thì người ta gọi là có sự thay
+00:36:39.230 luôn trạng thái đóng mắt thì biết điểm
+00:36:43.180 đóng ngắt để tiếp điểm là tiếp điểm tốt
+00:36:46.390 và lúc này để kiểm tra để thùng bánh
+00:36:49.430 răng thì chúng ta sẽ phải cấp nguồn mà
+00:36:51.800 sao động cơ hội nhìn thấy cấp nguồn
+00:36:53.569 nhưng chúng ta không tháo lắp là chúng
+00:36:55.700 ta xem ở trên thân của Zara thì chúng ta
+00:36:57.530 thấy là cũng có các cái hệ thống bánh
+00:37:02.170 ít là chiến thân của Zara một là người
+00:37:06.200 ta đang sử dụng là vỏ mình cả trong
+00:37:07.970 chúng ta sẽ quan sát được hệ thống bánh
+00:37:09.950 răng quay hoặc là chúng ta nhìn ở bên
+00:37:12.740 Xuân đây chúng ta nhìn thấy bên rợ này
+00:37:14.660 nhà sản xuất đang để một cái mắt kính và
+00:37:17.780 mắt kính này để chúng ta quan sát được
+00:37:19.250 xem bánh răng mà quay không Nếu thế hệ
+00:37:21.770 thống bánh răng quay thì tốt này thường
+00:37:23.720 là tốt đấy là đối với cách kiểm tra kiểm
+00:37:27.470 tra đối với
+00:37:29.200 giờ nè thời gian á
+00:37:36.450 3
+00:37:39.560 cách kiểm tra
+00:37:42.410 thì chúng ta sẽ á no
+00:37:45.260 Anh dùng đồng hồ để chúng ta lo mà xoay
+00:37:48.510 xuc cam ở đây chúng ta say cam đấy nhá
+00:37:50.730 Đang dùng tô-vít ta xoay trục cam
+00:37:54.020 chỉ về thay thế
+00:37:57.829 khi thay thế Rơle đi ta thường Dựa vào
+00:38:01.290 hình dạng chủng loại và điện áp sử dụng
+00:38:05.089 ghi trên thân là thường Dựa vào hình
+00:38:08.099 dạng chủng loại điện áp sử dụng được ghi
+00:38:11.670 trên thân
+00:38:13.250 và có một số lưu ý sau
+00:38:16.790 là trong mạch điện tủ lạnh
+00:38:19.220 Nếu thay thế Zara khác loạn
+00:38:22.369 ta phải thay đổi
+00:38:24.349 một số vị trí linh kiện trong mạch điện
+00:38:27.720 đó thì linh kiện thì các em ghi thêm tên
+00:38:29.849 thầy đón một số các linh kiện giữa cảm
+00:38:31.829 biến âm sấy và cầu chì nhiệt cho nhau
+00:38:34.710 Hình như chúng ta đá em về sơ đồ đấu
+00:38:37.630 điện đối với xe lại một tí chân số 2
+00:38:39.880 chân lại chân một thì đang lấy nguồn từ
+00:38:41.920 sấy hoặc cầu chì sấy và cầu chì lấy
+00:38:45.580 nguồn từ sấy và cầu chì dân số 2 thì
+00:38:47.200 thương nó cảm thấy lắm nhưng đối với
+00:38:48.339 loại hai chân Số 1 lại lấy nguồn từ cảm
+00:38:51.130 biến âm tần số 2 thương nối với sấy hoặc
+00:38:54.040 cổ chị lại
+00:38:56.790 [âm nhạc]
+00:38:59.369 người ta sẽ thay đổi vị trí một số các
+00:39:01.720 linh kiện trong mạch điện nó hoặc thay
+00:39:03.670 đổi Dưới Chân cấp nguồn dưới chân 3 và
+00:39:06.310 -4 cho nhau bảo sẽ 4 chân nhập
+00:39:12.630 một số giờ này thời gian
+00:39:16.200 một số giờ nè thời gian
+00:39:19.859 trong cuộn dây
+00:39:22.200 trong cuộn dây thì có lắp đặt tụ mắc nối
+00:39:26.290 tiếp
+00:39:27.780 có lắp đặt tụ mắc nối tiếp à
+00:39:36.440 lý do đó
+00:39:38.020 khi kiểm tra
+00:39:43.359 Do đó khi kiểm tra
+00:39:46.210 thì ta sẽ dùng đồng hồ vạn năng để thằng
+00:39:50.270 đó
+00:39:51.160 x10k
+00:39:54.800 [âm nhạc]
+00:39:56.950 để than đo x10k
+00:40:01.480 vẫn lo mà có bảo chiều quê đó
+00:40:06.700 đo và có đảo chiều quê đo
+00:40:16.810 Nếu có sự nạp sản của tụ tính Đàn Kim
+00:40:19.640 Liên nhanh Về nhanh thì đây chính là đẹp
+00:40:23.560 tốt
+00:40:28.420 đến nhanh Về nhanh xanh ẩm thực hành về
+00:40:34.099 Gia Lai thời gian hai đồng hồ Xin chào
+00:40:37.109 tiết
+00:40:37.970 thì buổi học kém trước chúng ta đã giới
+00:40:40.619 thiệu về nhiệm vụ cấu tạo của da đen
+00:40:44.270 thì mới nhiệm vụ điều khiển nguồn cho
+00:40:46.920 động cơ bản gốc và quạt gió để làm lạnh
+00:40:49.829 hiệu chu kỳ điều khiển nguồn sấy để sẵn
+00:40:53.339 tiết hoàn toàn tự động
+00:40:55.670 rẻ đang được cấu tạo bởi Ba phần
+00:40:58.880 chính đó chính là cuộn dây kiểm điểm
+00:41:03.770 và hệ thống bánh răng chuyển động
+00:41:07.040 nhưng đối với một số hệ thống tủ lạnh
+00:41:09.300 người ta đang sử dụng một trong hai loại
+00:41:11.040 da đen
+00:41:12.500 đó là ra lại một bác ạ
+00:41:15.260 A và ra lại 14 thì bây giờ thầy cha
+00:41:19.070 hướng dẫn cho chúng ta làm sao để chúng
+00:41:21.290 ta phân biệt được đâu là do len 13 và
+00:41:24.320 đâu là Zara 14 thì các em nhìn cũng có
+00:41:26.870 một số da đen hình dạng rất giống nhau
+00:41:29.210 nhưng chúng ta sẽ bị sai Nếu chúng ta
+00:41:32.360 tay sai tủ lạnh sẽ xảy ra rất nhiều các
+00:41:35.210 hiện tượng thì hạn trên phần lý kết
+00:41:37.310 chúng ta đã được phân tích thì bây giờ
+00:41:39.790 chúng ta nhìn vào sơ đồ thì thấy chấm
+00:41:43.040 thích cho các em để chúng ta sẽ phân
+00:41:45.530 biệt hai loại da đen thứ nhất ra loại 13
+00:41:50.320 giờ lại 13 thì chúng ta nhìn vào đây
+00:41:54.160 chúng ta đang có 4 chân chân 100 200 mod
+00:41:57.320 và chương 4 ra đeo một ba là động cơ lần
+00:42:00.920 lượt nối dưới chân mục là sân mai còn
+00:42:03.620 tiếp điện dưới chân ba có phải đóng
+00:42:06.050 trong 4 thì ngăn chặn hay và đóng chân
+00:42:08.180 hay sáng
+00:42:09.940 h-9114 hay còn gọi là loại 2 thím động
+00:42:13.310 cơ Zara đang được bố trí chân 1 1394 lúc
+00:42:17.339 này tiếp điểm của Zara khi thay đổi
+00:42:19.469 trạng thái
+00:42:20.359 chế độ trạng thái chạy lạnh và trạng
+00:42:23.219 thái sạc thì lúc này ma sẽ đóng hay thì
+00:42:27.289 543 bóng 4 tỉnh hát hay như vậy
+00:42:30.769 để phân biệt hai loại de thì trước tiên
+00:42:36.289 thầy sẽ dùng đồng hồ vạn năng thấy đó
+00:42:39.649 thì thời gian Giả sử ra lại cần đo là
+00:42:43.859 loại 13 thì khi đó Thấy Shadow và chân
+00:42:47.369 màu ở trang 3
+00:42:48.439 rồi sai chúng cam tiếp điểm
+00:42:51.799 nóng ở hai trạng thái
+00:42:54.709 là chạy mạnh và xả thiết Nếu cả hai
+00:42:58.409 trạng thái chạy lạnh và xả tiếp đều có
+00:43:01.409 giá trị điện trở của động cơ da đen thì
+00:43:04.319 ta kết luận đây chính là rất là loại 1
+00:43:06.679 những ta 5.000 sang sơ đồ núi lại 2
+00:43:10.759 Nếu thấy sai ở trạng thái 34 thì lúc này
+00:43:15.250 D3 sẽ yến mạch mà có trở của động cơ
+00:43:19.710 nhưng khi thầy Chuyển chế độ ba đóng hay
+00:43:23.730 thì lúc này hả mạch thấy đo chân một lần
+00:43:28.240 thứ ba là vô cùng vô thì thấy kết luận
+00:43:31.050 rồi nè Đó là Rơle loại 2 và giá trị của
+00:43:35.860 động cơ giá trị điện trở của động cơ tím
+00:43:38.620 động cơ có công suất nhỏ giá trị nên chả
+00:43:40.540 lớn giá trị điện trở của động cơ từ 5k
+00:43:43.450 đến 30 kéo do đó chúng ta phải sử dụng
+00:43:46.720 đồng hồ để tăng đo ít một và bây giờ
+00:43:49.570 thầy Tiến hành đo một số loại Rơle để
+00:43:53.260 các em quan sát nhất
+00:43:55.980 thấy dùng đồng hồ vạn năng
+00:43:58.320 thấy dùng đồng hồ vạn năng
+00:44:00.780 thấy để trong lo à
+00:44:03.509 ai1
+00:44:05.849 tao.tk đồng hồ chỉnh kim đồng hồ ở vị
+00:44:08.829 trí không
+00:44:10.829 Nó thấy tiến hành thế đó Bây giờ thì Sài
+00:44:14.109 Gòn hay Lem để kiểm tra xem Zara loại
+00:44:18.609 132 loại 14 thì trước tiên Thành giả sử
+00:44:22.599 Zara là loại 13 thì trên da đều có ký
+00:44:26.920 hiệu số 1 2 3 4 Nếu không đăng ký hiệu
+00:44:31.180 số chúng ta nhìn màu sắc trong đấu điện
+00:44:34.359 của Zara màu sắc riêng biệt đầy những
+00:44:37.119 ngày trong một và nến kiến tiếp là 2 3 4
+00:44:42.299 thì đầu tiên à em thấy xe đông nhất thì
+00:44:47.730 kiểm tra xem tiếp điểm
+00:44:49.460 trăm 35 xong
+00:44:52.940 1.4.3 mặt trận thành như bệnh thấy sẽ
+00:44:57.720 cho một giờ trên ma
+00:44:59.240 có giá trị điện trở của động cơ
+00:45:03.560 24k
+00:45:05.360 sau đó thành chuyển trạng thái 3 sóng
+00:45:08.700 xanh chân hai rồi đón tiếp
+00:45:11.540 lúc này thì dùng tô-vít xây dựng trục
+00:45:14.400 cam của da đen theo chiều mũi tên của
+00:45:18.240 giá rẻ
+00:45:27.380 hình kiểm tra lại xem tiếp điểm của thầy
+00:45:30.060 đã chuyển từ ba đóng chai hay chưa
+00:45:32.720 Ba đóng xanh hay mà ăn bún
+00:45:36.050 lúc này
+00:45:38.150 thấy sẽ đó lại trong một vài trăm ba
+00:45:41.660 đều có giá trị lên trời như bệnh phải a
+00:45:44.920 realm này là ra đây lại 13
+00:45:49.860 theo dõi đẹp không em ạ
+00:45:53.400 anh Thiết tỉnh kiểm tra mà thất nghiệp
+00:45:55.560 trong tiếp điểm của thầy đang ở trạng
+00:45:58.080 thái nào
+00:45:59.000 34
+00:46:00.800 bằng H2 và thể non trong 13 có trở của
+00:46:06.750 động cơ
+00:46:08.060 Zara Thạch Sanh
+00:46:11.150 về trạng thái
+00:46:13.190 bàn ăn bún và ba sẽ đóng xăng ai
+00:46:17.080 [âm nhạc]
+00:46:27.110 mang ăn 430 xanh chập 2 và thấy no và
+00:46:31.710 trong một vài trăm anh lúc này không
+00:46:34.290 phải trả của động cơ thể kết luận Zalo
+00:46:37.320 này là Zara loại 2
+00:46:40.670 thì chúng ta thấy hay da đen có hình
+00:46:44.400 dạng kích thước giống nhau nhưng
+00:46:48.410 khác lắm và khi khát đoạn thì sơ đồ đấu
+00:46:52.230 điện cho nghe À nhầm Lúc này mạch điện
+00:46:55.690 còn ta sẽ phân ra mạch đoạn 1 là mạch
+00:46:57.790 lại 2 Nếu chúng ta thay xe tủ không đảm
+00:47:00.910 bảo được quá trình làm lành
+00:47:04.800 thì đây là nối với cách phân biệt hai
+00:47:07.540 loại Rơle
+00:47:09.030 bao giờ thấy Trang hướng dẫn chúng ta
+00:47:12.990 vài cách kiểm tra da đen làm thế nào để
+00:47:16.270 biết bật một rơle
+00:47:18.210 thời gian hai đồng hồ sản thiết còn tốt
+00:47:21.070 thành công chúng ta đã biết gen được cấu
+00:47:24.130 tạo bởi Ba phần
+00:47:25.470 động cơ
+00:47:27.030 tiếp điểm và hệ thống bánh răng
+00:47:30.540 nếu gen đúng không tủ lạnh thường xảy ra
+00:47:34.480 các hiện tượng
+00:47:35.490 nhất
+00:47:37.410 tủ không nào đâu Chỉ mình ăn sáng thứ
+00:47:41.380 hai tủ hoạt động nhưng kém lạnh rầm rồi
+00:47:45.280 mất lại chúng ta tháo tấm xốp trắng phía
+00:47:47.980 trước của Bà nằm quan sát và mặt nạ rằng
+00:47:50.560 thấy tuyết bám ký mà bạn rằng tao mà gọi
+00:47:53.420 em có đá nước này
+00:47:56.470 chúng ta cần phải kiểm tra cả ba thân
+00:47:59.619 đồng đêm tiếp điểm và hệ thống mạng
+00:48:03.650 không phải đảm bảo tốt An
+00:48:06.550 ý kiến à
+00:48:08.420 đề kiểm tra 1 điểm thì chúng ta phải
+00:48:11.510 dùng đồng hồ vạn năng để xác định mục
+00:48:16.540 chúng ta lo
+00:48:19.270 chúng ta đo chân bao vây trong bốn chân
+00:48:23.660 ba một trăm hai
+00:48:26.230 để tăng X1 chúng ta sẽ chỉnh kim
+00:48:31.060 đo trăn 3A Ê mấy thằng 4.3 120 người ta
+00:48:36.890 thấy
+00:48:38.980 35023 ngăn 4i
+00:48:41.180 vì thế Đây là một cái xíu và chế độ nào
+00:48:44.180 mà đã sang thí điểm đóng năng thì đây
+00:48:46.130 chính là chế độ sản
+00:48:48.430 chuyển sang chế độ dày chỗ cho nách ba
+00:48:52.520 Chắc muốn
+00:48:53.890 đang hát hay
+00:48:56.260 thì cần kiểm điểm của thành công tốt
+00:48:59.380 kiểm tra một động cơ
+00:49:01.720 thì lại không thích hợp
+00:49:04.210 với các bạn một mà là ba cho một trăm ba
+00:49:08.230 nếu lần ra đây bằng 214 tao cho 1.4 phải
+00:49:12.440 có giá trị điện trở của động cơ lây từ
+00:49:15.170 5K thì 30k không như vậy cuộn dây của
+00:49:19.670 động cơ ăn tốt
+00:49:21.609 để kiểm tra mẹ thống bánh răng
+00:49:24.220 thì lúc này cho làn cấp nguồn cho động
+00:49:26.720 cơ trong sơ đồ đấu điện thì chúng ta
+00:49:29.059 không nhìn vào điện áp sử dụng của động
+00:49:30.710 cơ là 200
+00:49:33.370 a cho đến 241 tần số là 50 trên 60 Hz
+00:49:38.370 đối với giai đoạn 13 đẳng cấp ở trong
+00:49:40.750 1.3 mà chúng ta sẽ quan sát hệ thống
+00:49:42.460 bánh răng
+00:49:44.790 nếu đã quan sát hệ thống bánh răng và
+00:49:47.860 mắt kính của Zara Nếu thấy hệ thống bánh
+00:49:49.930 răng tốt thì lúc này chúng ta kết luận
+00:49:51.790 là ra tốt đối với một số Gia Lai
+00:49:54.780 mà có kích thước là vỏ bằng men trắng
+00:50:00.810 Chúng ta có thể quan sát được về rô bây
+00:50:04.480 giờ
+00:50:05.580 Ê mày sắp chết cho động cơ Thì bây giờ
+00:50:09.120 mình sẽ điện cho động cơ
+00:50:10.730 Rơle để chúng ta quan sát
+00:50:14.180 thấy chán à
+00:50:17.460 sự phân biệt đối với động cơ để chúng ta
+00:50:20.790 quan sát xem được à
+00:50:25.819 ở đây
+00:50:31.059 hết thấy tắt nhận Rơle
+00:50:35.769 mà có vỏ Mika chúng ta dễ dàng chúng ta
+00:50:39.529 quan sát
+00:50:41.469 chúng ta kiểm tra và rôm
+00:50:43.839 thì chúng ta nhìn thấy rồi tao bay này
+00:50:46.910 thành các ngắt điện này Các điện này thì
+00:50:50.299 đã nhìn thấy dao tao quai
+00:50:57.249 đối với dân chúng ta quan sát có ngăn
+00:51:00.289 kính tại vùng khác biệt và chúng ta quan
+00:51:03.589 sát con mắt kính ở ra đây thì chúng đặt
+00:51:05.779 nhìn vào đây và nếu thấy ý bánh răng mà
+00:51:10.099 quay
+00:51:10.869 thì nó chính là hệ thống ánh trăng năng
+00:51:13.369 tốt
+00:51:15.729 trên thực tế cũng có một số Gia Lai
+00:51:20.049 khi đo thì chúng ta phải để tăng ít hơn
+00:51:23.239 Tại sao chúng ta phải x10i Anh
+00:51:27.559 ấy có một stealth
+00:51:29.569 nhưng bên trong cuộn dây của động cơ có
+00:51:33.479 tụ mắc nối tiếp lúc này chúng ta phải để
+00:51:36.690 phân tích người cam và Bo có sự lạc
+00:51:40.170 khoản thụ chứ không đo điện trở cuộn dây
+00:51:42.989 mà tao chỉ lo có sẽ làm sản phụ thì các
+00:51:45.420 bạn ở cuộn dây đồng ta tốt và chúng ta
+00:51:47.549 cũng xoay trục cam để kiểm tra công thức
+00:51:50.299 như thành hướng dẫn thì sẽ bao nhiêu cái
+00:51:54.180 đo có đảo chiều cao to
+00:51:56.310 anh lúc này có sẽ làm phản của tôi đây
+00:51:59.490 chính bảng động cơ năng tốt
+00:52:02.970 3927 là chúng ta cần phải nhận được
+00:52:06.600 loại cao tốc và loại không có tung
+00:52:10.380 loại thông tin thì sẽ có giá trị cho
+00:52:13.000 chồng
+00:52:14.670 bạn không tụ chúng ta sẽ có giá trị như
+00:52:17.260 chẳng
+00:52:22.620 chứ Đây là toàn bộ bởi học ngày nay và
+00:52:26.590 bây giờ các em sẽ tiến hành Đo kiểm tra
+00:52:28.720 xúc thầy ạ

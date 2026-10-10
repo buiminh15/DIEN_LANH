@@ -1,0 +1,956 @@
+# tactiq.io free youtube transcript
+# Bài 5.1- HD Phương Pháp Cân Cáp và Tạo Chân Không Tủ Lạnh -HọcNghề II Dạy Nghề Thanh Xuân 0936989090
+# https://www.youtube.com/watch/ngHngzww6A0
+
+00:00:00.000 Hi
+00:00:00.560 xin chào các em
+00:00:03.049 buổi học buổi học hôm nay chúng ta tiếp
+00:00:05.910 tục sang bài học thứ năm đó là gia công
+00:00:09.540 và lắp đặt
+00:00:12.259 nội dung của bài này thành và trò chúng
+00:00:15.509 ta sẽ đi tìm hiểu để 3 nội dung chính
+00:00:18.260 nhất là phương pháp cần cáp thì chúng ta
+00:00:23.160 sẽ có phương pháp cân cắt ngoài và
+00:00:25.439 phương pháp quy tắc trong
+00:00:27.019 bà Phương pháp đặt chân không thì chúng
+00:00:30.480 ta có các phương pháp tạo chân không
+00:00:31.650 bằng máy hút chân không này chính là
+00:00:36.300 blog hút ở bên ngoài và phương pháp tạo
+00:00:39.239 chân không bằng Block bên trong hệ thống
+00:00:42.079 nội dung thứ ba thì chúng ta sẽ đi về
+00:00:45.270 phương pháp nạp ga chạy trong tủ lạnh
+00:00:47.090 đây là cái nội dung của bài học ngày hôm
+00:00:49.260 nay thành phải trò chúng ta sẽ đi tìm
+00:00:50.820 hiểu à
+00:00:54.140 Ừ thì đầu tiên
+00:00:57.280 chúng ta sẽ đi về phương pháp
+00:01:01.300 tạo chân không ở phương pháp cân cáp tạo
+00:01:05.869 sự không phải lắp đặt thì trước khi xa
+00:01:07.190 như bài học để mời cả lớp chúng ta xem
+00:01:09.140 một đoạn video à
+00:01:41.620 [âm nhạc]
+00:01:54.150 à
+00:02:16.590 [Vỗ tay]
+00:02:24.440 [âm nhạc]
+00:02:50.720 À như chúng ta đã biết đối với á á Anh ở
+00:02:54.440 trong nhiều video đây chính là cái
+00:02:56.720 nguyên lý làm lạnh của hệ thống tủ lạnh
+00:02:58.490 thì Thầy nhắc lại về Cái nguyên lý làm
+00:03:00.740 lạnh lúc này máy nén hút hơi ga có áp
+00:03:03.560 suất thấp và nhiệt độ thấp ở bên thiết
+00:03:06.260 bị bay hơi Đó là đơn giản lạnh thì đối
+00:03:08.390 với chúng ta nhìn vào ở trong sơ đồ thì
+00:03:10.220 nhiệt độ áp thấp của là áp suất là 0,6
+00:03:13.940 bắt và nhiệt độ lúc này là 20 độ sau đó
+00:03:16.820 là máy nén sẽ nén lên áp suất cao và
+00:03:19.670 nhiệt độ cao thì chúng ta thấy Lần Đầu
+00:03:21.050 đẩy của máy nén thì đẩy lên với áp suất
+00:03:23.480 là 8 mát và nhiệt độ lên đến 90 độ C và
+00:03:27.140 sau đó là khi vào thiết bị ngưng tụ
+00:03:28.520 những này tỏa nhiệt những tụ
+00:03:31.030 nhiệt độ tại bề mặt dàn lúc này sẽ nóng
+00:03:33.320 đều từ đầu đến cuối
+00:03:35.080 và áp suất thì không đổi là áp suất cao
+00:03:38.660 là 8 mát và nhiệt độ của chúng ta thì từ
+00:03:41.240 90 giờ về đến 55 rồi chúng ta thấy là
+00:03:44.270 tại sim này thì là 45 độ
+00:03:47.260 thì lúc này dàn nóng sẽ tỏa nhiệt tình
+00:03:49.490 tục sang Nó lỏng ra cái lòng ta sẽ đi
+00:03:52.550 qua cái thiết bị tiết lưu ý là cáp trên
+00:03:54.660 lưu ý đối với các chất lưu của chúng ta
+00:03:56.910 thì với tiết diện của ta là Dài 1,5 m và
+00:03:59.550 tiết diện trong là 0,6 mm thì chúng ta
+00:04:02.190 thấy là tạo sự chênh lệch áp suất giữa
+00:04:03.840 hai gian đó não suất cao bên dàn nóng
+00:04:06.240 lãi suất thấp ở miền thiết bị bay hơi
+00:04:07.790 thì lúc này áp suất thấp của chúng ta là
+00:04:10.110 không phải xóa bát và khi ra lỏng đi qua
+00:04:12.120 cáp xé sôi là sôi thì ta đã biết là cái
+00:04:15.930 tính chất của
+00:04:17.120 môi chất lạnh mọi chất gạch khi xôi đều
+00:04:20.250 thu nhiệt và sôi nơi quán rất thấp vì
+00:04:22.320 nhiệt độ thấp
+00:04:23.360 lúc này khi đã lỏng đi sang thiết bị bay
+00:04:25.890 hơi sẽ thu nhiệt vào để sôi và nhiệt độ
+00:04:28.980 sôi của ta là Đạt ở -23 độ
+00:04:31.700 như vậy từ đây thì chúng ta mới thấy là
+00:04:34.620 gì
+00:04:35.930 nếu cái cắt tiết diện này của thành thì
+00:04:39.800 càng nhỏ hoặc là dai thì cũng đồng nghĩa
+00:04:43.770 với áp suất p0 ở thầy xuống thấp thì
+00:04:46.710 chúng ta đã biết được là mọi chất lỏng
+00:04:48.870 khi sôi đểu thu nhiệt sôi ở nơi có áp
+00:04:51.660 suất thấp thì nhiệt độ thấp và xôi ở
+00:04:53.760 nhiệt độ cao và nếu cáp lưu của thầy bây
+00:04:57.400 giờ là tiết diện mà tôi to hơn hoặc là
+00:05:00.190 chiều dài của Thành ngắn hơn thì làm cho
+00:05:02.380 cái áp suất ở bên thiết bị bay hơi này
+00:05:03.850 ta cao lên những bài nhiệt độ cao vậy
+00:05:06.610 đối với con cấp ở đây thì ở đây cân cắp
+00:05:10.030 là phương pháp mà đo chi trả lực của
+00:05:13.750 không khí
+00:05:15.150 để chọn chiều dài và tiết diện của ma
+00:05:18.010 trong phẩm lúc này phương pháp này chính
+00:05:19.960 là được phương pháp đặt Sendo chả lực ở
+00:05:21.520 bên phía của áp suất pk đó là bị
+00:05:23.650 insercom ở bên giám nóng tính khi thấy
+00:05:27.130 đoàn trả lực của chúng ta nếu mà áp suất
+00:05:30.190 tk mà thấy cao càng lớn bao nhiêu thì
+00:05:33.400 đồng nghĩa với là diện lưu lượng nha đi
+00:05:35.289 sang mình để đặt dàn lạnh càng xuống
+00:05:37.000 thấp như vậy áp suất p0 xuống thấp nhiệt
+00:05:39.430 độ thấp Nhưng chúng ta hiểu là như vậy
+00:05:42.130 chúng ta thấy đặt cành cành thấp nhiệt
+00:05:43.780 độ thấp thì cái lưu lỏng mà phun xanh
+00:05:46.270 lên bề mặt giá lạnh sẽ ít và khi lưu
+00:05:48.400 lỏng phun xăng để mặt xa lạ ít thì lúc
+00:05:49.990 này dẫn tới một cái hiện tượng là gì ạ à
+00:05:52.419 nhiệt độ thấp Ừ tao thể không đặt theo
+00:05:55.610 yêu cầu và đối với trường hợp là
+00:05:58.690 khi thấy đo giá trị trợ lực pk ở bên kia
+00:06:01.760 suất cao
+00:06:02.680 mà nhỏ thì có nghĩa là lưu lượng ra lỏng
+00:06:07.040 phun sang bên này nhiêu là khi lưu lượng
+00:06:09.380 phun xăng nhiều thì lại xảy ra một cái
+00:06:11.750 hiện tượng lạ xảy ra một hiện tượng là
+00:06:14.180 diện
+00:06:15.550 hiện tượng của thầy là khi phun xăng
+00:06:18.560 nhiều thì chúng ta đã biết được là cái
+00:06:20.630 Lượng Gà lỏng của chúng ta đón diện
+00:06:24.580 làm cho áp suất p0 của chúng ta tăng Khi
+00:06:27.620 áp suất tăng nhiệt độ này tao lên nhiệt
+00:06:30.110 độ sôi cao lên và nhiệt độ lạnh không
+00:06:32.090 đặt theo yêu cầu chính vì vậy thì trong
+00:06:35.450 những buổi học ngày hôm nay thì chúng ta
+00:06:37.010 sẽ đi về là phương pháp cân cáp thì đầu
+00:06:39.470 tiên khái niệm để cân cáp thì phương
+00:06:41.900 pháp tân cáp là phương pháp đo trở lực
+00:06:45.440 không khí để tính tròn chiều dài và tiết
+00:06:50.750 diện của Mao cho con ạ Ừ
+00:06:53.570 để tính tròn chiều dài và tiết diện của
+00:06:56.550 ba sản phẩm phương pháp này chỉ áp dụng
+00:06:59.160 này là chỉ sử dụng khi chúng ta thay thế
+00:07:02.490 về động cơ bản lock hay cát thay đổi về
+00:07:06.240 môi chất lắp mới hệ thống lạnh lắp mới
+00:07:09.510 hệ thống lạnh
+00:07:12.140 và có hai phương pháp cân cáp đó là cân
+00:07:15.270 cấp trong và phương pháp cần cáp ngoài
+00:07:18.050 có hai phương pháp pháp cấm đặt trong và
+00:07:21.390 phương pháp cân đáp ngoài
+00:07:23.990 thì thế nào người ta gọi là phương pháp
+00:07:26.160 cân thấp ngoài là thế nào người ta được
+00:07:27.630 gọi là không Sắp trăm thì đối với phương
+00:07:30.000 pháp cân đáp ngoài thì các em nhìn trên
+00:07:32.450 hình ảnh thì phương pháp cân đối ngoài
+00:07:35.610 thì đây là một cái phương pháp mà sau
+00:07:37.230 khi đăng cáp giữa cáp và lốc này cùng
+00:07:39.510 được đưa vào trong một hệ thống làm lạnh
+00:07:40.740 thì nối các hệ thống như cái hình như
+00:07:42.870 sau em nhìn vào đây thì thành nối hệ
+00:07:45.300 thống đó chính là đẹp à
+00:07:47.900 các đại học sau đó là đẩy của máy nén sẽ
+00:07:51.840 được bổ Anh bảo pin và ống công nghệ
+00:07:55.389 trên phim cho đối với đồng hồ Hy ở
+00:07:57.669 phương pháp này làm như sau lúc này thì
+00:07:59.740 tiến hành cho vào động cơ vào lúc này
+00:08:00.969 hoạt động rồi nè Quan sát mà kim Xem kim
+00:08:04.180 đồng hồ Hy
+00:08:05.370 Xem kim đồng hồ HIV đến thế nào Chinh
+00:08:07.719 Phục hồi dừng lại không lên được nữa thì
+00:08:09.310 đây chính là giá trị
+00:08:11.370 đây chính là giá trị trả lực không khí
+00:08:14.229 của blog và cát và lúc này thấy mình sẽ
+00:08:17.740 lấy cái giá trị này rồi so sánh với cái
+00:08:20.620 giá trị quy định mà thấy đang định đưa
+00:08:22.210 cái cả gốc cả các này vào trong nghệ
+00:08:23.979 thông tin hệ thống và thầy là thầy muốn
+00:08:26.050 đưa vào một hệ thống tủ 1 sao 2 sao 3
+00:08:28.870 sao 2 là 4 sao chị lúc này thầy sẽ so
+00:08:31.330 sánh với giá trị quy định sau đó là kìa
+00:08:33.458 sau đó là chúng ta sẽ quan sát Nếu mà
+00:08:38.440 giá trị của thể đo được mà lớn hơn ra
+00:08:40.958 chị quy định thì khi đưa vào trong hệ
+00:08:42.849 thống thì đồng nghĩa với là diện à đồng
+00:08:44.649 nghĩa với thế không xuống thấp nhiệt độ
+00:08:47.709 xuống thấp Nhưng năng suất bị giảm thì
+00:08:49.990 đối với trường hợp này thì thấy sẽ phải
+00:08:51.519 thay cáp với trách nhiệm thế
+00:08:53.350 nào để đưa nó về cái giá trị theo quy
+00:08:56.029 định còn đối trợ hợp là khi thấy so sánh
+00:08:58.190 và giá trị trả lời thì đo được mấy nhỏ
+00:08:59.570 hơn giá trị quy định thì nếu và đưa vào
+00:09:01.520 trong hệ thống Đối với các trường hợp
+00:09:02.660 này
+00:09:03.940 Yến độ lạnh của tủ sẽ không làm theo yêu
+00:09:06.290 cầu thì lúc này thấy cũng thay cáp có
+00:09:08.390 dạy bé đấy để chúng thành các cũng chị
+00:09:10.130 bé này đây chính là thứ phương pháp cân
+00:09:12.170 cáp ngoai thì phương pháp cân nước ngoài
+00:09:14.360 thì cân cáp ngoài là phương pháp tâm cáp
+00:09:17.420 với blog và khác với blog bảo mang lại
+00:09:22.310 phương pháp cân đáp ngoài là phương pháp
+00:09:23.839 cứng cáp với blog và ống bao cùng được
+00:09:29.089 lắp đặt trong một hệ thống làm lạnh
+00:09:31.900 cũng được lắp đặt trong một hệ thống làm
+00:09:34.010 lạnh
+00:09:37.180 vào lúc này chúng ta xin lỗi hệ thống
+00:09:39.970 nối hệ thống
+00:09:42.700 như hình vẽ
+00:09:45.160 Tao xin lỗi các hệ thống như mình bé
+00:09:50.560 nối hệ thống như hình ạ
+00:09:53.000 sau đó cấp điện cho động cơ bản lock
+00:09:55.290 hoạt động u cấp điện cho động cơ bản
+00:09:57.660 lock hoạt động
+00:10:01.670 đồng thời theo dõi và kim đồng hồ Hockey
+00:10:04.910 theo dõi bảo kim đồng hồ HIV
+00:10:08.780 đến khi nào
+00:10:11.000 team đồng hồ dừng lại đến khi nào kia
+00:10:14.460 một hồi dừng lại
+00:10:15.800 khi đó là giá trị trở lên không khí của
+00:10:20.610 blog với ông Mao giá trị trả lực không
+00:10:24.270 khí của bọn nó kiểu Mao lúc này
+00:10:29.810 lúc này tao không lấy cái giá trị trở
+00:10:33.030 lực tao được rồi so sánh với giá trị quy
+00:10:36.480 định rồi so sánh với giá trị quy định
+00:10:39.290 thì giá trị quy định của chúng ta thì
+00:10:41.820 đối với các ngoài đối thủ một sao thì
+00:10:44.670 giá trị Trần Lực của chúng ta tân cáp là
+00:10:46.770 từ 135 cho đến 150 sheet
+00:10:50.390 đối tủ hay sao ạ Ừ từ 155 chạy đến 170
+00:10:55.630 mở sim vào tủ 3 và 4 sao thì chúng ta
+00:10:59.260 đang lấy những giá trị trả được làm từ
+00:11:00.519 175 vào đến 190 mở sim
+00:11:04.589 và nếu giá trị trở lực ta đo được mà lớn
+00:11:08.769 hơn giá trị quy định thì ta cắt bớt ống
+00:11:11.649 Mao cắt bất ổn Mau hoặc thay thế có mào
+00:11:16.510 có tiết diện lớn hơn
+00:11:17.760 hay thế ống Mao có tiết diện lớn hơn
+00:11:24.930 hoặc ngược lại
+00:11:33.630 thì đối với căn cắt xong
+00:11:36.240 thì mời các em xem về cái
+00:11:39.450 sơ đồ cổ
+00:11:52.370 ừ ừ
+00:12:07.170 ừ ừ
+00:12:11.980 anh ạ
+00:12:22.230 à à
+00:12:23.730 ở
+00:12:25.279 đây là một cái phương pháp mặt cắt cáp
+00:12:27.600 đối với hệ thống đã được lắp đặt hoàn
+00:12:29.040 chỉnh thì đối với đầu tiên chúng ta đi
+00:12:31.560 về khái niệm thì chúng ta đã biết được
+00:12:33.420 là những phương pháp cân cáp là một thực
+00:12:34.860 dân Pháp ra đo sản lượng không khí để
+00:12:37.230 tính tròn chiều dài và tiết diện có 3
+00:12:39.149 sản phẩm và phương pháp này thì cho
+00:12:40.620 thằng áp dụng khi mà chỉ thay thay lốc
+00:12:43.290 nắp mới là thay đổi về một số loại K
+00:12:44.940 thay cáp như vậy đối với trường hợp bây
+00:12:47.699 giờ thấy hay ốc để thay lốp thấy thấy
+00:12:50.699 lúc thì bây giờ cho ta thấy là cáp nó
+00:12:51.959 vẫn còn tốt và đang nằm chìm ở bên trong
+00:12:54.570 ngắn tục thì anh nhân lúc này thầy sẽ
+00:12:56.279 không thể lại đào ra để chúng ta áp dụng
+00:12:58.620 chúng ta cắt tóc ngoài vào lúc này chưa
+00:13:00.420 sẽ áp dụng vào kênh nắp trong nhưng đối
+00:13:02.519 với trong hai phương pháp này thì đương
+00:13:04.050 nhiên là cũng có những cái yêu mà có
+00:13:05.250 những nhược thì ta sẽ phân tích sau thì
+00:13:08.010 đầu tiên là chúng ta thấy là cái phương
+00:13:09.300 pháp cân cáp trong làm việc phương pháp
+00:13:11.639 khẩn cấp đối với hệ thống nhất được ra
+00:13:13.560 tận quán Trinh
+00:13:14.990 xưa ta nối hệ thống như hình vẽ có nghĩa
+00:13:17.639 là hệ thống đã được lắp đặt hoàn chỉnh
+00:13:20.100 đồng là ga này sẽ họp vào lúc này chúng
+00:13:23.190 ta sẽ kết hai dây đồng hồ áp suất cao
+00:13:26.530 với đầu năm đã có cái đầu nắp ra xin lỗi
+00:13:30.790 với với ông công nghệ trên ship ra sân
+00:13:33.370 nối với
+00:13:34.410 đồng hồ áp suất cao với ông công nghệ
+00:13:37.450 trên phim Đầu Năm ca để không có lúc này
+00:13:39.970 thầy cũng tiến hành cho hai động cơ Vlog
+00:13:41.380 này hoạt động tại những tiến hành cho
+00:13:43.510 động cơ sở lúc này hoạt động
+00:13:46.050 sau khi thời tiến hành cho động cơ bản
+00:13:48.250 gốc được hoạt động thì chúng ta cứ quan
+00:13:50.200 sát vào kim đồng hồ HIV đến khi nào Cái
+00:13:53.350 màu hồng dừng lại không lên được nữa
+00:13:54.610 Thím đây chính là về giá trị trả lực
+00:13:57.310 không khí của blog
+00:13:58.980 so với cáp + với dàn lạnh
+00:14:01.590 thì lúc này thấy cũng lấy cái giá trị
+00:14:03.670 này thì cũng so sánh với giá trị quy
+00:14:05.410 định so sánh với giá trị quy định thì
+00:14:08.410 đối với trường hợp là nếu mà giá trị của
+00:14:10.420 thầy mà lớn hơn thì thành sẽ phải cắt
+00:14:12.790 bớt của Mao Và nếu nhỏ hơn thì anh sẽ
+00:14:14.710 phải nói thêm thì đối với phương pháp
+00:14:16.420 cân cắp trong này là phương pháp cân cáp
+00:14:19.030 với hệ thống đã được lắp đặt hoàn chỉnh
+00:14:21.240 và lúc này chúng ta cũng nối hệ thống ạ
+00:14:24.610 sau đó là cấp nguồn cho động cơ blog
+00:14:27.379 hoạt động
+00:14:28.810 tắt nguồn cho động cơ bản nó hoạt động
+00:14:30.879 rồi quan sát vào kim đồng hồ Hy
+00:14:34.180 Quan sát vào kim đồng hồ HIV đến khi nào
+00:14:38.120 kim đồng hồ dừng lại thì đó là giá trị
+00:14:41.509 trả lực không khí của Rock với giả lạnh
+00:14:44.199 thì đó là giá trị trở lực không khí của
+00:14:47.240 gốc với dàn lạnh
+00:14:49.450 Ừ
+00:14:52.170 thì đó là giá trị trả được không khí của
+00:14:55.960 blog với dàn lạnh và ông mau với dàn
+00:15:00.310 lạnh bảo mang
+00:15:05.070 thì đó là giá trị trở lực không khí và
+00:15:08.320 rock với dàn lạnh bảo bao thì đối với
+00:15:10.750 trường hợp và kim đồng hồ không lên được
+00:15:12.250 hứa thì cũng chính là những thời điểm là
+00:15:13.540 diện là đầu năm ra của ta sẽ có hút
+00:15:16.330 không khí vào thì lúc này thầy cũng lấy
+00:15:18.430 những giá trị to được và so sánh với giá
+00:15:20.170 trị quy định thì nối với chủ một sao là
+00:15:22.720 từ 150 đến 16 năm ở ship đối với thủ hay
+00:15:26.800 sao là từ 170 cho đến 185 bọ xít thủ ma
+00:15:31.600 và 4 sao là từ 190 đến
+00:15:34.350 220 ở sheet thì đây là cái giá trị trả
+00:15:37.630 lực lịch
+00:15:40.170 Còn nếu giá trị trợ lực đo được mà lớn
+00:15:44.530 hơn giá trị
+00:15:45.750 nếu giá trị trở lực mà ta đo được mà lớn
+00:15:49.030 hơn có giá trị quy định thì lúc này
+00:15:51.829 chúng ta sẽ cắt bớt bằng bao phương pháp
+00:15:53.869 cắt ông bao để thấy đã giới thiệu rồi
+00:15:55.069 chúng ta sẽ tiện bao sau đó ta sẽ không
+00:15:59.629 được phép bạn cắt đứt Bởi vì các nước
+00:16:01.040 thì nó này tiết kiệm ta có thể bị thay
+00:16:02.389 đâu và nếu giá trị trở lực là nó được
+00:16:06.970 nhỏ hơn giá trị quyết định thì lúc này
+00:16:09.740 ta nối thêm bóng bao tiền buổi hỏng
+00:16:12.379 trước thì này nó giới thiệu với cả lớp
+00:16:13.579 là phương pháp nối theo bóng ma thì đổi
+00:16:16.009 Vân đối thêm bóng bào thì lúc này chúng
+00:16:17.689 ta sẽ
+00:16:18.610 sử dụng một ống Mao có tiết diện lớn hơn
+00:16:21.800 ngày thường dùng lẩu bò trong điều hòa
+00:16:23.240 mà ba thì sẽ nối giữa hai kiểu bao
+00:16:27.429 màu hay hoặc là vào 1,8 sau đó là chúng
+00:16:31.160 ta sẽ sử dụng kiểu bao điều hòa sẽ mang
+00:16:33.589 sông đây là người ta gọi là phương pháp
+00:16:35.329 nối ống Mao
+00:16:38.800 đây đăng ký phương pháp ra sân nói đúng
+00:16:40.999 không đối với có một số lưu ý cho người
+00:16:44.209 về vấn đề là khi mà tăng cân cắt thì anh
+00:16:46.879 chúng ta đã biết là đối với cân cát khi
+00:16:49.470 chúng ta thấy là cái giá trị thực của ta
+00:16:51.510 là có trả được lớn trả rất nhỏ thì tôi
+00:16:55.140 lấy ví dụ thì là đối với cáp thủ 4 sao
+00:16:57.000 thì tôi nhìn thấy từ 190 đến 210 như vậy
+00:17:00.360 như vậy đối với có những ta sẽ có một số
+00:17:03.360 ngày lưu ý trong vấn đề Cấm cáp như sau
+00:17:05.490 Thứ nhất là trước thì tăng áp tỉa các em
+00:17:09.089 cần được kiểm tra đã xác định được cơm
+00:17:10.530 Nếu động cơ mà nó cũng ra đầy càng khỏe
+00:17:12.900 càng khỏe
+00:17:14.689 thì chúng ta sẽ chọn giá trị trả lực cao
+00:17:17.930 nhưng đối với giá trị trở lực của chú gà
+00:17:21.599 bán gì
+00:17:22.939 Block yếu thì chúng ta sẽ chọn giá trị
+00:17:26.040 rất thấp hơn đấy là đối với
+00:17:30.440 bé
+00:17:32.000 chả lực cái vị thứ hai thì đối với Cái
+00:17:36.450 tủ thì hôm trước chúng ta đã học về phân
+00:17:39.000 loại và cấu tạo thì có nói là phân loại
+00:17:40.500 theo số sau cùng thì một số tủ lạnh
+00:17:42.570 trước đây thì còn ký hiệu về số sao
+00:17:43.920 nhưng một số cái tủ lạnh mới Bây giờ thì
+00:17:45.570 đa phần là sự là đều đạt được đủ ba muốn
+00:17:47.670 sao do đó Ừ bố tủ lạnh sẽ thấy là không
+00:17:51.190 có ký hiệu biển số sao thì trong ngành
+00:17:53.110 cân cáp trong sắp xong thì chúng ta lấy
+00:17:56.320 cái giá trị Trả lời Từ 150 đến 200 hay
+00:17:58.480 mà đối với các loài thì 130 190
+00:18:02.070 135135 190 như vậy chúng ta thấy là giá
+00:18:05.529 trị Cần cáp này thì số sao là do chúng
+00:18:07.870 ta đang có nhu cầu lắp đặt ở trong cái
+00:18:10.149 tủ một sao Hay là 4 sao là sẽ được áp
+00:18:12.010 giá trị lực của tủ một sao Hay hay sao
+00:18:15.100 Hay là 3 và 4 sao đây là đối với
+00:18:18.960 lưu ý trong cái vấn đề cân cát đấy là
+00:18:22.419 lưu ý trong vấn đề cần cáp
+00:18:25.019 và dựa vào cái giá trị hơn Cáp này thì
+00:18:28.330 chúng ta cũng sẽ kiểm chứng được đồ vĩnh
+00:18:31.870 trường hợp mà cái bài số 2 bài số 2 phần
+00:18:36.100 1 lớn của xe đạp có đi học về động cơ
+00:18:37.630 bản lock thì đối với chúng ta đi học vào
+00:18:39.429 động cơ vì nó kì nó biết được là khi
+00:18:41.080 động cơ một lúc nữa hỏng vì chúng ta sẽ
+00:18:42.580 phải tiến hành thay thế một cái động cơ
+00:18:44.110 bản gốc mới thì tùy thuộc theo các đặc
+00:18:45.940 tính của mỗi một động cơ thì thuộc theo
+00:18:48.010 cái à các đặc tính của động cơ thì mỗi
+00:18:51.380 một động cơ có cái công suất hút đẩy này
+00:18:56.090 nó chẳng khác nào có thể tích dung tích
+00:18:57.590 xilanh khác nhau rồi cả đối với cung
+00:19:00.620 khác phải thương hiệu thể tích dung tích
+00:19:02.120 xilanh giống nhau đi chăng nữa thì chúng
+00:19:04.070 ta thấy lại về Phật điện
+00:19:06.429 đối với tốc độ vai của động cơ cũng có
+00:19:10.010 sự khác nhau chính là bệnh cách đặt tính
+00:19:12.260 và chúng ta khác nhau thì sẽ là nhất
+00:19:13.490 được là
+00:19:14.840 Đăng ký lắp vào trong hệ thống Nếu có
+00:19:17.210 lựa chọn về lốc không làm được để công
+00:19:19.970 sắc tím này tủ ta có thể là không đạt
+00:19:22.520 yêu cầu có thể gây ra học máy ném trả
+00:19:24.350 lại vậy đó cái chữ quá trình cân cáp này
+00:19:27.110 thì chúng ta cũng sẽ biết được là chúng
+00:19:29.030 ta đã thay thế động cơ mà nó cũng đã phù
+00:19:30.710 hợp chưa Để lấy cái ví dụ như là bây giờ
+00:19:33.140 thấy có một cái tủ 4 sao Thành xã Thụy
+00:19:35.690 Phương pháp phân cấp trong hết lốc thì
+00:19:37.700 bây giờ thấy đi mua ốc kìa thầy áp của
+00:19:40.040 thầy còn ăn tốt chứ Này khi phải đưa lốc
+00:19:42.590 vào thì cân cáp mà thấy là nếu giá trị
+00:19:44.960 trở lực của chúng ta mà tương đương là
+00:19:46.580 nằm trong phạm vi từ 190 đến 200 10 thì
+00:19:49.310 đối với công suất lạnh của cái động cơ
+00:19:50.570 này phù hợp có thể là đưa vào trong cái
+00:19:52.100 tủ lạnh này có thể đạt được ý dung tích
+00:19:54.050 làm lạnh trong một dung tích tủ nọ Nhưng
+00:19:56.420 nếu giờ thầy cân cáp và giá trị sản
+00:19:57.860 lượng nhỏ hơn nhỏ hơn thì bây giờ là đẹp
+00:20:00.350 công suất của thành một tấc công suất bé
+00:20:02.600 hay là lốc yếu để có thể là kết luận cái
+00:20:04.670 động cơ này còn thấy là nó đảm bảo được
+00:20:06.320 quá trình đưa vào trong hệ thống này anh
+00:20:08.570 không để tránh trưởng phòng trở lại
+00:20:11.170 vậy tôi đi trường hợp là có một trong
+00:20:14.060 những cách nhận bằng là một trong những
+00:20:16.440 nguyên nhân gây trên đất chết đốt là do
+00:20:17.940 động cơ bị quá tải và có tài thì có thể
+00:20:20.160 là do các khó khăn thì em trong quá
+00:20:22.080 trình hệ thống của chúng ta thì phải có
+00:20:24.330 thể là tân cáp thì anh sẽ biết được này
+00:20:26.400 Tao có bị tắc hay không thì nếu mà cắt
+00:20:28.200 một phần giá trị sản lượng lớn hơn giá
+00:20:29.820 trị quy định thì đấy là đối với cái vấn
+00:20:32.550 đề cần cáp ở đây cho xe sẽ biết được là
+00:20:35.700 không sợ chúng ta thay thế đã phù hợp
+00:20:37.380 với trước đưa vào trong hệ thống làm
+00:20:39.300 lạnh của Đảng cái năng suất làm lạnh hay
+00:20:40.650 không bởi vì là công suất lạnh của chúng
+00:20:43.410 ta mà nhỏ thì đương nhiên đưa vào trong
+00:20:44.940 một cái dung tích của Tùng không thể là
+00:20:46.290 mạng theo yêu cầu Thầy có thể cân cáp
+00:20:48.450 này có thể biết được là hệ thống đã bị
+00:20:50.940 tắt toàn này không tặng phần 2 là thành
+00:20:53.370 có thể nó dựa vào cái quá trình là thiết
+00:20:56.460 kế để thể
+00:20:58.520 mua 1 vé nó thì rất của cái tủ lạnh thì
+00:21:02.640 sau này thì đang nhớ là tùy thuộc vào
+00:21:04.440 công suất của từng tí dung tích tủ là
+00:21:06.870 phải dựa vào
+00:21:08.660 chả được ống Mao chiều dài của Mao
+00:21:11.810 đối với một số cái tủ lạnh để ta chọn mã
+00:21:14.860 sản phẩm thì Đấy là toàn bộ cái quá
+00:21:17.919 trình lưu ý Giờ thấy nó vẫn rất nhiều
+00:21:20.559 lưu ý liên quan đến vấn đề là cắn cáp
+00:21:22.299 thì phải lưu ý đấy thì trước khi cân cáp
+00:21:25.210 thì tao sẽ đo áp suất bạch của động cơ
+00:21:28.029 bản gốc làm sẽ đo áp suất đẩy của động
+00:21:30.549 cơ blog Nếu
+00:21:32.250 Block có sức đánh lớn nếu Block có sức
+00:21:36.010 đẩy lớn thì ta chọn giá trị trả lời cao
+00:21:41.789 đài chọn giá trị chất lượng cao
+00:21:45.059 và nếu Block có sức đẩy nhỏ
+00:21:49.649 Nếu Block có sức để nhỏ
+00:21:53.159 thì ta chọn giá trị
+00:21:56.250 trợ lực thấp
+00:21:59.399 đã chọn cái giá trị rất thấp
+00:22:12.960 trường hợp để tủ lạnh không có ký hiệu
+00:22:17.410 đối với trường hợp một tủ lạnh mà không
+00:22:19.790 có ký hiệu về số sao
+00:22:23.710 thì khi cắn cáp
+00:22:27.790 đối với cân cáp trong
+00:22:30.690 Ừ
+00:22:31.620 [âm nhạc]
+00:22:32.960 thì ta chọn giá trị trả lực từ 150 đến
+00:22:36.120 220 bỏ sim vào đối với cân cáp hoài là
+00:22:38.820 từ 135 cho đến 197 sim
+00:22:49.160 ruột
+00:22:52.220 đối với trường hợp tủ lạnh còn nguyên
+00:22:54.930 các không bị không khi ta thay thế động
+00:22:58.110 cơ blog mà cân cáp giá trị trả lực nhỏ
+00:23:01.680 hơn nhiều so với giá trị quy định thì ta
+00:23:04.500 kết luận công suất Bảo Lộc ta thay thế
+00:23:07.110 nhỏ hơn hoặc và sự để yêu
+00:23:09.560 chân thật này thì ta không nên nó để tao
+00:23:12.210 không đến nỗi em bóng ma mà chúng ta nên
+00:23:14.010 thay một cái mỏ đốc có công suất tương
+00:23:15.810 xứng với hệ thống làm lạnh để thủ chúng
+00:23:18.480 ta đạt được yêu cầu giờ thích trường hợp
+00:23:20.430 thứ hai là trường hợp giá trị trở lực ra
+00:23:23.040 đó được mà lại lớn hơn nhiều giá trị
+00:23:25.380 quyết định thị trường hợp này thì ta kết
+00:23:27.660 luận là không xuất của bản gốc của chúng
+00:23:29.220 ta lớn hơn
+00:23:30.700 anh này chúng ta sẽ cắt bớt có bao hoặc
+00:23:34.030 lá
+00:23:35.280 khi cắt bất mào thì lúc này trở thành
+00:23:37.510 giám nóng của nó hiểu thì ra nên nối là
+00:23:39.850 nóng còn nếu mà không gì để đảm bảo
+00:23:41.830 chúng ta có thể là khai trên động cơ bản
+00:23:43.750 gốc có công suất từng lương
+00:23:46.800 để tránh nước Trường tập là hư hỏng đấy
+00:23:49.840 là đối với nhà Tân Cáp
+00:23:55.770 như chúng ta đã biết thật là một cái hệ
+00:23:57.880 thống làm lạnh thì gồm 4 tiến hành chính
+00:24:00.100 nhìn xa đến tìm hiểu là gồm máy nén dàn
+00:24:03.910 nóng van tiết lưu và dàn lạnh
+00:24:06.210 thì 4 thiết bị này thì mọi người để ý là
+00:24:08.740 gồm 4 thị chính và các điều kiện muốn
+00:24:11.380 thiết bị chính và các thiết bị này nó
+00:24:12.670 được nối ghép với nhau mà mẹ chồng ống
+00:24:14.710 đố trí tuệ tuần hoàn được ra bên trong
+00:24:16.840 ảnh thống được nạp đủ phải ra và máy nén
+00:24:19.000 thì hoạt động
+00:24:20.190 máy nén thì hoạt động lấy cái điều kiện
+00:24:23.440 của hệ thống và mạch như vậy
+00:24:25.770 sau khi bốn thông tin này được nối ghép
+00:24:27.730 với nhau thì chúng ta đã biết chúng ta
+00:24:30.100 cần phải nạp ga Ừ nếu nạp ca mà chúng ta
+00:24:33.520 ông tạo chân không không hút thì không
+00:24:36.020 khí và chồng phải thống đó ra ngoài thì
+00:24:37.370 không khí cho mang theo một bầu không
+00:24:38.720 khí mang theo áp không khí mang theo hơi
+00:24:40.400 âm thì lúc này à Tủ lạnh xa và rất nhiều
+00:24:43.580 từ biểu hiện để lấy một cái ví dụ như
+00:24:45.320 này Nếu bác có ẩm cho cây ra axit dầu và
+00:24:48.440 lấy hỏng về tính chất của dòng rồi nếu
+00:24:50.900 có bụi bẩn sẽ gây ra tắc về thì lưu ta
+00:24:53.180 phải văn Liễu Rồi kẹp cơ sắc cốt
+00:24:56.170 Nếu mà có áp suất cho biết thật ra đã
+00:24:59.000 rồi mà có áp suất cao nhiệt độ cao dồi
+00:25:01.100 nồi áp suất thấp nhiệt độ thấp như vậy
+00:25:02.930 nếu của chúng ta vẫn còn cái không khí
+00:25:04.760 bên trong thì rất nhiều lý hiện tượng có
+00:25:07.130 thể là người già như hỏng Chính vì lý do
+00:25:09.200 đó mà trước khi nạp ga tất tần tật các
+00:25:13.040 hệ thống ta cần phải
+00:25:15.760 thì ta sẽ không là gì thì về cái phương
+00:25:19.640 pháp bạn thân không thì khái niệm Để
+00:25:21.890 tạng được không thì chúng ta đã biết là
+00:25:23.990 tạo chân không đi đầy lòng những phương
+00:25:25.220 pháp mà chúng ta sẽ mút hết cái không
+00:25:27.530 khí và trong hệ thống gọi ra ngoài à
+00:25:30.690 Ừ để tạo ra một cái môi trường có áp
+00:25:33.000 suất thấp để môi chất lạnh bay hơi và
+00:25:36.180 đạt nhiệt độ thấp và hạn chế Một số
+00:25:38.340 những cái nó hỏng phải không hạn chế Một
+00:25:40.800 số những cái vòng sợi thống và chúng ta
+00:25:42.630 đang có hai phương pháp cả chân không đó
+00:25:44.910 là phương pháp tạo chân không bằng máy
+00:25:46.620 bơm chân không và phương pháp sử dụng
+00:25:49.410 Block trong hệ thống thì đấy là sự ra
+00:25:51.840 còn có hai cái Phương Pháp tại thành
+00:25:52.920 công
+00:25:53.900 phương pháp tạo chân không băng máy hút
+00:25:56.940 chân không và phương pháp tạo những công
+00:25:58.230 bằng mở nó trong thông thì đối với
+00:26:02.240 máy hút chân không em nhìn lên hình ảnh
+00:26:05.970 thì đây là một cái máy hút chân không và
+00:26:07.470 thợ cả hai dùng nhiều đó là hiểu và mua
+00:26:09.840 hoặc một số cá thể nhiễm khác thì cái
+00:26:12.390 máy hút chân không để làm cái máy chuyên
+00:26:13.770 dụng dùng để tạm dừng không Đây là máy
+00:26:16.110 chiếm dụng dùng để bạn được không
+00:26:17.720 bạn đây là một cái động cơ bản lock hút
+00:26:20.270 và đối với
+00:26:22.610 máy chuyên dụng dùng để tạo các không
+00:26:24.900 Nếu mà chúng ta không có cái máy này thì
+00:26:26.820 các bạn có thể sử dụng nguyên cái động
+00:26:28.920 cơ bắp ở bên ngoài ra thay thế làm xe
+00:26:30.730 máy hút chân không thì tao đang được gọi
+00:26:33.850 là món ốc hút lý do lốc tủ lạnh thì
+00:26:36.550 chúng ta đã biết được là lốc tủ lạnh là
+00:26:37.900 hút gián tiếp vào đây trực tiếp Do đó
+00:26:39.670 uống làm ca không người khoa mà động cơ
+00:26:41.350 chính Vậy là lúc này để mà dùng cái độ
+00:26:44.320 cao bluetooth để trở thành một cái máy
+00:26:45.820 hút sữa không Chúng ta sẽ Hàn kín cái
+00:26:47.230 đầu lại trong đó là đầu hút hoặc được
+00:26:49.090 nạp ga em làm lại ví dụ thời gian hàm
+00:26:51.010 cái đầu là ga đấy
+00:26:52.770 thì ống hút thì lúc này thì xe Hàn với
+00:26:55.060 một đầu sắc ko để lắp vườn thì đây là bỏ
+00:26:57.160 sắc Đầu đẩy đường ray để mở
+00:26:59.550 lại đâu này để mập
+00:27:01.710 và chúng ta sẽ sử dụng thì đối với các
+00:27:05.380 phương pháp này thì chúng ta sẽ sử dụng
+00:27:06.580 cái bộ đồng hồ áp suất hai dây và bộ
+00:27:08.440 đồng hồ áp suất 3 dân thì
+00:27:11.790 phương pháp sử dụng máy hút chân không
+00:27:15.090 thì máy hút chân không Đây là một cái
+00:27:17.560 máy chuyên dụng
+00:27:18.990 dùng để tạo chân không và nếu không có
+00:27:22.030 thiết bị này thì 8 thể dùng một động cơ
+00:27:25.270 Block ngoài để thay thế là được gọi là
+00:27:27.490 Block hút ta được gọi là Block hút ở
+00:27:32.290 blog này ta sẽ Hàn kín
+00:27:35.110 đầu nạp ga nó sẽ Hàn kín đầu năm nha à
+00:27:40.230 ở đầu ống hút được nối với ông công nghệ
+00:27:43.410 đó là Ống sắt Coffee 6
+00:27:46.730 đường ống đẩy tại đại học
+00:27:49.190 ống đẩy thì ta để hợp
+00:27:51.470 và khi áp dụng phương pháp này ta có thể
+00:27:54.960 sử dụng bộ đồng hồ áp suất hai dây và bộ
+00:27:59.070 đồng hồ áp suất 3 dây có cái đồng hồ đơn
+00:28:00.929 và đồng hồ thép
+00:28:02.540 thì bây giờ thì mọi người nhìn lên sơ đồ
+00:28:05.340 đối với phương pháp sử dụng bộ đồ hóa
+00:28:07.590 sắt 2 dây
+00:28:11.030 phương pháp sử dụng bộ đồng hồ áp suất
+00:28:13.290 hai dây
+00:28:15.290 hay giây thì chúng ta kết nối như sau
+00:28:18.860 sau khi hệ thống đã được lắp đặt hoàn
+00:28:20.790 chỉnh thì thấy đối với đồng hồ lô với
+00:28:23.790 đầu lắp cáp
+00:28:25.340 và dây trung gian được ngồi hút của máy
+00:28:27.750 hút chân không để máy hút chân không
+00:28:29.130 Hoặc là động cơ và ốc hút ống đầy thì để
+00:28:31.620 hở và kim đồng hồ áp suất
+00:28:34.700 mở khóa đồng hồ áp suất là hy những tài
+00:28:37.620 năng đang đóng lại khóa đồng hóa em đọc
+00:28:41.190 vào lúc này cho các động cơ bản lúc nào
+00:28:43.540 mà đâu Hoặc là máy hút vào đậu thì lúc
+00:28:46.360 này mày hút hết toàn bộ cái không khí ở
+00:28:48.790 trong cái hệ thống lên ra ngoài đẩy ra
+00:28:50.470 ngoài
+00:28:52.080 hôn trong dây của đồng hồ hốt bên giá
+00:28:54.370 lạnh này đáng ra ngoài thì bên dàn nóng
+00:28:55.780 đẩy ra ngoài ý khi nào thì độ chân không
+00:28:58.059 đạt yêu cầu khi độ chân không đạt yêu
+00:29:00.580 cầu cũng chính là thời điểm mà chúng ta
+00:29:02.590 sẽ quan sát một cái đồng hồ ở đây này em
+00:29:05.320 quan sát được trên đồng hồ đào thì khi
+00:29:07.179 đồng hồ chỉ về độ chân không đó là âm
+00:29:09.540 76cs nhân hoặc và âm 30-inch nhân ống
+00:29:12.820 đẩy của máy hút hoặc là động cơ
+00:29:14.380 bluetooth không có ký lại ra đây chính
+00:29:16.660 là chế độ sân không đạt yêu cầu đây
+00:29:18.700 chính là độ Chấn không đáng yêu cầu ý
+00:29:20.350 nghĩa như chúng ta đã biết được là máy
+00:29:21.580 mốt thì có hút được sẽ Con này mà không
+00:29:23.170 nút không đặt do đó chúng ta ngoài kim
+00:29:26.110 đồng hồ áp suất chỉ ở bệnh nhân công thì
+00:29:27.610 chúng ta kiểm tra phải ông lệch của máy
+00:29:29.200 hút thấm đầy của của của máy hút chân
+00:29:31.809 không nên nằm ở cái cửa nạp giàu này ống
+00:29:35.050 đẩy của động cơ Blue Core Nếu mà còn ký
+00:29:36.850 có nhớ thật con còn không khí có khí đại
+00:29:39.850 gia này khi mở một trong những nguyên
+00:29:42.140 nhân còn không ký thì có thể để thống
+00:29:43.460 của tôi hết cũng là hệ thống ở Do đó em
+00:29:46.190 nên mẹ hở và chúng ta cố tình ta nạp thì
+00:29:47.720 sau được một thời gian thì vừa có ẩm ở
+00:29:49.250 trong đó vừa gây biến chứng rồi đồng
+00:29:51.169 thời chỉ được một thời gian ngắn phải
+00:29:52.400 gây ra do chính các bạn mình là cần kiểm
+00:29:54.559 tra cẩn thận Thạch
+00:29:56.799 đi sau khi
+00:29:59.020 sau khi tạo chân không độ chân không
+00:30:00.919 đáng yêu cầu thì đương nhiên là chúng ta
+00:30:02.299 cần phải triển bị sẵn nối với Bình Chứa
+00:30:04.940 Ga này bị nạp ra thì chuẩn bị nạp can em
+00:30:07.580 nhìn vào đây em nhìn vào đây thì bây giờ
+00:30:09.169 là khi đạt yêu cầu rồi thì thấy sẽ tiến
+00:30:11.630 hành là khóa van đồng hồ lại bài ngắt
+00:30:15.470 nguồn máy hút được chuyển cái dây nối
+00:30:17.240 với máy hút chuyển cái giấy đó cái mốc
+00:30:18.980 này sang Bình chứa ga khi thầy tháo dây
+00:30:21.140 ra cái không khí và kiếm sống các bạn
+00:30:22.850 lên màu vàng này thì này ta cần phải làm
+00:30:25.039 gì
+00:30:30.220 tôi cần phải chỉ buồn à
+00:30:35.879 ừ ừ
+00:30:40.760 à à
+00:30:43.340 à à
+00:30:45.720 Ừ
+00:30:59.420 thì chúng ta cần phải xin rồi thì lúc
+00:31:02.820 này tôi cần phải xin lỗi dây đồng hồ này
+00:31:04.590 thì sau khi xịt đuổi cái dây đồng hồ này
+00:31:07.140 thì chúng ta sẽ xua đuổi nhất là tôi nếu
+00:31:09.930 là đồng hồ thép thì chúng ta sẽ tiến
+00:31:12.480 hành mở khóa đó liệt
+00:31:16.970 nếu là đồng hồ thép thì tôi sẽ tiến hành
+00:31:19.890 mở khóa ID đây tôi sẽ mở khóa hik
+00:31:26.150 sau đó là mở nhất pentagon để cho Galaxy
+00:31:28.860 được dây đồng hồ hình ra ngoài và nếu bà
+00:31:31.260 đối với không có đồng hồ Hy tôi sẽ tới
+00:31:33.210 lỏng dây đồng hồ này ra
+00:31:39.590 đây là đối với phương pháp sử dụng bộ đồ
+00:31:42.390 hóa xuất hai dây
+00:31:43.730 in đối hệ thống khi
+00:31:48.000 cấp nguồn cho bà lốt hoạt động II
+00:31:51.750 từ lúc này blog sẽ hút hết không khí
+00:31:54.990 trong hệ thống ra ngoài
+00:31:57.260 muốn hết thì không khí trong hệ thống ra
+00:31:59.460 ngoài và lúc này già không quan sát và
+00:32:01.950 kim đồng hồ là ô
+00:32:03.980 đến khi nào Kim Đồng hồ chỉ vạch chân
+00:32:06.450 không là âm 76 cm thủy ngân hoặc -30 in
+00:32:09.480 chỉ nhân
+00:32:10.550 ống đẩy của máy hút không có khí chất
+00:32:14.790 chống đẩy của máy hút hoặc là bluetooth
+00:32:16.920 là không có ký đại gia là độ chân không
+00:32:19.440 đạt yêu cầu
+00:32:20.420 là độ chân không đạt yêu cầu sau đó
+00:32:23.790 chúng ta sẽ nóng ban đóng Văn An
+00:32:27.389 từ lâu lạnh và ngắt nguồn cho máy hút
+00:32:30.359 chuyển dây chuyển dây nối từ máy hút
+00:32:34.379 sang chạy ra thì lúc này tôi là tiến
+00:32:36.719 hành là mở nhất vàng chạy ra
+00:32:43.249 đồng thời mở khóa HIV để đẩy không khí
+00:32:46.589 ra ngoài đi Sau khi thành chỉ đuổi cái
+00:32:49.289 dây đồng hồ xong thì thành sẽ khóa van
+00:32:51.570 hay đi lại mà mở ba lô để chuẩn bị ta
+00:32:54.359 tiến hành nào ra thì lấy là phương pháp
+00:32:56.070 sử dụng bộ đồng hồ đo áp suất hai dây
+00:32:57.649 đầu bếp phương pháp sử dụng đồ hóa xuất
+00:32:59.969 3 dây thì đã kết nối theo sơ đồ hình sau
+00:33:02.059 thì lúc này ra thấy da đầu làm ga được
+00:33:04.529 nối với đồng hồ lô rồi dây trung gian để
+00:33:09.809 trung gian một thành sẽ được nối với
+00:33:11.009 bình chứa ra
+00:33:13.519 đây của đồng hồ Hy được nối với máy hút
+00:33:16.229 hoặc là bờ hút hay Quán Hy và khóa muốn
+00:33:20.190 mở thầy cho thì máy hút để hoạt động và
+00:33:23.369 sau đó là thành công sẽ quan sát và kim
+00:33:25.049 đồng hồ đầu nhớ nên xảy ra Đăng quá à Ừ
+00:33:27.399 khi nào đến độ chân không đạt yêu cầu
+00:33:29.349 khi bị ta quan sát thấy là van kim đồng
+00:33:31.989 hồ Lào Nhấn kia đồng hồ lô của chỉ đón
+00:33:34.570 nhỉ
+00:33:35.309 chỉ vạch chân không cái kim đồng hồ là ô
+00:33:38.859 mà chúng ta sẽ chỉ vạch chân công là âm
+00:33:41.070 76 cm thủy ngân hoặc -30 in thì rất ấm
+00:33:44.649 đẩy lúc này không có khí đại gia tiền là
+00:33:47.109 độ chân không đạt yêu cầu thì khi đôi
+00:33:48.759 chân không đạt yêu cầu thì thành tiến
+00:33:51.249 hành chỉ Gắn khóa van hay đi lại ngắt
+00:33:53.529 nguồn cho máy hút để chuẩn bị được làm
+00:33:54.789 ra thì đối với phương pháp này thấy
+00:33:56.169 không cần phải chỉ buộc lại thành không
+00:33:58.479 cần gì luật
+00:34:01.210 Anh
+00:34:02.970 xin lỗi hệ thống theo sơ đồ nối hệ thống
+00:34:06.520 theo sơ đồ và cấp điện cho động cơ Block
+00:34:09.699 hoạt động
+00:34:10.710 cấp điện cho động cơ bản lúc hoạt động
+00:34:14.310 và quan sát vào kim đồng hồ
+00:34:17.369 quan sát vào kim đồng hồ là ô đến khi
+00:34:21.010 nào độ chân không đạt yêu cầu thì ta
+00:34:24.639 tiến hành khóa van hollen
+00:34:26.909 và ngắt nguồn cho Bluetooth để chuẩn bị
+00:34:29.349 nạp ra à
+00:34:31.730 em
+00:34:46.899 về phương pháp
+00:34:49.239 để tạo chân không bằng Block trong hệ
+00:34:52.899 thống chính sách Anh nhìn vào sơ đồ
+00:34:57.630 anh ta nhìn vào sơ đồ à
+00:35:04.890 ba
+00:35:08.539 tháng
+00:35:22.039 thì lúc này thì mọi người để ý ra cái
+00:35:24.539 ống công nghệ mà sao để họ và thành kết
+00:35:26.880 nối đó là gì Đồng hồ lao động đối với
+00:35:29.700 đầu nạp ga dây trung gian được nối với
+00:35:32.220 trai ga và hy của tao nó khóa nấu mà Thì
+00:35:36.690 lúc này tiến hành cho các động cơ bản
+00:35:38.220 lock hình hoạt động thì Block trong hệ
+00:35:40.410 thống lúc này sẽ hút toàn bộ cái không
+00:35:41.910 khí của mình tiêu hóa thân thấp đó là từ
+00:35:43.319 đây bộ mã hóa suất trong khoang inox hay
+00:35:46.019 là bên tám lạng hút hết về sau đó ném
+00:35:48.150 đẩy xăng rằng nó nhé rất cao thì ở bên
+00:35:50.880 ngoài là sao là môi trường của xe là
+00:35:52.289 quần áo của xe cáp này chúng ta cần
+00:35:54.690 thiết rất là bé từ 1 giờ đến 2mm Đối với
+00:35:56.970 tiết kiệm ngoài Ống công nghệ này của da
+00:35:58.920 nên đáng để là thường là đèn ông Sáu là
+00:36:03.000 đang để ông chấp nhận thì 6A cách hiển
+00:36:05.620 thị 6 chúng ta đến với bên ngoài mà ngáp
+00:36:07.150 thì đương nhiên là gì ạ
+00:36:09.780 ở bên ngoài mà áp thì lúc này sẽ đẩy ra
+00:36:12.270 đấy nó sẽ này ta
+00:36:16.880 sẽ đẩy toàn bộ cái không khí của ra
+00:36:19.230 ngoài chiếm số đông ấy không Tí nữa ra
+00:36:21.060 ngoài và một phần nhỏ thì không khí của
+00:36:24.060 ta trá đi tiếp sang bên là dàn lạnh tại
+00:36:27.120 bên dàn lạnh rồi lại được máy ném nó về
+00:36:28.890 đấy giờ lại được máy nén vui vẻ khi mày
+00:36:31.710 ném gọi chúng ta đánh hút về thì đến
+00:36:34.170 Nguyễn thời điểm nào đó chúng ta thấy nó
+00:36:35.370 hết bên phía quá thấp mà đẩy ra ngoài và
+00:36:38.820 lúc này là cũng có ghệ không có ký đại
+00:36:40.170 gia nữa thì như vậy thì chúng ta đã biết
+00:36:42.390 được là bên ngoài là đã sắp xe không có
+00:36:44.550 khí đẩy gian cũng nghĩa là dàn nóng của
+00:36:46.560 chúng ta đang cân bằng với áp suất nhỏ
+00:36:48.990 hơn chị ạ
+00:36:51.950 Em
+00:36:53.290 à chúng ta sẽ cân bằng với
+00:36:55.990 áp suất khí quyển
+00:36:57.970 vậy cân bằng áp suất khí quyển II
+00:37:02.510 chú ý khi mà chúng ta các bạn béo suất
+00:37:04.670 khí quyển thì chưa ăn em nhớ là dạng thì
+00:37:06.800 là hết nhưng là nóng còn đẹp
+00:37:08.920 rằng đóng thì con và dàn nóng còn đấy
+00:37:12.650 nhưng mà chúng ta mới tiến hành là gì mà
+00:37:14.180 chúng ta tiến hành làm ở nick pass game
+00:37:15.620 này tay tiến hành Mở nick Dragon
+00:37:20.260 sau khi thấy mở dịch pendragon mọi người
+00:37:22.760 thấy nhớ nhà để cho ra đi vào và khí ga
+00:37:24.950 đi vào thế này ta đến nhớ này chúng ta
+00:37:27.950 sẽ đây để không khí bên dàn nóng ra
+00:37:31.730 ngoài thì một phần là hỗn hợp rửa ra mà
+00:37:34.190 không khí Tiếp tục sang tên trở lại và
+00:37:36.080 chúng ta đợi là đến một cái thời điểm là
+00:37:38.930 ông công nghệ này không có khí để ra nữa
+00:37:40.640 thì chúng ta mở tiếp lần 2 mà lần 3 vào
+00:37:43.460 năm 4 thì bố con lần mở thì đợi khi nào
+00:37:45.620 đấy không có ký để gian ta mở tiếp chúng
+00:37:47.270 mày cứ bởi liên tục thì ta làm như vậy
+00:37:49.220 được khoảng là 4 lần ba bốn lần thì khi
+00:37:51.950 mà thấy cái độ khô ở bên trong hệ thống
+00:37:55.010 đặt chỗ công
+00:37:56.560 thì chúng ta mới bắt đầu là tiến hành
+00:37:59.920 ham hàng giống công nghệ này à khi
+00:38:05.540 đi thi hành nhiều công nghệ này thì mới
+00:38:07.740 đảm bảo là trong cái quá trình hàm thì
+00:38:10.830 blog vẫn phải làm hoạt động tại blog vẫn
+00:38:12.660 đang hoạt động để đảm bảo ta sẽ hàm kim
+00:38:15.690 Còn nếu mà chúng ta rút ra cái thì A và
+00:38:18.900 bên dàn nóng sẽ tràn không nên thật lạnh
+00:38:20.640 để quá thấp mà làm dân tộc của cái hệ
+00:38:22.290 thống này của laptop thì cực kì lại bạn
+00:38:23.850 nên trong quá trình vừa hàm thì vừa máy
+00:38:26.640 nén thì hoạt động
+00:38:28.760 đấy là phương pháp sử dụng blocks trong
+00:38:33.180 hệ thống khi ta lắp hệ thống theo sơ đồ
+00:38:35.460 và sau đó là cấp điện cho blog hoạt Đông
+00:38:40.010 Lúc này mà lúc sẽ hút con khí
+00:38:42.860 ở bên dàn lạnh rồi đẩy không khí sang
+00:38:46.980 giám nóng vé sơn cao do đẩy không khí
+00:38:49.860 sang dàn nóng Vẽ đường cao AH
+00:38:53.410 so
+00:39:00.810 với áp suất cao Lúc này
+00:39:04.470 phần lớn không khí qua ống công nghệ
+00:39:08.670 và đất đẩy ra ngoài
+00:39:11.690 A và được đẩy ra ngoài
+00:39:17.380 con phân nhỏ không khí
+00:39:21.010 khi còn nhỏ không khí
+00:39:24.090 sang bên dàn lạnh rồi lại được máy nén
+00:39:27.190 hút về à
+00:39:28.990 ba
+00:39:31.170 tháng và tiếp tục ném sang dàn nóng và
+00:39:35.110 đến khi nào chúng ta quan sát và kim
+00:39:36.760 đồng hồ là ô chỉ âm
+00:39:39.869 76cs nhân
+00:39:42.000 ống công nghệ không có khí đẩy ra
+00:39:44.760 ống công nghệ không có khí đẩy ra
+00:39:49.080 là dàn lạnh độ chân không đạt yêu cầu
+00:39:52.590 dàn nóng cân bằng áp suất khí quyển dàn
+00:39:56.920 lắm các bạn nhé em sẽ ký quyển II
+00:40:01.609 từ
+00:40:03.819 lúc này
+00:40:05.680 ta mở ít van Saga
+00:40:10.239 để ra đẩy không khí ra ngoài khoảng 4
+00:40:14.960 lần ra đẩy không khí ra ngoài hoặc bốn
+00:40:17.569 lần
+00:40:21.190 đến khi nào không có khí thải ra
+00:40:24.620 cho đến khi nào không có khí đại gia
+00:40:29.080 thì ta tiến hành bóc đẹp và Hàn kín ống
+00:40:33.170 công nghệ vào trong quá trình vừa và
+00:40:35.540 than mày ném cửa hoạt động để chuẩn bị
+00:40:38.600 cho là nào ra thì đấy là đối với phương
+00:40:41.060 pháp tạo chân không bằng chính và đốt
+00:40:43.220 trong giao thông A
+00:40:46.990 à
+00:40:51.000 Mà bây giờ chúng ta không có một số ý
+00:40:53.050 kiến lưu ý đối với các phát tại chân
+00:40:54.730 không thì chúng ta đã biết được là nhất
+00:40:57.250 thời gian tạo sân không của chúng ta thì
+00:40:58.690 càng dài càng hiệu quả thông thường ta
+00:41:01.360 sẽ tạo thành công rất nhiều thời gian
+00:41:03.280 tạo tấn công của chúng ta là 30 phút trở
+00:41:05.470 lên
+00:41:07.140 và trong hai phương pháp này thì mọi
+00:41:10.240 người để ý là tất cả thật là chúng ta
+00:41:12.250 chỉ đẩy cái không khí đang ở thể khí
+00:41:14.619 Nhưng đối với chúng ta đã học về một số
+00:41:16.840 cái hệ thống lạnh bây giờ đang sử dụng
+00:41:18.730 ga là hfc loại ga này có tính chất là
+00:41:21.430 đẹp là phải sử dụng dầu của hfc và dầu
+00:41:24.430 polieste dầu này còn định trật tự được
+00:41:26.560 thì buổi học trước đây à mày chọn đi tìm
+00:41:29.350 điểm vậy nếu mà tựu nằm thì bây giờ là
+00:41:31.660 ẩm của tôi được gặp ở trong dầu và khí
+00:41:33.640 ẩm ở nhập ở trong dầu đi bây giờ chúng
+00:41:35.110 ta cần phải thẩm ở trong rau bằng hình
+00:41:37.210 thức là để ký hiệu quả làn da trong quá
+00:41:39.880 trình tạo thành công thì chúng ta có thể
+00:41:41.170 là sấy nóng hệ thống lên để bốc hơi nước
+00:41:43.630 hay là tôi có thể là gì có thể làm vệ
+00:41:46.450 sinh lại cách làm sạch toàn bộ ở bên
+00:41:49.010 trong trước khi ta tiến hành trứng cá
+00:41:51.320 tạo chân không thì lúc đó thì ra là hiệu
+00:41:54.170 quả cao nhất còn so với thời gian tạo
+00:41:56.390 thân công mà chúng ta thấy là thời gian
+00:41:58.220 tạo chứ không dai mà vẫn không biết được
+00:41:59.870 thì cái này túng Thọ ngắn quá thì cũng
+00:42:01.760 là diện là bị tắc
+00:42:03.790 vật lý thời gian tạo trong không càng
+00:42:07.130 dài thì càng hiệu quả
+00:42:11.000 Mỹ Tâm Thường thì chúng ta sẽ trên 31
+00:42:13.330 trên 3 phút
+00:42:17.140 và nếu thời gian tạo chân không dài mà
+00:42:21.710 vẫn không hết được không khí thì ta sẽ
+00:42:24.140 kết luận là hệ thống Mỹ hợp kết luận hệ
+00:42:26.900 thống bị hở và nếu thời gian tạo chân
+00:42:30.380 không nhắn
+00:42:31.780 mà hết Không khí thì ta kết luận là bị
+00:42:35.090 tắt tắt
+00:42:38.740 để độ chân không
+00:42:42.070 để kiểm tra độ chân không
+00:42:44.440 trong hệ thống thì ngoài vấn đề cho ta
+00:42:47.090 Nhìn chúng ta quan sát vào kim đồng hồ
+00:42:48.950 là ô thì ta có thể dùng Bọt Xà phòng rồi
+00:42:52.160 Kiểm tra cái đấu đầy của máy hút đầu này
+00:42:54.590 của ông công nghệ để có kết luận
+00:43:00.520 để có kết luận và để tạo chân không hiệu
+00:43:04.160 quả để tạo chân không hiệu quả thì trước
+00:43:08.000 khi tạo chân không thì chúng ta hoặc là
+00:43:10.670 trong Ừ không thì chúng ta cần phải sấy
+00:43:12.840 nóng hệ thông để chúng ta cần sẽ nóng
+00:43:15.060 thì sấy nóng thì chúng ta là ví dụ như
+00:43:16.860 thầy làm cái này trưởng thành sử dụng là
+00:43:18.360 máy sấy tóc sấy nóng hệ thống là sấy lốc
+00:43:21.120 này dầu ở trong lúc này dầu ở trong dàn
+00:43:24.270 nóng đấy trong dàn lạnh và trong quá
+00:43:26.730 trình là vừa xây thành người ta Trân
+00:43:28.830 công thì khi đó là nó hết hơi nước vào
+00:43:31.230 trong dầu đi lại bảo hết thì hơi nước ở
+00:43:33.060 trong giàu đi thì cấp đó là ta tạo thành
+00:43:34.590 công thì đạt hiệu quả rất là cặp Thì đấy
+00:43:37.260 là toàn bộ về các phương pháp cân cáp để
+00:43:39.420 chống Pháp tại chân công
+00:43:41.690 giờ bài học của chúng ta đến đây là kết
+00:43:44.700 thúc còn cái phần nằm ra thì chúng ta sẽ
+00:43:47.370 đi tìm hiểu bài sau thì các em đấy nhà
+00:43:51.950 xem lại bài và chuẩn bị bài mới như vậy
+00:43:54.980 Xin chào cả lớp hẹn gặp lại các bạn vào
+00:43:58.890 buổi học xong các bạn có thể là xem cả
+00:44:01.350 cái video thầy giáo hướng dẫn bể tập cân
+00:44:03.990 cáp rồi à Tại sân không khỏi thống tủ
+00:44:07.410 lạnh
+00:44:08.960 Xin chào các bạn Hẹn gặp ừ ừ

@@ -1,0 +1,961 @@
+# tactiq.io free youtube transcript
+# Bài 3 - Rơ Le Bảo Vệ - Thiết Bị Điện Phụ Tải Điện II Dạy Nghề Thanh Xuân 93 Nguyễn Tuân - 0936989090
+# https://www.youtube.com/watch/Z1_1e9pm4_Q
+
+00:00:00.000 Xin chào anh em chúng ta lại đến
+00:00:03.620 với Chào các em buổi học hôm nay chúng
+00:00:08.130 ta sẽ đi tiếp
+00:00:09.740 sang phần
+00:00:11.630 đó là phần mạch điện thì về phần mạch
+00:00:15.150 điện thì buồn còn thiết bị điện và phụ
+00:00:18.090 tải điện buổi học ngày hôm nay chúng ta
+00:00:20.820 sẽ đi tìm hiểu về một số các thiết bị
+00:00:22.740 điện
+00:00:23.720 trong mạch điện tủ lạnh trong hệ thống
+00:00:27.740 tủ lạnh dân dụng
+00:00:32.119 đối với phần này thì đối với thiết bị
+00:00:35.100 điện thì thế nào là thiết bị điện thì
+00:00:37.469 chúng ta đã biết được thiết bị điện là
+00:00:39.059 những thiết bị sẽ điều khiển nguồn cho
+00:00:43.200 phụ tải máy sẽ thực hiện hành về chế độ
+00:00:46.620 lắm làm việc trong bài này chúng ta đi
+00:00:49.920 tìm hiểu một là về gian em bảo vệ hai
+00:00:54.079 Rơle khởi động 3 Rơle không chế nhiệt độ
+00:00:58.590 Lộ 4 khi rơle thời gian
+00:01:03.210 500.000 âm và cầu chi nhiên sáu tụ điện
+00:01:07.750 công tắc hệ thống mạch xạ tiết
+00:01:13.710 mình giới thiệu về các hãng thiết bị
+00:01:15.759 điện và phụ tải điện và hôm nay thì sẽ
+00:01:19.000 giới thiệu cho chúng ta toàn bộ các
+00:01:20.950 thiết ý định và phụ tải điện ở bên trong
+00:01:24.009 một tủ lạnh trong đó gồm máy nén máy nén
+00:01:28.180 hay bạn gọi là lá lốt nhiệm vụ của máy
+00:01:31.119 nén
+00:01:31.740 đối với trong hệ thống tủ lạnh đó chính
+00:01:34.810 là lúc và nén hơi môi chất hay còn gọi
+00:01:37.509 là hơi gian để tuần hoàn hơi ra trong
+00:01:39.940 cuộc sống là mẹ
+00:01:41.310 tớ đang tôi Block thì rất là quan trọng
+00:01:44.289 và đang bận ví như một trái tim một hệ
+00:01:46.119 thống đi kèm với động cơ bản đất chúng
+00:01:47.890 ta gồm có dây bảo vệ cho động cơ khi
+00:01:50.979 động cơ đang bị quá tải thì quyết định
+00:01:52.959 này sẽ có nhiệm vụ ngắt nguồn cấp cho
+00:01:55.990 động cơ để bảo vệ và nhân
+00:01:58.619 rồi nhiệm vụ em nhắc dựa trên nguyên lý
+00:02:01.640 là nhắc dựa vào nghiên và rượu và rau
+00:02:04.479 đối với đi kèm mới làm thêm vào đó chúng
+00:02:07.729 ta còn có rơle làm cho con phải độc hay
+00:02:10.459 còn gọi là D với nhiệm vụ là khởi động
+00:02:13.010 chọn tôm
+00:02:14.290 một số lượng cơm còn có lúc như kèm để
+00:02:18.019 cũng chậm làm điên và tụ này là tục làm
+00:02:19.910 đêm
+00:02:21.549 thường lắp đặt ở phía sau và đi kèm với
+00:02:24.830 động cơ tiếp theo chúng ta thấy cái bị
+00:02:27.709 là công tắc công tắc có nhiệm vụ là điều
+00:02:31.459 khiển nguồn cho em trong quan để hoạt
+00:02:34.640 động thì thường được lắp đặt đang được
+00:02:37.579 lắp đặt ở mép cánh cửa hoặc là cách Ngăn
+00:02:40.849 chứa hai ngăn ngăn đông và ngăn lạnh rất
+00:02:44.420 nhiều chúng ta thấy là thiết bị mà giờ
+00:02:47.900 này cũng chính được đâu Hay là test 1
+00:02:49.670 Tắt thiết bị này đang trong nhiệm vụ lần
+00:02:52.120 khống chế người
+00:02:54.760 11.500 chính là tổng 100 Tùng khi nhiệt
+00:02:57.260 độ bên trong ngăn tủ đặt yêu cầu thì da
+00:02:59.209 đen này sẽ cắt như áo
+00:03:01.160 đen với nhiệm vụ của em chính là chiếu
+00:03:05.910 sáng cho người sử dụng thì chúng ta lấy
+00:03:09.030 chuẩn bị chẳng ngăn tủ để sử dụng
+00:03:12.020 một linh kiện chúng ta đang nghỉ vào đây
+00:03:15.510 đang ấy đây chính là
+00:03:17.480 dạo này thời gian hay còn gọi là động
+00:03:20.459 màu sạch Tuyết đồng hồ sản tiếp nhận vụ
+00:03:22.980 của đồng hồ xả Tuyết với nhiệm vụ là
+00:03:25.170 điều khiển nguồn cho động cơ blog và
+00:03:27.840 Quang để làm lạnh theo chu kỳ và điều
+00:03:30.810 khiển nguồn cho sấy để xả tiết lại
+00:03:34.190 chúng ta thấy qua đang được bố trí ở bên
+00:03:36.959 trong ngăn đông đối thủ sẽ có khả năng
+00:03:39.420 đông là cảnh ăn mát như cái quạt đang
+00:03:42.180 dùng để đấy nhưng không Tí quà dàn trao
+00:03:44.610 đổi nhiệt để làm lạnh bên trong cá nục
+00:03:48.709 và cách nhau nuôi dưỡng chúng ta thấy
+00:03:51.780 Đây chính là cầu chính hiện hai người
+00:03:54.450 phố thì người ta gọi là sầu riêng đồng
+00:03:58.470 chí nghiên nghiên luôn của chị ở bên
+00:04:01.299 trong tủ chính là bảo vệ
+00:04:03.720 dàn nhạc khi nhiệt độ tại gia lạnh là
+00:04:06.700 nghiệp quá cao so với yêu cầu thì thiết
+00:04:10.000 bị này sàn sẽ tự ngắt sấy sấy thì đối
+00:04:14.769 với sấy thì bà đẹp các bạn ở bên dưới
+00:04:18.579 của người mặt dán lại bên trong đám đông
+00:04:20.589 nhiệm vụ của giấy là
+00:04:23.430 đến nhẹ nhàng chủ nhiệm năng phải làm
+00:04:25.810 tan tiếp báo để mặt gian sau đó bề mặt
+00:04:28.539 sàn kiểm tra thông thoáng đối lưu không
+00:04:31.150 khí và dàn trao đổi nhiệt để làm lại và
+00:04:34.780 chúng ta thấy là linh kiện cũng rất hay
+00:04:36.970 học nó chính là sau lạnh hay còn gọi là
+00:04:41.169 cảm biến áp thiết bị này đang được bắt
+00:04:44.350 đầu ở bên trong nhăn nhăn bốc và thằng
+00:04:47.169 bó vào đầu cái toàn bên trên của dàn
+00:04:50.710 lạnh với nhiệm vụ
+00:04:52.350 với nhiệm vụ là nhiều chuyển nguồn vốn
+00:04:55.270 xây dựa vào nhiệt độ
+00:04:58.169 dựa vào nhiệt độ ẩm Ừ anh chính là nhựa
+00:05:01.190 vào nước tiên bạn phải là sàn là điều
+00:05:03.199 khiển nguồn sai thì đấy Nó toàn bộ thì
+00:05:05.750 thú vị là bây giờ chúng ta sẽ thì sẽ
+00:05:08.180 hướng dẫn ca Thanh Trúc bị này đang được
+00:05:10.610 bố trí ở vị trí năng và chúng ta là tháo
+00:05:13.009 đóng góp và chúng ta sửa chữa là phải
+00:05:16.460 biết được chỗ nào sửa chữa thay thế nào
+00:05:19.220 để biết được vị trí của ta được đi bây
+00:05:21.919 giờ các em
+00:05:23.500 vào một cái tủ lạnh thì sẽ hướng dẫn
+00:05:26.030 chúng ta để cái thích định
+00:05:30.610 trước khi sang Rơle bảo vệ thì thấy mời
+00:05:34.370 à Cả lớp xem lại một cái video
+00:05:37.600 em xem lại một cái video về hệ thống để
+00:05:41.440 chúng ta biết được
+00:05:43.140 trong hệ thống của chúng ta thì
+00:05:46.380 để chúng ta biết được là bộ phận nào là
+00:05:50.200 quan trọng thì như thầy đã nói và buổi
+00:05:54.190 học trước chúng ta đã đi tìm hiểu là
+00:05:56.380 trong đăng ký Thiết bị ở trong tủ lạnh
+00:05:58.900 thì động cơ blog được ví như một trái
+00:06:00.970 tim của một nghệ thông tin đã là rất là
+00:06:03.070 quan trọng được tính như một trái tim
+00:06:04.510 của hệ thống do đó nó cần phải được bảo
+00:06:06.910 vệ cần phải được bảo vệ để làm bạn
+00:06:09.960 sao cho cái tuổi thọ của cái trái tim
+00:06:13.090 này bền nhất thì dẫn tới kỹ năng suất
+00:06:15.520 làm việc của máy đã đạt được là cao nhất
+00:06:17.470 à
+00:06:20.050 [âm nhạc]
+00:06:37.610 ừ ừ
+00:06:46.660 [âm nhạc]
+00:06:52.410 [âm nhạc]
+00:07:03.730 [âm nhạc]
+00:07:37.590 thế
+00:07:44.560 [âm nhạc]
+00:07:56.660 nhưng chúng ta đã biết máy nén đang lực
+00:08:00.240 ví như một trái tim của một hệ thống và
+00:08:02.610 làm việc liên tục trong thời gian dài
+00:08:04.170 với cái môi trường khắc nghiệt với nhiệt
+00:08:06.930 độ rất cao đó là tại vị trí lốc với áp
+00:08:10.920 suất rất cao thì chúng là nén hơi ga nên
+00:08:13.620 áp suất cao nhiệt độ cao tại dàn nóng và
+00:08:16.950 đồng thời là nhiệt độ rất lạnh ở bên
+00:08:20.370 thiết bị bay Mày hơi vị trí như vậy hệ
+00:08:24.450 thống và chúng ta có duy trì làm việc
+00:08:26.520 được trong thời gian dài không bởi những
+00:08:28.830 cái A anh
+00:08:31.050 quá trình làm việc khắc nghiệt như vậy
+00:08:33.340 trong thời gian dài như vậy liên tục như
+00:08:35.289 vậy thì lúc này để đảm bảo cho hệ thống
+00:08:39.150 làm việc ổn định máy nén giảm quá trình
+00:08:42.580 bị hỏng thì lúc này đi kèm với máy nén
+00:08:45.430 chúng ta cần phải sử dụng đó là Rơle bảo
+00:08:48.100 vệ hai ta gọi là Technic thì trong hệ
+00:08:50.860 thống tủ lạnh chúng ta đang sử dụng 3
+00:08:52.480 loại Rơle bảo vệ đó chính là diện
+00:08:56.400 nó chính là Rơle bảo vệ thì trên ghế
+00:08:59.770 hình ảnh mà chúng ta được có dẫn em bảo
+00:09:01.870 vệ Dong dẫn em bảo vệ Vừa lòng vừa nhiệt
+00:09:05.820 Rơle bảo vệ nhiệt giờ này bảo vệ nhiệt
+00:09:08.500 này vừa dòng người nhiệt và giờ đây bảo
+00:09:10.900 vệ dòng Thì đấy là ba loại da đẹp thì
+00:09:13.690 đầu tiên chúng ta sẽ đi về công dụng của
+00:09:15.730 Rơle bảo vệ trong
+00:09:18.240 công dụng của dây bảo vệ
+00:09:20.640 trong động cơ đó chính là bảo vệ cho
+00:09:24.430 động cơ Vlog khi bị quá tải và nguyên lý
+00:09:27.700 bảo vệ dựa vào nguyên lý bảo vệ da Anh
+00:09:30.440 bảo vệ nhiệt bảo vệ dòng hay là bảo vệ
+00:09:35.420 nhiên thì chúng ta đang có 3 loại để
+00:09:37.970 phân loại này chúng ta cần có 3 loại
+00:09:39.370 Rơle bảo vệ dòng Ra đây bảo vệ nhiệt và
+00:09:43.129 vừa dòng với nhiệt thì đâu là dẫn em bảo
+00:09:45.709 vệ nhiệt đâu là sẽ đem bảo vệ Rong và
+00:09:48.350 đâu là vườn dòng với nghiệp là nó bảo vệ
+00:09:50.329 dựa trên cơ chế nào thì thứ nhất các em
+00:09:52.490 nhìn lên kiến Chelsea dẹp này ở bên phải
+00:09:56.209 để đưa từ phải sang trái thì nhất
+00:10:00.670 đây là rơ le bảo vệ rằng đây là cho nên
+00:10:04.250 bảo vệ Dom Dom thì lúc này nếu dòng điện
+00:10:07.819 đi qua cuộn dây của động cơ dòng điện mà
+00:10:11.209 đi qua cuộn dây của động cơ mà cao cao
+00:10:14.120 hơn cho dòng định mức ghi trên sân của
+00:10:16.779 của động cơ thì lúc này thiết bị này sẽ
+00:10:19.670 ngắt để bảo vệ
+00:10:20.889 internet ở bên trái ngoài cùng
+00:10:23.649 Rơle Rơle Bảo Vĩnh Yên thì lúc này dựa
+00:10:27.350 vào nhiệt độ dựa vào nhiệt độ
+00:10:30.420 ý của động cơ 2 Nhiệt độ của chúng ta
+00:10:33.930 phản diện hay nhiệt độ trên
+00:10:38.660 cuộn dây của động cơ có thể bó trực tiếp
+00:10:41.040 với cuộn dây một số giờ này nhiệt nói
+00:10:42.810 trực tiếp theo còn dai mà cao những này
+00:10:45.149 cũng mắc để bảo vệ Rơle ở chính giữa thì
+00:10:49.110 đây chính là bảo vệ vừa rằng với nhiệt
+00:10:50.839 dòng này là dòng đi qua cuộn dây của
+00:10:53.190 Zara và nhiệt trên vỏ của động cơ Giờ
+00:10:56.160 này thì đối với trong 3 loại Rơle này
+00:10:58.949 thì Rơle bảo vệ nhiệt thì đang được bố
+00:11:01.829 trí mà lắp đặt thường là ở bên trong vỏ
+00:11:05.339 động cơ và được Bó vào cuộn dây của động
+00:11:08.490 cơ và lắp ở chân chạy còn đối với gel
+00:11:12.120 bảo vệ vừa dòng với nhiệt thì chiếm sơn
+00:11:14.279 đông lại đang được lắp đặt ở bên ngoài
+00:11:16.019 vỏ động cơ chiếm số đông thì đang được
+00:11:18.120 lắp đặt bên ngoài vỏ động cơ và thường
+00:11:19.589 cắm vào chân chung đây là đối với
+00:11:22.790 Đây là đối với Rơle
+00:11:26.660 bệnh xơ này sẽ có cấu tạo của về việc
+00:11:31.180 như nào thì chúng ta sẽ sang
+00:11:33.779 nội dung thứ hai để cấu tạo
+00:11:39.149 thì cấu tạo của Rơle thì gồm có 3 bộ
+00:11:42.490 phận chính thứ nhất là dây điện trở dây
+00:11:46.510 điện trở thứ hai là thành lương Kim và
+00:11:49.420 thứ ba là tiếp điểm thì thuộc theo từng
+00:11:51.940 loại mà chúng ta thấy là loại rong Vừa
+00:11:55.660 lòng vừa nhiệt hay là giờ này Bảo Vệ
+00:11:58.810 Biên ý giờ dây điện trở đi một số tài
+00:12:03.130 liệu thì người ta gọi là phần tử đốt
+00:12:05.350 nóng một số thì zahra thì nó sẽ ghi là
+00:12:07.600 di Nhung Vân Vân tín đối với dây điện
+00:12:10.270 trở nhiệt thì đây chị Nhật cấu tạo của
+00:12:12.610 dây điện trở nhiệt thì phải nhắc lại với
+00:12:14.620 bạn nào nó chưa nhớ ta sẽ ghi bởi vì Nam
+00:12:17.800 Bộ những cái này cho nó được học ở bài
+00:12:20.110 học trước học ở phổ thông ta cũng đã
+00:12:22.120 được tính điểm rồi
+00:12:23.459 thì dây điện trở nhiệt thì đây chính là
+00:12:26.230 được cấu tạo là một dây kim loại có cái
+00:12:29.560 nhiệt độ I ở nhiệt độ nóng chảy cao
+00:12:31.879 tường này chúng ta đang sử dụng là môn
+00:12:34.160 Khoa Nam chúng ta đang gặp nhiều thứ
+00:12:35.600 nhất ở trong những sợi dây tóc bóng đèn
+00:12:37.819 chúng ta sẽ gặp ở trong các cái đèn sưởi
+00:12:41.360 trong cái bếp hồng ngoại với lại
+00:12:46.990 còn xanh lớn kim thì về cấu tạo của
+00:12:50.509 thanh niên tin thì đang được cấu tạo gồm
+00:12:52.339 hai thành phần Kim loại Gò Vấp sự giãn
+00:12:56.120 nở vì nhiệt khác nhau thì có sự giãn nở
+00:12:58.399 vì nhiệt khác nhau để làm gì à Khi chịu
+00:13:00.769 tác động của nhiệt xung quanh tác động
+00:13:03.529 vào thì lúc này có sự giãn nở và uốn
+00:13:07.250 cong theo một chiều về lúc này nhà sản
+00:13:09.379 xuất sẽ sử dụng chiều cong nào để chúng
+00:13:11.569 ta sẽ bảo vệ cho động cơ mà tiếp điểm
+00:13:14.360 tiếp điểm của Rơle bảo vệ khiến đối với
+00:13:17.689 Rơle bảo vệ thì tiếp điểm của ta luôn
+00:13:19.639 luôn rồi chẳng hay lọc để cấp nguồn cho
+00:13:22.160 động cơ sở đó hoạt động mà chỉ mắt chỉ
+00:13:24.620 ngắt khi động cơ bị quá tải để chị mắt
+00:13:26.990 khi động cơ bị quá tay
+00:13:28.269 đấy là đối với tiếp điểm ở đây chính
+00:13:31.470 Nhật đối với tiếp điểm và đây chính là
+00:13:32.850 cấu tạo của Rơle
+00:13:34.940 bảo vệ đây chính nhật cấu tạo thì ở đây
+00:13:38.970 cũng là một trong những cái
+00:13:40.850 cấu tạo gồm có cái
+00:13:44.600 anh đến Kim dây điện trở và tiếp điểm
+00:13:47.820 của chúng ta đừng có một cái điểm rộng
+00:13:49.380 và các điểm tính thì tiếp điểm động là
+00:13:50.790 trên thanh đứng tim khi thành tiếng chim
+00:13:52.139 cong thì nó sẽ á Mở còn tiếp điểm Tính
+00:13:55.290 là được gắn bởi vì
+00:13:59.449 để hiểu về cái nguyên lý làm việc của
+00:14:02.220 Rơle nhà các em nhìn vào một kỹ sơ đồ
+00:14:05.730 mạch điện là đi tìm hiểu thì đối với Zen
+00:14:08.850 bảo vệ xong em bảo vệ nhiệt và Rơle bảo
+00:14:11.459 vệ dòng với nhiệt ý đối với Rơle bảo vệ
+00:14:13.800 dòng và chơi game bảo vệ
+00:14:15.260 vườn dòng người nhiệt thì có cấu tạo
+00:14:17.370 giống nhau còn đối với Zen em ở bệnh
+00:14:19.620 viện không thì chỉ cần anh lần Kim Và
+00:14:22.709 Chỉ cần tiếp điểm chúng ta khóa tiết
+00:14:24.300 kiệm đọc và kỉ niệm tính và than niềm
+00:14:26.279 tin thì khi tác động của nhiệt thì nó sẽ
+00:14:28.050 ngắt nó không cần lấy luôn à Ừ để hiểu
+00:14:31.779 về cái
+00:14:32.850 nguyên lý làm việc của rơ le bảo vệ ấy
+00:14:36.010 lấy một cái ví dụ các bạn
+00:14:37.830 đã học ở phần Điện tử các bạn thì chúng
+00:14:40.960 ta đang sử dụng một cái mỏ hàm xúc thì
+00:14:43.210 mỏ hàn xung thì ai cũng biết nó này
+00:14:45.399 chúng ta để Han biết chồng là thằng Linh
+00:14:47.620 kiện mỏ hàn xung đi đây bằng cái sạc
+00:14:49.630 điện áp thì chúng ta đã thấy là cuộn dây
+00:14:52.560 sơ cấp của em
+00:14:54.750 cố định cuộn dây cuộn dây thứ cấp thì
+00:14:58.330 cái góc của chúng ta đã điện mà chỉ có 2
+00:15:01.390 vòng với cái tiết diện dây đồng của
+00:15:04.360 chúng rất là coi mà thấy là cái lọng đã
+00:15:06.130 gần bằng bằng đầu đũa và sẽ được nối cái
+00:15:08.830 đầu nhỏ hàng cái đầu nhỏ hàn thì các em
+00:15:11.020 thường hàm trong quá trình Hàn hay bị
+00:15:13.300 ngất thì hay bị đứt chỉ các em à cũng
+00:15:15.940 phải thay dầu mỏ và chúng ta gặp một số
+00:15:17.860 hiện tượng như sau
+00:15:19.410 nếu em thay đầu mỏ mà to Nếu em thay cái
+00:15:23.410 đầu nhỏ to thì lúc này nhiệt
+00:15:27.120 là nhiều khi nào nhiệt sinh ra Ai chọc
+00:15:31.790 ai nóng nóng chậm kém nóng nhưng nếu ra
+00:15:36.259 hai đầu nhỏ nhỏ nó nhanh Ánh nhiệt nóng
+00:15:40.100 giá thành nhanh
+00:15:41.230 bà nhưng mà nó lại mềm thì đấy chúng ta
+00:15:44.420 để ý nhá cuộn dây sơ cấp cuộn dây thứ
+00:15:47.060 gốc ban đầu của chúng ta là gì là cố
+00:15:49.009 định và chúng ta chỉ thay trên đầu mỏ
+00:15:51.079 thì làm hai rồi mình nhiệt độ thì em
+00:15:54.199 nhìn vào à Cái nguyên lý Thì cái dây
+00:15:56.750 điện trở ban đầu Rơle bảo vệ này nhà sản
+00:16:00.350 xuất cũng tính là Rơle bảo vệ này fuham
+00:16:03.500 với rong cho động cơ có nghĩa là lúc Gần
+00:16:06.829 ra le bảo vệ này phù hợp nhau thì cái
+00:16:08.959 dây Nhung này thì ban đầu nhà sản xuất
+00:16:10.459 sẽ chọn thì tiết diện dây nung sao cho
+00:16:12.560 chị được cái dòng làm việc định mức của
+00:16:15.589 cái blocks một cái máy nén dòng làm việc
+00:16:19.639 định mức của người đẹp
+00:16:21.009 Thì lúc này nếu động cơ Block hoạt động
+00:16:23.870 bình thường tính bản chất cái dây lúc
+00:16:25.819 này đang là một cái dây dẫn đang trở
+00:16:27.829 thành một cái dây dẫn điện rồi cấp báo
+00:16:30.420 anh đi qua cặp tiếp điểm của Thành Lương
+00:16:33.510 kín đó là người nối qua tiếp điểm tính
+00:16:35.730 và kiểm điểm động thì quan hệ thần kinh
+00:16:36.930 cấp ở chân chung của động cơ bản gốc hay
+00:16:40.079 cấp bản chính chủ động cơ bản gốc Braxin
+00:16:41.850 hoạt động bình thường nhưng bây giờ tìm
+00:16:44.279 cái lý do nào đó mà động cơ chị quá tải
+00:16:46.550 thì lấy ví dụ như buổi học trước thì
+00:16:48.720 chúng ta thấy là động cơ này có thể bị
+00:16:50.250 kẹt rồi là tắt già nặng tắt một phần
+00:16:55.010 vọng ở bên phía bắc suất cao rồi nè lắp
+00:16:58.500 đặt ở đây nhiệt độ cao thì làm sao áp
+00:17:00.720 suất P ca cao hoặc và một số bạn nạp
+00:17:02.760 thường a vân vân thì làm cho động cơ vào
+00:17:05.189 lúc này ăn rong hay là kẹt tơ sát tốt
+00:17:08.400 hay là điện yếu là đưa dòng cao thì nếu
+00:17:10.470 xong
+00:17:11.390 bây giờ Cảnh sát là nếu như trường học
+00:17:13.439 dòng cao
+00:17:14.480 thì lúc này danh lông mày nó không chịu
+00:17:17.609 được cái dòng đó thì cũng gần giống với
+00:17:19.199 trường hợp là Dòng của bên thứ của cái
+00:17:21.929 máy biến áp đó là của cái mỏ hàn xung
+00:17:24.959 của chúng ta là cố định có thai tiết
+00:17:26.760 diện là bé lại thì không chịu được dòng
+00:17:28.380 đấy thì nó nhanh tay Vi anh chịu được
+00:17:31.660 cái dòng này thì ý chúng ta thấy kém lắm
+00:17:34.360 là như vậy
+00:17:35.940 kém nóng nóng lâu cứ lúc này là không
+00:17:38.320 chịu được cái dòng đi qua dây luôn này
+00:17:40.810 sẽ sinh nhiệt và hơ nóng tác động vào
+00:17:44.350 Thanh Lương Kim Thì tác động vào thanh
+00:17:46.390 cần kiêng thì làm cho cái thành những
+00:17:47.530 tìm nó cắm lên xong đi bà đẻ hả Nó là
+00:17:51.040 cái tiếp điểm này người ta gọi là tiếp
+00:17:52.420 điểm lọc Mở rời khỏi các điểm tính và
+00:17:55.240 lúc này động cơ bản gốc hở hở mạch hãy
+00:17:57.640 động cơ bản ông hả mạch còn đối với Rơle
+00:17:59.920 bảo vệ nhiệt nếu tao bảo vệ dựa vào
+00:18:02.830 nhiệt thì lúc này cảm nhận chính nghĩa
+00:18:05.950 thành lương Kim này không cảm nhận nhiệt
+00:18:07.780 của riêng Nhung có nghĩa là bây giờ là
+00:18:10.240 cái trường hợp dòng tôi thấp Nhưng mà đi
+00:18:12.160 nhiệt nhiệt sinh ra có thể do ma sát và
+00:18:14.140 dầu bôi trơn kém chất lượng người thiếu
+00:18:16.540 dầu rò sự ma sát của
+00:18:20.040 các chi tiết chuyển động sẽ gây ra hiện
+00:18:23.140 tượng nhiệt cao thì khi nhiệt cao thì
+00:18:25.480 anh lớn kim lại cảm nhận được cái nhiệt
+00:18:27.190 đó cảm nhận nhiệt độ và lúc này mở cặp
+00:18:30.410 em
+00:18:31.120 tính bán đậu như là tiếp điểm động của
+00:18:34.790 ta rời khỏi tiền tính hở mạch và hở mạch
+00:18:36.800 lúc này động cơ blog
+00:18:38.290 để bảo vệ đánh ngừng để bảo vệ và sau
+00:18:41.750 một thời gian đến thanh kim nguội lại
+00:18:43.520 đóng trả lại thì lúc này lốc lạnh tiếp
+00:18:45.710 tục làm việc nhưng nếu lại xảy ra hiện
+00:18:48.080 tượng bị quá tải thì lạnh ngắt lấy lại
+00:18:50.120 ngăn
+00:18:51.040 về nguyên lý thì thông thường tiếp điểm
+00:18:54.860 của Rơle bảo vệ đọc để cấp nguồn
+00:18:58.750 cho động cơ Block làm việc
+00:19:01.240 để cấp nguồn cho động cơ bản lock làm
+00:19:03.740 việc nhưng key động cơ blog bị quá tải
+00:19:08.650 nhưng khi động cơ Block bị quá tải
+00:19:12.970 do dòng cao hoặc nhiệt độ cao do dòng
+00:19:19.010 cao hoặc nhiệt độ cao
+00:19:21.190 Lúc này
+00:19:23.170 anh lượng kim
+00:19:25.060 Lúc này anh lần Kim
+00:19:28.060 uốn cong à A
+00:19:32.239 và ngắt tiếp điểm ngắt tiếp điểm
+00:19:36.289 mất nguồn cấp cho động cơ bản lock để
+00:19:39.239 bảo vệ
+00:19:41.029 mất nguồn cấp cho động cơ bản gốc để bảo
+00:19:44.460 vệ
+00:19:49.340 nhưng sau một thời gian
+00:19:54.440 Thanh Lân Kim có mày muộn
+00:19:57.769 sau một thời gian thanh niên kia muộn
+00:20:03.409 Rơle đóng tiếp điểm cấp nguồn cho động
+00:20:07.679 cơ của nó hoạt động trở lại đây là cấu
+00:20:10.710 tạo nguyên lý làm việc của gia đình bảo
+00:20:12.929 vệ tất cả các Rơle bảo vệ cho các khí cụ
+00:20:17.039 tải thương bảo vệ dựa trên cơ chế là bảo
+00:20:20.340 vệ dưỡng ở nhiệt và dự báo dòng dựa vào
+00:20:23.549 nhiệt dựa vào rọc à
+00:20:30.429 em
+00:20:34.350 mấy giờ chúng ta sẽ sang về hư hỏng
+00:20:38.139 thường gặp kiểm tra sửa chữa như nào thì
+00:20:42.639 để sang về hư hỏng thì chúng ta quai vạc
+00:20:45.100 là quay lại sơ đồ cấu tạo sơ đồ mạch
+00:20:49.119 điện để thành xe á Phân tích về cái dòng
+00:20:51.850 thứ nhất dây lung này có thể lỏng ở Đức
+00:20:56.309 tiếp điểm
+00:20:58.169 dưỡng hỏng ở một trong hai dạng là không
+00:21:02.080 tiếp xúc mà vẫn đi chậm anh lần Kim
+00:21:04.330 trong quá trình hoạt động chịu sự tác
+00:21:07.240 động nhiều về nhiệt làm về phân tử kim
+00:21:10.059 loại này của ta nó bị sai lệch sai số bị
+00:21:13.690 sai số đi Cái này cũng xảy ra những hiện
+00:21:15.940 tượng như sau bây giờ chúng ta sẽ tới
+00:21:18.129 thành lập là dây nóng này đi Đức tiếp
+00:21:21.369 điểm này không tiếp xúc
+00:21:22.919 thì trong cái mặt này sẽ có hiện tượng
+00:21:26.080 là động cơ không hoạt động rom bằng
+00:21:30.279 không 10 hiện tượng và động cơ và lốp
+00:21:33.560 không hoạt động dòng bằng không khí
+00:21:34.760 chung với tính hiện tượng là dân ta đã
+00:21:38.060 học là một là có thể là chưa có nguồn
+00:21:39.590 cung cấp cho động cơ nó cũng chạy dòng
+00:21:41.300 bằng không đứt dây là hở mạch đấy
+00:21:44.530 nó không chạy rằng không đứt cuộn dây
+00:21:46.880 của động cơ để lâu không chảy ròng không
+00:21:48.590 Đây là trong cái mạch điện mà chúng ta
+00:21:50.720 sẽ phân tích ở trong 100 năm nay rồi
+00:21:52.760 Pigeon hợp
+00:21:54.070 thành thần kinh
+00:21:56.110 là bây giờ chồng có quá trình sử dụng
+00:21:59.390 lâu là nó bị nhiễm cố thì nó sẽ đẩy xảy
+00:22:03.170 ra hiện tượng là
+00:22:04.720 nóng nắp không hợp lý bây giờ chiều mới
+00:22:07.970 hiểm là nhắn chưa nguy hiểm đang ăn trưa
+00:22:10.970 bị quá tải đang ắt cũng giống như cái ấm
+00:22:13.490 siêu tốc của em chưa sôi để ngắt rất mất
+00:22:15.610 đấy là đối với các trường hợp của chúng
+00:22:18.110 ta đây chính là
+00:22:19.480 học ở kế cơ chế cơ chế của chúng ta đó
+00:22:24.380 chính là diện học về anh đừng tin thì
+00:22:27.830 dẫn tới tình trạng là mở ốc ở nắp liên
+00:22:31.919 tục chạy nhắn liên tục
+00:22:33.889 rồi Nếu vẫn tiết kiệm bị chậm
+00:22:36.350 tí nữa bình thường mà động cơ bloc năm
+00:22:38.789 hoạt động bình thường thì không bị quá
+00:22:40.619 tải thì nó vẫn chạy nhưng mà khi nó bị
+00:22:43.259 quá tải thì sẽ dẫn tới tình trạng là
+00:22:46.159 Block sẽ Ngọc Anh bởi vì không nắm được
+00:22:49.679 không áp được để bảo vệ dẫn tới tình
+00:22:52.139 trạng là động cơ bản lock bị Ngọc Anh
+00:22:55.070 yêu chính như vậy là nếu gặp phải trường
+00:22:57.840 hợp lúc mà hỏng thì chúng ta tuyệt đối
+00:23:00.840 không được dùng lại vì cái ren này bởi
+00:23:04.289 vì bản chất của Rơle với công dụng của
+00:23:05.879 Zen là phải bảo vệ như bây giờ anh không
+00:23:07.559 bảo vệ được thì để cho lốc hỏng thì
+00:23:09.480 chúng ta chắc chắn Nếu mà chúng ta dùng
+00:23:11.369 để ốc dùng đến zurich của Việt lớp học
+00:23:13.350 được mai để lắp vào một con dốc mới thì
+00:23:15.869 đương nhiên là khả năng nguy cơ có lúc
+00:23:17.609 mới ra thứ cũng hỏng rất là cao
+00:23:20.929 đấy là hư hỏng
+00:23:24.139 bị hư hỏng Rơle bảo vệ thưởng hỏng giặt
+00:23:28.739 à
+00:23:30.429 khi ra
+00:23:31.710 rạp Thanh Lương Kim Nó ngắt không hợp lý
+00:23:35.669 Nó ngắt không hợp lý
+00:23:38.610 Nên
+00:23:42.690 Block hoạt động rồi dưng Block hoạt động
+00:23:47.190 rồi Dừng liên tục
+00:23:51.899 hoặc
+00:23:53.789 nằm ở trạng thái
+00:23:56.490 đứt dây điện trở
+00:23:59.129 tiếp điểm không tiếp xúc Block hoạt động
+00:24:02.700 thiết lập blog không hoạt động rằng bằng
+00:24:05.830 không biểu hiện này thì bảo nó không
+00:24:07.600 hoạt động trong 10
+00:24:09.059 đứt dây điện trở tiếp điểm không tiếp
+00:24:11.710 xúc mở ốc không hoạt động dòng bằng
+00:24:13.720 không còn nếu mà bị chặt thì sàn Tây giá
+00:24:17.159 chết blog
+00:24:20.639 như vậy để kiểm tra như thế nào để chúng
+00:24:24.309 ta biết được là một dây bảo vệ tốt thì
+00:24:26.590 nếu để bên rời ngoài khác mà để trong
+00:24:28.419 mạch điện của tủ lại khác mà Em điện chỉ
+00:24:31.700 chúng ta sẽ kiểm tra nó khác thì bây giờ
+00:24:34.310 chúng ta thường dựa vào cái biểu hiện
+00:24:35.720 Ngọc chúng ta thường dựa vào biểu hiện
+00:24:37.340 học các bạn xem lại cái cái mạch chúng
+00:24:41.090 ta sẽ dựa vào biểu diễn học nếu ta chỉ
+00:24:43.880 có một cái mạch điện như này chỉ có hai
+00:24:45.500 một cái phụ tải là lốc và ngư dân bảo vệ
+00:24:48.290 thì lỗi trường nhập ta sẽ dựa vào mạch
+00:24:50.390 điện này là nếu động cơ bản gốc Không
+00:24:52.340 hoạt động Nếu đương nhiên là chúng ta sẽ
+00:24:54.620 có
+00:24:55.510 rơle bảo vệ có nguyên nhân do lốc còn
+00:24:58.940 nếu trong cả một cái mạch điện của tủ
+00:25:00.500 lạnh thì còn rất rất rất nhiều là cái
+00:25:02.510 thiết bị gây ra thì đương nhiên là nếu
+00:25:05.210 chỉ là một cái mạch điện điều khiển cho
+00:25:07.010 cho động cơ như thế này thì nếu mà lốc
+00:25:10.040 mà không chạy rằng bằng không Nếu nghi
+00:25:13.040 ngờ là đây là có học về đây bảo vệ thì
+00:25:16.430 ta sẽ dùng đồng hồ vạn năng để thành
+00:25:18.980 loại thuốc này sẽ đo chân vào và chân ra
+00:25:23.080 đo chân và chân ra của Zara Nếu Kim lên
+00:25:27.140 thống mạch thì đây là rơ le bảo vệ tốt
+00:25:30.419 - 2 chén không ở cái
+00:25:34.489 lúc này là dây dẫn và Vân con đương
+00:25:38.519 nhiên ở trong mạch điện của Soda thì còn
+00:25:40.320 rất nhiều ngoài ngốc ngoài dây dẫn chưa
+00:25:42.359 có nguồn cung cấp còn có rơle đề còn có
+00:25:44.970 khống chế nhiệt độ còn còn đồng hồ xả
+00:25:46.889 tiết hay là còn chóng mặt sạch tiếp rất
+00:25:50.489 rất nhiều thì chúng ta chúng ta chỉ xét
+00:25:53.309 ở trong cái sơ đồ với mạng này thì toàn
+00:25:55.649 là được học lúc rồi
+00:25:57.080 và Nếu mà bây giờ hỏng ở cái trường hợp
+00:25:59.519 là hỏng với Thành Lương Kim Thì tủ chạy
+00:26:01.590 nhắc nhân tộc Chúng ta sẽ dựa vào những
+00:26:03.239 biểu hiện của tủ lạnh chắc chạy nắp liên
+00:26:05.100 tục thì dựa vào cái biểu hiện tủ chạy
+00:26:07.739 nhắn liên tục thì bây giờ tôi sẽ khi nào
+00:26:10.799 thì nó ngắt có thể lại do 90 động cơ
+00:26:13.320 blog của chúng ta Nó đang hỏng ở trạng
+00:26:15.090 thái là để cơ sắc cốt dịch cao mà sát
+00:26:20.220 thì sinh nhật cao điện yếu sinh nhật cao
+00:26:22.529 dầu bôi trơn thiếu rồi là kém chất lượng
+00:26:25.980 sinh nhật cao ít trường hợp này thì
+00:26:28.139 chúng ta sẽ kiểm tra nói ở phòng làm
+00:26:31.269 việc của động cơ rồi chúng ta sẽ kiểm
+00:26:33.460 tra nhiệt trên vỏ động cơ Nếu xảy ra một
+00:26:35.679 cái trường hợp là
+00:26:37.350 giọng cao nhiệt độ cao mà ra đã nhắc thì
+00:26:40.539 Rơle ngắt kịp thời nên sẽ tốt thôi nhưng
+00:26:42.669 mà nếu mà dòng thấp nhiệt thống rađa
+00:26:44.590 ngắt Thì đấy là ra hỏng đấy là nối với
+00:26:47.019 kiểm tra giờ này thì chúng ta sẽ dựa vào
+00:26:50.110 có biểu hiện như học
+00:26:52.559 bây giờ trí như vậy là cái hiện tượng hư
+00:26:54.759 hỏng của xe này nó có rất nhiều lại rất
+00:26:57.100 nhiều những cái hư hỏng
+00:26:59.940 phải rất nhiều cái nó hỏng thì đến cái
+00:27:02.289 ví dụ như này tủ bây giờ không hoạt động
+00:27:04.659 dòng bằng không thì vừa nãy nhưng mà
+00:27:06.549 người ta chỉ dẫn của các bạn đó là chỉ
+00:27:08.049 có là gốc và Zara Nhưng mà nếu mà chúng
+00:27:10.269 ta thấy đã có thể là chưa có nguồn cung
+00:27:12.220 cấp này có thể là đứt mạch chuẩn bị họp
+00:27:15.249 này hay là cuộn dây của động cơ có hỏng
+00:27:18.730 Rơle bảo vệ có hỏng khống chế nhiệt độ
+00:27:20.470 hay là hỏng trong cái mạch điện sạc tiếp
+00:27:22.179 vân vân thì chính các bệnh là nếu đi cảm
+00:27:25.570 những tủ lạnh thì nó rất là nhiều rất là
+00:27:27.369 rộng mà những cái thì một số cái thiết
+00:27:30.190 bị hai thí nghiệm sau đó là thầy chỉ
+00:27:32.870 hướng cho tao tại chúng ta này đi đến kỳ
+00:27:35.630 thiết bị nào chúng ta được học rồi thì
+00:27:37.610 chúng ta sẽ á tổng kết lại đối với những
+00:27:40.340 linh kiện cho nó được học rồi còn những
+00:27:42.140 linh kiện chưa học thì chúng ta sẽ tiếp
+00:27:44.090 tục đi tiếp vào cuối bài Sang ngày mai
+00:27:46.580 để chúng ta sẽ khắc phục một số hiện
+00:27:48.560 tượng thì khi đó chúng ta sẽ tổng kết
+00:27:50.090 lại những cái bài ta sẽ không thì chúng
+00:27:52.100 ta sẽ tìm đây luôn là các nguyên nhân
+00:27:54.200 Đây là thành chỉ lấy một cái ví dụ về
+00:27:57.620 một số hiện tượng ví dụ trong nền đen
+00:28:00.410 mạnh mẽ nó cũng có rất nhiều ví dụ như
+00:28:02.180 tù trại mát liên tục chúng ta có rơle
+00:28:04.250 bảo vệ học này có thể hiện yếu gây ra
+00:28:07.310 động cơ Block ăn dòng Nó nhắn lại động
+00:28:09.200 cơ bị kẹt cơ sát tốt vẫn điện cơ kẹp nhẹ
+00:28:11.630 vừa sinh nhiệt vừa ăn rong nho tắc một
+00:28:14.510 phần hệ thống thì cũng là dòng cao đã 5
+00:28:18.140 ngày là nhiệt độ môi trường thì trí các
+00:28:20.240 bệnh chúng ta đi kiểm tra thì đối với
+00:28:22.850 chúng ta chỉ xét ở nhà sơ đồ giữa rock
+00:28:24.920 và giờ nè bảo vệ Lốc là nên học ở bài số
+00:28:28.640 2 á
+00:28:30.419 em về cách kiểm tra này ra thường dùng
+00:28:32.549 đồng hồ vạn năng và đồng hồ kẹp rong để
+00:28:35.039 không cần đo
+00:28:36.320 về kiểm tra
+00:28:38.480 tỉa đối với ý tủ lạnh đối với các hiện
+00:28:42.480 tượng là tủ lạnh không hoạt động rằng
+00:28:46.049 bằng không
+00:28:47.330 trường hợp này chúng ta sẽ dùng cái đồng
+00:28:49.499 hồ vạn năng để thang đo x 1 ôm
+00:28:53.330 để thằng đó X1 ôm nó vào hai đầu của
+00:28:57.659 Rơle bảo vệ đã sẽ đo bằng hai đầu Rơle
+00:29:00.450 bảo vệ
+00:29:06.799 nếu
+00:29:09.320 nếu Kim
+00:29:11.330 nên không mạch
+00:29:15.049 Con có điện trở rất nhỏ thì ta kết luận
+00:29:17.850 ra le bảo vệ của chúng ta ăn tốt
+00:29:22.340 mà nếu chim không lên
+00:29:26.629 ông lên thì đây là đang ở trạng thái là
+00:29:29.129 vô cùng thì ta rơ le bảo vệ của Star
+00:29:32.940 ăn bị hỏng
+00:29:35.940 Đây là thanh dựa vào các biểu hiện không
+00:29:38.759 giờ đi trường hợp tiếp theo
+00:29:42.090 là đối với tủ màu hoạt động nhưng mà
+00:29:45.179 nhắn chạy liên tục
+00:29:48.539 lúc này chúng ta sẽ dùng đồng hồ kẹp
+00:29:50.919 rong để kiểm tra
+00:29:53.879 mình sẽ kiểm tra nó diện kiểm tra về
+00:29:56.799 xong làm việc của động cơ rồi kiểm tra
+00:29:59.080 nhiệt độ trên vỏ động cơ nhớ ROM mới nhỏ
+00:30:03.149 dòng và chúng ta là nhỏ hơn dòng định
+00:30:06.429 mức và nhiệt độ trên vỏ động cơ cũng trẻ
+00:30:08.440 nhỏ nhỏ hơn cái giá trị nhiên mà ghi
+00:30:11.740 trên thân của Rơle
+00:30:14.369 mà ta thấy là động cơ mắc thì ta kết
+00:30:18.129 luận Giờ này làm gì họ Nhưng nếu xảy ra
+00:30:20.619 hiện tượng là dòng cao nhiệt độ cao thì
+00:30:24.009 chúng ta kết luận ở giờ đèn của ta đang
+00:30:25.779 tốt bởi vì có mắc kịp thời sẽ bảo vệ
+00:30:28.360 được cho động cơ có ngắt kịp thời Vì sao
+00:30:31.040 động cơ đấy là đối với
+00:30:33.400 về cách kiểm tra bệnh về thay thế thì ta
+00:30:36.980 thay thế như nào thì đối với lại Rơle
+00:30:39.140 này khi hỏng thì chúng ta không sửa mà
+00:30:41.450 chúng ta sẽ thay ta sẽ thay vậy Thay vì
+00:30:44.540 đầu tiên được ta sẽ dựa vào hình dạt dựa
+00:30:46.970 vào kích thước dựa vào chủng loại dựa
+00:30:49.100 vào công suất hình dạng để chúng ta lắp
+00:30:51.440 vừa thì trong cái bài động cơ Block thì
+00:30:53.990 chúng ta có nói lại đi kèm với Rơle chị
+00:30:58.010 lỗi đi kèm với động cơ
+00:30:59.770 thương có rơle khởi động và bảo vệ được
+00:31:03.290 cắm trực tiếp vào ba chân trông chạy đẹp
+00:31:06.050 và động cơ và có một hộp nhựa một cái
+00:31:08.570 nắp nhựa đẩy để bảo vệ Cái này để bảo vệ
+00:31:12.490 sau đó Nếu chưa gặp hay sai thì dạng nó
+00:31:15.320 vừa
+00:31:16.090 thứ hai là về chủng loại thì một số giờ
+00:31:19.490 này thì lúc đó Do cái dòng khởi động nó
+00:31:23.060 lớn đồng thời là trong việc khởi động
+00:31:26.840 của chúng ta mới cái dai nó nó lớn gây
+00:31:29.390 ra nó khởi động chậm Ừ nếu chúng ta sử
+00:31:31.980 dụng cái răng này bảo vệ thì nó cũng rất
+00:31:33.720 hay bị
+00:31:34.669 hai đầu tức là chúng ta sẽ sử dụng đối
+00:31:37.320 với trường hợp này thì người ta sẽ sử
+00:31:39.119 dụng là dòng đèn hạn này hay bị ngắt bởi
+00:31:42.090 vì thời gian khởi động lâu quá thì lúc
+00:31:44.700 đó người ta phải sử dụng bọn nó đến điện
+00:31:46.409 dựa vào để nhiệt tùy theo thời gian khởi
+00:31:49.169 động của từng từng từng động cơ mà khi
+00:31:51.749 đó Cái sẽ sử dụng nhân dân vừa rằng hai
+00:31:53.759 người nhiệt để để chúng ta nhắc ví dụ
+00:31:55.980 như là ấm siêu tốc tôi đã nhắc để cho nó
+00:31:58.109 sôi tôi không thể đưa vào dòng ở đây
+00:31:59.549 được em hiểu rằng chính các bạn là chúng
+00:32:01.679 ta phải đúng chủng loại đúng hình dạng
+00:32:03.539 kích thước và quan trọng nhất là thì lúc
+00:32:05.039 này công suất thì tại sao lại phải đúng
+00:32:06.749 với công suất thì bây giờ em nghìn chủng
+00:32:09.929 tộc quay lại về Cái sơ đồ mạch điện thì
+00:32:12.629 cái đúng rồi công suất rất là quan trọng
+00:32:15.080 cũng giống như dây chì tất tần tật các
+00:32:17.519 thiết bị mà mẹ người ta phải làm bảo mua
+00:32:19.739 vé để công suất phù hợp với công suất
+00:32:22.230 thì lấy cái ứng dụng sau
+00:32:24.559 kìa Zara này của thầy đang dùng cái loại
+00:32:27.840 Rơle đang dùng cái loại Zara à
+00:32:30.429 anh một lần này
+00:32:33.480 sóng nhựa thì dùng là 1,6 lượng 1/6 ngựa
+00:32:37.899 thì đi định mức cứ để nó Dinh đông này
+00:32:40.240 nhà sản xuất người đặt tính toán là của
+00:32:42.850 thầy đang là 1A thì dùng 1A
+00:32:46.679 đi Thấy sẽ phải lắp vào cho clock là 1/6
+00:32:51.009 nhựa
+00:32:51.720 1/6 ngựa thì chúng ta đã học ở buổi học
+00:32:54.789 trước và 1/6 mà ta dòng định mức là dòng
+00:32:57.039 sàn từ
+00:32:58.049 0,91 thấy lấy là 0,95
+00:33:01.830 thì lấy là y blốc này là 0,95 hoặc là
+00:33:06.450 0,95 mua cũng được
+00:33:09.179 như vậy
+00:33:11.009 khi mà thầy lắp vào thì ta thấy là ban
+00:33:15.309 đầu thì khởi động ban đầu khởi động dòng
+00:33:17.499 cao giá trị ròng khởi động lớn gấp ba
+00:33:19.779 lớp 4 lần so với dòng định mức thì mặc
+00:33:22.779 dù dòng cao nhưng mômen Khởi động cho
+00:33:24.879 động cơ nó chỉ đặt Tức là cái thời gian
+00:33:27.309 khởi động xong nó chỉ đạt được là không
+00:33:30.410 có một chuyến từ 0,1 0,2 giây trở xuống
+00:33:34.010 khởi động xong rồi chúng ta quan sát là
+00:33:35.480 khi con cấp nguồn cho động cơ cắm điện
+00:33:37.700 kim đồng hồ kẹp dòng lên giá trị ròng
+00:33:39.890 lớn rồi quay về giá trị nhỏ nhỏ đấy là
+00:33:41.720 đã khởi động xong rất nhanh có những
+00:33:43.490 thời gian nhanh như bạn thì làm cho dinh
+00:33:45.950 dinh lúc này cũng sinh nhật nhưng mà
+00:33:48.170 nhiệt nó sẽ thấp và chưa thể tác động
+00:33:50.510 vào cái thành đường kim làm cho thanh
+00:33:52.220 niên kim uốn cong lên lại nên là nó
+00:33:55.070 không bị nát
+00:33:56.050 thì vẫn đang hoạt động bình thường và
+00:33:58.670 nếu động cơ này đang bị quá tải thì
+00:34:01.130 chúng ta biết được quá tải dòng lớn gấp
+00:34:02.660 3 gấp 4 lần này là dòng cao thì lúc này
+00:34:04.960 rơ le bảo vệ sợ á sẽ nhắc kịp thời và
+00:34:08.870 thì thời gian ngắn kịp thời để tránh
+00:34:10.190 hỏng với cuộn dây thì thông thường thì
+00:34:12.530 nó sẽ dao động từ
+00:34:15.010 5 giây cho đến 30 giây 74 0,1 0,2 giây
+00:34:20.690 thì chúng ta thấy là gì được 1 đến 2
+00:34:22.940 giây là khởi động xong rồi
+00:34:24.699 1 đến 2 dây là phải đọc xong rồi vậy Nó
+00:34:27.290 ngắt sẽ là điện áp nó sẽ là năm Anh dịch
+00:34:31.129 không được phép vượt quá 30 giây 30 giây
+00:34:34.409 thì công suất lớn hơn ảnh hưởng tới cuộn
+00:34:36.510 rạch sinh nhật bởi vì nó rất là cao
+00:34:38.790 những nước nhỏ để càng nhanh lốc nhỏ thì
+00:34:41.489 yêu cầu là nhắc chậm đấy nó hỏng luôn
+00:34:42.989 còn dạy
+00:34:44.449 đây là to thì nó còn chịu được trong
+00:34:47.069 thời gian dài một chút
+00:34:49.699 vậy nếu bây giờ thầy à với 1A của Rơle
+00:34:53.719 bảo vệ mà thấy lắp vào cho một con dốc
+00:34:56.639 là một phần tư nữa một phần tư nhựa này
+00:34:59.970 định mức của tôi đi bây giờ là 1,5
+00:35:02.990 1,5 thì khi động cơ chạy định mức rồi
+00:35:05.760 thì anh này đã sinh nhiệt lớn hơn cái
+00:35:08.250 giá trị quy định của doanh thu này thì
+00:35:09.630 bắt đầu sinh nhật là Thanh Đức tin này
+00:35:10.950 cứ đóng mở liên tục thì nó sẽ xảy ra
+00:35:12.900 hiện tượng lẫn động cơ mà nó hoạt động
+00:35:14.369 nhưng chạy nắp liên tục
+00:35:16.309 nhưng nếu thầy đưa vào một Rơle 1/6
+00:35:20.430 Nhuận thấy đưa vào trong một phần mười
+00:35:21.900 hai nữa đi định mức của thầy nó có không
+00:35:23.970 được ba
+00:35:24.950 làm trong không phải ba bốn cái này lấy
+00:35:27.270 nó 073 không phải bay Dần
+00:35:30.430 hai ba lần mới có không phải chết
+00:35:33.480 0,9 đi sẽ là thấy là bị quá tải rồi
+00:35:35.800 nhưng không lắp được tính mày có thể gây
+00:35:37.119 ra cháy Lộc rồi mình không nhắn được nó
+00:35:39.760 gần giống chặt tiếp điểm chính như vậy
+00:35:42.329 khi mình đã thay thế gian e Nếu mà chúng
+00:35:45.339 ta không biết hay là mất để ra cái thông
+00:35:48.040 số về công suất trong đó là thông số về
+00:35:50.829 công suất của Rơle bảo vệ anh thông số
+00:35:53.559 về công suất của một lớp thì cái trường
+00:35:56.349 hợp này thì trường hợp này
+00:35:59.010 chúng ta sẽ
+00:36:01.619 lắp Rơle có hình dạng kích thước tương
+00:36:04.000 đương sau đó chúng ta sẽ kẹp dòng để
+00:36:06.550 chúng ta kiểm tra giờ sẽ kẹp dòng là
+00:36:09.700 kiểm tra
+00:36:11.130 đây là đối với
+00:36:14.339 Lưu ý
+00:36:16.589 với trường hợp để chúng ta sẽ thành thế
+00:36:20.250 thì thứ nhất là những trường hợp mà
+00:36:23.650 không có thông số về công suất của Rơle
+00:36:26.740 và công suất của Rock thì lúc này
+00:36:30.410 khi chúng ta thay thế Rơle có hình dạng
+00:36:33.589 kích thước tương đương hình dạng kích
+00:36:35.930 thước tương đương rồi cấp nguồn cho động
+00:36:39.049 cơ và dựa vào đồng hồ kẹp dòng này có
+00:36:41.390 các loại như sau
+00:36:43.089 Thứ nhất là nếu mà nó hoạt động bình
+00:36:45.410 thường dòng đang bình thường đấy mở ra
+00:36:48.589 le bảo vệ mắt liên tục thì chúng ta kết
+00:36:53.000 luận công suất của Zara Nam nhỏ hơn công
+00:36:56.690 suất của động cơ
+00:37:00.690 [âm nhạc]
+00:37:02.079 Nếu
+00:37:03.730 Block hoạt động bình thường mà ra đây
+00:37:05.780 không nhắc thì nó có xảy ra hai cái tình
+00:37:07.460 huống một là công suất của xe ga phù hợp
+00:37:09.980 hay là công suất của selen đang lớn hơn
+00:37:13.549 công suất gốc thì lúc này chúng ta sẽ
+00:37:16.339 gây quá tải gây quá tải cho động cơ gây
+00:37:19.520 quá tải cho động cơ thì bây giờ ta sẽ
+00:37:21.289 nhắc cái mạch đề đi chứ mày phải động đi
+00:37:23.809 thì bây giờ nên thay Zen phải động tốt
+00:37:25.579 bằng dây này phải đóng học thay Rơle
+00:37:28.039 khởi động tốt bằng da thật đẹp không ạ
+00:37:30.420 em và sau đó chúng ta sẽ Á dựa vào đồng
+00:37:34.440 hồ đẹp Dong dựa vào phải răng để chúng
+00:37:39.089 ta kết luận Nếu Zealand bắt kịp thời
+00:37:41.900 trong cái phạm vi đánh nhỏ hơn
+00:37:44.960 30 giây nhỏ hơn hoặc bằng 30 giây
+00:37:48.829 thì ra kết luận công suất của Rơle nó
+00:37:51.510 phù hợp còn phù hợp mà tốt nhất tôi sẽ
+00:37:53.819 nhắc trong phạm vi từ 10 đến 20 đấy là
+00:37:56.609 đẹp càng ngắn càng được bảo vệ càng dài
+00:38:00.240 thì càng ảnh hưởng tới cuộn dây
+00:38:01.970 và nếu không hát được thì lúc này ta
+00:38:05.309 phải giúp nguồn cấp điện cho động cơ
+00:38:08.809 giúp nguồn cấp điện cho động cơ bản lock
+00:38:11.069 và sau đó kết luận công suất của Zara
+00:38:15.319 lớn hơn công suất của động cơ
+00:38:18.710 công suất của rèn lớn hơn công suất của
+00:38:21.119 động cơ
+00:38:26.180 được lưu ý đêm hay
+00:38:28.549 là trước khi thay thế gia khi chúng ta
+00:38:31.839 cần phải
+00:38:33.720 kiểm tra các tài nguyên nhân và khắc
+00:38:37.000 phục các nguyên nhân mà gây ra hư hỏng
+00:38:38.859 do đây thì lấy ví dụ như là Rơle này thì
+00:38:41.349 nhà sản xuất người ta cũng tính toán là
+00:38:43.150 chúng ta sẽ đóng mở bao nhiêu lần là sẽ
+00:38:45.609 hỏng Ví dụ như đóng mầm 1.000 lần thì
+00:38:49.329 quá 1.000 lần là chết chỉ như vậy là
+00:38:51.730 thằng này nhớ này chúng ta phải tìm
+00:38:53.559 nguyên nhân và nguyên nhân do quá tải do
+00:38:55.450 dòng rò nghiệp thì thấy Lấy một ví dụ
+00:38:56.950 như là quá tải do dòng như là đẹp cơ sát
+00:38:59.800 tốt này điện yếu này đâu nhiệt độ môi
+00:39:03.400 trường quá cao này nạp thừa ga hay tắt
+00:39:05.619 một phần Còn đối với do nhiệt thì do ma
+00:39:07.599 sát nhiệt độ môi trường để nhiệt để máy
+00:39:10.150 nén ở nơi có nhiệt độ môi trường quá cao
+00:39:12.030 không thoát là nhiệt không truyền nhiệt
+00:39:14.530 ra môi trường để làm mát không có sự đối
+00:39:15.970 lưu không có hơi ga lạnh về để làm mát
+00:39:18.000 hay là thiếu giàu Vân mất nó có nhiều vì
+00:39:20.950 nguyên nhân chính Việt để chúng ta cần
+00:39:22.750 phải khắc phục các nguyên nhân để tránh
+00:39:24.250 thì là thay giờ nè xong thì vào được một
+00:39:27.550 thời gian thì lại không phải vào một
+00:39:29.559 thời gian đại học đó chính là đối với
+00:39:32.470 mới ra tay bảo vệ cho động cơ chúng ta
+00:39:35.270 đang sử dụng một trong ba loại nhất là
+00:39:38.539 Rơle bảo vệ nhiên thứ hai là Rơle bảo vệ
+00:39:43.250 dòng Rơle bảo vệ dòng
+00:39:46.690 thứ 3 là da le bảo vệ vừa dòng người
+00:39:50.809 Nhật
+00:39:51.549 thì về cấu tạo của rêu
+00:39:53.980 thì chúng ta nhìn vào sơ đồ
+00:39:57.069 gồm có
+00:39:58.809 một dây miễn chồng
+00:40:01.059 dây điện trở nhiệt và dây này có ghi
+00:40:05.140 nhiệt độ nóng chảy cao thường sử dụng là
+00:40:08.299 volfram
+00:40:09.460 thanh niên
+00:40:11.890 được cấu tạo bởi hai thành phần kim loại
+00:40:14.150 có sự giãn nở vì nhiệt khác nhau và Khi
+00:40:17.390 chịu tác động của nhiệt từ họ động cơ từ
+00:40:21.260 trên cuộn dây của động cơ
+00:40:22.960 lúc này uốn cong theo một chiều
+00:40:27.660 ưu tiên điểm
+00:40:29.630 tiết kiệm của Zara luôn ở trạng thái
+00:40:31.890 đóng
+00:40:32.599 chỉ mở khi động cơ này đang bị quá tải
+00:40:35.630 do nhiệt độ cao do dòng phao
+00:40:40.250 Anh
+00:40:41.530 muốn một status
+00:40:43.840 thì khi đó thân vào Trăm Gian Kim lên để
+00:40:48.020 cấp nguồn cho động cơ hoạt động
+00:40:51.010 khi ra đây hỏng
+00:40:53.680 một trong các trường hợp nhất
+00:40:57.100 dây lung linh đất
+00:40:59.140 tiên điểm không tiếp xúc lúc này mạnh
+00:41:02.510 hợp động cơ bản gốc Không vào đâu rằng
+00:41:05.870 không
+00:41:07.170 lý do đó
+00:41:09.570 đề kiểm tra phải Zalo lúc này ta sẽ dùng
+00:41:13.380 đồng hồ vạn năng thấy xoay về tháng X1
+00:41:17.430 tốt
+00:41:21.290 chậm hai bên Đồng hồ
+00:41:24.590 chỉ đi mà vị trí không
+00:41:27.680 sau đó Chân vào và chân ra của Zara
+00:41:32.810 Nếu tin lên thu hoạch
+00:41:35.270 hoặc còn giá trị điện trở rất nhỏ
+00:41:39.350 thì đây chính là giờ thì tốt ạ
+00:41:47.350 Ừ
+00:41:49.020 anh thấy nó chân vào chân ra
+00:41:57.240 [âm nhạc]
+00:41:59.670 đối với trường hợp thay thế về da đen
+00:42:02.730 thì khi Rơle bảo vệ hư hỏng chúng ta cần
+00:42:06.790 phải thay thế Zara thứ nhất là có hình
+00:42:09.580 dạng kích thước đúng chúng lại
+00:42:12.660 quan trọng nhất là đúng là tổng công
+00:42:15.400 suất đúng về công suất ví dụ trên tay
+00:42:18.820 Thầy đang sử dụng
+00:42:20.010 ghim 1/7 HP điện áp sử dụng 220v tần số
+00:42:25.650 50/65 rét
+00:42:28.080 như vậy ren này đang được dùng cho động
+00:42:30.970 cơ 1 phần bánh HT
+00:42:33.150 hay còn gọi là một mảnh nước
+00:42:37.830 thì lúc này
+00:42:39.750 rất phù hợp thì khi bị khóa tài sản do
+00:42:44.890 dòng Rơle sẽ nhắc tên ở trong phạm vi từ
+00:42:49.030 tắm cho đến ban dân thì cuộn dây của
+00:42:52.640 động cơ ra nó sẽ không đi học
+00:42:54.940 nhưng nếu thấy thay rơ le lớn hơn công
+00:42:59.600 suất của động cơ đốt
+00:43:01.150 có thể động cơ blog sẽ bị cháy
+00:43:04.270 nhưng do đẹp lắm
+00:43:07.330 Nhấn Nếu thấy thay ren nhỏ hơn thì khi
+00:43:11.420 động cơ bất hoạt động
+00:43:12.940 thì Rơle Trạch nhắc liên tục à
+00:43:17.790 cho vào tủ mà chúng ta sẽ kém lại
+00:43:21.290 thì đấy là đối với da đen thì bây giờ
+00:43:24.420 các em sẽ Đo kiểm tra Giờ này có thể
+00:43:30.410 Còn bây giờ thầy cha hướng dẫn cho chúng
+00:43:33.450 ta kiểm tra công suất của De e
+00:43:37.740 công và công suất của động cơ xem đã phù
+00:43:41.070 hợp chưa đối với một số trường hợp Chúng
+00:43:44.670 ta không có thông số về công suất của
+00:43:47.400 Zara hoặc không có thông số về công suất
+00:43:50.670 của động cơ thì bây giờ ấy sẽ chọn Rơle
+00:43:56.930 có hình dạng kích thước tương đương với
+00:44:01.520 Rơle
+00:44:03.650 bị hỏng sau đó
+00:44:07.280 anh sẽ
+00:44:10.460 lắp Rơle khởi động
+00:44:14.030 để cấp nguồn cho động cơ
+00:44:17.060 và phải sẽ gây quá tải cho động cơ để
+00:44:19.860 chúng ta hiểu tính bố ứng trường hợp gây
+00:44:22.860 quá tải thì có rất nhiều trường hợp
+00:44:24.210 chúng ta sẽ bị quá tải trong quá trình
+00:44:26.700 sử dụng chứ không phải là
+00:44:28.820 [âm nhạc]
+00:44:31.100 theo như thầy thấy làm
+00:44:34.430 thế Bây giờ thì sẽ cấp nguồn cho động cơ
+00:44:36.540 bản năng hoạt động ỷ lan rộng và đồng hồ
+00:44:38.890 các dòng
+00:44:39.780 máy cấp nguồn cho động cơ đốt dao động
+00:44:42.150 thì như vậy nếu đồng các lốc năm hoạt
+00:44:46.090 động bình thường thì chúng ta thấy là
+00:44:48.370 động cơ đang hoạt động
+00:44:50.460 và mục đích
+00:44:52.470 nhưng bây giờ mất điện và có biết
+00:44:55.680 nó biết và các định hơn thì ra khởi động
+00:44:59.170 nắng nóng và không khởi động được và bây
+00:45:01.120 giờ thành các điện luôn
+00:45:03.630 thì chúng ta thấy
+00:45:05.430 đồng do các hoạt động lòng cao
+00:45:08.820 và sau thời toán
+00:45:10.980 cho đến 30 giây chúng ta thấy da đen nhé
+00:45:14.290 á Ừ thì ký danh hấp dẫn như thế này thì
+00:45:17.630 đảm bảo cuộn dây động cơ chúng ta không
+00:45:19.670 học

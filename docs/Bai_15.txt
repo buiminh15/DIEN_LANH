@@ -1,0 +1,1293 @@
+# tactiq.io free youtube transcript
+# Bài 4.2 - HD Phân Tích Sơ Đồ Mạch Điện Tủ Lạnh Gián Tiếp II Dạy Nghề Thanh Xuân 93 NT - 0936989090
+# https://www.youtube.com/watch/LhLQ4TwVwRs
+
+00:00:00.000 Xin
+00:00:00.920 chào các em buổi học ngày hôm nay chúng
+00:00:04.740 ta sẽ đi tiếp xăng bài học phân tích sơ
+00:00:08.760 đồ mạch điện tủ lạnh gián tiếp thì buổi
+00:00:12.660 học trước chúng ta đã đi tìm hiểu về sơ
+00:00:16.079 đồ mạch điện tủ lạnh trực tiếp một cánh
+00:00:19.890 tủ lạnh trực tiếp 2 cánh và tủ lạnh gián
+00:00:23.580 tiếp có sử dụng xara
+00:00:26.300 thời gian loại 1 thì buổi học ngày hôm
+00:00:29.550 nay thầy và trò chúng ta sẽ đi tìm hiểu
+00:00:32.009 sang sơ đồ mạch điện trong tủ lạnh gián
+00:00:34.920 tiếp sử dụng rơle thời gian này hay
+00:00:39.379 thì mời cả lớp quan sát về sơ đồ trong
+00:00:43.379 mạch điện tủ lạnh Sharp sử dụng gel phải
+00:00:45.809 ra lại hai người lao động cơ Zara đang
+00:00:47.910 được bố trí ở chân 1 và chân bốn của
+00:00:50.550 Zara
+00:00:53.690 tính nhận xét về sơ đồ mạch điện thì đây
+00:00:57.690 là sơ đồ mạch điện tủ lạnh gián tiếp sử
+00:00:59.550 dụng ra
+00:01:00.510 a25 động cơ Zara là được bố trí ở chân 1
+00:01:03.250 và Trần Trần bốn đi Gồm bao nhiêu thiết
+00:01:07.030 bị và bao nhiêu vụ tai
+00:01:09.240 đối với tiếp bị điện thì tính chính là
+00:01:12.939 các tên thiết bị điều khiển nguồn cho
+00:01:14.770 phụ tải còn phụ tải điện
+00:01:17.850 biến điện năng thành các dạng năng lượng
+00:01:21.490 khác để thực hiện các chế độ làm việc
+00:01:26.880 để thực hiện
+00:01:29.670 ở chế độ làm việc
+00:01:31.330 [âm nhạc]
+00:01:37.790 thì thứ nhất là về thiết bị
+00:01:40.880 thì gồm có công tắc
+00:01:44.780 cảm biến âm
+00:01:46.759 dạo này khởi động cơ điện giờ đen bảo vệ
+00:01:51.320 đổ trì
+00:01:53.600 động cơ ra đây thời gian và không khí
+00:01:56.909 nhiệt độ thì chúng ta nguồn 80 định và 5
+00:01:59.610 phụ tải trong đó gồm đen quạt điện trở
+00:02:03.060 xả đá rơle thời gian
+00:02:08.419 Động Cơ Gia Lai thời gian và động cơ
+00:02:11.038 blog và chúng ta cũng được chia ra làm
+00:02:14.989 giả gồm 5 phụ tải và được chia ra làm 4
+00:02:17.610 mạch trong đó mạch đen thì chúng ta được
+00:02:21.630 gọi là bệnh chiếu sáng
+00:02:24.110 mạch Block quạt gió thì đây chính là cái
+00:02:27.330 mảnh nó chính là mạch chạy lạnh Ê mày có
+00:02:30.670 điện trở xa từ đây chính là mày sấy và
+00:02:33.969 mạch của động cơ da đen ở đâu Thì đó
+00:02:36.099 chính là mạch Chuyển chế độ
+00:02:38.280 từ đầu tiên các em nhìn lên sơ đồ này sẽ
+00:02:42.519 phân tích
+00:02:43.890 tôi sẽ phân tích thứ nhất
+00:02:46.260 là đối với mạch chiếu sáng từ ra nguồn
+00:02:50.590 điều khiển n
+00:02:52.650 đi qua đèn
+00:02:54.810 đi qua công tắc
+00:02:56.879 quay mình 1l nhanh một cấp chất thì kiến
+00:03:00.069 mạch lúc này đèn xá sáng tiếp theo đối
+00:03:05.260 với mày chạy lại
+00:03:06.780 từ danh và điều khiển n
+00:03:09.419 đi qua khống chế nhiệt độ hay còn gọi là
+00:03:12.220 bộ điều chỉnh nhiệt độ tới Trần hay da
+00:03:15.730 đen thời gian
+00:03:16.650 hai lúc này thông sang chân
+00:03:20.099 11 của Zara Một chia ra làm hai trên da
+00:03:25.090 làm hay nhất là đi qua từ chân 1 đi qua
+00:03:29.109 quạt anh đi qua công tắc quay nguồn cấp
+00:03:32.120 trước lúc này quạt ký mạch và mạch quần
+00:03:35.300 ra cho hoạt động từ chất 1 của Soda
+00:03:38.620 Cua Rơ le bảo vệ nhiệt
+00:03:41.200 blog
+00:03:42.880 qua ra đây phải động quay về danh nguồn
+00:03:45.800 cấp trước l lúc này nó chạy
+00:03:49.270 Để tuần hoàn này có chất để làm lạnh bề
+00:03:51.950 mặt dàn quạt gió hoạt động để đối lưu
+00:03:55.100 không khí và sản xuất đổi nhiệt và thực
+00:03:56.570 hiện chức năng hoạt động và quản giáo
+00:03:58.580 quay càng nhanh thì à hệ thống mất ta là
+00:04:02.030 mạng ngay và quan trọng là mẹ chậm
+00:04:04.780 do xăng chế độ xả thì lúc đối với chế độ
+00:04:09.170 sản tìm ra thời gian thì chuyển từ chế
+00:04:11.000 độ trai sành điệu ngắn có nghĩa là 2 lúc
+00:04:13.880 này mắt một nóng sẵn các bạn
+00:04:17.140 thì mọi người nên nhớ là đối với động cơ
+00:04:20.060 thì đây là theo một cái sơ đồ của mạch
+00:04:22.460 điện tủ lạnh sắt thì sau đó sau này các
+00:04:25.100 em cần phải xem về sơ đồ
+00:04:28.210 chúng ta không dám anh Bởi vì chiếm số
+00:04:31.740 đông là trên thị trường của Toàn cái
+00:04:33.510 động cơ do Đây là bố trí các thì chân là
+00:04:35.010 chân ba là chân nối với cũng chất độ
+00:04:36.600 chân hay để chân để trên tường ở chế độ
+00:04:38.760 ngắn chấm một là chân là công nguồn cho
+00:04:41.640 động cơ Gia Lai và chân 4 chân ở trên có
+00:04:43.590 dài thế đây thì nó ngược lại một chút
+00:04:46.620 nên tăng Em tập xem về sơ đồ mạch điện
+00:04:49.050 mà xem này có cấu trúc của Zara ký hiệu
+00:04:51.870 ở trên giờ này anh còn các cái chân số
+00:04:54.720 này còn ta có thể đổi vị trí cho nhau
+00:04:55.920 như các em cần phải nắm được
+00:04:57.440 chân nối với bộ không chế độ đây chính
+00:05:00.210 là Trấn chung của tiếp điểm thường trú
+00:05:02.820 của tiếp điểm và chân ra với các điểm
+00:05:04.890 trên chế độ dài Tính điều khiển nguồn
+00:05:06.060 cho tôi quạt gió và chân ở da của chế độ
+00:05:08.820 ăn ra điều chỉnh nguồn cho chế độ sách
+00:05:10.550 bây giờ chúng ta sẽ Xong rồi máy sấy lúc
+00:05:12.810 này là sẽ đem thời gian để kiểm sang chế
+00:05:14.250 độ dây là hai sẽ thông dáng ba thì đây
+00:05:16.710 là theo như sơ đồ ở trên cái mạch điện
+00:05:18.560 thì lúc này ra nguồn điều khiển n đi qua
+00:05:22.560 bộ điều chỉnh nhiệt độ
+00:05:24.590 qua bộ điều chỉnh nhiệt độ
+00:05:27.230 là chính là khống chế nhiệt độ tới chân
+00:05:29.680 ở thời gian hai cái này Thu Sang Spa
+00:05:32.039 body cua sò nóng thì đây chính là cầu
+00:05:34.270 chi nhiên qua điện trở xả đá qua gió
+00:05:37.120 lạnh và quay bé quay nguồn
+00:05:40.410 Thì đấy là đối với ạ
+00:05:44.240 ở chế độ sản và bây giờ quan trọng nhất
+00:05:46.970 trong tủ lạnh gián tiếp đó chính là mạch
+00:05:49.580 Chuyển chế độ bệnh mạch Chuyển chế độ
+00:05:51.470 thì cấp các bạn xem ở chế độ dai là 201
+00:05:55.150 Khi nào giờ đang hoạt động thì như chúng
+00:05:57.860 ta đã biết được là đối với mạch điện
+00:05:59.180 trong tủ lạnh gián tiếp thì bắt buộc đó
+00:06:01.490 là chế độ trái lạnh thì phải hoạt động
+00:06:03.620 rồi cái chuyển sang chế độ sạc từ chế độ
+00:06:05.630 sạc thì phải chuyển sang chế độ chạy
+00:06:07.669 lạnh
+00:06:08.500 Bởi vì nếu mà cứ nằm bên cạnh triệu dài
+00:06:11.449 là chế độ trái lại thì lúc này sẽ xảy ra
+00:06:14.210 hiện tượng là Tuyết bán kín bề mặt sàn
+00:06:15.889 tủ lạnh kém lạnh dần rồi mất mạng còn
+00:06:18.139 nếu là nguyên để chế độ sạc thì sẽ dẫn
+00:06:19.940 tới cái tình trạng mà đen sáng là thủ
+00:06:21.380 được không
+00:06:22.900 đèn sáng mà không ở được thì bây giờ các
+00:06:26.539 em nhìn vào đây thì các em thấy này ví
+00:06:28.940 dụ như hai đóng trong một thì bây giờ
+00:06:30.560 mạch điện đối với động cơ lên thì nguồn
+00:06:32.930 điện đi như sau từ một tờ đi qua một
+00:06:36.259 điều chỉnh nhiệt độ tới chân hay da đen
+00:06:37.849 thời gian ngày thông sang chân 11 bây
+00:06:40.009 giờ đi qua động cơ xăng trên 44 thì phải
+00:06:42.530 đi rồi đi xuống khi chờ tại ký chân của
+00:06:46.559 gió lạnh thì nó lại đi chúng ta đã biết
+00:06:48.389 được là thành nhắc lại về nguyên lý hoạt
+00:06:50.819 động và gió lạnh là khi nhiệt độ bề mặt
+00:06:53.549 da mạnh thấp thấp hơn hoặc bằng nhiệt độ
+00:06:56.789 được ghi trên thân thì lúc này sao lạnh
+00:06:58.679 với đọc
+00:06:59.479 sau đó khi mới đầu chúng ta cấp điện cho
+00:07:02.729 động cơ do bên trong tủ lạnh là chưa có
+00:07:05.339 lạnh nên là xóa lạnh của sao lúc này
+00:07:07.139 đang ở trạng thái này chị nó lại đang
+00:07:09.149 chẳng thấy mầm và khi xỏ lạnh đang ở
+00:07:11.399 trạng thái mở thì lúc này nguồn điện cho
+00:07:13.829 tao mày và ra đè không chạy nhưng chúng
+00:07:16.889 ta biết được là đang ở chế độ dài thì
+00:07:18.269 sau một thời gian hoạt động thì nhiệt độ
+00:07:20.069 bề mặt dàn lạnh sẽ có lạnh lúc này cảm
+00:07:22.139 âm sẽ đọc và khi cảm ơn đóng đây thì
+00:07:25.169 nguồn điện lúc này của chúng ta sẽ là gì
+00:07:26.519 ạ từ nguồn điều khiển n đi qua bộ điều
+00:07:28.979 chỉnh nhiệt độ tới chân 22 thông sang
+00:07:31.860 chân 11 đi qua động cơ xăng chân 44 lúc
+00:07:35.279 này đi qua gió gió lạnh chính là cảm
+00:07:37.379 biến âm quay về danh nguồn cấp trước thì
+00:07:39.689 lúc này kín mạch
+00:07:41.089 yến mạch thì ra đây quay ý tưởng chế độ
+00:07:45.370 dài sáng cho căn thì do quay từ chế độ
+00:07:48.520 dài trong chế độ ngắn ở cái trạng thái
+00:07:49.780 này là cảm thấy đâu cả tao đang đóng sau
+00:07:52.180 đó khi về cho đoạn ngắn thì chúng ta
+00:07:54.880 Chắc là Tâm đang đóng thì ra phải là sẽ
+00:07:57.100 không ở đâu thì bây giờ mọi người phân
+00:07:58.840 tích này từ mùa này đi qua bộ điều chỉnh
+00:08:01.210 nhiệt độ tới trận hay hay đi bây giờ chờ
+00:08:03.910 đóng xanh chất 33 đứng chờ đây mà đứng
+00:08:07.570 chờ đây và ra nguồn cấp trước của thầy
+00:08:09.640 thì đi qua gió lạnh cũng đứng chờ chân
+00:08:11.680 có điện trở xả vào vòng lên chân số 4
+00:08:13.560 quá động cơ da đen ra sân 11 thì nếu có
+00:08:17.500 chụp An đi qua động cơ bản gốc vẫn quay
+00:08:19.390 dây nguồn cấp trước thì lúc này đồng pha
+00:08:21.310 nếu đi qua quạt quay về nguồn cấp trước
+00:08:23.920 đồng pha do đó ra thời gian lúc này
+00:08:26.800 không hoạt động da đen thời gian này
+00:08:28.540 không có đâu
+00:08:29.400 và khi gió lạnh ngắt Khi Gió Lạnh ngắt
+00:08:33.039 tức là khi mà tuyết tan hết cảm ơn ông
+00:08:34.929 nhắn thì mạch điện của chúng ta đi như
+00:08:37.419 sau từ ra nguồn điều khiển đi qua phường
+00:08:41.229 9 nhiệt độ tới chân 2a ở sân bay body
+00:08:46.160 quá còn chị Nhật đi qua điện trở xa vòng
+00:08:49.670 đây bởi vì do cả mấy ông của xe tăng nhờ
+00:08:51.800 cái chân 44 qua động cơ xăng 11 đi qua
+00:08:56.120 rơ le bảo vệ quá nhiệt quán ốc
+00:08:58.810 và qua cho này khởi
+00:09:01.060 khởi động và quay cho nguồn đi Đấy chính
+00:09:04.820 là nối với mạch Chuyển chế độ và từ đây
+00:09:07.459 chúng ta cũng có một cái kết luận kết
+00:09:09.649 luận đối với mạch điện sử dụng gel phải
+00:09:12.260 ra loại 2 thì các động cơ thể hoạt động
+00:09:15.170 năng phụ thuộc vào cảm âm Có nghĩa là
+00:09:17.810 chiếc áo dài ở chế độ chạy lại cảm thấy
+00:09:20.779 không phải đọc thì đen thành hướng hoạt
+00:09:22.940 động còn ở Triệu nhắn thì cảm thấy tâm
+00:09:24.440 này phải phải mắt thì ra đem đến hoạt
+00:09:27.200 động thì Đấy là toàn bộ về phân tích sơ
+00:09:30.470 đồ mạch điện thì bây giờ các em ghi bài
+00:09:33.620 cho thành thì thứ nhất là về mạch chiếu
+00:09:36.290 sáng
+00:09:37.510 từ đây nguồn điều khiển
+00:09:39.850 từ doanh Còn điều khiển qua đèn qua công
+00:09:43.850 tắc Anh quay cái nguồn cấp trước
+00:09:47.960 đối mạch chạy lạnh
+00:09:50.360 từ danh còn điều khiển qua khống chế
+00:09:53.010 nhiệt độ này còn gọi là bộ điều chỉnh
+00:09:54.960 nhiệt tới chân hay ra thời gian
+00:09:57.920 hai thông xăng chân một đây chính là
+00:10:00.270 chân chế độ dài 1 chia ra làm 2 nhánh
+00:10:03.090 thứ nhất một đường đi qua quạt đi qua
+00:10:06.900 công tác quay thì ra nguồn nó trước từ
+00:10:10.320 chân một thì một nhánh sẽ đi qua rơ le
+00:10:12.150 bảo vệ quá nhiệt qua động cơ bản rock
+00:10:14.460 bao da đeo phải động và quay cái nguồn
+00:10:17.250 cấp trước
+00:10:18.830 ta xanh mạch sấy giờ này
+00:10:22.190 từ nguồn điều khiển qua không khí nhiệt
+00:10:25.350 độ
+00:10:26.630 tới chân hay ra thời gian hai tông xanh
+00:10:30.180 chân ba của Zara đi qua cầu chi nhiệt
+00:10:33.120 hoa sấy qua Cảm thấy âm và quay về danh
+00:10:38.580 nguồn trước
+00:10:41.600 đối với mạch Chuyển chế độ
+00:10:44.230 ở chế độ chạy lạnh cảm thấy tâm của
+00:10:46.720 chúng ta phải nóng thì cảm thấy không
+00:10:48.850 phải nóng đây là cái điều kiện của chúng
+00:10:50.980 Toàn các bạn thì nhớ như vậy nên là xong
+00:10:53.290 chúng ta đấu mạch điện là phải thực thi
+00:10:55.600 nguồn điều khiển qua ra đây không khí
+00:10:58.960 nhiệt độ tới chân hay ra thời gian hai
+00:11:02.500 tông săm chân 1 của jolla sẽ đi qua động
+00:11:05.470 cơ da đen xanh chương 4 của ra thời gian
+00:11:08.310 qua cảm âm và quay về danh nguồn cấp
+00:11:11.500 trước
+00:11:12.450 ở chế độ sấy
+00:11:14.520 tình cảm với ông phải nhắn tiếp điều
+00:11:17.040 cảm thấy Ông Thành Các điểm tinh nguồn
+00:11:20.140 an điều khiển qua khống chế nhiệt độ tới
+00:11:23.590 chân hay ra thời gian
+00:11:25.470 hai tông trắng chân ma của ra thời gian
+00:11:29.460 ba lúc này đi qua cầu chi Nhật Hoa sấy
+00:11:33.390 tới chân bốn của ra thời gian bốn qua
+00:11:36.520 động cơ lên rồi đi qua tới chân 11 thì
+00:11:41.500 sẽ đi qua Ra đây bảo vệ quá nhiệt qua
+00:11:43.390 động cơ blocks đi và quay về dây nguồn
+00:11:46.880 cấp trước thì như vậy là yến mạch
+00:11:53.649 và từ đây
+00:11:55.390 các bạn cũng có thể là ghi thêm cái này
+00:11:57.589 một chút đó là dịp
+00:11:59.950 đi thêm cho thầy về kết luận là trong
+00:12:02.839 thành mạch điện
+00:12:03.880 trong mạch điện tủ lạnh sử dụng rơle
+00:12:07.430 thời gian loại 2 trong mạch điện tủ lạnh
+00:12:09.830 sử dụng rơle thời gian lại hay
+00:12:18.130 sử dụng ra thời gian lại hai động cơ
+00:12:21.170 đang hoạt động
+00:12:23.290 động cơ da đen hoạt động phụ thuộc
+00:12:26.800 vào cảm ứng
+00:12:29.890 ở chế độ chạy lạnh ở chế độ chạy lạnh
+00:12:38.380 cả mấy ông phải đóng tiếp điểm
+00:12:40.630 ở triệu sấy
+00:12:42.790 thì cảm với Tâm hình ảnh ngắt tiếp điểm
+00:12:47.900 [âm nhạc]
+00:12:50.360 về phân tích sơ đồ mạch điện trong tủ
+00:12:52.980 lạnh gián tiếp sử dụng rơle thời gian sử
+00:12:57.300 dụng
+00:12:58.430 rơle thời gian lại hai à
+00:13:03.360 từ
+00:13:07.730 khi mới cấp điện
+00:13:10.209 a cho tủ lạnh
+00:13:11.999 thì mới cấp điện cho tủ lạnh Nhìn da đen
+00:13:15.399 thời gian đang ở chế độ dai
+00:13:17.759 lúc này 3 tháng 4 thì đây Thầy đang ghi
+00:13:20.740 theo số đông là chất ba là chân chung
+00:13:23.529 của các điểm và chân bốn là chân ra của
+00:13:26.529 các điểm ở chế độ dài ủy ban ăn 04
+00:13:29.610 lúc này blog và quạt gió sẽ làm việc để
+00:13:34.929 làm lạnh block của quạt Gió làm việc để
+00:13:38.079 làm lệch
+00:13:40.410 nhưng do cảm biến ông chưa còn lạnh lúc
+00:13:44.199 này đang ở bị chặn Khánh mở tivi mà
+00:13:46.480 chúng ta vừa cấp điện thì đang là nhiệt
+00:13:48.339 độ nâng cao
+00:13:50.129 rơle thời gian không quay ra đèn phải
+00:13:53.379 giam quay
+00:13:59.670 nhưng
+00:14:01.319 tủ lạnh chạy được một khoảng thời gian
+00:14:04.529 thì lúc này nhiệt độ bề mặt dàn lạnh có
+00:14:07.119 này nhiệt độ bề mặt da mẹ có lạnh bộ cảm
+00:14:11.090 biến lâm đồng tiếp điểm
+00:14:14.500 rơle thời gian mới bắt đầu quay để đích
+00:14:17.780 thời gian nó lạnh để lịch thời gian làm
+00:14:20.570 lạnh
+00:14:22.180 mà sau khoảng 6 đến 8 giờ thì Rơle sẽ
+00:14:26.660 chuyển sang chiều nhắn
+00:14:28.540 sẽ chuyển sang chiều nhắn
+00:14:31.390 354
+00:14:33.970 đồng thời ban thông sang chấn hay để sấy
+00:14:38.600 ra lạnh làm việc để sấy giả dạng làm đẹp
+00:14:44.530 lúc này ra đây Thời gian không quay lúc
+00:14:47.960 này ra đây Thời gian không bay
+00:14:55.900 nhưng sau một thời gian tiếp Cánh hết
+00:14:59.740 sau một thời gian tuyết tan hết
+00:15:04.600 tính nhiệt độ bề mặt già lạnh tăng cao
+00:15:08.290 nhiệt độ bề mặt sàn bộ
+00:15:12.140 cảm biến âm
+00:15:14.390 ngắt tiếp điểm
+00:15:16.760 cảm biến âm nát điểm
+00:15:19.310 lúc này rơle thời gian mới bắt đầu quay
+00:15:22.940 để chuyển sang chế độ làm lạnh
+00:15:27.530 và mạch này mạch điện này thì cái được
+00:15:30.090 lặp đi lặp lại theo một chút chu kỳ
+00:15:32.030 Còn đối với mạch chiếu sáng đối mạch
+00:15:35.790 chiếu sáng
+00:15:36.830 hoạt động
+00:15:38.960 đóng ngắt cụ bọc báo Công tắc cửa chính
+00:15:42.540 tả chế độ là mở cửa này đã đóng cửa
+00:15:45.620 đấy là đối với sơ đồ trong mạch điện tủ
+00:15:48.630 lạnh Sharp và sử dụng gen xảy ra vài
+00:15:51.000 loại hay
+00:15:53.060 bây giờ chúng ta sẽ đi về một số cái sơ
+00:15:56.760 đồ mạch điện khác
+00:15:58.640 chính là sơ đồ mạch điện trong tủ lạnh
+00:16:01.350 Toshiba
+00:16:02.360 Cho mạch điện trong tủ lạnh Toshiba
+00:16:06.050 Đó là hình 4C trồng lấy quyển tài liệu
+00:16:09.240 phức tạp và thầy ở
+00:16:12.269 trong đó ở trong này thì chúng ta thấy
+00:16:15.429 là gì ạ lát này là đèn web này là công
+00:16:18.459 tắc của em
+00:16:20.369 điện vector này chính tả điện trở xả
+00:16:24.149 thơm mát này làm cầu chi nhiên ban store
+00:16:28.300 này chính là thiết bị bảo vệ điện áp cao
+00:16:31.809 hay còn gọi là mía nhốt Inverter là cảm
+00:16:36.100 biến âm
+00:16:36.839 tham này là ra đè thời gian test là ra
+00:16:40.929 đây không chỉ cho độ
+00:16:44.040 vietlott nhanh Linh bảo vệ thích chân
+00:16:47.619 lên là khởi động phần mô tơ là quạt gió
+00:16:54.179 air force này đại diện là Mochi và qua
+00:16:59.679 Vision mới sinh là mày đen đây là có hai
+00:17:03.069 cái điện trở là 4,3 là sensor và header
+00:17:05.529 trong đó là đây là sấy của vòi vòi khống
+00:17:09.849 chế nhiệt anh em tắt đi và vectơ là sĩ
+00:17:13.939 có thể ra đây không trên Zalo
+00:17:16.390 bây giờ
+00:17:19.089 mọi người nhìn vào cái sơ đồ mạch điện
+00:17:22.220 đây thì vé sang Bậc Thầy
+00:17:24.730 ghi này cho các bạn dễ hình dung
+00:17:28.059 ai ta bỏ hai điện trở điện trở này là
+00:17:30.919 sấy bố tế bào này phải nằm
+00:17:33.730 đây chính là mạch điện mà sử dụng rơle
+00:17:36.289 thời gian
+00:17:37.240 sử dụng
+00:17:39.460 da đen xạm lại một cái sử dụng dao này
+00:17:42.710 xảy ra lại một động cơ nhưng mà có rất
+00:17:44.960 nhiều thiết bị thì trong đó là có công
+00:17:46.909 tắc là một này khống chế là hay theo
+00:17:49.880 thời gian là 3 cảm với ông là bốn điốt
+00:17:52.429 là năm đầu chi nhật là 6 chiếc lá mạch
+00:17:56.299 còn chỉ rằng là tám bảo vệ là chín và
+00:17:58.880 khởi động là mười là thấy là có người
+00:18:00.620 thiết bị cần phụ tải của chúng ta thì
+00:18:02.030 gốc là một điện trở xả là hai quạt là 3
+00:18:05.539 bóng đèn là 4 động cơ Đây là 5 và 2 điện
+00:18:09.169 trở này nó 7 ạ khi mà chúng ta cũng sẽ
+00:18:12.120 đi về một số anh mày như sau trong đó là
+00:18:14.280 có bốn cái mạch chính là mảnh chiếu sáng
+00:18:15.900 mình sẽ lạnh mạch điện trở xa rồi mạch
+00:18:20.700 của chúng ta đó liền mạch của sấy sấy
+00:18:24.810 dàn lạnh
+00:18:25.910 làm mạch sạc và sấy Voi do mạch Chuyển
+00:18:29.670 chế độ của động cơ ra led45 mạch đã phân
+00:18:32.880 tích ở trong đầu buổi học đó là đầu bài
+00:18:36.720 số 4 ta là thích của mạch điện sử dụng
+00:18:38.400 các loại 1 và tĩnh mạch điện này loại 2
+00:18:40.890 thì chúng ta đã có bốn mạch điện Bây giờ
+00:18:43.980 các em nhìn vào sơ đồ thể sẽ rất thích
+00:18:45.930 nhất là về mạch chiếu sáng từ danh nguồn
+00:18:49.710 điều khiển này
+00:18:51.140 đi qua đen này
+00:18:53.420 đi qua công tắc này quay nguồn và lúc
+00:18:56.790 này Đây là điện xoay chiều là đi theo
+00:18:58.290 hai chiều Đố mày chạy lạnh thì từ giang
+00:19:01.500 hồ nhiều tiền đi qua không khí nhiệt độ
+00:19:04.170 tới chân ma da đen thời gian bà con này
+00:19:07.380 đóng xong chương 44 chia ra làm hai a đó
+00:19:11.340 là chúng ta sẽ đi qua quạt
+00:19:13.830 hoa con tắc cười
+00:19:15.900 và quay từ nguồn yến mạch từ chân bốn đi
+00:19:20.320 qua rơ le bảo vệ quá nhiệt quán ốc
+00:19:23.730 con Khởi động và quay lại nguồn
+00:19:27.660 đấy là đối với mất sạch quạt quay để làm
+00:19:31.720 lạnh đã sang chế độ sạc đó điện trở xả
+00:19:35.740 xả đá rang một điều khiển
+00:19:38.790 đi qua ra đây không tránh nhiệt độ tới
+00:19:41.110 Champa ra thời gian
+00:19:43.080 ba đóng xanh chân hay đi qua cầu chì
+00:19:46.360 dòng
+00:19:47.220 đi qua điốt
+00:19:49.710 và bị điếc này là hai điốt phân cực
+00:19:52.780 ngược lại yếu thằng lắp mà phân được gặp
+00:19:55.480 nhau song song với thu nhập này ta không
+00:19:57.640 đi qua là hai đứa bởi vì ít yếu chỉ cần
+00:20:00.040 kỹ thuật rồi thì đối với trường hợp này
+00:20:01.480 thì riêng yếu là không được gọi là chỉ
+00:20:02.950 cho rằng Dương đi qua với điều kiện là
+00:20:04.660 oa uaf lớn hơn Coca tốt và mua chừa lớn
+00:20:09.280 hoặc bằng khu 7 cái à ở đất do đó
+00:20:12.549 lúc này chỉ cho dòng Dương đi qua thì
+00:20:15.200 đến Riêng đối với cái mặt giấy này thì
+00:20:16.490 đi một chiều thôi qua yếu đi qua cảm
+00:20:19.100 biến âm rồi đi qua điện trở xả đi qua
+00:20:22.340 cầu chiên và khoai như nguồn cái mạnh
+00:20:25.340 như này đây tôi cái mạng này
+00:20:27.940 Đây là đối với
+00:20:31.330 mạch của chúng ta đó chính là mạch
+00:20:34.290 [âm nhạc]
+00:20:36.370 sạc
+00:20:38.350 bệnh mạch Chuyển chế độ bị mạch Chuyển
+00:20:41.630 chế độ thì chúng ta thấy là xét ở chế độ
+00:20:43.010 dài ba đang đóng 4 thì mạch đi qua động
+00:20:47.000 cơ da đen thân đi như sau từ một năm qua
+00:20:50.900 không khí nhiệt độ Tới Trương Ba Da đen
+00:20:52.370 thời gian ba qua động cơ xăng trên
+00:20:55.690 11 qua điện trở xả qua cầu chi nhiên và
+00:20:59.630 quay về nguồn
+00:21:01.720 đi quay được Cái xanh đủ để chế độ xả ta
+00:21:05.840 xanh ở trên một giấy phép thì trường hợp
+00:21:08.090 âm Đừng nóng thì âm năng Ừ đấy bởi vì do
+00:21:11.970 điốt này chị đang có nhốt là phân cực
+00:21:14.360 thuận do đó chỉ cho rằng Dương đi qua
+00:21:17.130 nếu bắn từ đầu n là Dương Dương thì tôi
+00:21:21.930 đi qua không khí nhiệt độ từ chân bao
+00:21:24.570 tay thời gian tìm cũng nằm nằm ở đầu của
+00:21:27.300 động cơ mà đóng sáng ai qua cầu chì dòng
+00:21:30.360 qua điốt và cảm biến âm quay về đây đây
+00:21:32.850 là Dương
+00:21:33.860 đứng chờ cho điện trở xả
+00:21:36.440 n là âm Tí qua cầu chì nhiệt đứng chờ
+00:21:39.600 của điện trở xa như vậy hai đầu điện trở
+00:21:41.760 sảnh có sự chênh lệch điện áp Này trà
+00:21:43.680 xanh làm việc nhưng chúng ta thấy là gì
+00:21:45.570 ạ cân bằng và điện áp tải động cơ ra đây
+00:21:47.970 cho nó ra đây không quay những ta chép
+00:21:50.220 lửa bắn ký sau n đang là dương n đang ở
+00:21:53.820 âm là chưa là âm thì chưa thấy là nó ông
+00:21:57.060 đang đứng ở chân của động cơ ra và âm
+00:21:59.400 thì không thể đi qua điốt và vận dụng
+00:22:01.020 được nhưng là Dương Dương thì đi qua cầu
+00:22:03.990 chì qua điện trở sản đứng vào chân một
+00:22:06.090 như vậy ta thấy hai đầu của động cơ có
+00:22:08.910 sự chênh lệch điểm Ừ thì lúc này không
+00:22:11.260 có sinh ra trong sạch mặc dù ăn lương
+00:22:13.060 đóng thì chúng ta thấy là đối tác tin
+00:22:15.070 tưởng ăn kỳ này thì do động cơ luôn là
+00:22:17.020 có dòng khởi động có thời gian khởi động
+00:22:19.410 do đó nếu mà các bạn sờ đến Tân của
+00:22:21.790 serre thì ta thấy nó Tấn Dũng và từ
+00:22:23.800 trường đi qua có dòng điện đi qua là sẽ
+00:22:25.630 có từ và con từ đi Sao nó sẽ dùng nên
+00:22:28.300 nhưng mà nhìn vào mắt kính của ra đè
+00:22:29.770 hoàn toàn là không quay hoàn toàn lành
+00:22:32.920 quanh nhưng đây là con rất nhiều quá Cái
+00:22:35.110 phụ vậy bây giờ sắp xếp vị vụ này thì có
+00:22:37.930 nhiệm vụ như nào thì ghép này thì nó là
+00:22:40.420 hai con giúp lắp ngược nhau hãy yêu lắp
+00:22:43.240 ngược nhau phân cực ngược thì chúng ta
+00:22:44.740 đã học là về hoạt động của ngốc Đây thấy
+00:22:46.900 nhắc lại nếu cần Thuận cho dòng chảy từ
+00:22:49.600 anot sang catốt với điều kiện vua lớn
+00:22:52.360 hơn Coca của chữ u ta lớn hơn bằng 17 và
+00:22:56.110 khi người ta có làm cái thí nghiệm là
+00:22:57.730 nếu người ta điều chỉnh điện áp cực
+00:22:59.350 catốt nên rất lớn thì lúc này à vượt qua
+00:23:02.890 được giá trị dòng chữ đức của Điốt và
+00:23:04.750 đánh thùng và người đã phản ứng chậm
+00:23:07.260 và bị chập à
+00:23:10.220 á Đối với áp cao áp cao thì nó sẽ bị
+00:23:13.789 chậm thì lúc này nguồn điện của căn này
+00:23:15.620 này
+00:23:16.990 đi qua khống chế thì là một cái điểm này
+00:23:19.370 ba đọc San hay là một chất điểm này tôi
+00:23:21.740 rằng nó còn dây dẫn này ví dụ tim khi bị
+00:23:24.919 chọc thì đi qua đi khắp này quay về
+00:23:27.409 nguồn cấp trước này như vậy trên những
+00:23:28.730 con đường này không có phụ tải nào để
+00:23:30.169 cản trở dòng điện biến điện năng thành
+00:23:31.640 các dạng năng lượng khác do đó nơ yếu
+00:23:33.980 nhất trái đất để bảo vệ thì lúc này
+00:23:36.110 chúng ta thấy là nơi yếu nhất chính ra
+00:23:37.250 cầu chì dòng lúc này rất vậy khi đức
+00:23:40.010 tính mà mất mạch hở mạch của sấy và sấy
+00:23:43.669 sẽ không làm việc nhưng mạch Chuyển chế
+00:23:45.320 độ bằng ta vẫn làm việc cho nó làm từ
+00:23:47.539 chế độ chạy lạnh tình chuyển sang chế độ
+00:23:49.190 sáng được chuyển sang chế độ chạy lạnh
+00:23:50.900 như sấy sẽ không có việc và sấy lúc này
+00:23:53.150 không Đặc biệt sẽ xảy ra với biểu hiện
+00:23:55.030 tủ hoạt động nhưng kém mạnh dần rồi mát
+00:23:58.100 lạnh tiếp bàn phím mặt dàn
+00:24:00.309 thời tiết 89 để bạn rằng thì đây là biểu
+00:24:02.990 hiện
+00:24:03.730 của điếc do đó là khi mà chúng nó phát
+00:24:07.280 hiện của chị dòng miếng đất thì các em
+00:24:08.539 cần phải kiểm tra ghép Và Nỗi Nhớ anh
+00:24:10.230 mất tiền giống biểu hiện toàn giống với
+00:24:12.960 mạch mạch sạc tiếp Thế nên có nhiều bạn
+00:24:15.360 thì khi ở bên ngoài cửa hàng chúng ta
+00:24:18.330 học theo một cái trường hợp mà học tiền
+00:24:20.400 điện các bạn không phân tích không hiểu
+00:24:22.320 về mạch điện Do đó các bạn Các bạn thấy
+00:24:25.020 là khiển là kết bán kính là mặc rằng thì
+00:24:27.450 các bạn cứ nghĩ là thằng mai trả tiếp
+00:24:28.830 vào các bạn thay hay toàn bộ với các
+00:24:30.990 thiết bị điện trong mạch điện xả viết
+00:24:32.160 trong đó gồm ra thời gian còn cảm biến
+00:24:34.410 âm gồm xây bằng cầu chì nhiệt nhưng
+00:24:36.930 không đạt được hiệu quả đấy là lý do là
+00:24:39.300 tay nhất là cái điện trong mạch điện
+00:24:40.770 sạch tiếp rồi nhưng mà vẫn xảy ra được
+00:24:42.390 tiết 8 ký mà bạn rằng kém lạnh dần mất
+00:24:45.750 này
+00:24:46.430 còn nói với nước thì lúc này yếu thì chị
+00:24:49.590 phân cực cực vận gió trong chúng ta chỉ
+00:24:52.290 làm việc rửa mặt trị dương hay nói cách
+00:24:54.390 khác là sấy này của tao làm việc
+00:24:56.570 muốn nửa bánh tin thì như chúng ta đã
+00:24:59.490 biết được là nếu chúng ta làm việc cả
+00:25:01.410 một bán kỳ thì làm sao thế sấy này người
+00:25:03.000 ta nói chuyện với cường độ lớn và nhanh
+00:25:05.700 học thì buổi học trước chúng ta đã học
+00:25:08.190 cái bóng sấy bóng xoáy của ta kìa một
+00:25:10.270 trong những nguyên nhân gây hư hỏng là
+00:25:11.950 do khi Xả tuyết nước Thanh Tuyết Tan
+00:25:14.620 thùng nước chảy vào bóng sấy gây sự dáng
+00:25:17.230 nổ đột ngột và gây đổ móng Sau
+00:25:19.440 đây là một trong những nguyên nhân nếu
+00:25:21.760 cần ta chết chậm thì cũng là một trong
+00:25:23.950 những nguyên nhân gây ra bóng chính là
+00:25:26.230 bị đứt
+00:25:27.270 tay bóng sáng tạo bị đứt
+00:25:31.050 Do đó
+00:25:33.300 khi phát hiện bóng trái bị đứt các em
+00:25:35.740 cần phải kiểm tra điốt có thể chết họ
+00:25:37.870 trạng thái chọc Nhưng nếu mà đi ốt mà
+00:25:40.780 chết đứng chết chẳng ai biết thì giống
+00:25:43.330 với tôi và xảy ra với biểu hiện là tủ
+00:25:46.750 lạnh hoạt động nhưng kém lạnh dần rồi
+00:25:49.030 mất Lạnh Tuyết bám kín bề mặt rằng bây
+00:25:51.670 giờ chúng ta thấy nó chị
+00:25:53.370 Tuyết bám kín mặt dàn cũng tương tự
+00:25:55.630 giống với biểu hiện của phòng mạch xả xả
+00:25:57.430 tiếp vào buổi học trước thì là cái này
+00:26:00.040 đi tìm hiểu là kia mà chúng ta phát hiện
+00:26:01.420 của chị nghiệp Vì tất Tìm ta cần phải
+00:26:02.740 kiểm tra cảm biến âm rõ bị chậm làm cho
+00:26:04.810 sấy hoạt động trong thời gian dài và có
+00:26:06.550 thể gây ra đứt cầu chi bằng đối với
+00:26:09.370 trường hợp này thì chú Xin chào sản đi
+00:26:11.539 em nhìn mới đây rồi chúng ta đang có hai
+00:26:13.370 cái điện trở sạc
+00:26:14.710 tiếng hai cái điện trở xả này thì bây
+00:26:16.789 giờ
+00:26:17.380 Một là anh là sấy voi không chết mà Anh
+00:26:20.690 thấy thân nói chính xác là sấy trực tiếp
+00:26:23.870 trên bầu dáng đầu kìa chúng ta quay lại
+00:26:26.780 về cái ra 09 cho động cơ bên trong được
+00:26:29.870 cấu tạo diện vòi cảm biến con nối cái
+00:26:33.110 hộp rắn ở nhà một cái ống dẫn áp bên
+00:26:35.539 trong có nạp một cái phí một cái loại
+00:26:38.059 muốn chất da đặc biệt có dám đảo kỳ
+00:26:39.799 nhiên đó là khi nhiệt độ ban đầu nhiệt
+00:26:43.010 độ môi trường và tăng cao hơn nhiệt độ
+00:26:44.390 ta chọn thì lúc này áp suất trong hộp
+00:26:47.630 giám đốc trong hộp xếp vào trong vòi cảm
+00:26:50.030 biến lớn hắn đẩy vào nó sau hắn lực lúc
+00:26:53.210 này đưa cái tiếp điểm động tác động lên
+00:26:55.730 tiếp điểm Tính chín mẹ nóng chảy
+00:26:58.299 thì lúc chạy thì đạt được nhiệt độ theo
+00:27:00.770 yêu cầu tôi lấy ví dụ như ta để số trung
+00:27:02.600 bình là sáu độ ở ngay mắt thì bây giờ là
+00:27:04.520 sẽ xuống khoảng 5 đến bốn nộp bắt đầu
+00:27:06.650 ngắt ngắt thì khi ví dụ như sáu độ thì
+00:27:09.650 cái gọi là số khi nắp
+00:27:12.440 nắp xong rồi khi nào nó chạy lại thì nó
+00:27:15.360 chỉ cần lên khoảng 8 độ lên trả lại là
+00:27:17.760 từ 4 đến 8 độ chênh nhau khoảng 4 độ và
+00:27:19.830 cái thời gian ngắt của chúng ta đã chỉ
+00:27:20.970 ra khoảng là 15 đến 30 phút và sau đó nó
+00:27:24.480 cũng chạy lại khoảng 15 đến 30 phút do
+00:27:26.610 làm mất kiên
+00:27:28.280 nhẫn với mức 8 độ này thì chúng ta đã
+00:27:31.230 đảm bảo được tính công số là áp suất
+00:27:33.120 trong buồng xếp trong vòi cảm biến lớn
+00:27:36.810 hơn lực đẩy của nó sau phản lực này nóng
+00:27:38.940 thấy đẹp nhưng ở trong này cái loại ký
+00:27:40.470 gà đặc biệt thì loại khí này nó sẽ
+00:27:43.490 có sự dám mà trọng vì nhiệt nên với
+00:27:46.590 nhiệt độ đó chưa thể tác động áp suất
+00:27:49.710 của các chưa để tác động lên cái tiết
+00:27:51.150 kiệm đọc để nóng là tiếp điểm thì nên là
+00:27:52.950 mặt ta vẫn đang ở mạch không thì mình
+00:27:55.140 phải ra ngắn rất là dài và khi đó này để
+00:27:57.810 đạt được nhiệt độ bằng với cái nhiệt độ
+00:28:00.360 có diện bằng cách nhiệt độ môi trường
+00:28:02.160 đến nó mới mới có thể là nắm được chính
+00:28:05.370 vì lý do này
+00:28:06.950 chính vì lý do này mà sẽ bạn nhớ được
+00:28:09.240 nghỉ à Anh mất cái điểm nó phải đạt được
+00:28:11.710 nhiệt độ của ta là bằng với nhiệt độ môi
+00:28:13.240 trường thời gian ngắn rất đàn ông và có
+00:28:15.130 thể gây ra để học có thể đưa ra học
+00:28:18.060 chính vì lý do đó mà chúng ta cần phải
+00:28:20.410 hay sấy điều kiện đổ hay sẽ đi làm việc
+00:28:22.360 thì mọi người nhìn vào đây thì điều kiện
+00:28:24.220 của hai sấy là việc đó là một là ở chế
+00:28:26.470 độ dài không chính đổi của ta nhắc tới
+00:28:28.690 việc hay là về chế độ xả nó vào năm sáng
+00:28:31.660 nay đấy là đối với trong bệnh này trong
+00:28:35.140 cái mạng này thì các em có thể ghi ghép
+00:28:38.050 tao về mặt chiếu sáng từ nguồn n đi theo
+00:28:42.370 hai chiều thì sẽ đi qua đèn thì qua công
+00:28:44.230 tác quan hệ 1-n
+00:28:46.260 Đố mày chạy lệch
+00:28:48.360 từ nguồn n đi qua không khí nhiệt độ
+00:28:51.640 dưới chân ba ra thời gian ba đóng sang
+00:28:55.180 chương 4 của Zara chia làm hai nhánh một
+00:28:58.030 lần đi qua quạt qua công tắc quanh một
+00:29:00.460 đầu từ chân bốn đi qua chỗ này bảo vệ
+00:29:03.070 quán ốc bao giờ đây phải độc và quay về
+00:29:06.400 một lần
+00:29:07.830 đối mạch sấy lạnh
+00:29:10.220 Ừ từ Wonder
+00:29:12.010 đi qua không khí nhiệt độ tới chân ba ra
+00:29:16.400 đây Thời gian ba sẽ nóng xanh chân hai
+00:29:18.919 của ra thời gian qua cầu di dong cua
+00:29:21.710 nhốt có cảm biến âm âm qua sấy dàn lạnh
+00:29:25.299 đi qua cầu chi nhiên và quay như nguồn
+00:29:28.210 trước mặt lờ vẽ mạch Chuyển chế độ thì
+00:29:32.960 chúng ta thấy là từ nguồn nơ sẽ đi qua
+00:29:35.450 không khí nhiệt độ tới chân ba ra thời
+00:29:37.280 gian ba sẽ đi qua động cơ gian qua giấy
+00:29:40.520 ra lại qua cầu chị Ngân và quay lên con
+00:29:43.520 nào thì đáng ra đối với
+00:29:48.190 Đây là hoạt động cơ ra đây trà xanh tiến
+00:29:50.690 bộ của thời gian và lưu ý
+00:29:54.490 thì trong hai mạch điện này thì hai cái
+00:29:56.750 điện trở 43k ôm và 7,5 Cao làm việc khi
+00:30:00.309 máy hoạt động ở chế độ trái lạnh Rơle
+00:30:03.919 chính các đầu ngắt
+00:30:05.230 hoặc Giờ đây phải gian đang ở chế độ sấy
+00:30:08.049 thì cái nguồn điện của cho đi xe Honda
+00:30:12.710 đi qua 4,3 Cao hôm qua 7,5 cao Ôm thì
+00:30:16.830 qua ra bảo vệ đi qua động cơ blog toàn
+00:30:20.250 dân khởi động và quai bị 1l
+00:30:22.400 mà chúng ta đã biết được là muốn nếu một
+00:30:24.810 trong hai sấy này mà không học thì Tùng
+00:30:26.640 hoạt động nhưng khi Tùng mắc rất lâu mới
+00:30:30.030 hoạt động trở lại
+00:30:32.750 về thiết bị bảo vệ áp cao hay còn gọi là
+00:30:36.390 tủ chống sét thì khi không ở trạng thái
+00:30:39.450 trọc thì sẽ làm cho cầu chì dòng biệt và
+00:30:42.660 cậu chỉ dòng mới đất thì tủ lạnh sẽ kém
+00:30:44.910 lại dần rồi mắt lạnh và biểu hiện giống
+00:30:48.180 với biểu hiện hỏng mạch điện xả tiết
+00:30:51.740 về đối với nút điốt của chúng ta đó là
+00:30:55.260 nắng Rong Và cho cái dòng này
+00:30:58.730 ngắn Dòng ở chế độ sấy là bảo vệ năm
+00:31:02.010 ròng ở trên đó xanh lúc này sấy chúng ta
+00:31:04.890 là sấy một chiều và cái bị trọng gì
+00:31:08.400 à mà
+00:31:10.210 ở trong một cái thời gian đó thể hiện
+00:31:12.960 dày và gây ra Đức về bóng trái một trong
+00:31:15.580 những nguyên nhân rất nóng sấy được
+00:31:16.750 ngoài là bị nổ này là bị trường hợp là
+00:31:20.020 đối với các loại mà vẫn yếu ớt này
+00:31:22.260 Bây giờ chúng ta sẽ sao mà đi trường hợp
+00:31:25.420 như sau các em xem thì đây là một sơ đồ
+00:31:28.210 mạch điện đó là cái mạch điện mà loại 2
+00:31:33.570 mạch điện loại 2 thì cảm biến âm có thấy
+00:31:36.280 đang được nối với nguồn cấp trước à để
+00:31:39.279 kết nối với nguồn cấp trước thì đối với
+00:31:41.390 trường hợp này thì chúng ta đã biết được
+00:31:42.860 là trong những buổi học không Trước
+00:31:43.909 chúng ta bo
+00:31:45.039 nêu cái phần da đen thời gian thì ta có
+00:31:48.440 hai loại một là là đẹp thời gian lại 12
+00:31:51.559 lần tay đem phần trăm lại hay về cơ bản
+00:31:53.480 hai loại này có cấu tạo giống nhau
+00:31:55.510 Do đó khi chúng ta thay thế hai loại cho
+00:31:59.059 nhau thì chúng ta cần phải một là thay
+00:32:02.210 đổi vị trí một số các linh kiện trong
+00:32:03.590 mạch điện hay là chúng ta phải thay đổi
+00:32:05.090 chân cấp nguồn cho động cơ giờ này nằm ở
+00:32:07.669 trận một tức là nằm ở chân 132 lại thời
+00:32:10.220 gian 14 bây giờ thấy sẽ đối lập Nếu mà
+00:32:13.399 chúng ta hay sai thì tủ lạnh sẽ xảy ra
+00:32:15.590 biểu hiện gì mà bây giờ mọi người cùng
+00:32:17.299 con Xác lên cái sơ đồ mạch điện và bây
+00:32:20.330 giờ là thành sẽ phân tích Đây là sơ đồ
+00:32:21.679 mạch điện ta sẽ thay sai ý sau
+00:32:24.909 đây là có rất nhiều trường hợp ra ngoài
+00:32:27.350 thực tế các bạn đi sửa mà các bạn hay
+00:32:29.510 sai đấy thì đầu tiên là thành cũng xét
+00:32:32.210 về mạch chiếu sáng nhá Thì từ ra nguồn
+00:32:34.700 điều kiện này Ở qua đèn
+00:32:37.120 đi quá là công tắc quay dây nguồn cấp
+00:32:40.590 trước kín mạch sao mà trận lạnh này từ
+00:32:45.090 ra nguồn điều khiển đi bộ điều chỉnh
+00:32:47.309 nhiệt độ từ chất ba da đen thời gian ban
+00:32:49.710 đóng ăn chân 44 chia ra làm hai bố đi
+00:32:52.740 qua quạt
+00:32:53.750 qua công tắc con này nguồn rồi Bốn của
+00:32:58.049 sao đi qua cho em bảo vệ quá nhiệt qua
+00:33:00.330 mày nén và bộ đề và quay lại nguồn Ý
+00:33:04.169 mạch ta xanh mạch sấy từ n
+00:33:08.120 qua bộ điều chỉnh nhiệt độ đến chân ba
+00:33:10.679 ra đây Thời gian ba đóng trắng chân hay
+00:33:12.950 ai qua cầu trí nhiên
+00:33:15.260 gọi điện trở xả
+00:33:17.179 qua cảm âm hay còn gọi là Sáu lạnh rồi
+00:33:20.250 nguồn bây giờ nó sẽ là quan trọng nhất
+00:33:22.740 là cái mạch chế độ thì ví dụ ta sẽ ở
+00:33:25.140 phía triệu độ dài 3 5 4 3 5 4 1 hiện tại
+00:33:28.409 tôi đi yêu xong từ mùa này đi qua bộ
+00:33:31.350 điều chỉnh nhiệt độ tới chân ba ra thời
+00:33:32.970 gian ba qua động cơ xăng 11 đứng chờ đây
+00:33:35.960 thì ban đầu là cảm biến 5 thờ ơ ở
+00:33:39.000 và sau một thời gian tủ chạy lạnh thì bề
+00:33:41.590 mặt dàn có lạnh Cảm ơn ông đóng thì cảm
+00:33:43.929 ơn đóng đóng thì bắt đầu là kín mạch thì
+00:33:45.460 nguồn điện của tôi đi qua cảm biến Đông
+00:33:46.630 ông quay mình chân ngờ
+00:33:49.259 và kín mạch như vậy thì da đen có quay
+00:33:52.029 quay sẽ chuyển sang chị nhắn thì quan
+00:33:54.820 trọng nhất là khi chuyển cho chị động
+00:33:55.840 nhắn mà người như thế này từ Wonder này
+00:33:57.840 qua không khí nhiệt độ tính chất 3 ra và
+00:34:00.669 đứng chờ ở trên của động cơ được chia ra
+00:34:03.190 làm hai nhánh Một nhánh
+00:34:06.120 đi tới chân hay đi quá còn chị nhiệt
+00:34:09.699 đứng chờ ở trên điện trở xả ra nguồn cận
+00:34:13.089 trước cái này nhánh còn lại thì đứng chờ
+00:34:15.399 trong của động cơ ra ra nguồn cấp trước
+00:34:17.230 là 1n cũng đi qua tiếp điểm là số này
+00:34:20.159 thì tại đây cũng chia ra làm hai nhánh
+00:34:22.839 một cấp và cho điện trở xả như vậy cho
+00:34:25.270 thấy là hai đầu điện trở giảng có sự
+00:34:26.770 chênh lệch điện áp và có sự chênh lệch
+00:34:28.899 điện áp lúc này
+00:34:31.079 điện trà xanh sẽ làm việc để trả tiết và
+00:34:34.540 đi lên trên góc phải trên một như vậy
+00:34:36.699 hai đầu của động cơ này mà em không có
+00:34:39.050 sự chênh lệch điện áp lúc này cũng hoạt
+00:34:41.120 động do đó nếu mà chúng ta hay sai thì
+00:34:43.760 nó sẽ xảy ra biểu hiện là vừa sai giờ
+00:34:46.190 đây Thời gian vừa chạy vừa quay mà chúng
+00:34:48.590 ta biết ở chế độ ngắn của chúng ta lìa
+00:34:50.000 chỉ có 15 thì 30 phút do đó thì đấy đặt
+00:34:54.110 cái tình huống như thế này đối chân làm
+00:34:55.850 30 phút bây giờ là ít tiết âm lịch mắt
+00:34:59.360 sớm
+00:35:00.190 bệnh sẽ mất sớm vì sao thế là chưa
+00:35:03.230 chuyển được sang từ chế độ nhắn chứ
+00:35:04.520 Chuyển sang chế độ dài đi ra nát thì bây
+00:35:06.050 giờ là ghi âm mà
+00:35:07.510 bắt này thì cảm thấy đông á thì động cơ
+00:35:10.370 đen mất nguồn và mất nguồn thì giờ đẹp
+00:35:13.070 không quay được thằng kia nó dài nữa và
+00:35:14.810 lúc này nằm nguyên trạng ở chế độ sạc
+00:35:16.280 Thế mày đen sáng tôi không được như bây
+00:35:19.040 giờ là nhiều tiếp thì sao sau 30 phút
+00:35:21.050 thì ra chuyển sang chế độ dài tình chúng
+00:35:23.450 ta biết được là giấy làm ở bên dưới cấp
+00:35:24.860 của bề mặt sàn và cảm âm nằm ở trên cao
+00:35:27.590 nhất của mình rằng vậy ra nhiều thiết
+00:35:29.930 thìa gió đi với lưu từ dưới thấp của bề
+00:35:32.840 mặt rằng rồi đi lên phía trên cao nhất
+00:35:35.000 của tiền mặt rằng sau đó đổ ra vậy phía
+00:35:38.150 trên em về mặt dàn một cái bây giờ nó
+00:35:39.960 vẫn còn tuyết do đó sẽ không có sự bảo
+00:35:42.749 lưu và không có sự lưu thì xảy ra nhưng
+00:35:44.789 kém lạnh dần rồi mất mạng thì đấy là đối
+00:35:47.609 với những biểu hiện thì mình phải sai
+00:35:49.249 chính các bệnh chúng ta cần phải đổi vị
+00:35:52.289 trí một số linh kiện trong mạch điện Xả
+00:35:54.299 tuyết bây giờ các em nhìn vào trong sơ
+00:35:56.489 đồ của cái mạch điện xạ tiết thì thứ
+00:35:58.739 nhất và đối với mạch sử dụng ra thời
+00:36:00.359 gian lại một thì chân số 2 của Zara rất
+00:36:04.349 là ba người linh kiện cảm thấy ông ấy 1
+00:36:06.119 cầu chủ nhật đang mắc nối tiếp nhau
+00:36:08.359 mắc nối tiếp nhau thì chân số 2 chân chế
+00:36:11.579 độ ngắn của rơle thời gian được nối với
+00:36:14.009 cả Mỹ Tâm và chân của công ty sẽ được
+00:36:16.109 nối với nguồn cấp trước đây em nhìn vào
+00:36:18.029 cái mặt lại hay thì ra nguồn cấp trước
+00:36:20.190 tại được nối với cả Mỹ Tâm
+00:36:21.799 và chân hai của ra thời gian này được
+00:36:24.569 nối với củ chi chữa bệnh chúng ta thấy
+00:36:26.640 là cả bao nhiêu tiền này đang được bố
+00:36:27.839 trí ở bên trong ngăn đông cả ba đi kiện
+00:36:29.670 này đang được bố trí ở bên trong đến đâu
+00:36:30.839 do đó do đó lúc này ta sẽ đồn ta sẽ nổi
+00:36:36.479 hai đầu dừng cảm với đâm ở cầu Em Đẹp Em
+00:36:39.580 đổi hai đầu dây cảm ơn em ở Củ Chi nhiệt
+00:36:41.200 ta chỉ cần bảo hai đầu này mà toàn bộ là
+00:36:42.940 thao tác ở bên trong ngăn đông
+00:36:44.490 body kiện này còn đối với rơle thời gian
+00:36:47.110 nên được bố trí ở ngăn lạnh rồi đang
+00:36:49.240 được bố trí ở phía sau
+00:36:50.880 chân một thì vẫn là đấu với chất bột
+00:36:53.350 trắng hai chân chế độ ngắn và vẫn cắm
+00:36:55.750 một chiếc ngắn chấm ba là chân chế độ
+00:36:57.580 trực ban là chân chung của tiếp điểm thì
+00:36:59.920 ta vẫn được cắm với cho bạn và chân bốn
+00:37:02.620 là chân chế độ dài của các điểm thì ta
+00:37:04.390 xác cấp 44 đấy là toàn bộ đối với những
+00:37:07.780 trường hợp là chúng ta thao tác ở bên
+00:37:11.140 trong đàn ông
+00:37:12.270 có một cái trường hợp nữa là bây giờ là
+00:37:14.380 điện đối với trong đấy ạ lưu ý ở cái
+00:37:18.550 phần cảm thấy nó bảo cầu chị Nhật tổ học
+00:37:20.320 thì các bạn nhìn vào đây cảm thấy rằng
+00:37:21.970 mà còn trình cho tiểu học đối với mạch
+00:37:23.290 loại 1 thì cho ta thấy lại chân Dương là
+00:37:25.990 trận cầu chì được hết giấy này Trần này
+00:37:28.450 Trung được nối với chân 1 của Zara thời
+00:37:31.570 gian đối với mạch loại 1 thì chân cảm âm
+00:37:34.210 được nối với chất hai người sau đây 4
+00:37:35.890 mạch lời hay thì tâm cảm biến âm được
+00:37:37.210 nối với nguồn cấp trước
+00:37:38.330 em đổi mới đây chính là cả mông cổ học
+00:37:40.490 đây 915 cổ học giống mọi học kém trước
+00:37:43.160 ngày đang hướng dẫn cho cả lớp thứ nhất
+00:37:45.730 đây là cụ dây điện từ bên trong vào tủ ở
+00:37:50.660 vị trí ngát
+00:37:52.030 đây là cụm dây điện ở bên trong vỏ tủ đi
+00:37:56.330 ra nằm ở phía xong động cơ và lông
+00:38:00.280 bên trên 5 Đông có cục dây điện Ừ từ
+00:38:04.940 trong vào tủ visa để kết nối với các
+00:38:08.900 thiết bị điện và phụ tải biết lúc này
+00:38:12.280 thấy cũng dựa theo sơ đồ
+00:38:15.070 và lúc này phải sẽ đi
+00:38:18.400 to
+00:38:19.990 để kết nối dây điều khiển trước thì thứ
+00:38:23.839 nhất là từ phía sau sẽ được nối với bộ
+00:38:26.930 điều chỉnh nhiệt tội ở trên nhắm mắt
+00:38:30.580 lúc này các em để đồng hồ vạn năng để
+00:38:34.040 theo dõi X1 Ôm thằng nào trong mạch và
+00:38:37.130 bây giờ thầy Tiến hành sẽ như to
+00:38:41.680 thứ nhất tay sẽ cố định
+00:38:46.540 một like
+00:38:49.869 ở phía sau sẽ được nối với
+00:38:55.990 thích cắm nguồn
+00:38:58.390 lên trên ngăn mát
+00:39:00.460 Lúc này thầy cũng sẽ á
+00:39:04.280 di chúc để thấy lo
+00:39:11.110 thì thấy đấy là có một giây tóc ngắn mát
+00:39:13.820 để đo tiếp tục cả lên trên Nhân Tông
+00:39:18.100 bởi pin Đối với các trường hợp là thầy
+00:39:21.110 đang chọn dây điều khiển thì lúc này chỉ
+00:39:23.390 thông ở các mác thôi chứ không lên ngăn
+00:39:25.580 đông như vậy thì không cả lên can ông
+00:39:28.490 như vậy giây này thầy sẽ chưa dùng đến
+00:39:33.010 chưa dùng đến
+00:39:34.900 phải đập bỏ riêng ra
+00:39:42.400 [âm nhạc]
+00:39:43.780 để chọn dây thứ hai
+00:39:58.180 cái chọn vào mắt à
+00:40:01.790 a
+00:40:06.130 cho các kiểm tra đồng hồ
+00:40:08.910 ở
+00:40:12.260 Hà Tây được dây đỏ
+00:40:15.680 để kiểm tra lại
+00:40:19.190 nên trên cát tông để xem có thông lên
+00:40:22.470 Nhân Tông hay không
+00:40:23.920 em không đi vậy Đây này anh sẽ chọn làm
+00:40:28.720 tên huấn điều khiển sẽ được cấp vào Rơle
+00:40:32.940 khống chế nhiệt độ I2 đã bộ điều chỉnh
+00:40:35.620 nhiệt
+00:40:36.990 anh ra bộ điều chỉnh nhiệt
+00:40:39.170 sẽ được nối với Chăm Pa
+00:40:41.750 của Zen thời gian hai đồng hồ sản
+00:40:46.070 Y sẽ giải thích tại sao vừa nãy phải có
+00:40:48.630 một dây thông cả hai ngăn và chúng ta sẽ
+00:40:51.300 không dùng thứ nhất nhìn
+00:40:53.840 từ châm 4 của đồng hồ xả tiết đang nằm ở
+00:40:57.690 vị trí cắm mắt
+00:41:00.980 Nếu cấp cho động cơ bản gốc
+00:41:03.559 chị sẽ nằm ở phía sau
+00:41:07.209 anh số 4 này sẽ có thể thông An Đông ánh
+00:41:11.930 mắt
+00:41:12.549 ta
+00:41:14.680 chưa xong để cấp cứu cho lốc sẽ thông cả
+00:41:18.439 2 ngăn có thể dây mà thông cả 2 năm thấy
+00:41:21.140 sẽ chọn được làm dây nhất phía sau
+00:41:23.859 duyệt cấp trước thế xong được nối với
+00:41:27.949 động cơ và ốc
+00:41:29.740 em vào Cho nên mắt sẽ được nối với công
+00:41:33.250 tác
+00:41:34.650 lên trên ngăn đông thấy được nối với nó
+00:41:38.380 lạnh như vậy đây thông cả
+00:41:41.310 toàn dân trí phía sau dùng
+00:41:44.460 trong IPad và máy trong căn đông thì
+00:41:47.980 thấy có thể chọn làm đây
+00:41:50.790 Hôm trước có thể chọn nằm tay Suốt chính
+00:41:54.790 quy bạch dây đầu tiên thấy nó bảo thì
+00:41:59.740 thông cả hai vị trí chính vì bệnh
+00:42:02.400 này không rung
+00:42:06.270 thì bây giờ cái to này
+00:42:08.790 dây đỏ bắt đầu dùng
+00:42:11.400 để thấy chọn và thấy đang đi theo hướng
+00:42:14.080 làm đấu
+00:42:16.680 dây điều khiển trước
+00:42:20.210 thi
+00:42:22.270 đấu dây điều khiển trước
+00:42:26.619 không lên em mắt ạ
+00:42:29.650 em
+00:42:30.750 không lên trên nhâm-đốc như vậy
+00:42:34.589 phải chọn dây này làm dây số 4
+00:42:39.329 cấp nguồn cho động cơ bản lock cấp nguồn
+00:42:42.490 cho động cơ bản giọt
+00:42:44.610 ở Nam Đông cấp nguồn cho động cơ quạt
+00:42:47.520 gió ngăn mát đầy cấp vào chân số 4 chân
+00:42:51.960 chế độ dài điều khiển nguồn cho Bảo Lộc
+00:42:54.300 và quạt gió ở chế độ chạy lại
+00:42:56.480 phía sau
+00:42:59.300 được cấp cho động cơ và lock
+00:43:03.950 được cấp cho động Cao Lộc
+00:43:09.500 bây giờ thấy tiếp tục
+00:43:12.500 đi tìm trong số hai tông lên trên Nam
+00:43:16.920 Đông Các em nhìn toàn thiết bị trong đó
+00:43:20.580 có lạnh điện trở xả to sóng vào thiết bị
+00:43:24.750 này đang mắc nối tiếp nhau thì phan
+00:43:27.390 thiết bị này chúng ta cũng sẽ mắc nối
+00:43:30.600 tiếp nhau
+00:43:41.210 gió lạnh mắc nối tiếp với
+00:43:44.620 máy sấy
+00:43:47.940 đa sấy sẽ được nối với cô chim
+00:43:51.630 thả như vậy chúng ta thấy bán linh kiện
+00:43:55.000 này cũng giống như mạch phải một buổi
+00:43:57.280 học trước thấy đón hướng dẫn 3 linh kiện
+00:43:59.350 này cũng đang mắc nối tiếp nhưng chỉ
+00:44:01.120 khác nhau ở chế độ ngắn
+00:44:03.300 ở chế độ ngắn
+00:44:05.610 chế độ chạy xả mạch gọi bột được nối với
+00:44:09.430 cảm biến âm nhưng mệt mỏi hay sẽ đối với
+00:44:12.660 so nóng đó chính là cô Chi và bây giờ
+00:44:15.850 thấy đi tìm
+00:44:18.780 đối với bên trong
+00:44:24.600 bên trong nhắm mắt để trên ngăn đông để
+00:44:29.620 chọn một giây để chọn tôi có vàng à
+00:44:35.790 anh
+00:44:37.100 đi Vậy thì trái nó thông
+00:44:40.780 ở ngã rẽ khó khăn
+00:44:43.620 nếu phải chọn lấy màu vàng làm chân có
+00:44:46.360 hai chân chế độ ngắn thì viết trên cát
+00:44:49.780 tông đập đối với
+00:44:51.690 so nóng
+00:44:54.130 ý
+00:44:54.660 chính đoán cậu chỉ nhiệt
+00:44:57.500 ở
+00:44:58.960 trong ngăn mát được nối với chân số 2
+00:45:03.220 chân chế độ nhắn
+00:45:05.680 chặn số hai
+00:45:07.540 chân chế độ cắt
+00:45:10.060 và bây giờ đây đi tìm về chân số 1A
+00:45:14.280 Ừ
+00:45:16.280 cái chọn dây màu xanh cố định
+00:45:18.890 và bên trên trán ông
+00:45:22.220 đánh bom
+00:45:24.740 trên các sông tại đang có hai dây màu
+00:45:26.970 xanh
+00:45:27.560 thì thấy 01 tây màu xanh này
+00:45:30.560 và bây giờ tôi cũng kiểm tra để làm mát
+00:45:34.260 xem là nó thì xong cũng có dây màu xanh
+00:45:37.760 em có thông minh không phải biết trường
+00:45:40.020 hợp là gì mình có đấu còn những cái dây
+00:45:42.750 thông cả hai ba vị trí có thể gây ra
+00:45:45.390 chập
+00:45:53.450 dây màu xanh làm dân số một đây màu xanh
+00:45:57.690 ngắn tay cho một chất số một đang được
+00:46:00.930 nối
+00:46:03.080 ngã ba giữa gió lạnh rồi cái điện trở xả
+00:46:08.510 gió lạnh
+00:46:10.840 cách
+00:46:11.700 nối điện trở xả ngã ba này tao sò lạnh
+00:46:17.110 ra gió lạnh đối với sấy đây chúng ta ngã
+00:46:19.630 ba
+00:46:22.680 về chân số 1
+00:46:28.500 và Trong sơ đồ mạch điện trên mô hình
+00:46:32.050 mới thành thì thấy đặt chỉ sử dụng công
+00:46:35.380 tắc bóng đèn
+00:46:37.620 công tắc của bóng đèn như vậy Chẳng quạt
+00:46:40.780 này sẽ được nối với nguồn cấp trước
+00:46:43.320 thì có rất nhiều tủ lạnh người ta cũng
+00:46:46.540 chỉ sử dụng là công tắc của đen và công
+00:46:49.870 tác của quạt Thế không
+00:46:52.260 thế giờ để đo
+00:46:55.320 ở ngăn mát thôi còn một đây thì sẽ to
+00:46:58.120 xuống phía sau để còn hai dây
+00:47:00.900 dây đen và cây xanh
+00:47:04.170 để kiểm tra em có dây đen này không
+00:47:08.590 nên trên ngăn đông
+00:47:11.140 đen và xanh em thông đây màu đen không
+00:47:15.230 chữa bệnh
+00:47:16.840 chúng ta thấy
+00:47:20.050 Phía Sau
+00:47:22.060 cái sau Tùy ý
+00:47:24.950 ít nhất sẽ được nối với các nguồn nối
+00:47:29.750 với
+00:47:31.839 bồ đề
+00:47:33.940 đối với bộ đây
+00:47:36.940 nối với phích cắm nguồn
+00:47:39.550 nối với bồ đề
+00:47:47.859 trong ngăn mát
+00:47:50.020 sẽ được nối với ạ
+00:47:54.060 đi công tác ở
+00:48:02.480 ở
+00:48:04.000 bến xe Lam Đông
+00:48:07.540 sẽ được nối với cảm biến âm
+00:48:11.860 và đối với động cơ và giọt
+00:48:16.870 nối cảm biến âm
+00:48:18.820 Nối động cơ bản nó
+00:48:23.260 sau khi nấu xong
+00:48:27.250 thì chúng ta cũng kiểm tra lại mạch điện
+00:48:30.370 trước khi chúng ta cấp nguồn
+00:48:33.550 thứ nhất
+00:48:36.310 cái để da đen
+00:48:38.680 ở chế độ
+00:48:41.500 thể mạng à
+00:48:54.550 ừ ừ
+00:48:57.770 ừ ừ
+00:49:01.800 Anh
+00:49:03.650 thích kiểm tra
+00:49:08.180 ở chế độ máy lạnh
+00:49:11.060 đối với hành chế độ chạy lạnh à
+00:49:15.990 ở
+00:49:16.880 tình chúng ta đã phân tích
+00:49:19.340 ở trên sông
+00:49:21.530 Đà to mái đầu phích cắm ổ
+00:49:25.940 em đi xe có mệt quả bóng đèn
+00:49:28.089 và mạch của động cơ bản lock đã mắc song
+00:49:31.220 song thì do động cơ bản lock có công
+00:49:33.319 suất
+00:49:34.630 lớn
+00:49:36.250 trả người ta trái nhỏ
+00:49:39.460 chúng ta sẽ có chờ
+00:49:42.970 blog
+00:49:44.829 Lúc này công tắc của thầy anh chỉ có
+00:49:49.099 công tắc của
+00:49:50.260 đen khi đó
+00:49:53.560 và cắm vào ra đây phải đọc và bảo vệ
+00:49:58.119 đến cho ta
+00:50:00.010 thấy bên xong thấy đang có
+00:50:05.160 A mạch đen bo mạch quạt mặt song song
+00:50:09.380 anh sẽ chờ để biết được
+00:50:14.390 trong hai mạch này có đảm bảo tốt hay
+00:50:17.579 không thể tác động Ấn vào công tác
+00:50:21.020 ý khi thấy ấn vào công tác ở mạch chiếu
+00:50:25.440 sáng mạch đen thì bây giờ chỉ còn mạch
+00:50:28.470 quạt người ta thấy có trở của động cơ
+00:50:31.980 quạt
+00:50:37.670 tiếp theo hãng sẽ kiểm tra về mạch
+00:50:41.970 Chuyển chế độ và máy sấy bằng cách xoay
+00:50:46.799 đồng hồ về chế độ sản và xoay rất từ từ
+00:50:50.010 Đây là bạn trêu chọc năng còn nếu mà khi
+00:50:52.200 mà các bạn xoay mặc
+00:50:55.039 nghe chúng ta không có quen để các bạn
+00:50:58.170 có thể đo lại phải cặp tiếp điểm giờ ba
+00:51:01.170 đóng tháng 4 và đọc sách hay xem nói
+00:51:03.539 chuyện này chưa ban đầu ở chế ở ngã ba
+00:51:05.950 Đồng tháng 4 thì bà sẽ nhắn nhạc hay sau
+00:51:09.910 đó khi mà chúng ta
+00:51:12.180 thì ba sẽ phải ngắn
+00:51:14.970 ngắn bốn đồng thời 360.29 dụng bây giờ
+00:51:20.500 thấy đó bây giờ thì
+00:51:23.010 không biết được là
+00:51:26.190 Ừ đúng chưa Thì bây giờ thì rút chân ba
+00:51:29.460 này thế lò này à 364 ngát đây này ba cái
+00:51:33.810 đó trong xanh trắng hay như vậy ta đã
+00:51:35.490 quay chuẩn chế độ chuyển dành cho sạc
+00:51:40.610 cái chuyển sang cho nó xài
+00:51:43.820 thì lúc này cái NO2 đầu phích cắm
+00:51:47.060 thì trong đó chúng ta không mạch đèn và
+00:51:51.600 mắt của động cơ da đen đã mắc song song
+00:51:53.450 nhưng do động cơ mà da đen có thấy đang
+00:51:56.910 có giá trị điện trở rất lớn để nên là nó
+00:52:00.360 hai đầu phích cắm để xác định người ta
+00:52:02.730 chỉ có điện trở của bóng đèn ta chỉ có
+00:52:06.660 điện trở của bóng đèn mà chưa thể hiện
+00:52:09.230 được là điện trở ở ý của động cơ
+00:52:15.700 nghiệp mày Mày cứ để than x11 ca
+00:52:20.710 để phanh thích một ca
+00:52:22.840 sau đó Thấy to hai đầu phích cắm và đồng
+00:52:26.810 thời
+00:52:27.490 Ấn tay vào công tác như vậy
+00:52:31.410 Ừ anh sẽ có giá trị điện trở
+00:52:34.880 ở đây vào thay đối với cái mạch phải hai
+00:52:37.500 thì trọc đó là
+00:52:39.410 ba phụ tải đã mắc nối tiếp nhau
+00:52:42.770 là điện trở xa mắc nối tiếp với động cơ
+00:52:46.880 của ra sao và mắc nối tiếp với anh em
+00:52:51.410 thì tao biết là mắc nối tiếp Điện trở
+00:52:53.549 tăng do đó cả chị Ở đây còn thấy đang lá
+00:52:58.220 26 cao Hôm qua thì tôi cái Mệt mỏi một à
+00:53:01.859 Rồi và 28 cao cấp
+00:53:07.039 thì đây là đối với
+00:53:09.289 mạch Thiện chế độ
+00:53:11.660 và đối với mạch sản là kiểm tra
+00:53:16.099 điện trở xả Tuyết thì thấy cũng sẽ lo
+00:53:19.530 lúc này để tăng đang ở chế độ xả này đấy
+00:53:23.970 thằng cái cười này Nhưng thấy chưa chụp
+00:53:25.710 âm thì làm còn giá trị điện trở của bóng
+00:53:27.869 đèn và bây giờ thì chậm mà
+00:53:30.810 ở đấy chập Cảm ơn tâm anh em nhìn 22
+00:53:34.560 giây của cái tâm là hai dây màu cam
+00:53:37.070 chạm vào này thì lúc này
+00:53:41.030 mạch đèn mạch quạt
+00:53:44.290 Anh xin lỗi mạch đen mạch điện trở xả
+00:53:47.730 mạch đèn mạch điện trở sản ta mắc song
+00:53:51.340 song
+00:53:52.680 ấy chạm vào này mắc song song giá trị
+00:53:55.840 trả giảm nhả ra này thì chả tăng này
+00:53:59.010 như vậy
+00:54:01.560 mạch điện còn thầy kiểm tra nguội là tốt
+00:54:05.520 và bây giờ thì tiến hành
+00:54:09.750 lắp đầu trục hoặc là tăng cao và thầy sẽ
+00:54:13.180 tắt nguồn
+00:54:14.580 để chúng ta tiến hành
+00:54:16.859 em kiểm tra
+00:54:18.769 mạch điện hoạt động ở chế độ
+00:54:21.890 cấp nguồn à
+00:54:28.930 ừ ừ
+00:54:59.020 vì
+00:55:06.420 vậy chị để hả
+00:55:09.270 ở hai chân của cảm biến âm để thầy châm
+00:55:13.500 quan sát à
+00:55:20.720 về
+00:55:23.650 cách sử dụng đồng hồ kẹp tăm kẹp vào một
+00:55:26.750 trong hai giai cấp nguồn
+00:55:28.210 danh thích cắm nguồn
+00:55:30.730 kẹp dây tập trước
+00:55:36.130 đây cho các em quan sát
+00:55:40.960 và thấy sẽ cấp nguồn à
+00:55:44.359 - kỳ thấy cấp nguồn
+00:55:46.539 thì thứ nhất là đối với chế độ chạy lạnh
+00:55:50.410 ừ ừ
+00:55:53.240 Ừ
+00:55:56.080 thì cấp nguồn
+00:56:01.660 blog và quạt nó hoạt động lúc này thầy
+00:56:05.780 đang có rong
+00:56:07.970 cài đặt 1,2 và mô hình này của thầy thì
+00:56:11.390 đang có các bạn có cả
+00:56:14.140 vì
+00:56:14.730 vậy họ cũng trước và con nạp nạp
+00:56:18.050 A và đối với trường hợp này thì chúng ta
+00:56:20.390 phải kiểm tra xem Rơle à
+00:56:22.690 anh ta làm việc hay chưa
+00:56:25.560 thực hiện đúng với những gì Vì sao phân
+00:56:29.070 tích thì cho nó biết
+00:56:31.559 á Đối với 14 chúng ta sẽ Đôi tập 14
+00:56:36.410 ở đây cho tao biết thật là đối với
+00:56:38.420 trường hợp là ở chế độ chạy lạnh ban đầu
+00:56:41.320 sao lại đắng ờ ờ
+00:56:44.410 cho Java của chúng ta có vào đó qua da
+00:56:48.580 của chúng ta không có độc đây
+00:56:53.770 à à
+00:56:57.000 em không có điện
+00:56:59.430 em
+00:57:00.109 và muốn đồng hồ hoạt động tí sau một
+00:57:04.140 thời gian để mặt đàn có lạnh Cảm ơn em
+00:57:06.660 tắm
+00:57:08.450 ý thì cái cà phê nóng kỷ niệm thì chúng
+00:57:12.560 ta thấy là sẽ có nguồn cấp cho
+00:57:16.490 ở đồng hồ xả tiết 2.1.4 vào lúc này sẽ
+00:57:20.450 đồng hồ cho quay à
+00:57:23.250 ạ sau đó phải kiểm tra sang chế độ xả
+00:57:28.400 để kiểm tra thanh tra có sạc à
+00:57:34.860 anh thấy sai
+00:57:36.860 về chế độ sạc à
+00:57:39.150 ý
+00:57:41.390 thì cái sai thì cho sả váy ngắn lực mạnh
+00:57:44.370 trở lại ạ em
+00:57:47.160 nhắn lại trở lại
+00:57:48.990 và dòng nước thầy dòng và thầy đang
+00:57:51.940 nghiện là 0,04 Đây là dòng bóng đèn tay
+00:57:57.250 và mất dòng
+00:57:58.890 động cơ lên đến sắc nhỏ cho nó có thể
+00:58:01.299 hiện rằng
+00:58:02.460 lúc này chúng ta đã biết ở trên đó xả ở
+00:58:06.880 trên đó sạc nếu
+00:58:10.079 cảm biến âm đang ở trạng thái mở
+00:58:14.339 thế Lúc này sấy không làm việc và ra
+00:58:17.920 thời gian của chúng ta
+00:58:21.180 bắt ạ Và bây giờ nếu em nóng
+00:58:26.549 ấm đóng
+00:58:30.000 máy sấy sẽ làm việc dòng và thầy là 0,38
+00:58:34.319 vào lúc này nguồn điện cấp chó đồng hồ
+00:58:36.849 thì đã mất nhà ra này và cấp
+00:58:41.250 cho ta phải đấu mạch điện xong thì ta
+00:58:44.740 phải kiểm tra ạ
+00:58:48.309 sau khi kiểm tra mạch điện năng hoạt
+00:58:51.109 động bình thường
+00:58:51.970 tốt như này thì chúng ta sẽ tiến hành
+00:58:56.680 dùng băng keo hoặc là lâu chụp chúng ta
+00:59:00.500 sẽ bịt kín hai đầu của cả cái âm lại hai
+00:59:02.900 đầu cạnh đối của cảm biến nặng khi cho
+00:59:06.440 ta mì kín hai đầu chạm nối cảm biến em
+00:59:08.150 lại nếu chúng ta dùng ngón cái chạm đối
+00:59:10.430 này thì thông thường thì các trạm đối
+00:59:13.039 này chúng ta sẽ cho mình cái bóng và
+00:59:14.690 chúng ta sẽ phải Office hoặc là chúng ta
+00:59:17.630 có thể sử dụng bằng dịch để đọc lại sau
+00:59:20.480 đó là sử dụng toàn bộ các cái nắp ốp
+00:59:22.520 cánh gió của tủ lạnh nó hoàn tiếp tục
+00:59:25.480 thấy bây giờ để mời cả lớp
+00:59:28.900 mời cả lớp chúng ta sẽ tiến hành là đấu
+00:59:31.700 mạch điện tủ lạnh gián tiếp sử dụng giờ
+00:59:35.089 này phải làm lại này à chợ
+00:59:39.930 đêm nay thì sẽ hướng dẫn cả lớp ta sẽ
+00:59:43.660 sang phần phân tích mạch tiết và đấu
+00:59:48.310 mạch điện tủ lạnh gián tiếp sử dụng da
+00:59:51.310 lat phải ra loại 2 đồng hồ xả tiết dạy
+00:59:54.160 này thì thấy nhắc lại ở phần lý thuyết
+00:59:57.250 Anh em nhìn lên sơ đồ này
+00:59:59.940 duy nhất
+01:00:01.920 chúng ta thấy
+01:00:03.750 cũng giống như mạch lại một nhưng chỉ
+01:00:06.400 cắt là chúng ta đang sử dụng giờ này lại
+01:00:09.640 hay bây giờ thầy sẽ phân tích về mạch
+01:00:12.040 điện chúng ta cũng sẽ chia cái mạch điện
+01:00:15.840 này thành bốn cho mạch nhỏ
+01:00:19.890 đó là mạch
+01:00:21.869 đèn người ta được gọi là mạch chiếu sáng
+01:00:26.220 mạch blog và quạt gió hoạt động II
+01:00:30.350 khi người ta gọi là mạch chạy lạnh và
+01:00:33.950 mạch có điện trở xả đá thì được gọi là
+01:00:37.610 mạch sạc và mạch của động cơ đang hoạt
+01:00:40.730 động thì đây là mạch Chuyển chế độ
+01:00:43.880 Em
+01:00:44.740 thích thứ nhất đối với mà chiếu sáng thì
+01:00:48.019 từ nguồn
+01:00:48.910 từ một nơ để đánh dấu là để chúng ta Dễ
+01:00:53.000 phân biệt từ nguồn nào có đèn thì qua
+01:00:57.079 công tác bảo vệ nguồn
+01:00:59.140 là kiến mạch lúc này đèn sáng từ một năm
+01:01:04.150 qua bộ điều chỉnh nhiệt độ đây chính là
+01:01:06.740 khống chế nhiệt độ tới Chăm Pa của ra
+01:01:09.529 thời gian
+01:01:10.589 từ lúc này ở chế độ trái lạnh và sẽ đóng
+01:01:13.380 tiếp điểm sang chân 4
+01:01:14.749 chân 4 Công nguồn cho quạt gió
+01:01:18.440 quay nguồn từ chân bốn Cua Rơ le bảo vệ
+01:01:21.589 cho máy nén toàn bộ đề để tính giá rẻ
+01:01:25.559 phải tập và quay lại nguồn
+01:01:28.369 ta sang
+01:01:31.339 chế độ xả
+01:01:33.829 ở chế độ xả
+01:01:35.960 đồng hồ thời gian 3 ngăn 4 đồng thời 3
+01:01:40.829 sẽ không xanh chất ngay
+01:01:42.440 từ
+01:01:44.479 153 bộ điều chỉnh nhiệt độ tới chân ta
+01:01:48.260 khi bạn đóng xong chân hay qua so nóng
+01:01:52.030 sao nóng hay ta gọi là cô chị Nhiên gọi
+01:01:54.890 điện trở xa
+01:01:55.870 qua gió lạnh bởi nguồn Khi khác đối với
+01:02:00.020 mạch loại 1 thì chân hai chân chế độ
+01:02:02.840 ngắn của đồng hồ ta được nối với so nóng
+01:02:06.590 nhưng đối với mạch loại 1 thì chúng ta
+01:02:09.860 đang được đối với sao lạnh
+01:02:13.150 vậy mà chuyển chế độ I

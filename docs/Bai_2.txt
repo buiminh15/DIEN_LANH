@@ -1,0 +1,1593 @@
+# tactiq.io free youtube transcript
+# Bài 2 - Động Cơ Block Tủ Lạnh ( Kiểm Tra Sửa Chữa, Thay Dầu ) II Dạy Nghề Thanh Xuân 93NT 0936989090
+# https://www.youtube.com/watch/BGeMCQk8ECo
+
+00:00:00.040 Xin chào anh em chúng ta tiếp tục sang
+00:00:04.859 bài học đó là bài 2 hệ thống làm lạnh và
+00:00:09.670 chúng ta đi tiếp về phần động cơ Bảo Lộc
+00:00:11.590 buổi học trước giờ đã đi tìm hiểu về
+00:00:14.679 phân loại để nguyên lý làm việc để cách
+00:00:16.960 xác định các trận đấu điện của động cơ
+00:00:18.450 sơ đồ đấu điện động cơ buổi học ngày hôm
+00:00:21.640 nay thì cho chúng ta cùng đi tìm hiểu về
+00:00:24.070 phương pháp kiểm tra đánh giá chất lượng
+00:00:25.590 hay Dầu cho động cơ và một số những hiện
+00:00:28.690 tượng hỏng mọc tóc tổ kiểm tra sửa chữa
+00:00:32.080 và thay thế
+00:00:33.720 nghỉ buổi học ngày hôm nay chúng ta đi
+00:00:35.950 nốt xong cái nội dung 1.5 1.6 197 đó là
+00:00:39.730 phương pháp kiểm tra đánh giá chất lượng
+00:00:41.140 của động cơ thay dầu cho động cơ và một
+00:00:44.590 số những hiện tượng hỏng tóc phổ kiểm
+00:00:47.140 tra sửa chữa và thay thế
+00:00:51.930 trước khi sang đến phần
+00:00:55.110 phương pháp kiểm tra đánh giá chất lượng
+00:00:57.190 của động cơ thì thì mời cả lớp chúng em
+00:01:00.079 xem lại về đối với nguyên lý hoạt động
+00:01:03.230 của động cơ à
+00:01:05.620 [âm nhạc]
+00:01:37.980 [âm nhạc]
+00:02:00.060 Ừ
+00:02:43.040 thì chúng ta nên nhớ Đây là một trong
+00:02:46.260 những
+00:02:47.060 thiết bị được ví như một trái tim của
+00:02:50.160 một hệ thống do đó động cơ blog tốt ngày
+00:02:55.349 không thì sẽ dẫn tới một cái sản đó là
+00:03:00.730 năng suất làm lạnh là đề cao giá thành
+00:03:03.099 của sản phẩm và tuổi thọ sản phẩm bia ở
+00:03:06.459 phần trước chúng ta mà đi tìm hiểu động
+00:03:09.579 cơ 1 lốc năng lực cấu tạo gồm 3 phân
+00:03:11.319 phần Vỏ
+00:03:13.560 phần
+00:03:15.450 điện và phần cơ như vậy để đánh giá chất
+00:03:19.390 lượng động cơ tốt thì chúng ta cần phải
+00:03:23.439 kiểm tra 3 phần tạo nên một cái động cơ
+00:03:26.500 khí nhất là thành phần vỏ thứ hai là
+00:03:28.810 phấn điện thứ ba là phần phần cơ
+00:03:32.489 đối phần vỏ
+00:03:36.060 chúng ta phải kiểm tra hình dạng kích
+00:03:39.370 thước nước sơn thì đối với trường hợp là
+00:03:41.939 một kiểm tra hình dạng kích thước Sơn
+00:03:44.230 thì ra để ý đấy hình dạng là không bị
+00:03:47.739 bẹp méo như chúng ta đã biết được là bên
+00:03:50.709 trong hệ thống Gồm có 3 4 lò xo chống
+00:03:53.650 rung và sử dụng bút lông để bắt phần
+00:03:57.790 điện làm luôn đó dậy là mơ khi chúng ta
+00:04:01.660 đặt lên lò xo Nếu bây giờ kích thước của
+00:04:06.200 chúng ta có sự biến giác thì đồng nghĩa
+00:04:08.000 với bị và động mạch và có thể gây dân
+00:04:11.270 quần lò xo chống rung nó lại kêu đối với
+00:04:13.580 bị va đập mạnh có thể là phần Điện phần
+00:04:16.700 cơ là nghĩ sai lệch mà có thể gây ra
+00:04:19.339 nhận cái kéo
+00:04:20.738 rồi hẹn nước sơn thì phải điện đó là dịp
+00:04:23.600 thể hiện đó là vỏ của chúng ta đã bị
+00:04:26.510 dịch đối với vỏ kim loại mà không thể gì
+00:04:29.540 thì cũng sẽ dẫn tới cây yêu là năng suất
+00:04:33.530 dẫn nhiệt là năng suất tỏa nhiệt của lốc
+00:04:37.100 ra môi trường của chúng ta tốt hơn và
+00:04:39.290 thứ hai là
+00:04:40.570 là không bị khả năng dò gì Tức là không
+00:04:43.850 bị
+00:04:45.850 gió ông bị khùng và không bị trùng thì
+00:04:49.430 lúc này là chúng ta thấy khả năng do gì
+00:04:51.440 để mua chất của gia tốc kiểm tra máy cắt
+00:04:54.500 ống nối hệ thống thì các em thấy ở đây
+00:04:56.810 đang có 3 ống một số con năm ống nhưng
+00:04:59.510 quan trọng nhất chú ý là nếu ống đựng
+00:05:02.460 nối với dàn nóng nếu không may bây giờ
+00:05:04.200 là bị gãy hay là bị đẹp bây giờ thành
+00:05:07.710 xét là đối với trường hợp đấy ta hàn
+00:05:09.690 cũng rất là khó bởi vì đây này là để
+00:05:12.120 trực tiếp Hàn rất là khó đối với hoàng
+00:05:14.580 của động cơ và vừa hàn Lợi vừa đảm bảo
+00:05:17.880 độ kín thì rất là họ
+00:05:20.570 Nhưng nếu mới bị bẹp thì làm cho áp suất
+00:05:23.550 của ống gạch quăng này của chúng ta cao
+00:05:26.669 áp suất cao Thì làm sẵn tải cho động cơ
+00:05:29.720 và lạnh tải cho động cơ thì động cơ kém
+00:05:32.580 bên
+00:05:35.150 Nếu ống hút thì ống hút của ta thì nếu
+00:05:38.760 đem thì hút về áp suất p0 thấp ip0 ở
+00:05:43.380 chúng ta đó là không hút được tôi không
+00:05:44.669 về hát rất thấp thì chính Lợi áp suất
+00:05:46.590 cao hơn cho bình thường anh suất p0 cao
+00:05:48.780 hơn so bình thường thì T không cũng sẽ
+00:05:51.030 cao hơn sẽ bình thường mà t0 cao hơn so
+00:05:53.669 bình thường thì kém Lại Đây là đối với
+00:05:56.220 kiểm tra để hình dạng kích thước kiểm
+00:05:59.430 tra và uống Ừ ông nối hệ thống
+00:06:02.790 dây kiểm tra 13 chất nối điện thì đối
+00:06:05.950 với 300 đấu điện thì động cơ năng Có 3
+00:06:07.510 chất thì ba chân này cần phải
+00:06:10.230 có mạ Crôm cần phải sáng sạch để tiếp
+00:06:13.630 xúc cung cấp điện chồng điện ở bên trong
+00:06:15.940 được đảm bảo không bị mua vé chân này
+00:06:18.850 phải còn nguyên nguyên trạng cho ta nhìn
+00:06:21.100 thấy đây là một trong những cái trường
+00:06:22.600 học là trận đấu điện của ra nó bị ý bị
+00:06:25.390 chậm lụt thì này là đối với cái động cơ
+00:06:27.730 này thì không đảm bảo vệ an toàn rồi là
+00:06:30.790 các đường ống chị dâu đẹp như thế này
+00:06:32.320 những cái đường ống bị Đặc biệt này thì
+00:06:34.180 ta cũng không không dùng này thì đối với
+00:06:37.030 động cơ thì đều Mày đầy đủ các thông số
+00:06:39.340 kỹ thuật ở trên thân
+00:06:43.530 người ta sang kiểm tra Bé Về con điện
+00:06:46.470 kiểm tra để thằng điện thì chúng ta
+00:06:48.880 không có ma bước là kiểm tra cuộn dây
+00:06:50.650 kiểm tra độ cách điện của dây da vỏ kiểm
+00:06:53.410 tra dòng lắm Làm việc để kiểm tra và
+00:06:56.440 cuộn dây thì đây cũng là một trong những
+00:06:58.030 địa phương pháp đây cũng chính là một
+00:06:59.740 trong 3 cách xác định các chân đấu điện
+00:07:02.629 của động cơ cách xác định các trận đấu
+00:07:05.000 điểm của động cơ
+00:07:06.310 bài học trước chúng ta lại đi tìm hiểu
+00:07:09.139 là cách xác định các trận đấu điểm của
+00:07:11.090 động cơ ý lúc này chúng ta cùng đo vào
+00:07:15.349 ba chân của động cơ 3 lần đó lần đo nào
+00:07:19.280 có giá trị điện trở lớn nhất thì chân
+00:07:21.800 còn lại là chân chung từ chân trông đó
+00:07:24.319 Dang hai chân chạy đề chân nào có giá
+00:07:26.180 trị điện trở nhỏ lại chân Trạch lớn hơn
+00:07:28.460 Trần đề lớn ở Trần Đề và chúng ta đến
+00:07:31.610 nhớ là lần đó có giá trị điện trở lớn
+00:07:33.050 nhất là bằng giá trị điện trở 2 quận
+00:07:34.639 thành phần Ví dụ như là chạy đề bắn
+00:07:36.889 trúng Trạch cộng Trung đề
+00:07:40.160 [âm nhạc]
+00:07:41.620 đồng thời đồng thời chúng ta có ghi là
+00:07:46.550 cái phần lưu ý của mày học trước là dựa
+00:07:48.889 vào cách xác định các chân đấu điện thì
+00:07:51.440 tao không biết được là nguồn điện cung
+00:07:54.050 cấp cho động cơ đối với công suất nhỏ
+00:07:55.520 này lớn hơn 10 thì chúng ta nên nhớ là
+00:07:58.580 lớn hơn 10 thì anh này đang sử dụng đó
+00:08:01.470 là việc sử dụng 221 nhỏ hơn mười là sử
+00:08:04.440 dụng 110 để nhỏ hơn 5 tỷ đang bị chặn số
+00:08:07.350 vòng dây như vậy chúng ta để ý mà khi ta
+00:08:10.830 đó khi ta đó
+00:08:13.790 thì chúng ta cần nhớ là có 3 cặp giá trị
+00:08:16.950 điện trở Thì lần đo giá trị điện trở lớn
+00:08:19.169 nhất bằng giá trị điện trở 2 quận thành
+00:08:20.580 phần đồng thời giá trị điện trở này phù
+00:08:23.520 hợp với điện áp được sử dụng ghi trên
+00:08:25.740 thân đối với động cơ Block công suất nhỏ
+00:08:27.780 mà có ghi là 221 Anh cũng sắp Nhỏ mà có
+00:08:31.139 ghi là 221
+00:08:32.659 tần số là 40 Hz thì giá trị điện trở của
+00:08:36.120 ra phải lớn hơn hoặc bằng 10 lớn hơn
+00:08:39.270 bằng 10 ô nhưng nếu nhỏ hơn thì nó bị
+00:08:41.909 chập một số vòng dây thì người ta nói là
+00:08:43.620 điện trở phù hợp
+00:08:45.290 với điện áp được sử dụng để ghi trên
+00:08:48.720 thân và thứ hai là chúng ta không cần
+00:08:51.060 phải nhớ là
+00:08:53.660 điện trở thành phù hợp với điện áp ghi
+00:08:56.160 trên thân
+00:08:57.710 thì đấy là đối với
+00:09:00.040 em về cách đo ở trong cái phần nó học về
+00:09:03.310 đồng hồ
+00:09:04.410 vạn năng thì chúng ta cũng đã có nói đến
+00:09:07.630 khi vấn đề ra cũng đã nói đến những vấn
+00:09:10.089 đề đó là diện là một lạ sử dụng đồng hồ
+00:09:15.339 vạn năng nếu khi ta đo và ba chân này
+00:09:17.589 nếu có một lần mà kim lên vô cùng vô
+00:09:20.470 nghĩa được em không lên thì đây là năng
+00:09:22.000 hỏng mạch là bị đứt Và nếu cái bên Giá
+00:09:25.120 trị đến trẻ nhỏ bằng không là chặt tuyệt
+00:09:27.279 đối và nếu mỏ nhỏ Năm Thì đang bị chậm
+00:09:29.740 một số vòng dây mẹ
+00:09:33.720 đấy là về kiểm tra với cuộn dây kiểm tra
+00:09:36.880 được cuộn dây lúc này chúng ta dùng đồng
+00:09:39.430 hồ vạn năng để thằng đo X một app dùng
+00:09:42.940 đồng hồ vạn năng để tháng đó X1 ôm đo
+00:09:46.060 vào các chân đấu điện đầu vào các chân
+00:09:49.420 đấu điện
+00:09:51.240 lần đo nào có giá trị điện trở lớn nhất
+00:09:55.199 thì phải tương đương với điện trở 2 quận
+00:09:58.690 Thành Vân
+00:10:00.050 em phải tương đương với điện trở 2 quận
+00:10:02.570 thành phần
+00:10:08.350 giới điện trở của cuộn dây phải phù hợp
+00:10:12.290 với điện áp được ghi trên thân phải phù
+00:10:15.830 hợp với điện áp được ghi trên thân
+00:10:20.440 thì chúng ta kết luận là cuộn giấy ông
+00:10:23.660 Định chậm ông bị đứt
+00:10:33.400 [âm nhạc]
+00:10:43.779 không bị chậm không bị đứt
+00:10:53.260 Còn đối với trường hợp là nếu có một lần
+00:10:55.880 ta đó mà giá trị điện trở của chúng ta
+00:11:00.060 dù không nắm chặt tuyệt đối cá nào nhỏ
+00:11:03.390 hơn năm là bị chặt một số vòng dây mà
+00:11:06.240 nếu chim chỉ vô công là bị đứt
+00:11:09.440 thì chúng ta đo thì ta xanh nội dung thứ
+00:11:12.570 hai là kiểm tra về độ cai nghiện cuộn
+00:11:15.120 dây da vỏ thì đối kiểm tra độ cách điện
+00:11:17.340 quấn dây da vỏ thì lúc này chúng ta sẽ
+00:11:19.170 dùng đồng hồ vạn năng để than x10k x10k
+00:11:22.560 và sữa non là một que được đặt mà 1.3
+00:11:24.660 chất về còn lại đặt ra vỏ chỗ nào nơi
+00:11:27.930 nào tiếp xúc với kim loại càng tốt lòng
+00:11:31.320 vị trí đó chẳng phải là người ta đo mà
+00:11:33.360 thân thì có sơn tĩnh điện ra thì nó cách
+00:11:35.700 điện nó lại đặc độ chính xác ta sẽ không
+00:11:39.060 cao khi đo thì để đảm bảo về độ an toàn
+00:11:42.330 thì chúng ta nên ý nếu Kim không lên hãy
+00:11:45.870 nói một số đồng hồ mà có giá trị điện
+00:11:47.820 trở lớn hơn đó là cái nội sản lớn là nỗi
+00:11:51.270 nhớ là chị Nếu lớn hơn hoặc bằng 10B thì
+00:11:54.540 người ta đều kết luận là độc ác kiện an
+00:11:56.280 toàn Nhưng nếu nhỏ hơn 10mb là bị rò
+00:11:59.250 điện thì anh lớn đồng nghĩa với sự giỏi
+00:12:02.350 và cáng đáng nhiều nhưng để kiểm tra mẹ
+00:12:05.380 khuẩn độ cách điện quấn dây da vỏ
+00:12:08.910 guitar đang dùng đồng hồ vạn năng đã
+00:12:11.980 từng dùng đồng hồ vạn năng
+00:12:16.440 để thằng Đoài người ôm
+00:12:19.230 để thằng đó x một người ôm một que được
+00:12:23.290 đặt vào một trong ba trăm đấu điện của
+00:12:25.569 động cơ
+00:12:26.459 13 được đặt vào 13 chân đấu đi của động
+00:12:29.649 cơ quan còn lại được đặt ra võ còn lại
+00:12:33.550 được đặt ra
+00:12:36.850 [âm nhạc]
+00:12:40.170 nơi tiếp xúc tốt với kim loại
+00:12:45.360 nơi tiếp xúc tốt Mình kim loại 2 lần với
+00:12:49.360 vỏ đấy
+00:12:51.660 nếu chim
+00:12:54.540 Nếu Kim Liên là độ cách điện không tốt
+00:12:57.970 mà kim không lên
+00:13:00.050 ở động cơ có độ cách điện tốt
+00:13:08.350 nội dung thứ ba nội dung thứ ba
+00:13:14.790 [âm nhạc]
+00:13:18.339 đối với nội dung thứ ba thì chúng ta đá
+00:13:22.450 biết giật là động cơ thì ta đo là như
+00:13:26.060 vậy nhưng không biết nữa là có hoạt động
+00:13:29.089 được hay không có bị kẹt hay không chỉ
+00:13:31.070 nói về chúng ta sẽ xanh bé phương pháp
+00:13:33.110 kiểm tra mình xong làm việc của động cơ
+00:13:36.190 dòng là việc của động cơ thì buổi học
+00:13:38.690 trước thì chúng ta là đi tìm hiểu là đối
+00:13:41.720 với một động cơ khi làm việc bình thường
+00:13:43.720 thì chúng ta thấy là thứ nhất là ban đầu
+00:13:47.390 là kim đồng hồ kẹp dòng chỉ giá trị ròng
+00:13:49.010 lớn rồi sau đó chỉ giá trị rong nhỏ nhỏ
+00:13:52.070 hơn hoặc bằng dòng định mức ghi trên
+00:13:53.329 thân đấy là làm việc bình thường thì có
+00:13:55.850 nghĩa là kết luận lực nào phần điện là
+00:13:57.860 rô và xa không bị kẹt lại có
+00:14:01.520 những đứa bị kẹt thì sẽ không hoạt động
+00:14:03.540 được vì trường hợp này thì ta sẽ lắp
+00:14:05.670 Rơle Khởi độc bảo vệ và cấp nguồn cho
+00:14:09.120 động cơ và nó hoạt động dựa vào đồng hồ
+00:14:12.240 kẹp Dong
+00:14:13.280 dựa vào đồng hồ kẹp dòng để kiểm tra
+00:14:16.820 nếu
+00:14:18.410 dòng lớn hơn hoặc bằng dòng định mức thì
+00:14:22.590 thị trường hợp bởi vì đây là ta nên chạy
+00:14:24.030 không tải chạy không tải lớn hơn hoặc
+00:14:26.670 bằng dòng định mức thì kết luận là gì
+00:14:28.550 Trạch rằng cao cái động cơ mà lúc này
+00:14:32.430 chảy ròng cao
+00:14:35.510 có thể là không chạy dòng cao
+00:14:38.120 thì lúc này ra kết luận là động cơ này
+00:14:40.680 có thể là hỏng đang hỏng có điện hoặc
+00:14:42.570 hỏng ở phần cơ đang hỏng phải điện hoặc
+00:14:45.180 hỏng phần cơ
+00:14:51.740 và nếu bảo lúc
+00:14:54.500 Hắn đập nhưng giống dòng thấp
+00:14:58.610 trũng thấp Ả Rập của chúng ta là nhỏ hơn
+00:15:01.720 mà
+00:15:03.180 nhỏ hơn đi định mức thì đây chúng ta
+00:15:06.910 đánh dấu hai giá trị Dạo này bởi vì đây
+00:15:08.829 là đã gọi là dòng không cả và lại các em
+00:15:10.959 nhớ hay là dòng không tải là dòng hút
+00:15:13.360 ném tự do trong không khí với áp suất là
+00:15:15.459 một este thì lúc này sẽ quan sát thấy
+00:15:18.399 giá trị trong này sau đó đã bị chắc tay
+00:15:21.279 móng đẹp thì khi cho nó bị chặt tay
+00:15:23.410 ngóng đầy thì sẽ có áp suất cao ở quanh
+00:15:25.930 lệch yêu âm đảng và theo đường ống là
+00:15:29.440 mình ngoài vỏ tại vị trí tay ra pin thì
+00:15:32.139 quá suất cao và khi quán suất cao thì
+00:15:34.420 người ta được gọi là nhiều quan sát dòng
+00:15:36.430 làm việc khi có cả và giá trị này thì
+00:15:40.810 phải nạp được cái thông số
+00:15:43.199 này có tài lớn hơn y0 tả và nhỏ hơn hoặc
+00:15:47.589 bằng I định mức
+00:15:51.600 Y có tài - y0 tải
+00:15:55.410 nhỏ hơn hoặc bằng 1/4
+00:15:58.050 đi công tác ở từ nhỏ hơn hoặc bằng 1/4
+00:16:01.910 thì không tác
+00:16:12.880 nhỏ hơn hoặc bằng 1/4 đi công tác
+00:16:30.250 thì đối với động cơ Block này để kiểm
+00:16:32.870 tra Khả có ống hút thấm đầy chúng ta sẽ
+00:16:34.670 phải
+00:16:36.160 hàn hàn ống lệch với một cái đầu bà
+00:16:40.149 thì sạc đầu ống công nghệ hay gọi là đồ
+00:16:43.970 uống công nghệ khi sau ra coi trọng nó
+00:16:46.760 sẽ hàng rồi đấy hàn vào cửa hút
+00:16:50.860 chúng ta cần chuẩn bị đó là liệt đồng hồ
+00:16:54.709 kẹp xong
+00:16:56.290 đồng hồ kẹp dòng được
+00:17:00.060 chúng
+00:17:00.800 ta cần đến đồng hồ Việt Nam chúng ta cần
+00:17:04.349 đến đồng hồ
+00:17:06.920 ta cần đến đồng hồ đo áp suất của đồng
+00:17:10.500 hồ áp suất để chúng ta đo về áp suất
+00:17:15.500 hút thuốc đây ta dùng đồng hồ vạn năng
+00:17:19.520 thì bây giờ thì sẽ hướng dẫn đối với ạ
+00:17:24.619 em kiểm tra đối với từng phần thứ nhất
+00:17:28.720 Chúng ta nhìn vào động cơ bước 1 là
+00:17:32.720 thành sẽ định kiểm tra về phần phần vỏ
+00:17:35.110 của động cơ thì đối với về thằng nhỏ của
+00:17:38.210 động cơ thì thứ nhất là chúng ta nhìn
+00:17:40.130 thấy là vỏ có đầy đủ về các thông số kỹ
+00:17:42.980 thuật của động cơ thứ hai ba đường ông
+00:17:46.610 thì chúng ta thấy lại toàn bộ mà ống này
+00:17:49.430 vẫn còn và không bị bẹp méo không bị kéo
+00:17:53.390 nước sơn đánh con để sáng đẹp với nó
+00:17:57.080 sáng đẹp 300 đấu điện của động cơ thì
+00:18:00.679 chúng ta thấy là hoàn toàn là vẫn còn là
+00:18:03.350 sáng không bị cong vênh nhập lấy đấy là
+00:18:07.550 đối với phần này mình đã kiểm tra lại
+00:18:10.520 phần
+00:18:11.590 họ bước kế tiếp chúng ta sẽ đi kiểm tra
+00:18:15.980 lại phần
+00:18:17.740 cần điện thì đối với kiểm tra một phần
+00:18:20.750 điện lúc này chúng ta sẽ dùng để đồng hồ
+00:18:23.179 vạn năng ạ thì chúng ta sẽ dùng đồng hồ
+00:18:26.100 vạn năng
+00:18:27.290 kiểm tra bằng phương pháp là Đo kiểm tra
+00:18:30.240 đánh giá trước nước
+00:18:31.340 bằng phương pháp đo và xác định các chân
+00:18:34.650 đấu điện của động cơ thì lúc này chúng
+00:18:36.780 ta sẽ lo thì trước tiên là chúng ta sẽ
+00:18:38.640 để đồng hồ vạn năng ở Xanh lợi ích một
+00:18:41.370 hộp hay quên đồng hồ chỉnh kim đồng hồ
+00:18:44.220 về vị trí không chỉ trên đồng hồ về vị
+00:18:46.770 trí không Sau đó chúng ta đo đo vào ba
+00:18:50.130 chân lối đi của động cơ sẽ có ba lần đo
+00:18:52.700 lần đo có giá trị điện trở lớn nhất bằng
+00:18:55.350 giá trị điện trở 2 quận thành phần ở đây
+00:18:58.410 là 30a Ê bà Nôm
+00:19:03.030 à à
+00:19:05.600 Ê mày 16A
+00:19:10.750 ừ ừ
+00:19:11.560 [âm nhạc]
+00:19:15.430 Ồ vậy à
+00:19:17.580 14
+00:19:19.950 14 16 và 30 như vậy chúng ta thấy là
+00:19:24.270 giá trị điện trở lần đo lớn nhất là 30
+00:19:27.940 ôm bằng giá trị điện trở 2 quận thành
+00:19:30.400 phần và giá trị điện trở này cúng phải
+00:19:33.760 phù hợp với điện áp sử dụng được ghi
+00:19:36.520 trên thân đó là động cơ của thầy đang
+00:19:39.430 nghe thông số kỹ thuật là sử dụng điện
+00:19:42.370 220v đến 240V tần số là 50 Hz điện 1pha
+00:19:46.870 như vậy chúng ta thấy là điện trở lớn
+00:19:50.050 hơn 10
+00:19:51.210 đối với một số trường hợp là khi nào là
+00:19:55.060 chúng ta đo là động cơ này nó nghỉ học
+00:19:56.710 thì khi chúng ta đo thứ nhất là một là
+00:20:00.220 Kim không lên là Kim vô cùng thì đây là
+00:20:03.180 trường hợp cuộn dây của động cơ đơn vị
+00:20:05.440 bị đứt trường hợp thứ 2 động cơ này công
+00:20:09.430 suất nhỏ động cơ công suất nhỏ
+00:20:12.350 ở trong khi đó chúng ta đo giá trị điện
+00:20:15.679 trở nhỏ hơn 10 Ôm thì có nghĩa động cơ
+00:20:18.530 đang bị chọc một số vòng dây bị chập một
+00:20:21.350 số vòng dây và nếu Kim lên mà bằng không
+00:20:24.530 thì đây là bị chập ngắn mạch là đang bị
+00:20:26.990 chậm toàn bộ thì đây là đối với kiểm tra
+00:20:29.809 về cuộn cuộn dây nội dung thứ tiếp theo
+00:20:33.770 nội dung thứ hai trong kiểm tra về phần
+00:20:35.929 phần điện chúng ta sẽ đo độ cách điện
+00:20:39.440 của dây da vỏ bằng cách xoay đồng hồ về
+00:20:43.700 thang x10k Sau đó chúng ta cũng chọc hai
+00:20:48.440 que đồng hồ chỉnh kim đồng hồ về vị trí
+00:20:50.330 không Chúng ta cũng chat chỉnh kim đồng
+00:20:53.150 hồ về vị trí không
+00:20:55.330 thì để đo rò điện
+00:20:58.610 Ơi của cuộn dây da vỏ thì một que được
+00:21:01.520 đặt vào một trong ba chân khỏe còn lại
+00:21:03.530 chúng ta đặt là vỏ nơi tiếp xúc tốt với
+00:21:05.900 kim loại Nếu lên giá trị điện trở Lớn
+00:21:11.000 hơn
+00:21:12.070 mười mê và ôm thì đây là độ cách điện an
+00:21:15.470 toàn Nhưng nếu mà nhỏ hơn thì là bị rò
+00:21:18.170 điện mà kịp giá trị điện trở Kim lên
+00:21:20.420 càng càng ngọt mà nhiều
+00:21:23.110 thì có nghĩa là do hiện ra Khánh càng
+00:21:25.670 lớn thì đấy là đối với kiểm tra về độ
+00:21:28.910 cách điện về là vỏ nội dung 3 sóng kiểm
+00:21:33.169 tra được thực hiện sau khi xác định các
+00:21:35.270 thầy Chân nấu điện của động cơ xăng
+00:21:36.410 chúng ta sẽ cấp nguồn cho động cơ chúng
+00:21:39.770 ta sẽ cấp nguồn cho động cơ và dựa vào
+00:21:41.540 dòng dựa vào xong
+00:21:44.500 dựa vào dòng Tìm Động cơ hoạt động thì
+00:21:48.650 dòng thì luôn luôn nhỏ hơn dòng định mức
+00:21:50.540 Nếu nối với một số động cơ mà không có
+00:21:52.910 dòng điện được ghi trên thân thì chúng
+00:21:54.530 ta sẽ dựa vào một số nguyên dòng sàn đối
+00:21:57.410 với động cơ sử dụng thế 220V và điện 110
+00:22:03.289 còn đối với động cơ thể chúng ta đã có
+00:22:06.360 thông số kỹ thuật rồi ra xe So sánh bên
+00:22:09.600 dòng định mức ghi trên thân của động cơ
+00:22:11.840 so sánh với dòng định mức ghi trên thân
+00:22:14.100 của động cơ lúc này theo đúng sơ đồ cấp
+00:22:17.279 điện cho động cơ và chúng ta sẽ cấp
+00:22:20.400 nguồn
+00:22:22.520 là kém năm
+00:22:27.559 chúng ta sẽ kèm dòng và cấp nguồn cho
+00:22:30.899 động cơ
+00:22:32.000 Sau khi cấp nguồn tượng Cơm chúng ta sẽ
+00:22:35.010 thấy là
+00:22:37.070 động cơ Vlog hoạt động dòng Hoạt động
+00:22:41.480 nhỏ hơn dòng định mức 0,6 AA và xảy ra
+00:22:46.230 thấy là máy chạy ổn định thêm đây chính
+00:22:50.279 là đối với phần điện năng tốt
+00:22:53.990 lúc này
+00:22:55.730 chúng ta sẽ đi tiến hành kiểm tra việc
+00:22:58.169 phấn chỉ cần hơi để kiểm tra thành phần
+00:23:01.330 hơi
+00:23:02.730 thì chúng ta sẽ dùng cái đồng hồ áp suất
+00:23:05.230 thì chúng ta cần phải Han chúng ta cần
+00:23:08.080 phải hàng tổng công nghệ vào đống gạch
+00:23:11.970 ống công nghệ vào
+00:23:14.370 đầu nạp gai để chúng ta sẽ kiểm tra cả
+00:23:17.890 phần đầu và phần nhút
+00:23:21.870 bây giờ thầy chị á hướng dẫn kiểm tra về
+00:23:27.090 cảm xúc đẩy quan công
+00:23:29.610 an sẽ hướng dẫn kiểm tra đã rất đẹp cơ
+00:23:32.320 thể sẽ Hàn đối với ông công nghệ và để
+00:23:35.169 chúng ta sẽ kiểm tra cả phần nhút là
+00:23:38.320 thầy sẽ
+00:23:40.620 làm ống công nghệ chúng ta sẽ tiến hành
+00:23:43.360 nhà
+00:23:44.220 ta sẽ kiểm tra à
+00:23:52.730 Ừ
+00:24:04.059 thì lấy là toàn bộ về phương pháp kiểm
+00:24:07.100 tra đánh giá chất lượng phần vỏ là của
+00:24:10.309 phấn thần điện Và bây giờ chúng ta sẽ
+00:24:12.530 xanh để phương pháp kiểm tra đánh giá
+00:24:14.510 chất lượng của phần cơ thì đối với về
+00:24:17.059 phần cơ
+00:24:18.250 thì chúng ta cũng kiểm tra 3 bước 1 là
+00:24:21.410 kiểm tra áp suất lệch này là sức đẩy của
+00:24:23.480 động cơ sức đẩy sức hút của động cơ 2
+00:24:27.940 kiểm tra độ kín của la van 3 kiểm tra
+00:24:31.850 sức Khởi động khi có tạo đầu tiên chúng
+00:24:35.299 ta sẽ đi về kiểm tra áp suất đẩy thì sau
+00:24:36.950 khi thấy đá Hàn ông công nghệ xong thể
+00:24:39.200 kết nối đồng hồ áp suất cao đó là đồng
+00:24:41.840 hồ màu đỏ với ống công nghệ đấu này ống
+00:24:45.799 hút vào gà cho nó để không Lúc này thầy
+00:24:48.320 sẽ cấp nguồn cho động cơ đấy nối
+00:24:52.250 ở đồng hồ áp suất Hy
+00:24:55.240 với ông đẩy hoạt động cơ ống hút và ông
+00:24:57.590 làm ra để không Chúng ta cho động cơ
+00:24:59.630 blog hoạt động rồi quan sát vào pin ohi
+00:25:02.830 đến khi nào khi một hồi dừng lại đó
+00:25:06.230 chính là áp suất đẩy của động cơ Nếu giá
+00:25:08.870 trị áp suất này của chúng ta đo được lớn
+00:25:11.450 hơn hoặc bằng 450 vessey Đây là sức đẩy
+00:25:15.890 tốt sức đẩy của động cơ của laptop
+00:25:19.450 Và nếu ở trong cái trường hợp là 350 cho
+00:25:24.380 đến 450 mở sim là áp suất trung bình
+00:25:29.340 ở
+00:25:30.200 ngã tư
+00:25:33.200 ngã tư 100 cho đến
+00:25:37.700 350ec đây là động cơ bản lock có sức hút
+00:25:42.300 để kém và nhỏ hơn hoặc bằng 100
+00:25:45.680 được xếp vào nó luôn hơn bố không đầy à
+00:25:49.950 Ừ
+00:25:51.380 thì ta sẽ sang lưu ý thì chúng ta đã
+00:25:54.240 biết được là cái đồng hồ áp suất HIV của
+00:25:56.970 chúng ta thì đang
+00:25:58.909 đẩy được là 500 bỏ sim vào đây lớn lớn
+00:26:02.519 hơn 450 thì chỉ như vậy thì nó thấy là
+00:26:04.710 có rất nhiều động cơ có sức đẩy trên
+00:26:07.460 500 do đó nếu các bạn thấy đẩy lên trên
+00:26:11.659 450 mà vẫn có xu hướng liên tiếp thì
+00:26:14.340 chúng ta cần phải ngắt nguồn cho động cơ
+00:26:15.750 để bảo vệ tránh học đồng hồ áp suất khí
+00:26:19.620 đối với lưu ý thứ hai trong một lần này
+00:26:23.250 thì bản chất của chúng ta đã biết được
+00:26:25.139 một động cơ thì hút được sẽ đầy được
+00:26:26.909 tình nhân đã đẩy khỏe thì cũng là động
+00:26:29.039 cơ có sức khỏe thì chính như vậy ta cũng
+00:26:32.010 không cần phải kiểm tra mẹ ăn Facebook
+00:26:33.210 này chúng ta sẽ không cần kiểm tra mẹ
+00:26:35.490 học thuốc
+00:26:39.679 Theo kinh nghiệm làm nghề thì đối với
+00:26:44.130 lớn hơn 450 thì mọi người quan sát im
+00:26:47.340 lên đều mà không bị rung
+00:26:49.929 - 150 thì ra phản là lúc này khỏe còn
+00:26:53.440 nhớ mà
+00:26:54.330 kiếm nó lên nó rung giật thì thường
+00:26:57.039 Nguyên nhân nào dẫn đến Dũng giật có thể
+00:26:58.690 là làm ăn nóng cũng tím cụ để chúng ta
+00:27:01.059 Nó đang ý hỏi là van nên là nó sẽ xảy ra
+00:27:03.759 hiện tượng là không đạt cái giá trị áp
+00:27:05.950 suất tối đa còn đối với những bạn nào mà
+00:27:08.830 kiểm tra để áp suất hút thì ta phải làm
+00:27:10.450 như sau chúng ta đã biết được là ống hút
+00:27:12.639 và ông làm nha là không phải qua một
+00:27:13.929 động cơ này ống hút và ông nào gà thông
+00:27:15.879 Khoan nó bận à
+00:27:19.750 từ lúc này để kiểm tra bé học tốt thúc
+00:27:23.320 thì một trong hai ống này chúng ta cần
+00:27:25.510 phải hàm kim chúng ta cần phải hàn Kim
+00:27:28.140 và một ống sẽ được nối với ấm công nghệ
+00:27:31.210 thì các em nhìn vào đây thì thấy Hàn kín
+00:27:33.760 đầu năm nha và ống hút thì đầy Nội để
+00:27:36.070 ống công nghệ mà chúng ta sẽ kết nối dây
+00:27:37.990 đồng hồ áp suất là ô đỏ là màu xanh
+00:27:40.710 trong đồng hồ áp suất Lào này thì no và
+00:27:43.660 chúng ta thì với giá trị đo mình dưới
+00:27:46.360 không Người ta bận áp suất chân không áp
+00:27:48.580 suất tối đa là âm 76 cm thủy ngân hoặc
+00:27:51.880 tâm 30-inch nhân
+00:27:55.500 39 thủy ngân do đó
+00:27:58.500 do đó chúng ta thấy là gì chúng ta thấy
+00:28:01.960 là đối với các động cơ này nó cứ bị động
+00:28:05.650 cơ này thì chúng ta
+00:28:08.410 chỉ cần này à Anh và sáng tạo những này
+00:28:13.690 kim đồng hồ cũng về âm 76 cm thủy ngân
+00:28:16.450 hay là âm 30-inch nhân thì là kết luận
+00:28:18.730 là hút tốt nhưng trên thực tế là định
+00:28:20.620 tốt thì sẽ hút rất tốt bởi vì có hút
+00:28:22.330 được không biết về chính về thì ta kiểm
+00:28:24.670 tra đẹp sơn này cũng kết luận luôn vệ
+00:28:26.650 cánh xuất sắc hút à
+00:28:29.670 Ừ để biết được tự động cơ này khi mút
+00:28:32.130 đẩy có đạt được giá trị áp suất đẩy tối
+00:28:34.650 đa ban đầu so với ban đầu do mình tiêu
+00:28:37.140 chí mới mà nhà sản xuất thành công thì
+00:28:39.150 chúng ta sang với nội dung thứ hai của
+00:28:41.790 phần cơ đó là chúng ta sẽ như vậy kiểm
+00:28:43.500 tra độ chín của là tăng độ kín của đám
+00:28:47.010 thanh pittông xilanh
+00:28:49.430 đội ý một thời gian sau A
+00:28:52.530 em làm chúng ta lúc này ta xin lỗi đồng
+00:28:54.960 hồ HIV với ống đẻ của động cơ ống hút
+00:28:57.690 uống nào ra để không Đây là thấy đăng
+00:28:59.670 kiểm tra để áp suất
+00:29:01.190 kiểm tra về độ chính là ba này
+00:29:03.980 người tiến hành để cho động cơ bản nó
+00:29:06.270 hoạt động
+00:29:07.010 huy động cơ bản nó hoạt động đạt nên một
+00:29:09.510 cái giá trị áp suất đỏ Đạt nên những giá
+00:29:11.610 trị áp suất đó chúng ta chán ngắt nguồn
+00:29:13.850 cho động cơ
+00:29:15.560 dùng Bọt Xà phòng thử ký cái đầu mối nối
+00:29:18.450 với dây đồng hóa giấc sau đó
+00:29:22.880 quan sát vào kim đồng hồ HIV Nếu sau một
+00:29:26.760 thời gian thì giá trị của ta giảm dần
+00:29:28.230 giá trị giảm dần thì đang kết luận giá
+00:29:31.650 trị giảm dần thì ta kết luận là
+00:29:34.370 lá vàng của chúng ta đang ở trạng thái
+00:29:37.280 Văn Đại đang ở trạng thái đấy à hoặc là
+00:29:40.710 hở mòn do pittông và xilanh à
+00:29:44.700 anh
+00:29:47.000 cũng hút ẩm ta cũng sẽ kem
+00:29:50.150 và nếu giá trị chỉ tương đương giá trị
+00:29:53.670 ban đầu thì đã kết luận là ăn để đăng ký
+00:29:57.390 con đối kiểm tra để làm ăn hốt vì chúng
+00:30:00.030 ta không giống có kiểm tra lại ăn
+00:30:01.140 Facebook lúc này các em cho các động cơ
+00:30:04.020 và lốc hoạt động và bút để vạch chân
+00:30:05.640 không là âm 76 cm thủy ngân
+00:30:08.780 -30 in Thủy Ngân sau đó là chúng ta cứng
+00:30:12.290 ngắt nguồn cho động cơ Nếu tin một tan
+00:30:16.200 dần chuyển về mốc không thì đã kết luận
+00:30:17.910 là 31 quốc gia đang bị bị ho làm ăn phút
+00:30:22.920 là bị họp đấy đã đối với phương pháp
+00:30:25.380 kiểm tra độ kín của lá ban thì chúng ta
+00:30:29.340 biết được là trong điều kiện của một hệ
+00:30:32.820 thống tủ lạnh là máy nén phải hoạt động
+00:30:35.190 bên trong có được nạp đủ người khác mà
+00:30:37.260 chúng ta đã học cái ga thì ra thì luôn
+00:30:39.030 quá sức một cân ga hay nhiều concoc áp
+00:30:41.910 suất không độ do đó Yến Ừ thì cần phải
+00:30:45.759 làm đủ máy ra mà áp suất thì chúng ta đã
+00:30:48.190 học là lưng là một cái lực áp dụng của
+00:30:51.369 một vật nên một đơn vị diện
+00:30:53.519 diện tích
+00:30:56.340 97 động cơ một tháng được Muốn hoạt động
+00:30:59.889 được thì cần phải Thắng náo Suốt này do
+00:31:02.259 đó chúng ta phải kiểm tra sức khỏe động
+00:31:04.509 kiểu ta thì câu này chúng ta không được
+00:31:06.220 phép bỏ qua à
+00:31:08.340 anh lúc này cũng cho động cơ của nó còn
+00:31:10.650 đập cho tôi bảo lúc hoạt động đẩy lên
+00:31:14.460 một giá trị áp suất khoảng 200
+00:31:16.520 thì lúc này tôi không cho động cơ bản ốp
+00:31:19.529 lưng hoạt ngừng hoạt động và một lát
+00:31:22.350 xong cấp nguồn cho động cơ bản lúc hoàn
+00:31:24.539 trả lại dựa vào đồng lúa xuất dựa vào
+00:31:27.630 đồng hồ Ampe kìm để kiểm tra
+00:31:32.110 Ừ nếu Block hoạt động bình thường
+00:31:36.510 nếu Block hoạt động bình thường là động
+00:31:39.730 cơ bỏ sức Khởi động tốt khi nào ta đi
+00:31:43.299 uống Vlog không khởi động được
+00:31:45.630 thì khi Đắk Lắk vào trong hệ thống có áp
+00:31:49.240 suất cao
+00:31:50.730 bảng xếp cam blog không hoạt động được
+00:31:53.500 và gây ra cháy là động cơ chính như vậy
+00:31:56.770 à ta cần phải kiểm tra để áp suất xuất
+00:31:59.350 của ta thì ta chọn thì giá trị sản xuất
+00:32:01.030 tương đương với lớn hơn áp suất của ga
+00:32:03.910 hay nói cách khác là tương đương để áp
+00:32:05.380 suất cao trong các cái thông số kỹ thuật
+00:32:07.600 của máy nén và sẽ lệch áp suất ở cây ca
+00:32:10.679 là bao nhiêu
+00:32:14.520 ngoài ngoài chí nước ngoài cho nó vừa đi
+00:32:17.320 tìm hiểu thì chúng ta sẽ đổ dâu để có
+00:32:20.860 kết luận để động cơ như chúng ta đã biết
+00:32:22.900 được làm giàu của chúng ta thì có tính
+00:32:25.750 chất là làm mát và bôi chân giàu có tính
+00:32:28.270 chất bền vững có học Sau đó chúng ta đổ
+00:32:30.520 dầu thì các em đổ ít nhất là giàu bền
+00:32:33.830 vững có họp ông bị cháy xém ở nhiệt độ
+00:32:36.020 cao không bị phân hủy thì chính các bạn
+00:32:38.420 là màu sắc của dầu nó phải tương đương
+00:32:41.150 với ban đầu nhưng nếu giàu ta nó không
+00:32:43.310 đạt
+00:32:45.310 dầu của chúng ta là thuốc nào thì nó sẽ
+00:32:48.080 gây ra là cái hiện tượng là anh nó sẽ
+00:32:50.210 gây ra hiện tượng
+00:32:51.670 là có thẻ xảy ra hiện tượng là máy nén
+00:32:55.880 chạy nóng thì lúc này sẽ hút đáng xem
+00:32:59.350 khi mà máy nén hoạt động nóng có thể gây
+00:33:03.890 ra rò biết nói về ra gió điện mặt Vâng ạ
+00:33:09.520 ở
+00:33:10.410 đây là đối với ta đang có 10 bước kiểm
+00:33:13.930 tra đánh giá chất lượng ta đang có 10
+00:33:15.640 bước
+00:33:16.560 kiểm tra đánh giá chất lượng của động cơ
+00:33:18.610 xăng với nội dung thì là thì sẽ
+00:33:23.190 Hà Đông công nghệ em ở các em xem đối
+00:33:26.590 với phương pháp kiểm tra lại còn cơm thì
+00:33:27.880 kiểu cho
+00:33:44.490 tôi
+00:33:49.440 và bây giờ thấy sẽ hướng dẫn cho chúng
+00:33:51.730 ta về phương pháp kiểm tra đánh giá chất
+00:33:53.920 lượng
+00:33:55.140 của phần cơ đối với động cơ blog tâm
+00:33:59.230 động cơ mở nắp chiếc tủ lạnh để kiểm tra
+00:34:01.960 thì thấy sẽ phải Hàn Đống công nghệ và
+00:34:05.830 ống đẩy của động cơ vào ống hút động cơ
+00:34:08.560 đấy Ừ thì sẽ hạnh hành chính lúc này Đầu
+00:34:13.340 tiên thì để kiểm tra để áp sát thành của
+00:34:15.320 động cơ
+00:34:16.449 để kiểm tra áp suất này là động cơ thì
+00:34:18.830 khóa đồng hồ Hy chìa khóa
+00:34:23.530 để lắp Tôi ngố ăn chất hạt bảo để động
+00:34:27.710 cơ
+00:34:30.040 để cấp nguồn cho tôi vào lúc bồng bột và
+00:34:32.540 vẫn phải dựa vào đồng hồ kẹp dòng để
+00:34:34.159 quan sát xem là động cơ của nó hoạt động
+00:34:36.650 hay không sau khi cấp điện cho động cơ
+00:34:38.630 thì chúng ta sẽ quan sát một chiếc đồng
+00:34:40.310 hồ áp suất Nếu kim đồng hồ lên nhanh và
+00:34:43.668 lên trên 450 mà vẫn có xu hướng liên
+00:34:46.429 tiếp chúng ta sẽ cắt nguồn cho động cơ
+00:34:48.730 sẽ tắt nguồn cho động cơ để tránh trường
+00:34:51.679 hợp hỏng đồng hồ bởi vì đồng hóa cấp của
+00:34:54.020 Nano tối đa được 500 AE Nhưng có rất
+00:34:56.600 nhiều với động cơ 4 lốc đặt trên 500 do
+00:35:01.040 đó nếu kim đồng hồ áp suất đẩy lên 450
+00:35:04.540 mà vẫn có xuống nối tiếp chúng ta cần
+00:35:07.190 phải ngắt nguồn cho động cơ để làm bạn ạ
+00:35:09.540 sản
+00:35:10.610 xuất nguồn cho động cơ thì thấy sẽ kiểm
+00:35:14.640 tra
+00:35:15.320 các muốn lớn của dây đồng lõa xúc với
+00:35:18.270 đầu ra ko kiểm tra đồng hồ đồng thời
+00:35:20.700 quan sát ở trên đồng hồ Nếu sau một thời
+00:35:23.040 gian giá trị kim đồng hồ chỉ tương đương
+00:35:25.920 giá trị ban đầu đến đây chính là làm ăn
+00:35:29.220 thì kiểm tra làm ăn mạch của thầy tốt
+00:35:32.520 thì chuyển sang làm văn này thì tốt đối
+00:35:35.580 với kiểm tra về ăn Facebook và kiểm tra
+00:35:37.920 để làm văn Út thì đối với động cơ có
+00:35:39.990 suốt ngày tốt thì sức cuối cùng tiếp
+00:35:42.500 sử dụng một chút thì nên chúng ta có thể
+00:35:44.790 kết luận là áp suất hút và lá và hút
+00:35:47.490 thuốc nhưng thấy cũng xa cũng giống như
+00:35:49.200 chúng ta về cách để đăng kiểm tra để ăn
+00:35:52.230 sức hút và lá ban là ba nút lúc này để
+00:35:55.290 chuyển sang thì
+00:35:57.140 người ta hết áp đang nhìn vào vào đây
+00:36:00.240 thì chúng ta sẽ thấy lại
+00:36:01.700 ấn đầy thể bắt đầu uống làm ngay lúc này
+00:36:06.360 thấy cho này hàng ký hợp đồng thì trong
+00:36:08.940 đó phải khác a common ống hút thì cũng
+00:36:12.610 hàn nối với ống cống gạch và Thầy cũng
+00:36:16.120 sẽ kết nối dây đồng hồ
+00:36:18.480 áp suất thấp với ống hút
+00:36:22.100 [âm nhạc]
+00:36:23.670 thì chúng ta quan sát và kim đồng hồ thì
+00:36:26.050 ban đầu nhưng mà ngồi đó chỉ giá trị
+00:36:27.460 không là chị không để chỉnh áp suất khí
+00:36:30.910 quyển áp suất khí quyển và tốt nguồn
+00:36:33.940 giảm cân
+00:36:35.700 khi thấy cấp nguồn cho động cơ
+00:36:38.310 thì cũng Người Sơn Động quê mình chúng
+00:36:40.690 ta thấy là lúc này đang cầu nốt hút toàn
+00:36:45.040 bộ không khí chúng ta là ngọn cờ của lớp
+00:36:47.230 trong giây của nó xuất về lại chân không
+00:36:49.420 để mạch màu xanh chúng ta thấy là đề
+00:36:51.790 mạch màu xanh khi lệch màu xanh lá cây
+00:36:54.070 là ông bà được tinh thủy ngân hoặc âm
+00:36:57.630 76cs nhân là Seafood tốt đã rất tốt và
+00:37:04.060 tư vấn tốt chúng nó để kiểm tra ở đâu
+00:37:06.220 này Đảm bảo không được tí lại ra là bí
+00:37:09.560 quyết định toàn bộ định nghĩa dòng sông
+00:37:12.280 lúc này thầy buổi sáng
+00:37:15.340 ngắt nguồn chọn tôm đồng thời quan sát
+00:37:19.520 vào trên đồ gỗ Asus
+00:37:22.210 eee mùa rất là thảm xốp Nếu cứ mơ hồ
+00:37:26.390 rằng chỉ giá trị lớn hơn giá trị ban đầu
+00:37:29.290 Tìm quay ngược về vị trí không có nghĩa
+00:37:32.960 là bạn mút của thầy Nam Mỹ bị học là mai
+00:37:36.230 mốt làm đi học đây là phương pháp kiểm
+00:37:38.750 tra nè áp út kiểm tra để làm ăn làm ăn
+00:37:42.560 hút cho động cơ blog
+00:37:45.340 nội dung tiếp theo phải đi kiểm tra
+00:37:49.120 đó chính đã kiểm tra
+00:37:51.670 về sức Khởi động khi đó ta
+00:37:54.400 thì tại sao lại phải kiểm tra để sức
+00:37:56.660 khỏe động viên của ta thì khi lắp động
+00:37:58.700 cơ vào trong hệ thống thì hệ thống của
+00:38:01.160 chúng ta sẽ được nạp đủ với cam làm đủ
+00:38:03.860 về nha Thì khi con nhạc Lan thì sẽ có ai
+00:38:06.950 chất chúng ta sẽ nhìn vào bên đồng hồ sẽ
+00:38:09.350 nhỉ khi sảy thai tự nhiên là đừng áp
+00:38:11.280 suất thì chúng ta thấy lại đùa như ý độc
+00:38:14.100 cơm đang sử dụng Nha và 13 túi ak139 ra
+00:38:17.900 ở áp suất tính ở nhiệt độ môi trường
+00:38:21.360 bằng áp suất từ 80 147 sinh lúc này hàng
+00:38:26.160 phải lấy giá trị An Phúc Trong Căn bản
+00:38:29.280 động cơ tương ứng với em sống của em
+00:38:31.520 từng phút củ gai lúc này thầy sẽ lắp đầu
+00:38:34.500 đây của động cơ bắt đầu này ăn cơm
+00:38:38.420 với đồng hồ áp suất honey's và cấp nguồn
+00:38:41.430 này sẽ cấp nguồn cho động cơ mà thấy
+00:38:43.440 chuẩn đấy giá trị hạnh phúc là 200
+00:38:46.670 khoảng 200s
+00:38:50.000 thấy xử lý giá trị áp suất khoảng 200
+00:38:52.500 học sinh
+00:38:58.880 từ 450 đến khoảng 200s thì
+00:39:02.360 đây thì đang nghe lấy được giá trị tài
+00:39:05.160 khoản thì đạt được 180 bờ xin trong 8 đề
+00:39:09.899 thi thử lý chúng ta sẽ áp suất tôi những
+00:39:12.489 cảm xúc của gang và
+00:39:13.709 án
+00:39:15.239 động lực thời gian quan sát chúng ta sẽ
+00:39:18.159 rất nhiều động cơ bản lắp đặt trả lại
+00:39:20.640 thì sau khi thì cấp nhiều chân cơ Block
+00:39:23.140 trả lại tiền quan sát đồng hồ áp suất
+00:39:26.669 quan sát được hóa chất và đừng bận lòng
+00:39:29.829 nếu động cơ là lúc hoạt động được bình
+00:39:31.899 thường thì chúng vận động cho blog có
+00:39:34.779 xuất khởi động tốt chúng ta có sức Khởi
+00:39:38.199 động tốt với ta thì sẽ kiểm tra mượn với
+00:39:41.099 thì làm bảo là phải phải mua thì nó biết
+00:39:45.159 phải động được thì làm cái giá
+00:39:49.169 cho đoàn thể có thể làm thay đổi cái
+00:39:51.369 Rơle bảo vệ mới là lúc này thì các nguồn
+00:39:53.890 lực cơ mà chúng ta sẽ có tác dụng gì thì
+00:39:57.159 mình thôi chúng ta sẽ quan sát và kim
+00:39:59.529 đồng hồ áp suất thì sẽ thấy là động cơ
+00:40:03.249 lại hoạt động luôn có sức khỏe động tốt
+00:40:05.469 thì cảnh
+00:40:07.289 nhớ là anh em sẽ phải lấy Nghĩa Anh tính
+00:40:10.370 về ashoka sẽ nằm trong hệ thống Nếu
+00:40:13.370 chúng ta để thấy giá trị áp suất lớn thì
+00:40:15.800 động cơ này có thể không thể đọc được và
+00:40:17.240 gây ra cháy nổ động cơ
+00:40:19.120 cháy quán cơm đây là đối với thầy Đăng
+00:40:22.670 lấy có giá trị thử tại cho đối với
+00:40:25.850 chuyển động cơ lắp năng sử dụng ga là 13
+00:40:28.730 tuổi là một loạt tên để làm việc phương
+00:40:32.210 pháp kiểm tra đánh giá chất lượng của
+00:40:33.980 phần cơ của động cơ thì các em sẽ
+00:40:37.600 tiến hành kiểm tra đánh giá thực Châu
+00:40:39.980 Thành A
+00:40:43.890 ở
+00:40:45.950 đây là toàn bộ về phương pháp kiểm tra
+00:40:50.059 đánh giá chất lượng của phần cơ
+00:40:55.490 cho
+00:40:57.430 tới giờ
+00:40:59.080 thấy mà trò chúng ta sẽ sang những nội
+00:41:01.310 dung 1.6 đó là phương pháp thay dầu cho
+00:41:04.490 động cơ
+00:41:06.330 khi
+00:41:08.960 đối phương pháp thay dầu cho động cơ
+00:41:11.100 hiện tại sao chúng ta lại cần phải thay
+00:41:12.840 dầu
+00:41:13.520 buổi học hôm trước thì chúng ta cũng có
+00:41:15.570 nói đến là nhất là trong hệ thống máy
+00:41:17.760 nén kín thì bình thường ra thì chúng ta
+00:41:19.410 không phải thay dầu định kỳ do giàu là
+00:41:21.480 có độ nhớt cao độ tiêu hao ít nhưng
+00:41:24.870 trong khi đó thì nếu sửa chữa về hệ
+00:41:27.600 thống làm lạnh có những trường hợp để
+00:41:28.890 chúng ta phải thay
+00:41:29.990 có những trường lập ra phải thay chính
+00:41:32.370 như vậy là chúng ta cũng cần phải biết
+00:41:33.540 cách hay Dầu cho động cơ như thế nào
+00:41:38.540 thì đổi thay dầu cho động cơ thì đầu
+00:41:41.490 tiên chúng ta sẽ đi sang thì vấn đề là
+00:41:42.840 xả dầu thì rõ động cơ của chúng ta là
+00:41:45.750 động cơ bản gốc pittông đang hút gián
+00:41:47.730 tiếp đẩy trực tiếp cho nó ống hút uống
+00:41:49.200 làm nha không người khoang chứa dầu nên
+00:41:50.940 trong lúc này chúng ta cần phải xả dầu ý
+00:41:53.760 khi xả dầu thì chúng ta sẽ nghiêng đổ
+00:41:55.800 dầu ra theo đường ống hút hoặc ống đạn
+00:41:57.510 ra thì trên ghế nhảnh tay thì thấy đang
+00:42:00.090 hướng dẫn là đã đổ dầu ra theo đường hút
+00:42:04.280 thai đổ dầu theo đường ống hút ở
+00:42:06.900 trong đã thấy là chúng ta sắp ngược động
+00:42:09.280 cơ ở lúc này như dầu dồn về theo đầm cờ
+00:42:11.350 hút khi thấy dầu chảy ra thì chúng ta
+00:42:15.460 cũng sẽ á bơm áp bơm nhẹ áp vào về đầu
+00:42:20.320 nào để nén đẩy dầu còn bẩn ra ngoài cũng
+00:42:23.290 giống như các bạn thay dầu cho xe may
+00:42:25.000 bằng phương pháp là tháo ốc xả dầu mỏ
+00:42:28.420 khí dưới đáy Cốc Cốc mạch phía sau khách
+00:42:31.870 sạn Dầu xong hết thì chúng ta sẽ phải
+00:42:33.940 nạt giàu thì làm giàu thì xả ra đôi ta
+00:42:36.850 nạp vào đó thì chúng ta sẽ nối một cái
+00:42:39.190 ống nhựa ống tô với hộp chứa rau từ ống
+00:42:43.060 hút nối ống hút để một chai dầu bằng độ
+00:42:44.890 Đạt ống nhựa ống đầy để hợp ống nằm
+00:42:47.620 ngang rồi Lúc này chúng ta đang sông với
+00:42:49.930 ống hút chính vậy để cho các động cơ này
+00:42:53.350 hút xách dầu hút dầu từ bên ngoài thì có
+00:42:55.780 chứa dầu vào bên trong nước sạch dầu dừa
+00:42:57.820 Long theo nhỉ lượng nó phù hợp thì lúc
+00:43:01.210 này ta cần phải bit lấy tay khi cho đốc
+00:43:03.370 trẻ lấy tay bịt vào đầu năm ra bởi vì Ừ
+00:43:06.350 tao đánh nặng hơn không khí Nếu mà chúng
+00:43:09.410 ta không biết vào thì sẽ dẫn tới tình
+00:43:11.270 trạng là hút không khí Nhưng không hút
+00:43:13.100 ròng à
+00:43:16.280 Ừ Thì đấy là đối với phương pháp lạnh
+00:43:19.550 rộng sau khi nạp thì đang cần phải kiểm
+00:43:22.280 tra xem là lượng dầu ra đã nạp đủ chưa
+00:43:24.340 Yến Nếu mà lượng dầu nạp thừa hay thiếu
+00:43:26.960 thì cũng đều ảnh hưởng tới quá trình quá
+00:43:29.300 trình làm lạnh đầu tiên chúng ta sẽ đi
+00:43:30.710 về
+00:43:31.450 xả dầu dao động cơ
+00:43:35.170 bị block tủ lạnh là blog system hút gián
+00:43:39.110 tiếp đẩy trực tiếp
+00:43:41.080 gián tiếp đẩy trực tiếp
+00:43:45.860 Lý
+00:43:46.420 do là ống hút và ông nạp ga
+00:43:49.090 thông với khoang chứa dầu
+00:43:51.820 anh ở bên trong
+00:43:54.380 Ồ thông với khoang chứa dầu ở bên trong
+00:43:56.600 à
+00:44:05.940 ừ ừ
+00:44:08.020 à à
+00:44:10.800 từ
+00:44:11.660 lúc này
+00:44:13.960 âm thanh niên
+00:44:16.320 blog
+00:44:18.030 là phải nhiên động cơ blog và đổ dầu ra
+00:44:21.760 ngoài theo đường ống hút
+00:44:24.440 âm thanh niên động cơ bản lock và đổ dầu
+00:44:26.810 ra ngoài theo đường ống hút à
+00:44:39.530 chỉ
+00:44:41.920 một lúc sau bơm khí và đầu năm ra
+00:44:47.710 một lúc sau thì chúng ta sẽ bơm khí và
+00:44:50.810 đầu năm ra à
+00:45:04.170 Ừ
+00:45:07.520 để đẩy dầu và cặn bẩn ra ngoài để đẩy
+00:45:11.880 dầu và cắt bật loa ngoài
+00:45:15.020 ta xăng vấn đề là á
+00:45:19.579 nạp dầu
+00:45:24.799 đây là đối với đổ dòng
+00:45:29.630 túi nặng Dầu cho động cơ
+00:45:33.450 đi đôi với làm giàu cho động cơ
+00:45:35.869 giống hút và chúng ta đã biết được là
+00:45:39.210 ống hút và ông làm là thông nhau mà
+00:45:41.849 trong khi đó là ta đổ ra ông nào cũng
+00:45:43.260 phải xem nào cũng đó và hai ông này thể
+00:45:45.329 thay đổi vị trí cho nhau Nên sau này
+00:45:47.460 chúng ta nạp giàu xảy ra một số hiện
+00:45:50.010 tượng là khi nạp vào bao nhiêu thì máy
+00:45:53.220 nén lại phút ra bấy nhiêu nhất phải đổi
+00:45:54.780 thay cọc ngay giữa đầu năm ra và cũng
+00:45:57.420 mút thì lúc này là nối ống hút lấy hộp
+00:45:59.910 chứa dâu bằng một đoạn ống nhựa chỉ
+00:46:05.020 bằng 1 đoạn ống nhựa dùng ta sẽ dùng tay
+00:46:09.710 đặt vào đầu năm ra
+00:46:11.380 ống đẩy để ho
+00:46:13.660 sau đó là cho các động cơ bản nó hoạt
+00:46:15.950 động
+00:46:18.280 Block sẽ hút dầu từ hộp chứa Rồng vào
+00:46:21.680 bên trong
+00:46:22.970 em bảo bên trong
+00:46:25.120 và vẫn phụ thuộc mà hình dạng kích thước
+00:46:27.830 công suất của động cơ
+00:46:30.100 phụ thuộc vào hình dạng kích thước công
+00:46:32.930 suất của động cơ mà lượng dầu mà lợn dầu
+00:46:37.960 nạp từ 200 cho đến 350 ml ý
+00:46:43.800 từ 200 đến 350 ml
+00:46:46.910 và khi nạp xong
+00:46:49.700 đã bị thử xem lượng dầu đã phù hợp hay
+00:46:52.950 chưa khi nạp xong thì tạm biệt thử xem
+00:46:55.620 lượng dầu nạ phù hợp hay chưa ạ
+00:47:01.260 ừ ừ
+00:47:09.100 số lượng dầu nạp cho động cơ bản gốc
+00:47:11.260 nhiều hay ít thì cũng đều ảnh hưởng tới
+00:47:14.830 quá trình làm lại nếu chúng ta biết được
+00:47:17.410 là nhiều
+00:47:18.720 dầu sẽ tràn vào tiền mặt dàn dẫn tới
+00:47:21.640 năng suất rất nhiều khi giảm điều ít khả
+00:47:23.830 năng làm mát và bôi trơn cho động cơ nó
+00:47:25.900 giảm xuống dẫn tới hệ thống lạnh là
+00:47:29.410 không tốt à
+00:47:33.920 a
+00:47:34.630 đối với một số biết trường hợp mà chúng
+00:47:37.339 ta chị thay dầu cho động cơ nhưng không
+00:47:39.319 thay thế động cơ thì trường hợp này thì
+00:47:41.660 cái lượng dầu chúng ta nạp cho động cơ
+00:47:43.599 bằng cái lượng dầu cú nổ ra và đã có bổ
+00:47:47.329 sung thêm một thằng Sáu nhận dù đó 1/6
+00:47:49.970 lượng đường Cú này là là cái lượng là
+00:47:51.650 tiêu hao trong quá trình hoạt động bởi
+00:47:53.690 vì chúng ta nhất là giàu thì độ tiêu hao
+00:47:55.579 cho vào Ít ví dụ thay đổ ra là
+00:47:59.710 240.000 1/6 là tương ứng là 40 bưu như
+00:48:02.990 vậy lượng dầu mới thì nạp sẽ là 280 đấy
+00:48:06.680 là đối với mặc dầu sôi động cơ cơ
+00:48:11.260 ạ
+00:48:11.880 Và bây giờ
+00:48:14.190 đây cũng mời cả lớp Xem
+00:48:17.220 về một cái video
+00:48:19.350 là nặng Dầu cho động cơ
+00:48:22.660 lịch thi đấu bên thay dầu trong bụng cơm
+00:48:24.570 thì bước 1 Chúng ta phải xả giàu ra khỏi
+00:48:27.940 động cơ bản lock thì đối tượng cơ bản
+00:48:30.130 gốc ở trong tủ lạnh là động cơ Block
+00:48:32.500 pittông
+00:48:33.420 do đó là ống hút của những làn da sẽ
+00:48:35.920 không được băng chứa dầu bên trong lúc
+00:48:38.350 này để đổ dầu ra thì chúng ta sẽ phải đổ
+00:48:41.110 dầu ra một trong hai ống đó là ống hút
+00:48:45.120 vào da thì đối với thay đổi giao thông
+00:48:48.100 đường ống hút thì chúng ta sẽ dùng một
+00:48:49.570 hộp chứa để chứa rồng và sau đó chúng ta
+00:48:53.170 sẽ phải bơm áp vào đây để nén đẩy toàn
+00:48:55.720 bộ dầu còn lại và cắt bật ở bên trong
+00:48:58.440 động cơ để ra coi đây là đối với phương
+00:49:01.960 pháp là xả dầu là phần động cơ
+00:49:04.890 Sau khi trả xong thì chúng ta sẽ tiến
+00:49:07.420 hành nạ dầu cho động cơ blog thì làm
+00:49:10.150 giàu Trong cơ bản nhất thì chúng ta sẽ
+00:49:11.680 để động cơ về cái trạng thái như ban đầu
+00:49:14.550 thì cũng muốn ống hút hoặc là uống làm
+00:49:18.520 ra trong 12 ống này thì chúng ta sẽ đối
+00:49:20.620 với một chiếc ròng mộc chưa chồng Ừ thì
+00:49:23.299 chúng ta sẽ án bằng muộn dầu tương xứng
+00:49:26.059 cho động cơ thì đối với động cơ Đồ ngốc
+00:49:28.670 đang nhập từ 200 lần được
+00:49:31.000 350ml lúc này tôi sẽ chúng ta sẽ cho
+00:49:35.359 động cơ và rất nhiều hoạt động thì do
+00:49:37.789 nhút là ứng hàng ga là hai ông cùng nhau
+00:49:39.549 giàu thể làm nặng hơn thể khí sau đó khi
+00:49:42.470 động cơ mà lúc hoạt động chúng ta sẽ bị
+00:49:43.819 tay vào ống hộp pha động cơ sẽ á Vũ toàn
+00:49:49.010 bộ dầu được hộp chứa dầu vào bên trong
+00:49:50.960 động cơ thì sau khi giàu được vào bên
+00:49:54.200 trong động cơ và sẽ tiến hành kiểm tra
+00:49:55.880 số lượng dầu nạp cho động cơ đã nạp đủ
+00:49:59.240 hay chưa Thì bây giờ thì sẽ hướng dẫn
+00:50:01.970 cho thằng cao rồi
+00:50:03.220 đối với phương pháp làm giàu để thực
+00:50:05.660 hiện đối với phần nạp Dầu cho động cơ
+00:50:08.420 thì chúng ta cần phải chuẩn bị về một số
+00:50:10.460 các thế thiết bị như sau
+00:50:18.460 Thứ nhất là chúng ta phải có động cơ và
+00:50:21.109 lúc nhiều chuyện Ơ sao lại thay dầu chấm
+00:50:23.910 com thì đối với những trường hợp động cơ
+00:50:26.070 blog thì khi đang hoạt động bình thường
+00:50:27.810 thì chúng ta sẽ không thể thay lâu nhưng
+00:50:32.550 đối với một số trường hợp khi gia công
+00:50:34.170 sửa chướng khi sửa về dàn lạnh giàu đã
+00:50:37.950 bị hỏng hoặc là giàu do tác động của
+00:50:40.650 nước gây ra hiện tượng là axit lên rau
+00:50:43.800 do đó chúng ta cần phải thay dầu và thứ
+00:50:46.320 hai là có thể làm thay đổi về một số
+00:50:47.850 lạnh mới chất khi không có mạng tôi sẽ
+00:50:50.850 tư vấn chúng ta phải thay dầu trong cuộc
+00:50:52.710 với đại ca mới thì chúng ta cần chuẩn bị
+00:50:54.630 1 lá động cơ đốt trong là cần thay dầu
+00:50:56.730 hay là đối với rau chúng ta sẽ cần nạp
+00:51:01.620 cho động cơ thì nối với giàu sẽ làm cho
+00:51:04.290 động cơ thì phải tương xứng với dầu của
+00:51:06.510 động cơ đang đang sử dụng thì đối với
+00:51:08.790 chúng đã nhìn ra đây là thấy là giàu
+00:51:11.180 của động cơ đang sử dụng là ga là 13
+00:51:14.100 tuổi thì sẽ thay dầu ạ là 13 cân đối với
+00:51:17.340 rau thứ hai là chúng ta cần một cái hộ
+00:51:21.110 để chứa ông
+00:51:23.250 bà nuôi vô ý xuống cống hiến yêu để hút
+00:51:29.830 dầu cho bạn tôi là một bình kỷ niệm
+00:51:35.010 chúng ta sẽ phải sử dụng một cái mình ý
+00:51:37.270 thêm mình kỷ niệm đêm Lúc này để chúng
+00:51:40.000 ta sẽ xíu bột vào Bố tao cái cặn bẩn vì
+00:51:43.510 trong động cơ của lớp da ngoài
+00:51:46.290 thì thao tác thì nhà chúng ta đi sau
+00:51:49.440 chúng ta nhìn thấy đây thì nước một
+00:51:52.680 thấy sẽ
+00:51:55.120 sự phân biệt chú huống thì đâu là uống
+00:51:59.490 thuốc ngủ là ngon thì trong đó đây để
+00:52:02.950 học trước thì thấy đã hướng dẫn cho tao
+00:52:04.420 rồi ấm nhỏ nóng bỏng hay đánh to một ống
+00:52:08.680 hút của một âm nhạc ra lúc này thì sẽ
+00:52:10.630 tiến hành
+00:52:12.630 đổ dầu ra bị nó hút
+00:52:15.480 anh sẽ đổ dầu đây cho được cái nút và sử
+00:52:18.340 dụng một cuộc chiến rồng
+00:52:19.770 để thay nhà phải đâu
+00:52:26.520 thì tôi đang lên giấy này luyện giàu sẽ
+00:52:29.020 được nghỉ được trải ra ngoài à
+00:52:32.510 ừ ừ
+00:52:51.820 ừ ừ
+00:53:02.940 ừ ừ
+00:53:15.940 ừ ừ
+00:53:34.160 chị
+00:53:39.309 xem phim lượng dầu à Thì nó đổ ra thì
+00:53:43.220 chúng ta quá đối với một số trường hợp
+00:53:45.740 là chúng ta thay dầu cho động cơ nhưng
+00:53:48.380 không thế động cơ đốt thì chúng ta sẽ
+00:53:50.270 tăng lượng dấu gió thả và có cộng thêm
+00:53:53.599 1/6 sự
+00:53:55.990 hai đối với trong quá trình hoạt động
+00:53:58.609 còn bốc trường hợp là một số lệnh cơ bản
+00:54:01.250 nhất
+00:54:02.079 mà không đó
+00:54:04.539 đối với một số trường hợp với động cơ
+00:54:06.829 Block thì Việt Nam sáng sẽ phải là Nam
+00:54:09.650 dòng trong phạm vi về từ 200 đến 350
+00:54:14.020 Nếu hoặc là chúng ta sẽ học về một số
+00:54:17.059 thông số ngọc dầu cho từ động cơ theo em
+00:54:20.839 của nhà sản xuất quy định
+00:54:22.720 để chúng ta làm thì ở đâu với thời gian
+00:54:25.880 có một con trai rồi sau này nó thành
+00:54:28.010 năng là
+00:54:28.900 một mình Tôi Là Thầy cha hướng dẫn về
+00:54:32.539 phương pháp làm giàu khẩn cấp ở à à
+00:54:37.580 ừ ừ
+00:54:45.800 à à
+00:54:47.610 à à
+00:54:50.840 khi
+00:55:10.480 chúng ta thấy là nói với cha rằng Thầy
+00:55:13.640 thì giàu là một con tôi đối với rồng ba
+00:55:17.060 tôi thì là năng lượng dầu phù hợp với
+00:55:20.090 động cơ thì cách nạp vào Lúc này chúng
+00:55:22.700 ta muốn tiến hành rồi bây giờ thấy cha
+00:55:25.130 hướng dẫn về phương pháp làm giàu cho
+00:55:26.840 động cơ Sau khi đổ dầu cho động cơ blog
+00:55:29.990 xong chúng ta sẽ tiến hành lạc Dầu cho
+00:55:32.270 động cơ để làm sao cho động cơ đối với
+00:55:35.270 động cơ block tủ lạnh chúng ta sẽ nạp
+00:55:37.070 lượng dầu nằm ở trong phạm vi từ 200 cho
+00:55:41.360 đến 350 ml thì thuộc vào từng động cơ
+00:55:44.930 động cơ và lớn chúng ta nạp nhiều hoạt
+00:55:47.660 động cơ vẫn ốc nhỏ cản nạp đối với một
+00:55:50.450 số trường khi mà chúng ta chỉ hay Dầu
+00:55:52.500 cho động cơ nhưng không thay thế động cơ
+00:55:54.150 chúng ta đăng luôn dùng cối đổ ra thì
+00:55:57.780 lợn giống mới nạp vào bằng lượng dầu cũ
+00:56:00.270 đổ ra và có bổ sung thêm một vòng Sáu
+00:56:02.760 Lượng dầu đó nó là cái lượng tiêu hao
+00:56:06.300 trong quá trình hoạt động thì đối với
+00:56:08.610 động cơ ngày thì thầy bán băng và đo đối
+00:56:11.880 với công suất của động cơ và kỹ thuật
+00:56:14.670 động cơ thì chúng ta thấy sẽ nạp khó
+00:56:17.870 280 nhưng thì đối với cái này là phải là
+00:56:20.760 330
+00:56:24.560 330 bây giờ thì nạp vào khoảng
+00:56:28.070 280 nếu đối với
+00:56:30.830 dòng lúc này thầy sẽ dùng ống Tiêu Động
+00:56:35.790 nối với đầu năm nha hoặc là uống nước
+00:56:38.360 đối với trường hợp là khi mà chúng ta
+00:56:40.560 đang nạp giàu mà gặp một cái tình huống
+00:56:42.690 này nạp vào như động cơ của nước lạnh
+00:56:45.600 đun theo đó gạch thì chúng ta sẽ đổi
+00:56:47.910 nặng sang bên anh lúc này bị cấm yêu với
+00:56:53.080 hộp chứa dầu mà cấp nguồn cho page mắt
+00:56:57.300 thận trọng khi
+00:57:00.960 tắt nguồn cho động cơ và có cả bạn thì
+00:57:03.250 chúng ta nhìn ở đây thì ban đầu là giàu
+00:57:05.140 của Thành là hoàn toàn là chưa chưa hút
+00:57:07.720 vào thì lúc này để hút dầu vào thì thấy
+00:57:11.080 sẽ bị tay báo
+00:57:13.590 đầu hút thì đang coi là lớp trẻ hút rồi
+00:57:17.020 rất giàu một Muốn cảm biến bên trong
+00:57:20.910 đấy
+00:57:22.590 thì đáng yêu cầu rồi thì chúng ta sẽ á
+00:57:25.350 cho động cơ và lúc hoạt động
+00:57:29.490 của mình
+00:57:32.120 [âm nhạc]
+00:57:38.280 nên tôi bảo lúc nào là ổn định chúng ta
+00:57:40.720 sẽ tiến hành kiểm tra lượng lượng dầu
+00:57:44.520 chúng ta sẽ kiểm tra cái lợi giàu
+00:57:47.250 thì đối với kiểm tra một lần giàu cho
+00:57:49.630 động cơ à ở nhà chán
+00:57:53.410 tiến hành bị chặt tay vào đấy vậy sau đó
+00:57:57.590 là chúng ta ngạt này
+00:57:59.110 chúng ta sẽ nhạc đột ngột ra để kiểm tra
+00:58:01.850 xem lượng dòng
+00:58:06.520 Nếu luyện rồng bắn ra là những hành động
+00:58:09.500 giàu dưỡng chất lượng dầu thì đây chính
+00:58:12.770 là
+00:58:14.440 ngành lạnh giàu kẽm nằm được Nhưng nếu
+00:58:17.780 mà chúng ta bị
+00:58:20.740 trong tay máy đẹp Sau đó chúng ta ngàn
+00:58:24.590 đồng hồ ra thì chúng ta thấy nếu làn hạt
+00:58:26.840 giàu lớn mà thôi Và nếu mà không có bụi
+00:58:29.300 giàu thì đang đánh chiếu đây là đối
+00:58:31.610 phương pháp nạp giàu chất xơ Plus Trung
+00:58:34.640 tâm
+00:58:36.910 đây là đối với xuống đầu tiên ta sẽ đi
+00:58:40.820 tìm hiểu về hiện tượng hỏng trong động
+00:58:43.940 cơ bản lock có những hiện tượng hỏng như
+00:58:45.860 Nam
+00:58:46.600 hiện tượng một blog không hoạt động dòng
+00:58:50.660 bằng nếu như chúng ta đã biết được để
+00:58:52.740 con dòng thì mạch sẽ kín mà có dòng điện
+00:58:54.510 chạy là trường hợp này là dòng Bằng
+00:58:56.850 Không Như vậy loại trừ đối với những
+00:59:00.900 trường hợp là đứt dây ở bên ngoài hay là
+00:59:03.240 chưa có nguồn cung cấp thì bây giờ chúng
+00:59:04.650 ta chỉ xét về mình động cơ blog thì đối
+00:59:07.110 với động cơ một lúc nhớ ngàn nếu đối với
+00:59:09.360 mình đặt câu blog thì lúc này chúng ta
+00:59:11.670 nên nhớ là ra sẽ có những nguyên nhân
+00:59:14.010 như là đứt cuộn dây của động cơ 2 là
+00:59:16.710 giắc cắm giữ phần điện vào ba chân của
+00:59:19.350 vỏ thì chúng ta biết là chỉ sử dụng giắc
+00:59:21.120 cắm khi mà bị va đập mạnh thì cũng có
+00:59:23.850 thể là rơi tuột lại và động mạch này
+00:59:27.510 chạy dung
+00:59:30.290 tiêu chuẩn thứ hai bờ đốc không hoạt
+00:59:33.870 động dòng rất đơn nguyên nhân dòng lớn
+00:59:37.050 lớn hơn dòng định mức có thể là Trạch
+00:59:39.240 dòng cao 20 trại giống cao khi trường
+00:59:42.000 hợp này thì có những nguyên nhân là kem
+00:59:43.860 anh có những nguyên nhân là kẹt low to
+00:59:46.280 store the pit tông với xilanh đẹp Ừ Ok
+00:59:51.400 em chụp cơ ổ đỡ hoặc là cuộn dây bị chạm
+00:59:57.010 chặn bản tặng một toàn phân là tắt ở đây
+01:00:01.270 đấy ống hút của chúng ta để hở là tắt
+01:00:04.530 một phần của một phần hoặc toàn phần của
+01:00:07.900 ống
+01:00:09.060 này Nhưng nhớ là khi này là ông hốt của
+01:00:12.580 ta
+01:00:13.470 đang chờ thì ta sẽ thấy này
+01:00:16.530 dòng của ta là dòng cao nhưng mà nếu mà
+01:00:19.300 trong hệ thống của chúng ta nếu trường
+01:00:20.920 hợp tác toàn phần thì nó lại là dòng tao
+01:00:22.480 cơ mà cái này là nó đang chạy chậm không
+01:00:27.060 đối với hiện tượng thứ ba mở lock hoạt
+01:00:30.190 động nhưng không hút không đây có những
+01:00:33.190 nguyên nhân nào
+01:00:34.350 ông hút không đầy gì chúng ta biết được
+01:00:37.660 là khi biết chu trình phút này là
+01:00:39.190 pittông luôn luôn là tịnh tiến lên xuống
+01:00:41.830 trong khoảng xilanh nhận quá trình quốc
+01:00:44.170 gần đây
+01:00:45.000 và có lá than thì cái chân lập công rút
+01:00:48.220 còn không đầy thì trong đó là có lấy lá
+01:00:50.530 van thế này lấy tay Biên chú Khiêm
+01:00:54.340 pittông xilanh món lớn ống đẩy lên trong
+01:00:57.590 động cơ của người ta đang ở trạng thái
+01:01:00.160 vấn đề bên trong động cơ đang làm cái
+01:01:04.010 trạng thái của các bạn là gì làm giấy
+01:01:06.530 mình trong Mặc dù là cùng làm có Hàn có
+01:01:10.580 sử dụng lò xo này để chống
+01:01:13.510 dâm đấy uống nhưng mà có vẫn có những
+01:01:17.990 trường hợp số lượng thì không nhiều đã
+01:01:20.300 sang đến hiện tượng thứ 4 là Block hoạt
+01:01:24.650 động như nút tđể chém nhưng hút đầy kém
+01:01:26.630 thì có thể là làm An hút là Bond ảnh
+01:01:29.240 nóng không tím
+01:01:30.700 rồi ý xilanh mòn ít
+01:01:33.860 và
+01:01:35.650 dầu bôi trơn kém chất lượng
+01:01:38.140 hoặc lá đang bị nhẹ một phần của ống hút
+01:01:41.650 nhận một phần ở mốt à
+01:01:45.850 có hiện tượng thứ 5
+01:01:47.910 Block hoạt động nhìn kêu ồn đối với
+01:01:53.050 trường hợp động cơ blog hoạt động những
+01:01:54.730 kêu ồn có những nguyên nhân như sau Một
+01:01:57.790 là dầu bôi trơn kém chất lượng hay hỏng
+01:02:01.000 lò xo chống rung ở bên trong mà bật điện
+01:02:04.510 động cơ kẹp nhẹ
+01:02:07.690 trà xanh hiện tượng thứ 6 và lớp hoạt
+01:02:12.160 động nhưng lại bị rò điện giá ra bỏ
+01:02:19.390 Ở đối với trường hợp bị rò điện ra vỏ
+01:02:21.690 thì có những nguyên nhân như là độ cách
+01:02:24.400 điện cuộn dây
+01:02:26.549 không tốt
+01:02:28.440 thật dâu em điện không tốt
+01:02:32.940 đối với hiện tượng thứ 7 Block hoạt động
+01:02:36.190 nhưng mà hơn dòng so với dòng bình bức
+01:02:38.279 ỉa đây hơn em dòng xong rồi dòng định
+01:02:40.539 mức thì chúng ta nên nhớ là ông đẩy nó
+01:02:42.279 bị nghe một phần
+01:02:44.069 hoặc là phần điện cơ đang bị kẹt nhẹ thì
+01:02:47.200 Đấy là toàn bộ 7 hiện tượng
+01:02:50.760 trong 7 hiện tượng này thì mọi người nên
+01:02:53.019 nhớ là cái biểu hiện mà phát ra bên
+01:02:55.299 ngoài
+01:02:56.910 hiện tượng phát cho nên ngoài Mày chạy
+01:02:59.650 cũng bình thường của khách hàng có thể
+01:03:00.789 nhấc được mà thấy là một là dẫn tới tình
+01:03:03.519 trạng blog không hoạt động 2 hoạt động
+01:03:06.670 kém lại ba hoạt động nhưng không ông lại
+01:03:10.510 còn đối với trường hợp như là kêu
+01:03:13.430 em
+01:03:14.470 kêu hoặc là thôi em rằng thì nó vẫn hoạt
+01:03:17.450 động nhưng mà quên rằng hoạt động kém
+01:03:19.790 mạnh Bởi vì giá thiết bị bảo vệ đang nắp
+01:03:21.410 sớm hoặc này chắc sinh nhầm bị kêu hoạt
+01:03:24.380 động của chúng ta vẫn đạt được năng suất
+01:03:26.240 làm lạnh mà kêu cái ảnh hưởng tới người
+01:03:28.640 sử dụng này là rò điện
+01:03:32.410 ạ
+01:03:33.540 [âm nhạc]
+01:03:36.060 Và bây giờ chúng ta sẽ xăng đối với khắc
+01:03:39.760 khổ thì tại sao mà chúng ta cần phải tắt
+01:03:41.410 chụp bởi vì do động cơ blog là động cơ
+01:03:44.140 vào lúc 9 máy nén kín phần vỏ được Hàn
+01:03:48.040 kín và bao bọc toàn bộ phận điện động cơ
+01:03:50.080 ở bên trong do đó và công việc gia công
+01:03:54.130 trưởng chưa rất là khó khăn chỉ như vậy
+01:03:56.260 chúng ta cần phải khắc phục chất thì là
+01:03:58.810 sữa chưa Ít trường hợp nào là trường hợp
+01:04:00.820 quốc tổ em nhìn vào đây thì em thấy là
+01:04:03.420 đối với nguyên nhân
+01:04:06.240 đối với những nguyên nhân là động cơ
+01:04:08.320 blog không hoạt động dòng cao nhưng cuộn
+01:04:11.980 dây của ra quỹ đất ít trường hợp này
+01:04:14.850 chúng ta sẽ bổ sung thêm tục kích có
+01:04:18.550 điện dung là trên 100 inch chỉ bổ sung
+01:04:20.980 chân 100m tình ta sẽ lắp theo như sơ đồ
+01:04:23.350 hình hay về sơ đồ đấu điện cho động cơ
+01:04:26.260 buổi học hôm trước là có học và thầy
+01:04:28.600 cũng giải thích cho chúng ta là thì
+01:04:29.980 chúng ta thường dùng đối với sản phẩm là
+01:04:32.390 Ê ngốc như là khó phải đọc nhật của
+01:04:34.760 Sharp có phải đâu ạ
+01:04:38.220 à à
+01:04:39.660 đã có khởi đầu tiếp tục
+01:04:44.520 Ừ
+01:04:45.530 chị đã sử dụng cụ kích Nga còn cái
+01:04:48.870 trường hợp khắc phục thứ hai
+01:04:50.900 lần nếu Block bị rò điện ra vỏ và tiếng
+01:04:54.510 kêu ở bên trong hút đẩy kém gì nếu mà
+01:04:58.560 Nguyên nhân là do dâu bôi trơn kém chất
+01:05:01.110 lượng thì lúc này chúng ta cũng sẽ thay
+01:05:02.640 dầu này anh dầu và đồng thời nói vậy
+01:05:06.140 đổ dầu ra hay dầu và chất lượng tốt hơn
+01:05:08.820 để phục xem có đạt yêu cầu anh không rồi
+01:05:14.550 khắc phục đối Trần Lập thứ ba là đối với
+01:05:17.070 những trường hợp là động cơ blog hơi ăn
+01:05:18.840 ròng ròng nhưng đối với trường hợp này
+01:05:21.450 là động cơ chưa sử dụng nhất vì lúc này
+01:05:24.210 chúng ta có thể là hỗ trợ thêm tục tâm
+01:05:25.560 đây là trái áp dụng đối với động cơ là
+01:05:27.060 gì ạ Hơi ăn dòng thôi Bởi vì đồng thời
+01:05:30.720 này chưa nó cũng ngâm nhân còn đối với
+01:05:32.160 động cơ bản lock đã lắp cũng nhầm rồi
+01:05:33.570 thì thì ta có thêm Phụ Ngâm mình cũng
+01:05:36.000 không dám bạn này ta lắp thêm cũng âm
+01:05:38.280 thì cũng không làm bạn ạ
+01:05:40.330 xe hơi an lòng bây giờ chưa lắp phụ ngâm
+01:05:44.050 vào thì giảm dòng 0,3
+01:05:46.650 trở xuống đấy ạ từ nhỏ hơn hoặc bằng 0,3
+01:05:50.970 trở xuống
+01:05:52.370 và nếu muốn khắc phục không được thì lúc
+01:05:55.020 này sẽ là mấy đi tiến hành xưởng nhìn do
+01:05:58.140 là Note 9 Thì quy trình sửa ra thì đầu
+01:06:00.810 tiên là chúng ta cần phải làm gì
+01:06:02.450 chúng ta theo các bước như là đầu tiên
+01:06:05.100 là chúng ta phải giặt sạch dầu ra khỏi
+01:06:06.810 động cơ
+01:06:07.730 Sau khi xả dầu ra khỏi động cơ
+01:06:10.880 thì lúc này chúng ta sẽ tiến hành nó để
+01:06:14.370 cưa vỏ động cơ blog và chúng ta sẽ cưa
+01:06:17.430 điểm tiếp giáp với vị trí Hàn của động
+01:06:20.130 cơ
+01:06:21.560 vị trí Hàn lượng cân
+01:06:24.320 mà chúng ta vẫn sữa vào nó mới hiện
+01:06:26.550 tượng họ rồi tháo rời các chi tiết liên
+01:06:29.310 quan để ta tiến hành xưa Lấy một ví dụ
+01:06:32.340 như này thì lấy một cái ví dụ thì chắc
+01:06:35.130 đợt này thì chúng ta cần này sửa xong
+01:06:37.080 nhất là đối với trường hợp là động cơ
+01:06:39.810 Bây giờ là hư hỏng ở cuộn dây
+01:06:42.350 trường hợp này thì ta phải thay thế cuộn
+01:06:45.090 dâng mới Xin chào hôm nay ta lại thay
+01:06:47.289 thế một cuộn dây mới
+01:06:49.799 và dây quấn cho động cơ
+01:06:53.459 phải có tiết diện dây
+01:06:56.579 số vòng dây chất lượng dây là tương
+01:06:59.829 đương với dây quấn cú và khi quần xong
+01:07:02.890 thì chúng ta nên biết là động cơ này nên
+01:07:04.900 ông rau Chính vì vậy thì quần xong thì
+01:07:07.599 chúng ta chỉ dùng dây dù tao bó cuộn dây
+01:07:09.670 cho gọn và không bổ sung Sơn Anh điện
+01:07:13.599 lại chúng ta sẽ không không không bổ
+01:07:15.309 sung Sơn cách điện I
+01:07:19.079 ừ ừ
+01:07:20.539 anh
+01:07:21.219 không bổ sung Sơn cách điện
+01:07:27.309 trường hợp chúng ta sửa Ví dụ như sửa
+01:07:30.769 tiếp theo là nếu xô mà dâu to mà chạm
+01:07:34.849 vào xa to thì mà chúng ta bị và động
+01:07:37.880 mạch thì nó sẽ bị sai lệch thành ra là
+01:07:39.949 nó chạm và gây ra kêu kính trường hợp
+01:07:43.249 này thì ta sẽ tháo muốn bu-lông và đưa
+01:07:45.559 hai sa ra ngoài chúng ta đi tiến hành vệ
+01:07:47.299 sinh phần điện là xa to dầu to sau đó là
+01:07:52.309 chúng ta bắt định vị dùng bốn Là nhôm để
+01:07:56.509 cố định hay là 4 là nhôm hoặc là chúng
+01:07:58.789 ta có thể sử dụng che nên mỏng này cố
+01:08:01.939 định để khô khoảng cách rồi rửa rô và
+01:08:04.910 sạc Sau đó chúng ta sẽ tiến hành là điện
+01:08:07.130 bắt mùa đông bắt lại bu lông thì thông
+01:08:10.189 thường về phương pháp bắt bốn mùa đông
+01:08:11.900 thì sao phải lắp kéo nhau
+01:08:13.599 đi cho tao chặt bulông thì chúng ta sẽ
+01:08:16.908 tháo mỗi tấm kim loại ra ngoài được kiểm
+01:08:19.819 tra
+01:08:20.549 em chạy không còn nếu gặp một cái trường
+01:08:23.578 hợp là khi hỏng thì chị nhất của thằng
+01:08:25.738 cơm
+01:08:26.599 như đã Mần gà cựa sắt cốt
+01:08:30.500 là các cơ đấy à
+01:08:33.509 300 hôm nay à
+01:08:36.160 Anh Xuân năm nay
+01:08:38.399 thì tắt cần tháo dời toàn bộ các chi
+01:08:41.290 tiết một phần cơ xăng thì tháo toàn bộ
+01:08:43.870 các chị biết không sân cơn ta sẽ ngâm
+01:08:45.460 trong dầu hoa anh đấm trong xong hay là
+01:08:47.319 một số các nước tẩy rửa chuyên dụng sau
+01:08:50.229 đó là á vệ sinh
+01:08:52.500 sau đó chỉ là vệ sinh thì quá trình vệ
+01:08:55.689 sinh chúng ta có thể dùng bàn chải dùng
+01:08:57.460 giấy ráp đánh rửa vệ sinh đối với các
+01:09:00.580 lại chi tiết một phần cơ sở đó lau khô
+01:09:03.029 ngâm lại trong dấu dấu lệch và lắp lạnh
+01:09:07.000 như ban đầu đấy là đối với
+01:09:09.779 chúng ta đang ở cái phần hư hỏng của
+01:09:14.410 phần
+01:09:15.990 ăn cơm
+01:09:18.029 xong hết sữa xong sau khi sửa xong thì
+01:09:21.250 chúng nó lặp lại như ban đầu mà chúng ta
+01:09:22.600 cần phải hàn kín vỏ động cơ Sau khi hàng
+01:09:25.090 thì đảm bảo cái răng hàm 1920 Nhưng tao
+01:09:27.520 phải đi tiến hành đó là Việt thử kín họ
+01:09:29.680 cho động cơ này chúng ta phải đi thử kín
+01:09:31.510 vỏ cho động cơ à
+01:09:34.319 Ừ
+01:09:35.120 thì tao cưa là cơ điểm tiếp giáp Còn nếu
+01:09:37.830 em cưa tại cái vị trí Hàn thì phép Rất
+01:09:40.229 là cứng và nhớ là cưa thì đây là cái vỏ
+01:09:43.649 ta đang ở cái trạng thái là nong do đó
+01:09:46.050 Ta chỉ cưa lớp vỏ bên ngoài thôi thì ta
+01:09:48.600 sẽ dùng búa Thằng óc nhẹ ra là nó ra còn
+01:09:51.149 nếu mà chúng ta cưa mà quá bà thì nó tắt
+01:09:53.580 không ở bên trong thì cứ hàn công việc
+01:09:55.530 kín khó khăn mà tia lửa lọt vào bên
+01:09:57.930 trong có thể gây giải thưởng từ cuộn dây
+01:09:59.340 anh cái ảnh từ cuộn dây Đây là đối với
+01:10:02.900 Đây chính là đối với
+01:10:05.150 cơ vỏ ở động cơ
+01:10:11.510 mà chúng ta Xanh Thay Thế Thành Thúy
+01:10:14.610 động cơ
+01:10:15.650 thì khi động cơ mà hỏng ở một số trường
+01:10:18.270 hợp mà chúng ta không có sửa được khắc
+01:10:21.180 phục không được Sửa ngược không có đồ
+01:10:22.980 này cay thì lúc này chúng ta sẽ thay cả
+01:10:25.080 một cái động cơ đi thay cả động cơ thì
+01:10:28.080 cái động cơ cho là chọn mua là chọn mua
+01:10:30.540 để thay thế thì cần phải đảm bảo được
+01:10:32.700 các yếu tố như sau
+01:10:34.300 ý là điện áp sử dụng phải tương đương
+01:10:36.190 bệnh viện áp túi để tránh ta cần phải
+01:10:38.020 like là chuyện nguồn thì nó sẽ phức tạp
+01:10:40.050 này chuyển một nguồn thức tạp của cầm
+01:10:42.639 canh thứ hai hình dạng kích thước để
+01:10:46.030 chúng ta lắp vừa được động cơ và động cơ
+01:10:48.190 năng được bố trí ở bên sau vỏ Tùng
+01:10:52.079 ba làm về công suất thì đối với về công
+01:10:56.290 suất thì mọi người cũng nên nhớ là công
+01:10:57.790 suất cho động cơ lại công suất công suất
+01:11:00.610 là như nào thì công suất phải tương
+01:11:02.889 đương tương đương để năng suất làm lạnh
+01:11:05.619 thân đạt được kêu câu và tương đương thì
+01:11:08.199 vừa đặt đảm bảo yêu cầu phù hợp với các
+01:11:11.349 thiết bị y chang trong đó là có dàn nóng
+01:11:14.320 uống bao có dàn lạnh thì tương đương thì
+01:11:16.960 nó sẽ không hỏng được hệ thống Nhưng mà
+01:11:18.610 nếu mình đang sai lệch làm cho làn rất
+01:11:21.489 là nhanh nhỏ
+01:11:22.770 rồi tiếp tục là phải đạt tiêu chuẩn động
+01:11:25.719 cơ và laptop thì đây sẽ là những phương
+01:11:27.460 pháp kiểm tra đánh giá chất lượng cơ thì
+01:11:29.380 ta đã học để phương pháp kiểm tra đánh
+01:11:31.510 giá chất lượng của động cơ Đạt đã nắm
+01:11:33.099 được vấn đề này anh
+01:11:35.650 đi tất cả các này thông số trên thì đều
+01:11:38.660 được ghi trên vỏ động cơ bản lock và ghi
+01:11:42.080 trên thông số kỹ thuật chứng tỏ
+01:11:46.720 nhưng đối với môi trường học là một
+01:11:48.770 chuyển động cơm ở đâu cú mở mắt hết về
+01:11:51.380 phân số
+01:11:52.150 để công suất thì tao thể dựa vào một số
+01:11:55.340 yếu tố như sau để ta chọn sản phẩm phù
+01:11:58.490 hợp nhất là tác dựa vào dung tích cuối
+01:12:01.430 cùng dựa vào dung tích của Tùng
+01:12:04.000 để chọn động cơ bản lock hoặc là Dựa
+01:12:07.220 theo
+01:12:08.050 Dong rửa nhập trọc nước gần đây thì đấy
+01:12:12.410 nó có rất nhiều các vì trường hợp để
+01:12:15.230 chúng ta dựa theo à chọn để động cơ thì
+01:12:19.760 cái động cơ vào lúc tủ lạnh và sử dụng
+01:12:22.130 trong gia đình của chúng ta đang rung
+01:12:24.530 thì chiếm phần lớn là từ 250 Lít cho đến
+01:12:30.610 a
+01:12:31.260 lớn A nhỏ hơn bằng 200 lít nhá
+01:12:34.409 phần lớn nhỏ hơn được bằng 200 lít và
+01:12:37.030 thương đang sử dụng những cái động cơ
+01:12:39.219 dao động từ một phần 12 mã lực và 1/6 mã
+01:12:43.060 lực thì chúng ta đã biết được 11 mã lực
+01:12:45.159 muốn nhựa đấy là một ngựa thì đang bằng
+01:12:47.850 736 ngát hương chúng ta sẽ có mất mặt
+01:12:51.130 lựa chọn bé công suất như sau A
+01:12:55.739 ở đầu tiên là về dòng
+01:12:58.369 mã lực này quá tệ đổi ra oán mà cái mức
+01:13:01.499 dung tích
+01:13:02.449 đây bit lấy ví dụ như là một phần mười
+01:13:05.429 hai 1 phần 12 nữa thì chúng ta đang
+01:13:08.039 tương ứng tả sau mươi 60W dòng sẽ ra từ
+01:13:13.230 không thể 4 cho đến không thể hỏi năm
+01:13:16.010 ròng của chúng ta từ 0,4 đến 0,5
+01:13:21.800 thì tôi biết một phần 12 máng nhựa dáng
+01:13:25.079 tương ứng nào 60W và 60W thì ta thể dùng
+01:13:28.679 là tớ
+01:13:29.599 125 trong 40 360 có thể bấm nhà được
+01:13:33.780 năng suất làm lạnh
+01:13:35.119 tiếp tục à
+01:13:38.530 ý
+01:13:40.530 là đối với 0,7 đối với lốc chúng ta 1/10
+01:13:45.070 nhựa tương ứng là 75
+01:13:46.650 75 w dòng của Star là 0,7 đến 0,8 thì
+01:13:51.969 chúng ta đã được lắp đặt cho những cái
+01:13:53.320 tủ có dung tích là 125 trăm 40.668 và
+01:13:57.400 200 lít
+01:13:59.820 đối với dòng của động cơ là cho lốc là
+01:14:04.929 1/8 nữa dòng ta là 0,8 2019 công suất là
+01:14:10.170 92w dào năng lượng lắp đặt cho như tủ là
+01:14:13.690 từ 116
+01:14:15.389 xin lỗi 160 180
+01:14:19.380 200 250
+01:14:22.079 rồi đối với lốc 1/6 ngựa thì chúng ta
+01:14:26.020 đang đạp là một 20đ
+01:14:31.030 3120 dòng của chúng ta từ 0,9 một thì
+01:14:35.600 chúng ta không dùng là từ 180 lít 200
+01:14:39.050 100 250 Nhưng nếu ta dùng 1,5 ngựa thì
+01:14:43.040 tương ứng là
+01:14:44.889 1,1 a11a cho đến
+01:14:49.179 1,2 A thì ta từ
+01:14:52.989 muốn nó chỉ là một một phần mười
+01:14:56.170 là một người xin lỗi 1/5 thì chúng ta sẽ
+01:14:58.969 đạt là 147 140w thì ta đã được lắp cho
+01:15:03.350 là 200 2.2 280
+01:15:07.300 như vậy chúng ta thấy là gì ạ tại sao nó
+01:15:11.449 vẫn tao thể sử dụng được cho nhiều cái
+01:15:14.480 dung tích Thế lý do I tại sao là đối với
+01:15:18.230 cái phần này chúng ta chỉ để tham khảo
+01:15:19.790 bởi vì trên thực tế ngày nay chúng ta
+01:15:22.580 thấy là vẫn rất nhiều loại da rất rất
+01:15:25.070 rất nhiều loại ga Chính vì yếu tố này mà
+01:15:28.010 ta có thể lắp đặt cho nhiều các mức dung
+01:15:29.989 tích khác nhau Bằng ý tưởng về một số
+01:15:31.919 loại gà có năng suất sôi hay là năng
+01:15:35.760 suất làm lạnh còn của chúng ta có sự
+01:15:37.050 khác nhau và lúc này
+01:15:39.229 nó dịch khác nhau Chính vì bệnh là đưa
+01:15:43.289 bảo bên trong thì tủy của tao cũng tránh
+01:15:45.749 làm việc
+01:15:49.099 sẽ bỏ ăn cơm mức dung tích khác nhau thì
+01:15:51.959 nên là có nhiều mức dung tích đăng nhập
+01:15:53.249 là như vậy bạn này cũng đang có chỉ để
+01:15:55.379 tham khảo thôi Tí nữa phải không sẽ
+01:15:57.059 hướng dẫn nó là kem ý nghĩa và này thì
+01:15:58.739 có một số thắc gọn
+01:16:02.360 còn đối thì trường hợp như thế này là
+01:16:05.340 động cơ bản Úc mà chúng ta đến nhớ là
+01:16:11.179 lập bảng lựa chọn công suất trên chúng
+01:16:13.499 ta chỉ dùng để tham khảo thì tùy thuộc
+01:16:15.510 vào từng loại tủ năm sản xuất hãng sản
+01:16:17.579 xuất sử dụng các loại da khác nhau mà
+01:16:20.280 chúng ta chọn Tùng chọn công suất của
+01:16:22.409 dung tích của tủ so với lớp có sẽ khác
+01:16:24.869 nhau và nếu 1 vận động cơ bản gốc rồi
+01:16:27.300 chúng ta đi mua mà không có thông số với
+01:16:28.769 công suất thì chúng ta có thể dựa nha
+01:16:30.880 anh bình luận ốp t = Q nhân y mà nhân
+01:16:33.790 Coffee trong Lộc P là công suất máy u mà
+01:16:37.449 hiệu nghiệm thế I là Cường độ dòng điện
+01:16:39.190 Coffee là hệ số công suất thì bằng là
+01:16:42.580 0,85 bằng 0,85 tại sao đối với trường
+01:16:46.060 hợp này có hệ số cos tin hệ số Coffee
+01:16:48.940 thì chỉ áp dụng cho động cơ chỉ áp dụng
+01:16:50.830 cho động cơ vì lý do này chỉ áp dụng
+01:16:53.409 động cơ thể này sẽ nêu các lý do tại sao
+01:16:56.889 chúng nó không là chị ạ chỉ là tên ý
+01:16:59.020 thôi mà bây giờ phải nhiên có kinh
+01:17:01.770 nhân với cô Xin mọi người nhớ nha
+01:17:04.739 Chúng ta thấy là ăn dứa cũng sắp từ nếu
+01:17:08.110 không sắt từ là thép non thì từ trường
+01:17:10.840 khác mà kép già từ trường khác rồi à
+01:17:13.719 khoảng cách giữa các cái là tôn Silic là
+01:17:16.179 không phải 35 ghép lại thành một khối nó
+01:17:18.070 còn chặn ấy không chặt nó dòng khác thì
+01:17:20.320 ta Đưa cuộn dây vào bên trong nó lỏng
+01:17:22.179 sinh nghe từ tính của ra kém và nếu chặt
+01:17:25.780 thì nó mới đạt được rất nhiều lý do thế
+01:17:27.820 nên là Coffee chị em dụng cho động cơ là
+01:17:30.860 chị sẽ đến 0,95 trong động cơ Block thì
+01:17:33.440 người ta thường dùng hệ số có khi là
+01:17:35.119 0,85
+01:17:36.369 đấy hết toàn bộ đây chính là toàn bộ
+01:17:40.510 phương pháp bộ về các phương pháp là
+01:17:44.830 kiểm tra đánh giá chất lượng của động cơ
+01:17:47.690 thay dầu 2 đầu một số như hiện tượng
+01:17:49.550 hỏng
+01:17:50.409 ngoài ra theo kinh nghiệm của thầy thì
+01:17:52.730 thì làm chỉ ngoài vấn đề này toàn xé dựa
+01:17:55.429 vào
+01:17:56.290 kí hiệu là thay thế này thì hiện thay
+01:18:00.290 thế là cả dân dựa vào là dung tích dựa
+01:18:03.380 vào công suất của động cơ biến thành con
+01:18:06.530 dựa vào một số ví giặm mất thông số về
+01:18:08.420 công suất thì tay có thể là dựa vào Rơle
+01:18:09.949 bảo vệ luôn đi kèm thì trên Rơle bảo vệ
+01:18:11.690 sẽ ghi với công suất của
+01:18:13.900 tôi không có thể dựa vào với thể tích
+01:18:16.460 dung tích xilanh
+01:18:18.280 tính thể tích dung tích xilanh thì chúng
+01:18:20.750 ta đến nhớ là xuất điện cũng phải tương
+01:18:22.940 ứng để kéo để Gánh được cái phần cơ thì
+01:18:26.270 trên là đang nhớ nó thể tích dung tích
+01:18:29.030 xilanh Cứ mỗi một lần là pittông anh
+01:18:30.900 xuống lợn hơi ra hay là được hơi mút vào
+01:18:33.870 được người để ném ra thì nó đều bằng
+01:18:36.090 nhau để nhận được gọi là
+01:18:38.810 heo à
+01:18:40.580 thể tích dung tích xilanh
+01:18:43.250 thì đối với bài học ngày hôm nay thì
+01:18:46.310 về động cơ bản lock thì chúng ta đã đi
+01:18:50.660 Kết Thúc của động cơ
+01:18:54.860 kết thúc của động cơ
+01:18:57.410 giờ thấy cũng mời cả lớp là ta sẽ gắn
+01:19:00.630 kết thúc buổi học ngày hôm nay à

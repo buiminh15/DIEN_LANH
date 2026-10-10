@@ -1,0 +1,1090 @@
+# tactiq.io free youtube transcript
+# Bài 5.2 - HD Phương Pháp Nạp Gas Tủ Lạnh II Dạy Nghề Thanh Xuân 93 Nguyễn Tuân -  0936989090
+# https://www.youtube.com/watch/RHqeMBFof4k
+
+00:00:00.000 Xin
+00:00:00.890 chào con em chúng ta tiếp tục sang bài
+00:00:04.560 học thứ năm
+00:00:05.750 đó là phương pháp gia công và lắp đặt
+00:00:09.769 như buổi học trước thầy trò chúng ta đã
+00:00:13.230 nghĩ tìm hiểu về phước tắt tấn cáp
+00:00:15.269 phương pháp tạo chân không cho tủ lạnh
+00:00:18.740 những buổi học ngày hôm nay thầy và trò
+00:00:21.930 chúng ta đi tiếp sang nội dung thứ ba là
+00:00:24.840 phương pháp nạp ga cho tủ lạnh
+00:00:28.099 và một số khắc phục một số hiện tượng hư
+00:00:31.320 hỏng sau khi nạp ga thì đối với phương
+00:00:34.710 pháp nào ra trong tủ lạnh thì sau khi
+00:00:36.420 tạo chân không xong thì các em nhìn trên
+00:00:38.520 sơ đồ hình ảnh thì đây là sơ đồ kết nối
+00:00:41.820 hệ thống đó chính là sau khi ta trân
+00:00:44.820 không xong thì tim đồng hồ áp suất thấp
+00:00:47.039 đang được nối với đồn là gay
+00:00:49.190 dây trung gian của bộ đồng hồ được nối
+00:00:52.350 với bình chứa
+00:00:55.039 khóa đồng hồ áp suất cao đóng khóa đồng
+00:00:58.649 hồ ăn stop mở chị và trai gà của thằng
+00:01:01.809 đang đọc thì trước khi nạp ga thì chúng
+00:01:05.470 ta cần phải tham khảo và cái thông số kỹ
+00:01:06.939 thuật trên tủ lạnh trong đó chúng ta tìm
+00:01:11.590 hiểu về loại ga thì loại ga thì tại sao
+00:01:15.520 chúng ta lại để tìm hiểu về loại ca mà
+00:01:16.869 chúng ta rất nhiều
+00:01:18.479 tủ lạnh ở phía sau của tủ thì đều có ghi
+00:01:22.990 một cái lưu ý chú ý là đối với loại tủ à
+00:01:27.009 a đang sử dụng ra 134 để đền thành Lấy
+00:01:30.850 một ví dụ là loại của anh đã sử dụng
+00:01:32.770 k134 yêu cầu khi nạp ga cần phải làm
+00:01:35.619 đúng nếu tao nạp sai đủ Đó có thể là
+00:01:38.319 không đạt được độ lệch và cái Ngọc này
+00:01:40.360 không chỉ như vậy là chúng ta cần này
+00:01:41.979 tìm hiểu về loại ca để cho da phù hợp
+00:01:44.530 với rau
+00:01:45.479 Nếu gà không vỏ với dòng thì gây ra dòng
+00:01:48.659 thứ hai chúng ta cần tham khảo các thông
+00:01:51.670 số kỹ Thuận về trọng lượng ra thì như
+00:01:54.880 buổi học về môi chất lạnh ga
+00:01:58.020 và dầu thì đánh giá nêu đối với Star là
+00:02:02.750 ga thì tất thận các loại ga chúng ta đều
+00:02:05.780 phải nạp ở thể lỏng thì độ chính xác ta
+00:02:07.850 là cao nhất Nhưng nếu chúng ta làm ở thể
+00:02:09.949 khí chế độ chính xác sẽ không đạt được
+00:02:12.319 thì chính bệnh là chúng ta cần phải tìm
+00:02:15.140 hiểu về trọng lượng gan để biết được tủ
+00:02:17.989 lạnh đó đang sử dụng là bao nhiêu gam
+00:02:21.700 thứ ba là dòng định mức cho tù thì dòng
+00:02:26.120 định mức Đây là dòng làm việc tối đa mà
+00:02:28.459 động cơ đạt được kỹ Tù là khi có ga dòng
+00:02:32.239 định mức là dòng làm việc tối đa của tủ
+00:02:34.099 nạp được kia tài chính vì vậy sau này mà
+00:02:37.549 khi cho nạp đủ thì cũng không được phép
+00:02:39.560 là vượt qua dòng định mức ghi trên thân
+00:02:41.480 thì đấy là trước khi nạp ga thì ta cần
+00:02:43.700 phải tham khảo và các thông số kỹ thuật
+00:02:44.840 vào buổi học ngày hôm nay Thầy thử lại
+00:02:46.670 sẽ hướng dẫn cho các em là phương pháp
+00:02:48.760 nạp ga đối với hệ thống của mạng đang sử
+00:02:51.410 dụng ca do 1,4
+00:02:53.200 thì về cơ bản thì có nhiều có những cách
+00:02:56.420 nạp đó là bột là chúng ta sẽ nạp theo
+00:02:58.549 thể lòng là dựa có trọng lượng ghi trên
+00:03:01.890 thân thì chúng ta phải có dụng cụ đo để
+00:03:04.920 trọng lượng sao phải có đồng hồ đo trọng
+00:03:07.770 lượng thứ hai là chúng ta sẽ nạp do k134
+00:03:10.650 thì là cả đơn chất tăng thể nằm trong
+00:03:13.350 một cái cách nạp người ta gọi là nạp thẻ
+00:03:15.810 hơi
+00:03:17.420 lúc này thì sẽ hướng dẫn cho bà lớp về
+00:03:20.940 phương pháp nạp theo để hơi và đương
+00:03:23.160 nhiên có rất nhiều các loại ga mới cạnh
+00:03:24.510 ca giờ 600 chúng ta sẽ có những cái
+00:03:27.420 video này sẽ tham khảo để cách nào
+00:03:30.650 về cơ bản thì mình sẽ hướng dẫn một
+00:03:34.080 trong các cái cách mà chúng ta đang
+00:03:35.730 hướng dung là hiện nay là k134 đang
+00:03:37.709 chiếm số đông và cách mà thợ của tôi
+00:03:40.950 đang dùng yêu là phương pháp nào là nặng
+00:03:44.280 đối với nạp ga ở thể
+00:03:47.000 khí và cho hệ thống hoạt động thì lúc
+00:03:51.780 này là
+00:03:52.819 sau khi ta Trân công xong thì sơ đồ kết
+00:03:56.010 nối vẫn ra theo như hình vẽ thì lúc này
+00:03:57.860 chúng ta sẽ cấp nguồn cho độ bộ
+00:04:00.780 cấp nguồn cho động cơ bản nó vào đâu thì
+00:04:03.640 thấy sẽ tiến hành làm ở những Bond Saga
+00:04:06.030 em nhìn vào đây đây xem ở nick bonsai ga
+00:04:09.689 thì khi mở nick ven tay ga thì da sẽ
+00:04:12.579 được đưa vào bên trong hệ thống nhưng do
+00:04:15.370 áp Sơn Trà thật lớn đồng thời máy nén Út
+00:04:17.470 về thì khi đó thành Mở nick ven tay ga
+00:04:20.048 và cũng chế áp ở trên đường Hồ sơ cấp
+00:04:22.300 này chỉ là 20 30 và si ai áp thấy cho
+00:04:28.270 vào chỉ 20 đến 30 độ C lúc này ra được
+00:04:30.430 đưa vào trong này thông
+00:04:32.669 thì chị đưa vào bên trong hệ thống thì
+00:04:35.650 lục lúc này ra được đưa vào trong hệ
+00:04:37.479 thống thì các em nhìn thì máy nén sẽ
+00:04:38.949 tuần hoàn ga sẽ được đẩy vào dán lưng
+00:04:42.010 lại ra được đẩy mà sáng nhưng
+00:04:44.669 toàn tỉnh liên tục sang ra lỏng sẽ qua
+00:04:48.130 bộ phim qua ống Mao quay sang dàn bay
+00:04:52.870 hơi quay về dàn máy hơi thì sau khi vào
+00:04:55.900 dàn bay hơi thu nhiệt để sôi và hơi này
+00:04:58.270 lại được quay về máy nén và chép kiến
+00:04:59.860 thức ý chính vì lý do đó mà thấy sẽ mở
+00:05:04.370 nhất mang tay ga mà không chết từ 20 đến
+00:05:06.110 30 là tỉnh khoảng là thành khóa này thì
+00:05:07.819 trong phạm vi là Lần Theo kinh nghiệm
+00:05:09.560 thì làm thì chúng ta cái từ 30 giây
+00:05:12.819 khoảng 30 giây chúng ta sẽ khóa Đã có
+00:05:14.810 lần
+00:05:16.120 sau khi chúng ta không 20 - 30 giây nó
+00:05:19.310 ra khóa là một lần thì nếu mà có sự tuần
+00:05:21.139 hoàn thì chúng ta đến ra được đưa vào
+00:05:22.520 bên trong này không thì khi đó
+00:05:25.060 áp của chúng ta tiếp đồng hồ áp suất là
+00:05:28.819 ổn lúc này thì ta khóa này thì nợ trở
+00:05:30.800 thành là kim đồng hồ bóp ở bên trong hệ
+00:05:33.169 thống và khi báo áp vào bên trong hệ
+00:05:35.210 thống thì chúng ta thấy là áp suất này
+00:05:36.860 phải lớn hơn giá trị ban đầu cái thời
+00:05:39.020 điểm mà chúng ta vừa tạ tấn công của
+00:05:41.300 chúng ta sẽ làm ra nếu mà áp của Thành
+00:05:43.759 mà vẫn bằng được cái áp giá trị ban đầu
+00:05:45.169 thì chúng ta thấy là không có sự tuần
+00:05:47.060 hoàn này nếu có sự tuần hoàn được thì
+00:05:49.460 cho thấy là gì qua dàn lòng
+00:05:51.759 hoa pin vàng màu xanh trên dàn lạnh thu
+00:05:55.759 nhập vào đấy thôi
+00:05:57.370 khiếp quá lại áp ở đây đó đã thấp em ở
+00:06:00.690 cuối Và Dàn giá lạnh tốt của nó và mình
+00:06:02.700 đã rất sôi thì nó lại lớn hơn giá trị
+00:06:05.040 ban đầu thì có tuần hoàn được thì ta
+00:06:06.870 tiếp tục đã làm những nếu không tuần
+00:06:08.310 hoàn được thì tạm dừng bởi vì đối trường
+00:06:10.740 hợp không tuần hoàn được thì nên là chị
+00:06:11.910 trạng thái tắt thì ta làm như vậy tôi
+00:06:13.950 khoảng hai lần thì xe mã phần ta có đến
+00:06:16.500 20 Còn nếu mà áp lên thì ta tiếp tục nào
+00:06:18.840 bởi vì do có được ga nào cho tủ lạnh thì
+00:06:21.000 sẽ ít có những tủ còn chưa đầy một lại
+00:06:23.280 75g 55g có những cái loại tủ tận lớn thì
+00:06:27.360 là 150 gam
+00:06:29.180 cho ta thấy là rò rất là ít nên là chúng
+00:06:33.030 ta cần phải anh 10 đến 30 giây là khóa
+00:06:36.300 lại mà chúng ta lại mở ra rồi lại quá
+00:06:38.130 lại
+00:06:38.990 đến khi nào
+00:06:41.840 kim đồng hồ áp suất lô này rất thấp chỉ
+00:06:45.330 ổn định trong phạm vi được 15 và xin thì
+00:06:48.180 biết giá trị này thì thấy kết luận là
+00:06:49.770 tạm lùm Tại sao lại tạm đổ Bởi vì giá
+00:06:52.470 trị tặng đổ này thì chưa có độ chính xác
+00:06:54.420 có thể là thừa có thể là thiếu có thể là
+00:06:56.280 dùng lại có thể thừa thiếu đủ thì chị sẽ
+00:07:00.669 tạm dừng cho ra và sau thành công thì
+00:07:02.979 tại sao lại không có độ chính xác được
+00:07:04.749 ta tạm dừng bởi vì đây chúng ta thấy là
+00:07:07.210 chúng ta đang nạp ở thể giải trí và áp
+00:07:11.949 suất lúc này phụ thuộc vào nhiệt độ môi
+00:07:13.629 trường và nhiệt độ tại bề mặt trăng đến
+00:07:16.419 90 Vậy là chúng ta chưa thể lấy thì giá
+00:07:19.240 trị chuẩn dưỡng mùa đông mùa hè dân chủ
+00:07:22.419 một sao thủ 4 sao dẫn tủ vừa mới chảnh
+00:07:25.389 và tủ Trạch đá có sau một thời gian xem
+00:07:27.729 có lạnh đã rất nóng sự thay đổi thì
+00:07:30.339 chính như vậy là bốc 15 thì chúng ta tại
+00:07:32.589 8 điểm của tạm ngừng cho ra là trong hệ
+00:07:34.479 thống mà lúc này khóa bình ga lại cái để
+00:07:37.479 đồng hồ ra đây và cho tủ hoạt động trái
+00:07:40.240 thường và thông thường để có độ chuẩn
+00:07:42.909 xác nhất thì thời gian sẽ từ là phải đạt
+00:07:46.240 được nhiệt độ ở bên trong ngăn lạnh là
+00:07:47.919 đang nhiệt độ để làm Đông 12 đã biết
+00:07:50.759 khai đã hiện ra là khoảng 24 sau anh là
+00:07:54.759 làm đốc một cái khay đá thì lúc đó thì
+00:07:56.229 mới đảm bảo được nó biết là khi nhiệt độ
+00:07:57.580 và biết lực lượng ra thì lúc này Ừ chị
+00:08:00.650 áp suất thì năng phụ thuộc vào nhiệt độ
+00:08:01.970 môi trường mà phụ thuộc vào số sau một
+00:08:03.470 thùng thì buổi học trước chúng ta đã đi
+00:08:05.000 tìm hiểu số sao thể hiện nhiệt độ bên
+00:08:07.520 trong ngăn tủ đạt được số sao càng thấp
+00:08:09.620 thì nhiệt độ đạt được càng thấp và ngược
+00:08:11.090 lại
+00:08:12.370 chính như vậy bắt đầu khi thành nạp là
+00:08:16.669 15 thì dừng thì lúc đó là khi nhiệt độ
+00:08:19.909 bề mặt dàn lạnh quá lạnh áp suất gà là
+00:08:22.280 co lại và nhiệt độ dài trong đó là giảm
+00:08:25.550 từ 15 giảm về áp suất là thứ hai cho đến
+00:08:28.879 12h Xin thì ta kết luận là diện ta kết
+00:08:31.940 luận là nó đù đù má và cái giá trị áp
+00:08:35.390 suất này là đối với tủ một sao thì từ 15
+00:08:39.828 ở SEA ban đầu là 15m thì giảm về chính
+00:08:42.589 xác định 12 bà xin đối của hai sao thì
+00:08:46.040 từ 15 áp suất ban đầu thì sau khi có
+00:08:48.320 lạnh mới giảm về từ 6.9 và ba màu 4 sau
+00:08:52.300 thì từ 15 giảng về hai đến sáu nhưng cái
+00:08:55.730 giá trị này độ chính xác của ta cũng
+00:08:57.380 không cao chính vì lý do đó
+00:09:00.030 khi
+00:09:00.760 [âm nhạc]
+00:09:01.970 mà chúng ta còn phải dựa vào một số cái
+00:09:04.380 ô tô khác thì lấy ví dụ
+00:09:07.100 thì lấy ví dụ Tại sao lại ta sẽ không có
+00:09:09.660 độ chính xác bởi vì giữa mùa đông và mùa
+00:09:11.070 hè dưới chúng ta thay cần cáp thành lúc
+00:09:14.220 tay cắt thì là thì là cáp giá trị trả
+00:09:17.370 lời của ta lấy giá trị sản lượng lớn hay
+00:09:18.870 lấy giá trị rất lớn nhỏ hay dàn nóng dài
+00:09:21.270 là nó nhắn áp suất này cũng có sự thay
+00:09:22.740 đổi chính vì lý do đó mà chúng ta sẽ cho
+00:09:25.710 tủ chạy thử và chúng ta quan sát thêm
+00:09:27.360 một số yếu tố một số yếu tố thì chúng ta
+00:09:30.210 mình kết luận được là Lượng Gà của sao
+00:09:31.770 nạp đủ hay chưa
+00:09:32.990 thì tốt lấy đối trường hợp này
+00:09:36.380 chúng ta sẽ dự thêm một số yếu tố thứ
+00:09:38.730 nhất là về nhiệt độ và biểu hiện của dàn
+00:09:42.390 và sau này chúng ta dựa vào nhiệt độ và
+00:09:44.190 biểu hiện của dàn gì đây cũng chính là
+00:09:46.500 một trong những cái mà họ đang đưa
+00:09:48.360 thường áp dụng khi không thì tại sao thợ
+00:09:50.730 để cường 22 áp dụng nhiều bởi vì chúng
+00:09:53.100 ta đi nhớ mà các loại ra trên trường này
+00:09:56.550 rất nhiều và muốn loại tủ lịch sử dụng
+00:09:58.890 một loại da khác nhau
+00:10:00.010 vì vậy muốn mọi loại da khác nhau thì có
+00:10:02.440 áp suất
+00:10:03.750 nặng áp suất sôi rồi là áp suất nhưng
+00:10:08.710 khác nhau Do đó giá trị áp suất lấy chỗ
+00:10:12.190 nào dựa trên thể phí thì cũng có áp suất
+00:10:15.400 khác nhau thì chính như vậy
+00:10:18.060 tủ của tôi sẽ làm được cái biểu hiện một
+00:10:20.860 là nhiệt độ của dàn nóng phải nóng đều
+00:10:23.020 từ đầu dài đến cuối răng và chúng ta
+00:10:25.390 thường là đo nhiệt độ Tải phim âm thứ 2
+00:10:28.500 vừa đạt được năng suất vừa làm tăng
+00:10:30.610 nhiệt độ thì nhiệt độ của tôi phải đạt
+00:10:32.530 được nhiệt độ của thủ 4 sao đồng thời Ví
+00:10:36.280 dụ như tủ này là Thứ 4 sao Hay là thứ ba
+00:10:38.080 sao tôi phải đặt nhiệt độ của tủ tủ 3
+00:10:39.910 sau đó thì nhiệt độ sôi lại rằng đồng
+00:10:42.070 thời đạt được Năng suất thì năng suất
+00:10:44.320 của Thức ăn chính tả Tuyết bám trên bề
+00:10:46.870 mặt giá gạch đều khô và dính tay đều khô
+00:10:50.980 và dính tay đồng thời
+00:10:54.270 từ bầu tách lỏng hay nói cách khác là
+00:10:56.530 trên đường ống hồi về của mày nè này thì
+00:10:59.200 mát và khô Khi dòng làm việc của động cơ
+00:11:02.350 thì luôn vẫn ổn định nhỏ hơn bằng dòng
+00:11:05.149 nước nhiệt độ trên động cơ thì không quá
+00:11:07.999 cao thì các yếu tố đó thì kết luận lựa
+00:11:11.569 gà nạp cho tủ đủ và đảm bảo là tốt nhưng
+00:11:16.040 nếu bây giờ này lấy ví dụ
+00:11:17.949 một số các trường hợp
+00:11:20.230 là Tuyết của tôi đó thể hiện
+00:11:22.689 bán chị Đậu rằng thì nó lại là một biểu
+00:11:25.910 hiện cách tuyết được hồi về của động cơ
+00:11:28.100 bản gốc mà có biết mắm thì nó cũng là
+00:11:30.410 một trong những cái biểu hiện nó không
+00:11:32.269 không tốt và nó có biểu hiện như nào ta
+00:11:34.009 sẽ tìm hiểu sau thì tiếp tục là nó quá
+00:11:37.220 nóng thì cũng không tốt lúc này rất
+00:11:39.739 nhanh hỏng thận đấy là đối với phương
+00:11:42.379 pháp làm ra thì chúng ta nên nhớ đang
+00:11:44.480 hoài chúng ta dựa vào áp suất chúng ta
+00:11:46.220 dựa vào biểu hiện tiết bám đều hôm và
+00:11:50.480 chính tay lại
+00:11:52.899 đây là thể hiện Bé năng suất đều đều từ
+00:11:57.079 đầu dài đến cuối rằng khô và dính tay
+00:11:59.389 thể hiện đó đi rơ le nhiệt độ thấp đối
+00:12:01.770 với tủ ba của con sao thì mới có hiện
+00:12:03.420 tượng này còn đối với chủ 1 sao 2 sao
+00:12:05.220 người ta không có hiện tượng nó khô và
+00:12:06.690 dính tay
+00:12:09.320 thì các bạn
+00:12:12.110 sẽ ghi Tài
+00:12:14.270 đi về phương pháp làm nha tùy thuộc vào
+00:12:18.480 từng loại tủ
+00:12:19.610 hãng sản xuất năm sản xuất nguồn gốc
+00:12:23.460 xuất xứ
+00:12:24.380 do đó trước khi nạp ga ta phải tham khảo
+00:12:28.800 các thông số kỹ thuật Nhưng
+00:12:31.670 loại gà
+00:12:32.880 [âm nhạc]
+00:12:34.340 dòng làm việc
+00:12:36.290 khi có tài
+00:12:38.240 bán lượng ga nạp vào trong thành công
+00:12:40.970 lượng gà nằm chọi Thông A
+00:12:46.350 ạ
+00:12:47.150 sau khi tạo chân không Xong
+00:12:49.610 Ta sẽ cho tủ hoạt động và đồng thời Mở
+00:12:53.190 những van tay ga để cho ra vào trong hệ
+00:12:56.580 thống để ra và dòng sông nhưng
+00:13:00.500 chỉ khống chế kim đồng hồ hết sức ở 37
+00:13:06.500 sim37 xin
+00:13:08.720 thỉnh thoảng
+00:13:10.610 khóa van tay ga để kiểm tra thỉnh thoảng
+00:13:15.000 khóa van chay ga để kiểm tra
+00:13:16.970 đến khi nào tiếp đồng hồ Đứng im
+00:13:21.800 ở khoảng 15s
+00:13:25.640 lúc này đang ngừng cho ra vào trong hệ
+00:13:29.310 thống
+00:13:31.070 và mốc 15 aussie này thì mọi người nhớ
+00:13:33.600 là đây là đối với giá trị áp suất của
+00:13:35.550 thầy là nối tủ 314 sao thấy khoảng 15
+00:13:38.040 nhân đối với trường hợp là hai sao thì
+00:13:40.200 thầy cho lấy khoảng 20 một sao được còn
+00:13:42.000 lấy 30
+00:13:43.370 sau một thời gian tủ
+00:13:46.360 chú
+00:13:46.980 ý nhiệt độ bên trong hệ thống sẽ tăng áp
+00:13:51.760 suất giảm
+00:13:52.860 nhiệt độ giảm áp suất giảm
+00:13:55.980 lúc này giá trị áp suất giảm và ăn luôn
+00:13:59.620 ổn định trong khoảng từ 2 đến 12 và sim
+00:14:02.940 thì là lượng K nạp cho tủ nó đủ
+00:14:06.810 lượng ga nào cho Tùng đã đủ và giá trị
+00:14:10.959 áp suất này
+00:14:12.269 không phụ thuộc vào trọng lượng gay à
+00:14:16.050 anh không phụ thuộc vào trọng lượng ga
+00:14:18.230 dung tích của tủ
+00:14:20.540 mà đang phụ thuộc vào nhiệt độ môi
+00:14:24.000 trường
+00:14:24.920 mà đang phụ thuộc vào nhiệt độ môi
+00:14:27.120 trường
+00:14:28.770 [âm nhạc]
+00:14:32.750 đối với tổ 1 sao
+00:14:36.019 giá trị áp suất của chúng ta từ 15 ở SEA
+00:14:38.880 ban đầu sẽ giảm về 9 giờ đến 12 là Sim
+00:14:44.360 đối tủ hay sao
+00:14:46.339 được 15 và chi sẽ giảm về 6 đến 9 bỏ sim
+00:14:51.410 tủ ma và bốn sao thì áp của thằng Đạt từ
+00:14:54.839 15 giảm bé 267 gì
+00:14:57.920 [âm nhạc]
+00:14:59.720 ngoài ra để biết được
+00:15:03.340 [âm nhạc]
+00:15:04.640 lượng K nạp đã đủ hay thiếu thừa hay
+00:15:08.040 thiếu này đã đủ
+00:15:09.350 nó đủ hay chưa
+00:15:12.410 ta phải dựa vào biểu hiện gì khi
+00:15:17.310 dựa vào dàn nóng dàn lạnh hút Về của
+00:15:20.680 động cơ bản gốc và dòng làm việc cho
+00:15:22.690 động cơ thì trong đó là gian Nóng thì
+00:15:25.480 phải nóng đều từ đầu dàn đến cuối gian
+00:15:29.310 đan lạnh tiếp bạn đều khô dính tay từ
+00:15:35.110 đầu giàn đến cuối rằng
+00:15:38.610 rỡ ống hút Về của động cơ blocks phải
+00:15:42.550 mắt mà khô
+00:15:44.610 mặt hồ
+00:15:47.160 dòng làm việc ổn định
+00:15:50.010 và luôn luôn nhỏ hơn hoặc bằng dòng nước
+00:15:52.360 thì tại sao là thứ biểu hiện này thì lấy
+00:15:54.070 thành Chúng ta đã chia sẻ thì cả nước nó
+00:15:56.170 có rất nhiều các loại ga thì khi mà
+00:15:58.600 chúng ta nạp thì nó phải đạt được nhiệt
+00:15:59.950 độ tủ những biểu hiện của để đạt được
+00:16:02.470 nhiệt độ của tủ thì nó phải đạt được
+00:16:03.760 biểu điên đấy là chúng ta nên nhớ là sau
+00:16:06.550 này các bạn làm đối với một số trường
+00:16:08.650 hợp loại cá khác là sẽ dựa vào biểu hiện
+00:16:10.330 và rượu xong là nhiều và đồng hồ áp suất
+00:16:12.340 thì nếu mà chúng ta cũng biết được là
+00:16:14.080 cái áp suất nào quả gì từ à
+00:16:17.020 rất là Họp thì chúng ta sẽ theo một cái
+00:16:20.060 sàn này mà chúng ta sẽ phải giữ theo
+00:16:22.160 cũng đều biết và giữa dòng à
+00:16:26.230 cho tất cả các biểu hiện trên thì ta kết
+00:16:29.800 luận cái lượng ga nào đó đủ thì vẫn tủ
+00:16:33.310 lạnh thì cho ta thấy là cái đầu làm canh
+00:16:34.930 ta thì ban đầu từ nhà sản xuất thì đang
+00:16:37.060 được Hàn kín do đó là nếu được á đù thì
+00:16:39.880 chúng ta cần phải dùng kìm kẹp ông nhớ
+00:16:43.210 các bạn sau này chúng ta sẽ phải dùng
+00:16:44.500 Tìm đẹp ống chúng ta bóp bẹp Đúng là cái
+00:16:46.510 ạ sau đó sẽ là Hàn kín lại để làm có gì
+00:16:49.840 về ra còn nếu mà các em sử dụng đối với
+00:16:52.150 trường hợp này chị chúng ta sử dụng đối
+00:16:54.580 với trường hợp là để van một chiều đầu
+00:16:58.420 đi sạc làm gì ra và dầu sẽ đặt trước
+00:17:01.270 phòng và cao su trường hợp này là kết
+00:17:03.460 hợp với một cái keo thường là áp dụng
+00:17:05.530 đối với keo dán ống thường áp dụng trong
+00:17:08.890 các trường hợp là nạp kd600 là trái rồi
+00:17:12.190 người ta sẽ hạn chế đúng quá trình Han
+00:17:14.140 thì ta mới dùng keo để dùng kem vấn đề
+00:17:16.810 mới Chúng ta không có dùng keo thì gà và
+00:17:19.450 dầu sẽ làm trưởng phòng người cao su sau
+00:17:21.670 một thời gian sẽ bị do gì để nên là đối
+00:17:23.530 với loại ga như là 12 hay là một bác Tư
+00:17:26.209 Lê Hà nặng hạt lại
+00:17:29.679 thì đối với trường hợp là chiếu ta
+00:17:32.890 cứ biểu hiện của Kara sờ vào dàn nóng
+00:17:36.880 thì đầu dàn nóng tin nóng
+00:17:40.179 nó chỉ là đầu ra lòng nóng hoặc là hơi
+00:17:44.029 nóng cuối dàn nóng thì không có nóng
+00:17:46.100 hoặc là ra lạnh thì ta thấy là tiết chỉ
+00:17:47.840 bán đầu Gian
+00:17:49.000 Dòng thấp hơn dòng định mức
+00:17:51.399 nào cuối giờ mình không có bàn viết
+00:17:55.419 đốc trường nhật thường thì dàn nóng thì
+00:17:58.760 rất nóng Tức là nó nhiều
+00:18:01.210 từ đầu đến cuối còn là ra lạnh thì
+00:18:05.620 qua màu tách lòng đường hôi Về của động
+00:18:08.899 cơ thể thấy là có chuyện bắn và đồng
+00:18:10.970 thời dòng thì lớn hơn của bằng dòng mốc
+00:18:12.529 thì được theo mùa thì đa phần là sẽ lớn
+00:18:14.179 hơn trong những bức thì lấy cái chân
+00:18:15.770 giản thưa công thường thì đối với trường
+00:18:17.690 hợp trong hai trường hợp nếu mà khi Trần
+00:18:19.610 Lập thiếu thì chúng ta cần phải nằm bổ
+00:18:21.710 sung vào và đối với Trần Lập thừa thì
+00:18:24.409 các em cần phải xả bớt đi trở thành A và
+00:18:26.850 quan trọng là khi sản thì các em cầm về
+00:18:28.500 Quan sắt thứ nhất là trên kim đồng hồ áp
+00:18:32.400 của chúng ta lớn không thì ta được xả
+00:18:34.440 qua Ngô Còn nếu áp tròn không thì các em
+00:18:36.210 cần phải rút tủ ra để cân bằng áp suất
+00:18:39.179 giữa dàn nóng và dàn lạnh Sau đó chúng
+00:18:40.530 ta mới được phép sai bởi vì nếu mà chúng
+00:18:42.960 ta thấp hơn áp suất khí
+00:18:46.010 quyển thì lúc này ra xả mở ra cái là
+00:18:48.900 không khí vào
+00:18:50.330 còn đối với trường hợp là khi xả đi
+00:18:52.890 ngoài yếu tố nên chúng ta quan sát và
+00:18:54.630 đồng hồ thì tao còn phải xem là ta đã sử
+00:18:56.429 dụng các loại kj Nếu là k đơn chất hoặc
+00:18:58.650 hỗn hợp ra đồng Xôi em sạc được Nhưng
+00:19:00.450 nếu là hỗn hợp không đồng xôi thì chúng
+00:19:02.520 ta không trả được nhiều phim đang Nếu mà
+00:19:04.020 đã sạc chúng ta trả hết là bạn ạ gặp lại
+00:19:06.360 chứ hoàn toàn là công việc chúng ta
+00:19:08.250 không xả đi mới vì sai về thành phần đập
+00:19:10.100 máy Sài Thành phần đúng không Và còn đối
+00:19:13.080 với Trần Lập là khi hàn đối với một số
+00:19:14.640 loại ga Ví dụ như 134 và 12 thì thành có
+00:19:17.070 nói đến hàng trong quá trình Hàn Yêu cầu
+00:19:18.720 là tủ hoạt động càng có lạnh bao nhiêu
+00:19:20.900 thì lúc này áp càng thấp càng dễ Hàn và
+00:19:23.880 đồng thời là khi hàn thì ra đến nhớ là
+00:19:25.890 máy khi máy tính chạy áp càng thấp thì
+00:19:28.480 càng giới hạn áp cao khó hàng và lúc này
+00:19:31.450 chúng ta Hàn độ kín cho đến 15 phút để
+00:19:35.230 thử kín lại hệ thống thì phải thấy Hệ
+00:19:37.510 thống an toàn kịp vào lúc này thầy sẽ
+00:19:41.470 hướng dẫn cả lớp thành 2 phần tiếp theo
+00:19:44.110 đó là chúng ta đi tiến hành nạp ca cho
+00:19:47.890 tủ lạnh sắp có đối với
+00:19:51.660 tủ lạnh sắt thì chúng ta trước khi nào
+00:19:55.900 ra đây chúng ta sẽ
+00:19:57.210 quan sát này có cái thông số kỹ thuật
+00:19:59.220 của Tùng thì tủ này Đang sử dụng K là
+00:20:02.799 134
+00:20:03.750 trọng lượng ca là bệnh 15g thì 75g thì
+00:20:09.220 chúng ta nếu chúng ta nạp gà ở thể Lộc
+00:20:12.330 sử dụng dụng cụ đo đó là đo trọng lượng
+00:20:16.500 thì chúng ta nạp vào là 75k
+00:20:21.690 trong quá trình đo trọng lượng thì chúng
+00:20:24.100 ta cần lưu ý chúng ta cần phải kiểm tra
+00:20:26.210 có trọng lượng gà chiếm chỗ trong một
+00:20:28.940 cái dây là bao nhiêu thì chúng ta sẽ nạp
+00:20:32.840 vào thì lấy ví dụ trong một cái dây đồng
+00:20:35.840 hồ thấy sẽ chứa khoảng 5G
+00:20:39.220 thì khi ra ngoài Hòa Bình thấy đưa vào
+00:20:42.860 bên trong nó sẽ là 10 gam khi đó thành
+00:20:46.310 nạp thì chỉ nằm trên đồng hồ là 65
+00:20:50.590 kéo này thấy sẽ hướng dẫn chúng ta
+00:20:53.410 phương pháp đầu tiên là chúng ta sẽ đi
+00:20:55.850 về phương pháp nạp ga
+00:20:59.140 nhưng nạp ở thẻ thẻ ký đây là k134 thấy
+00:21:04.040 nạp ở Thạch Ký và dựa vào đúng họ rất để
+00:21:07.280 tiến hành kiểm tra và được ra thì đầu
+00:21:11.210 tiên thấy tháo bỏ
+00:21:13.300 dây đồng đó xơ cao và máy hút
+00:21:16.600 chân không thể bỏ gọn ra à
+00:21:26.220 Anh
+00:21:26.840 bật cười tiếp
+00:21:28.850 thời tiến hành cấp nguồn
+00:21:31.580 cho tủ lạnh
+00:21:34.070 trước khi cấp nguồn là sẽ kẹp lòng
+00:21:38.210 để chúng ta quan sắt dòng làm việc thì
+00:21:42.210 có cảnh
+00:21:46.880 thấy cấp nguồn cho tủ lạnh và chúng ta
+00:21:49.950 quan sắt ta thấy
+00:21:53.000 đóng cửa blog đó hoạt động thì khi nào
+00:21:56.340 động cơ bản nó hoạt động dòng người ta
+00:21:57.809 sẽ có dòng động cơ
+00:22:00.200 đánh em nhìn dòng một thầy là 0,7 không
+00:22:04.950 phải 69
+00:22:05.990 lúc này tiến hành Đạp ga như sau
+00:22:11.809 chúng ta kiểm tra khóa đồng hồ no đã mở
+00:22:16.530 chưa Thấy tiến hành mở khóa đồng hồ lô
+00:22:18.590 và tiến hành Mở nick Bond Saga làm sao
+00:22:22.919 khống chế cái app của chúng ta chỉ trong
+00:22:25.860 phạm số
+00:22:27.480 là 20 cho đến
+00:22:31.080 37c ạ
+00:22:34.450 U20 tại cái tai thấy 25 Tại tay này thầy
+00:22:39.560 sẽ cùng chế cái kim
+00:22:43.570 thì cho tao mở nghỉ à ở
+00:22:47.919 trong phạm vi này
+00:22:51.100 thì chúng ta mở tấm phẳng 10 giây thì
+00:22:56.270 chúng ta cũng sẽ tiến hành khóa lạ
+00:22:58.929 thì tại sau từ 5 đến 10 giây thôi là
+00:23:01.730 khóa lại
+00:23:03.610 mày cho tao mở nick như vậy khoảng ba
+00:23:06.020 lần thì bây giờ thầy sẽ giải thích cho
+00:23:08.240 cả lớp thứ nhất là khi mà chúng ta xuất
+00:23:11.030 phát từ tao nạp ca là tự -7 như sau
+00:23:14.260 vậy khi thấy mở ra ra có nghĩa là ga là
+00:23:18.049 được đưa vào bên trong này không
+00:23:21.159 từ 5 đến 10 giây để quá lại vậy khi thấy
+00:23:25.130 đưa ra mà bên trong hệ thống thì áp ra
+00:23:27.159 có này nó sẽ phải
+00:23:30.130 tặng đồng hồ này bảo áp ở bên trong hệ
+00:23:32.480 thống có thể tăng lên nhưng nếu nó không
+00:23:34.789 tăng
+00:23:35.500 thì chứng minh được hệ thống mà chúng ta
+00:23:38.240 không có sự tuần hoàn em nhìn lên trên
+00:23:40.730 cái sơ đồ kết nối dây này trai ga này
+00:23:44.590 khi thấy đưa vào mới cho xe
+00:23:48.080 tay ga khi thầy đưa vào trong này thông
+00:23:51.559 Thế Tôn Hoàng và dàn nóng qua dàn nóng
+00:23:56.360 quay phim
+00:23:58.250 quanh Mau quay về dàn lạnh
+00:24:00.980 và lốc bê tông nhóm Út Ống nạp ga thông
+00:24:04.440 nhau Do đó áp của ta chính là áp
+00:24:08.330 nơi có áp thấp đó là khí ở áp suất thấp
+00:24:12.390 đó chính là giá lại với một dàn lạnh từ
+00:24:15.270 đầu là ga này sẽ báo cuối giờ này những
+00:24:16.860 áp tôi cũng đồn có nghĩa là
+00:24:19.040 gà không đi qua được
+00:24:22.250 ăn các phim để quay về giá lạnh do đó áp
+00:24:25.820 nằm nguyên vị trí bắt đầu thì hệ thống
+00:24:27.740 ta làm gì tắt
+00:24:29.200 và nếu áp của thầy Thầy quan sát thấy
+00:24:32.390 Dương lúc này phải tiến hành tiếp tục
+00:24:35.480 đọc thì chúng ta cũng bởi lý do làn da
+00:24:38.060 rất nhỏ có 75g chính luận từ 5 đến 10
+00:24:43.220 giây có thể lên đến 15 giây các em lại
+00:24:45.590 khóa nào lần
+00:24:46.690 để tránh các trường hợp chúng ta nạp vào
+00:24:49.010 dư thừa gây lãng phí
+00:24:59.470 cái buổi học trước đối tủ lạnh sắt chúng
+00:25:04.040 ta đang nạp ga chúng ta có tiến hành tất
+00:25:06.710 Cáp cái tủ này là tủ lạnh thông số là
+00:25:10.220 thủ 4 sao lý do đó
+00:25:12.650 giá trị áp suất là ban đầu thì chúng ta
+00:25:16.170 kết nạp
+00:25:17.750 từ 10
+00:25:19.520 đến 15 c i
+00:25:22.800 anh
+00:25:27.350 thấy cứ bật nick này à
+00:25:31.460 cho
+00:25:32.649 đến khi nào kiếm mồi dương Lạnh
+00:25:39.220 từ 10 đến 15 ngày hôm nay nhiệt độ môi
+00:25:43.520 trường nóng thầy sẽ để phải nằm với sim
+00:25:46.370 à
+00:25:54.320 ạ
+00:26:00.490 sau khi thể nạp giá trị áp suất của thầy
+00:26:04.480 ở Vĩnh Yên ở giá trị 15 C thì lúc này
+00:26:10.350 chúng ta
+00:26:12.059 khóa van màu lạnh
+00:26:14.460 rồi tiến hành cho tủ sấy thực chúng ta
+00:26:18.730 sẽ khủng chạy thử để kiểm tra
+00:26:20.970 thì lúc này để kiểm tra thì chúng ta sẽ
+00:26:23.230 kiểm tra bị nhất là dòng tăng Đây là
+00:26:27.190 dòng có tài mà chúng ta sẽ
+00:26:29.490 kiểm tra dàn nóng
+00:26:32.700 300 nóng thì lúc này sẽ phải nóng đều
+00:26:36.760 bộ phim sex
+00:26:38.770 Ừ từ đầu gian đến cuối dàn áp thì không
+00:26:42.220 đổi dàn nóng thì nóng đeo từ đầu ra đến
+00:26:44.920 với gian à
+00:26:46.630 A và ra mạch thì lúc này xe xe có lạnh
+00:26:51.450 thế bây giờ thấy sẽ nó nhiệt tốt tại bề
+00:26:54.910 mặt răng à
+00:27:01.830 [âm nhạc]
+00:27:05.240 Ừ thế nhất là nhiệt độ môi trường
+00:27:09.940 ví dụ đối với nhiệt độ môi trường thì
+00:27:13.370 đắn đo là 29 độ
+00:27:16.169 ạ Bây giờ mình sẽ đó khi nhiệt độ
+00:27:21.230 dàn nóng
+00:27:22.850 ở bên sườn
+00:27:24.859 là
+00:27:26.509 36,7 8
+00:27:28.789 36,8 tấn
+00:27:31.330 anh ấy cũng sẽ cho mày cái giàn lạnh
+00:27:39.390 thì do ra lại ở trên cao thì sử dụng một
+00:27:43.180 cái nhiệt kế
+00:27:46.740 điện trở
+00:27:48.860 Em chúc anh nhìn từ 29,8 và bây giờ
+00:27:54.220 nhiệt độ và thầy đã giảm xuống là 5,8
+00:27:57.799 đội như vậy về mặt dàn lạnh
+00:28:00.580 là nhiệt độ đã giảm
+00:28:04.600 nhiệt độ về mặt giá lạnh đang dần và
+00:28:07.700 chúng ta sẽ cho tủ chạy thử
+00:28:10.510 thời gian chạy thử
+00:28:12.520 bằng cái thời gian Đông một cái đá đó
+00:28:15.950 chính là Ban đầu chúng ta sẽ chạy thử
+00:28:18.290 khoảng 4 giờ 4 đến 5 giờ hoặc các bạn có
+00:28:21.770 thể là để nguyên hệ thống này chúng ta
+00:28:23.480 sẽ cho chạy thử ngay để kiểm tra về
+00:28:27.890 lượng ca Xem đá đủ hay chưa
+00:28:34.510 thì phương pháp mặt ở thể khí độ chính
+00:28:38.330 xác không cao bằng phương pháp nạp ở thể
+00:28:41.000 lỏng và sử dụng
+00:28:42.850 dụng cụ đo trọng lượng
+00:28:45.940 thì lúc này chúng ta sẽ đạt chuẩn về
+00:28:48.530 thông số anh không phụ thuộc vào nhiệt
+00:28:50.910 độ môi trường còn khi chúng ta nằm ở thể
+00:28:53.130 khí chúng ta sẽ phụ thuộc vào nhiệt độ
+00:28:55.140 môi trường với nhiệt độ môi trường cao
+00:28:56.990 áp suất làm ca trên đồng hồ sẽ lớn nhiệt
+00:29:00.600 độ môi trường thấp áp suất tại K trên
+00:29:02.160 đường phố thấp
+00:29:03.950 và khi tủ trạng nhiệt độ bên trong có
+00:29:07.380 lạnh áp suất
+00:29:09.920 nạp ga của chúng ta đã sôi tại về mặt
+00:29:13.140 giá này sẽ rằng đối với tủ 4 sao chúng
+00:29:17.370 ta sẽ giảm từ 0 cho đến khoảng 57 xin
+00:29:20.840 đây chính là đối với kỹ thuật với nhiệt
+00:29:23.370 độ thích được Đây là đối với trường hợp
+00:29:25.140 nạp card vào lúc này thấy sẽ tiến hành
+00:29:27.990 cho thủ chạy thử để kiểm tra xem tủ nạp
+00:29:32.100 đã đạt cơm tối chưa Nếu xảy ra một số
+00:29:34.590 những hiện tượng hỏng thì chúng ta tiến
+00:29:36.330 hành khắc phục các hiện tượng đó ở Cần
+00:29:38.970 Thơ anh sẽ cho tủ chạy từ và chúng ta sẽ
+00:29:42.290 lấy kết quả
+00:29:44.750 đối với tủ lạnh sắt thì cần nạp Ừ
+00:29:53.490 thì sau khi nữa chúng ta lạc ra cho tủ
+00:29:57.820 lạnh sắt thì thấy đã cho chạy thực thời
+00:30:01.630 gian chạy từ từ lúc nạp Ca bây giờ thấy
+00:30:05.080 đã được là ba tiếp thì ba tiếng chúng ta
+00:30:09.970 nhìn trên đồng hồ nhiệt kế của thầy
+00:30:14.080 trong ngăn đông hiện nay đang đặt được
+00:30:15.850 là -2 ta có cái tủ 4 sao như vậy là đạt
+00:30:20.530 yêu cầu và theo Chúc em cần phải quan
+00:30:23.560 sát cho thầy
+00:30:24.960 là bên trong ăn đông sau khi chúng ta
+00:30:28.360 Nạp xong chúng ta cần phải quan sát
+00:30:31.260 thế nhất hai lá và thầy đảm bảo là đông
+00:30:35.980 cứng giữa hai đ
+00:30:38.190 khi chúng ta quan sát cho thấy
+00:30:40.429 bên trong ngăn đông chị Tuyết bám vào
+00:30:43.710 thể đều
+00:30:45.169 chúng ta nhìn đối với dàn chúng ta nhìn
+00:30:48.629 đối với rằng tiết phải bám đều bề mặt
+00:30:51.990 dàn và bên phía sau của động cơ là đường
+00:30:56.070 Hồi về của động cơ bản gốc của ta nó là
+00:30:58.580 là không mát và khô không xảy ra hiện
+00:31:01.559 tượng đổ mồ hôi mà bàn tiết thì là lượng
+00:31:04.080 ca của chúng ta đã đủ Sau khi nhận ra đủ
+00:31:07.139 thì chúng ta sẽ tiến hành
+00:31:08.890 mở hàng đầu năm nha à
+00:31:11.290 khi dùng tiền đẹp ống bóp bẹp đầu ống
+00:31:13.600 nạp card cho ta sao Hàn kín lại thì đây
+00:31:15.760 chính là chúng ta sẽ quan sát và lợn
+00:31:17.110 Tuyết bám đều từ đầu ra này đến cuối
+00:31:19.480 gian thì bảo tách lòng này biết bám rất
+00:31:21.400 là đều bông đều như thế này và nhiệt độ
+00:31:24.070 tại dàn này đã đo thì là -23 độ và mới
+00:31:27.430 chạy trong phạm vi là 3 tiếng ba tiếng
+00:31:30.420 thì chúng ta thấy những thành phần của
+00:31:32.680 chúng ta đó là
+00:31:34.530 đã rất là già
+00:31:37.980 thì lúc này lượng K thấy da mặt đạt yêu
+00:31:41.230 cầu và chúng ta sẽ tiến hành Hàn đầu nạp
+00:31:45.010 ca và áo đồng hồ nếu đối với loại ga sẽ
+00:31:48.910 rụng giờ 600 thì chúng ta sẽ sử dụng van
+00:31:51.700 một chiều kết hợp với keo thì cho ta sẽ
+00:31:54.810 bóp dùng kìm kẹp ống bó đồ uống lại sau
+00:31:58.240 đó là chúng ta sẽ thảo nhanh giày da và
+00:32:01.840 tiến hành sử dụng keo là xong
+00:32:05.280 Đây là nút với sản phẩm của các lớp và
+00:32:09.040 làm thì chúng ta đã thấy Ừ
+00:32:20.019 thì thứ nhất là hiện tượng một
+00:32:22.450 thì trước khi làm ca Block hoạt động
+00:32:26.149 bình thường nhưng sau khi chúng ta làm
+00:32:28.429 cá đủ thì cho tủ lạnh ngừng hoạt động
+00:32:32.350 một lúc sau cấp nguồn cho tủ hoạt động
+00:32:35.809 trở lại thì bảo nó không hoạt động được
+00:32:38.019 dòng cao
+00:32:40.059 chỉ các em cần phải nhớ là trước khi nạp
+00:32:43.429 ga và sau khi nạp ra tùm thì chúng ta
+00:32:45.830 thấy là một đằng có tà và1 là nó không
+00:32:47.840 có tay
+00:32:48.970 bạn một cân gà bằng nhiều con gà không
+00:32:51.710 đổi ta thấy là áp đối với 134 thì áp gà
+00:32:54.649 của chúng ta là 80 cho đến 140 bài suy
+00:32:57.950 đó là nhiệt độ môi trường nhiều bệnh
+00:33:00.129 trường hợp này thì nguyên nhân của chúng
+00:33:03.440 ta là do động cơ blog kém không khởi
+00:33:06.769 động được khi có tài
+00:33:08.529 nguyên nhân do bảo lúc yếu là có
+00:33:14.450 hiện tượng số 2
+00:33:17.929 lúc đầu tủ làm lạnh bình thường
+00:33:20.899 nhưng sau đó nhưng sau đó là yên bình
+00:33:24.149 thường và sai mọi người nhớ là dàn nóng
+00:33:25.710 có nóng dàn lạnh có lạnh biết bán kính
+00:33:28.769 từ đầu dài đến cuối gian và áp suất của
+00:33:30.899 đồng hồ ra là chỉ từ 2 đến 12 giờ tim
+00:33:33.120 nhưng sau đó là dàn nó khóc năm nữa dạng
+00:33:35.940 Viết Thanh và Kim Động Nó rất đăng ký
+00:33:38.610 cái chân 02 năm triển mạnh tấn công thì
+00:33:42.210 đầu tiên thì thấy có nói là phim cho ta
+00:33:44.220 nạp ra yêu cầu các em từ 20 đây là đến
+00:33:47.100 20 đến 30 giây sau khi ra mở nhé chúng
+00:33:51.029 ta trả quan sát và kim đồng hồ và nếu
+00:33:53.039 thấy là đẹp
+00:33:55.220 Dương giá trị ban đầu tiên mà chúng ta
+00:33:58.919 vừa tạo xong không thì có nghĩa là không
+00:34:00.840 có tuần hoàn được và chúng ta cho phép
+00:34:02.759 đã nạp tiếp và nếu làm một cái trạng
+00:34:05.220 thái tấn công thì có nghĩa này không
+00:34:07.350 phải tắt thì đối với trường hợp này
+00:34:09.560 Nguyên nhân là chế độ làm việc đối với
+00:34:13.060 trường hợp này bị thủng ở bên tí áp suất
+00:34:14.739 cao giống trường hợp Chúng ta tạm chân
+00:34:17.949 không bằng Block trong hệ thống Mà này
+00:34:20.260 qua ống công nghệ nên vì đã cao thứ hai
+00:34:22.600 là do hai công tắc mà tắt có thể là các
+00:34:25.330 phần có thể tắt cha đẻ khắc phục tối để
+00:34:29.020 biết được là
+00:34:30.810 hệ thống của chúng ta đang bị ở Vĩnh
+00:34:32.980 Nguyên nhân nào thì các em nên
+00:34:35.520 tắt nguồn nắp nguồn cho rất tù mở cánh
+00:34:39.969 cửa tủ chắn hơn đông và chúng ta dựa vào
+00:34:43.179 những tội nghiệp vụ môi trường
+00:34:45.210 để làm một lúc sau thì ta sẽ khoan sắt
+00:34:48.250 thì tại sao lại không thể mở cửa cứ nghi
+00:34:50.380 ngờ này nếu mà nó Cẩm hay là tắt bẩn khi
+00:34:53.770 đó là điện nếu ẩm nó sẽ ta tẩm ra mà ta
+00:34:55.840 biết ngay lúc này ra chất lượng vào biểu
+00:34:59.140 hiện nha nếu mày cùng thì đương nhiên áp
+00:35:02.050 với trong trận cân bằng ăn bên ngoài và
+00:35:04.180 kim đồng hồ áp suất của tôi cho bằng
+00:35:05.350 không thì nếu tim Dần chuyển đền ông
+00:35:07.780 không thì kết luận là thích cùng lên
+00:35:09.520 phía thật cao chấm dạo này thì chúng ta
+00:35:11.300 a bít lại rồi tắc bạn rất ẩm thì sau khi
+00:35:14.690 ta giúp tủ ra thì dựa vào nguồn điện của
+00:35:16.820 môi trường sẽ làm tăng cái băng đá ở bên
+00:35:21.230 sau cáp nối với
+00:35:23.500 dàn lạnh thì khi đó là tăm tan ra rồi
+00:35:27.080 thì sau khi tan thì chúng ta sẽ làm việc
+00:35:29.620 sau khi tắt nghiệm sau khi trang điểm
+00:35:32.870 thì lúc này thì mọi người nên nhớ nhá
+00:35:36.370 sau khi tan tầm thì lúc này ra ở bên
+00:35:40.280 phía sốt cao nên làm nóng sẽ lại phun
+00:35:41.900 xăng nên làm lạnh và làm kim đồng hóa
+00:35:43.520 chất của tam dân và sau khi kim đồng hồ
+00:35:46.040 áp suất của toàn dân thì lúc này áp lực
+00:35:49.700 ta sẽ á Dương lên phòng tao sẽ lên lại
+00:35:53.300 app da sáng lên
+00:35:54.550 đấy là đối với trường hợp là đẹp
+00:35:57.550 trường hợp là Kim tạp hóa chất chỉ ra sẽ
+00:36:00.260 rất lớn thì thấy là bị phát âm nhưng nếu
+00:36:02.450 kim đồng hồ sau một thời gian mà kim vẫn
+00:36:04.220 nằm ở người giá trị áp suất thấp áp suất
+00:36:06.680 chân không Đây là tác phẩm thì tác phẩm
+00:36:09.140 chúng ta cần được vệ sinh không tắt ẩm
+00:36:10.760 da hút Em thấy chị thế nào đấy là cái
+00:36:13.860 biểu hiện thì những trường hợp đã được
+00:36:16.560 học ở bài học trước
+00:36:18.440 Nhật Tân Thứ ba
+00:36:20.690 Lúc đầu thì tủ làm lạnh thường thì kim
+00:36:24.420 đồng hồ áp suất chỉ ổn định trong cái
+00:36:26.400 phạm vi là thứ 2 - 12 quả sinh sau đó tủ
+00:36:29.820 mát lạnh và kim đồng hồ áp suất chỉ đột
+00:36:32.580 ngột nên cái giá trị áp suất lớn là 50
+00:36:35.160 70 bà chị mà
+00:36:37.040 chúng ta thấy là gì khi nào chả có ăn
+00:36:40.110 rất cao và bốn với 50 70 80 bà sui thành
+00:36:43.230 lập bằng nhiệt độ trường thì chúng ta
+00:36:44.520 thấy đả bằng với áp suất ga của chúng ta
+00:36:47.340 là dần bằng vẽ cá tính và thì ra tính
+00:36:49.410 tình ta là 134 là từ 80 đến 140 bài Ví
+00:36:53.160 dụ như ở đây là 70 thì chúng ta nhất là
+00:36:56.010 đồng hồ để đồng hồ răng nối với đầu nạp
+00:36:58.050 cam bên bia áp suất thấp đó là quý của
+00:37:01.280 giá lạnh bởi vì ống hút và ông nạp gà
+00:37:04.590 không nhau
+00:37:05.540 như vậy áp của tôi đợi áp cao là thấy
+00:37:09.030 chỉ có áp cao như này thì chỉ có bên Ừ
+00:37:11.290 tao còn pinlock đang chạy này quá cao
+00:37:13.960 này thì đang cân bằng áp suất là hay
+00:37:16.360 rằng mà quân bằng gần cân bằng áp suất
+00:37:18.940 giữa hai dàn thì trường hợp này do lốc
+00:37:20.980 của chúng ta đăng ký
+00:37:22.290 phongvinh phải lá van bị nguồn hơi buồn
+00:37:24.820 hơi thì chẳng gặp này thì ta phải thay
+00:37:26.290 lốp mới
+00:37:28.650 thì đối với nhiệt lượng từ từ
+00:37:31.260 thì sau khi nạp ga thì ta thấy là dàn
+00:37:33.820 nóng rất nóng dàn nóng không nóng lắm và
+00:37:37.000 mạnh thì biết chỉ bán đầu rằng dòng nhỏ
+00:37:39.700 hơn dòng nước đi dòng nhỏ hơn dòng định
+00:37:42.880 mức thì chúng ta Đấy là tải tải nhưng
+00:37:45.250 tao đang nghe này là một trong những
+00:37:46.900 nguyên nhân là thiếu Khanh đây nhà Tài
+00:37:48.280 Tuyết bấm đầu dàn thì lượng ra lẳng Quốc
+00:37:50.590 xăng ta lại ít có một trong những nguyên
+00:37:52.420 nhân là tắc và một trong những nguyên
+00:37:53.890 nhân gây ra thiếu
+00:37:56.130 mà Nếu tắc thì dàn nóng này rất rất nóng
+00:37:58.750 này tặng một phần trắng rất nóng còn bố
+00:38:01.210 với chiếu ghe thì dàn nóng cũng không
+00:38:03.370 nóng lắm ý dựa vào 3 cái chỉ số này thì
+00:38:06.040 như trường hợp này thì nguyên nhân do
+00:38:07.840 thiếu
+00:38:08.460 yếu đích là để nạp bổ sung thì ví dụ như
+00:38:11.300 Anh đang chạy thử thấy biểu hiện thì
+00:38:13.400 trường hợp này là thiếu ta sẽ phải làm
+00:38:15.200 bổ sung hiện từ năm
+00:38:18.430 dàn nóng thì rất lọc nguyên nhân rất
+00:38:22.100 nóng là một là diện một lá lốt quá khỏe
+00:38:24.560 mình tự nhiên đình thật ấm áp rồi
+00:38:26.380 cái là nóc lớn rằng làm phiếu thì ta là
+00:38:30.620 cân cáp rồi ta là không nói những trường
+00:38:32.600 hợp này rồi cái trường hợp là tắt Cũng
+00:38:34.790 gây ra rằng nó rất nóng tắc một phần gây
+00:38:36.890 ra rằng nó rất đọc rồi à trường hợp rất
+00:38:40.520 nóng là có những nguyên nhân của chúng
+00:38:42.320 ta đó Đi đến cửa ra rồi à dàn lạnh tiếp
+00:38:46.850 bám khô đều phải chính tay từ đầu ra nên
+00:38:49.580 cuối rằng có nghĩa là lượng đã lòng cũng
+00:38:51.050 ra nhiều thì sẽ đạt được năng suất là
+00:38:54.290 tiết bắn từ đầu rằng cuối gian nhưng mà
+00:38:56.570 cái ống hút về và động cơ bản gốc thì
+00:38:58.040 bây giờ là tràn qua bằng cách lỏng thì
+00:38:59.780 có ga lỏng về đường Hồi về động cơ bản
+00:39:01.970 gốc là sôi sẽ xảy ra hiện tượng đổ mồ
+00:39:03.620 hôi ở Phan Thiết như vậy dựa vào yếu tố
+00:39:06.680 này thì ta thấy đấy ạ là lượng đã lòng
+00:39:08.810 cũng sang lên ra lại nhiều tính nguyên
+00:39:10.250 nhân nhiều là do số lượng gà nhiều
+00:39:12.240 trường hợp này là do thường ít trường
+00:39:15.390 hợp này khắc phục chúng ta cần phải
+00:39:18.080 xả bớt ta cần phải xả bớt mô hình tủ
+00:39:22.260 lạnh sau khi chúng ta nạp ga sẽ xảy ra
+00:39:24.930 một số những cái hiện tượng như sau thì
+00:39:27.870 chúng ta đã biết sau khi nạp ga song tủ
+00:39:31.320 lạnh sẽ xảy ra một số những hiện tượng
+00:39:33.980 một là có thể xảy ra hiện tượng tắt tắt
+00:39:38.580 có thể là tác phẩm có thể tắc ẩm hay có
+00:39:41.460 thể thừa GA3 có thể thiếu ga
+00:39:45.710 thì bây giờ các em quan sát vào thầy
+00:39:51.710 đối với một cái hiện tượng cái ban bệnh
+00:39:54.930 trong nghe
+00:39:56.420 tủ lạnh mà bây giờ bị tắc thì nó sẽ có
+00:39:59.400 những biểu hiện gì em nhìn một là nối
+00:40:03.960 với đồng hồ Op đồng hồ áp suất ở đây này
+00:40:08.520 đang chỉ là số
+00:40:10.900 17 đã xuất hút nha Chúng ta đang chỉ của
+00:40:14.390 chúng ta đang là một cái bao xi
+00:40:16.750 áp suất cao
+00:40:19.190 ý là 200
+00:40:21.520 200 200 200 200 c
+00:40:25.690 dòng
+00:40:27.640 em nhìn vào dòng này là 0,4 à
+00:40:31.660 Vậy trên buổi học trên lý thuyết thì
+00:40:34.069 thấy đã phân tích nếu cho là bị tắc
+00:40:37.750 tắc thì chủ yếu là tắt các tập phim hay
+00:40:41.750 là tác làm nóng thị trong đó có tắt một
+00:40:44.060 phần và tắt toàn phần thì nếu trường hợp
+00:40:47.089 tác toàn phần thì sẽ xảy ra như hiện
+00:40:50.329 tượng là dàn nóng lúc này không nóng nữa
+00:40:52.910 chúng ta kiểm tra nhiệt độ tại dàn nóng
+00:40:54.890 là không còn nóng nữa dàn lạnh Tuyết Tan
+00:40:58.599 kiên đồng hồ Nếu chúng ta lắp đồng hồ áp
+00:41:01.130 suất Ví dụ như trong điều hòa hoặc là
+00:41:03.079 một số tủ lạnh một cái đồ hóa xuất ra đó
+00:41:04.790 là cầu hút thì chúng ta sẽ nhớ là trong
+00:41:06.859 đầu nhá rất là chỉ áp suất thấp Nhưng
+00:41:08.900 quan trọng sẽ là kèm dòng dòng lúc này
+00:41:11.060 trở thành dòng chảy chân không và dòng
+00:41:13.160 chạy chân không giống xuống là thấp nhất
+00:41:14.960 thêm quan sắt cho thấy nhà bởi vì đây là
+00:41:17.720 cái đồng hồ cơ chúng ta rất là Anh nhìn
+00:41:19.859 em nhìn ở đây là đang là 2 vạch em được
+00:41:22.710 5 bạch thì lên kế hoạch tập thì như vậy
+00:41:24.990 là muốn vọc vạch là là không thể Hay là
+00:41:27.599 bây giờ thầy sẽ làm một cái ví dụ như
+00:41:29.640 thầy
+00:41:31.160 làm tắt tay sẽ làm tắc về về thiết bị
+00:41:36.920 3 cách
+00:41:39.130 thấy các cấp đẩy chặt ở đường cát lại
+00:41:42.880 à hay là thầy tre tắc tắt phim Thế bây
+00:41:46.990 giờ thầy
+00:41:48.839 bác này thì các em quan sát này các em
+00:41:52.180 quan sát được thầy hiện tượng
+00:41:54.360 ở đồng hồ dò mặt trăng rằm nóng bắt đầu
+00:41:57.210 là tăng lên
+00:41:58.430 sản xuất lên xuống xuống thấp và có thể
+00:42:02.030 xuống dưới mạch chân không thấy là xuống
+00:42:05.119 dưới này không Tôi là Bạch không áp suất
+00:42:07.099 khí quyển của ta thấy là sẽ bị vạch chân
+00:42:09.079 không
+00:42:09.880 thì ban đầu thì dàn nóng xe có nóng thì
+00:42:12.650 do sẽ tỏa nhiệt ra môi trường Những ngày
+00:42:14.660 sẽ cân bằng với áp suất khí quyển do dàn
+00:42:16.430 nóng rất nóng nhưng em nhìn vào đồng hồ
+00:42:18.920 kẹp dòng thì dòng sẽ chuyển từ Trại dòng
+00:42:21.650 có tải sang chạy dòng chân không dòng
+00:42:23.660 Xuống rất thấp chỉ còn có 0,2 đấy chỉ
+00:42:27.770 còn có 0,2 AA trên đồng hồ áp về thấp
+00:42:30.530 này em nhìn thấy trợ lại
+00:42:34.809 chảy ròng ròng
+00:42:36.880 xuống rất thấp và lốc mình đang hoạt
+00:42:39.319 động thì chúng ta dựa vào đối với trường
+00:42:41.780 hợp
+00:42:42.490 và nếu xảy ra một hiện tượng như này
+00:42:45.550 có hiện tượng bị tắc ẩm
+00:42:48.030 Nếu xảy ra hiện tượng tái thẩm thì ở đây
+00:42:50.530 sản phẩm nó cắt cáp Sang đầu đây như tâm
+00:42:53.470 thì lúc này mất lạnh nhiệt độ của tôi
+00:42:56.080 chỉ gắn trong ngăn tủ chỉ cần lên Dương
+00:42:58.000 nên Dương đó là từ không trở lên thì
+00:43:00.580 chúng ta thấy là hơi nước là đây nó sẽ
+00:43:03.190 lại tan ra và khi tham gia thì sẽ lại có
+00:43:06.190 sự tuần hoàn và tuần hoàn thế này lại có
+00:43:08.050 sự lưu thông là lưu thông thì dàn nóng
+00:43:09.460 lại quá nóng ra lãnh hát lại lên và đồng
+00:43:13.600 thời dòng lại tăng là chuyển từ giọng
+00:43:15.040 chân không xanh giống có tải như vậy ạ
+00:43:18.830 Ừ như vậy ạ
+00:43:21.180 em tắt bật
+00:43:22.940 đối với trong quá trình sau khi nạp ga
+00:43:26.569 Em nhớ thầy một Nếu còn đồng hồ
+00:43:30.920 đâu có chịu áp suất thấp đó là tất chân
+00:43:34.530 không
+00:43:35.589 u2a
+00:43:38.930 Khi dòng xuống thấp và dòng chạy chân
+00:43:41.660 không lấy dòng trạng sân không
+00:43:44.170 ra nóng lúc này mất nóng khi nghén hết
+00:43:48.319 áp suất ngưng tụ và ngưng tụ hết xăng đã
+00:43:50.359 lòng giáp của kaycee sẽ giảm cho rằng sẽ
+00:43:55.220 giảm chúng ta chỉ cần nếu các bẩn chúng
+00:43:59.180 ta chỉ cần ngắt nguồn cho cho máy
+00:44:03.250 Nhắn nguồn cho máy mở cánh và tủ mở cánh
+00:44:09.109 cửa tủ
+00:44:10.809 để cho nhiệt độ của chúng ta lên giá trị
+00:44:14.720 nhiệt độ Dương khi cho nó mở lên giá trị
+00:44:17.540 nhiệt độ Dương
+00:44:18.819 mã vấn điện
+00:44:20.920 áp vẫn không đổi vẫn không đổi thì đấy
+00:44:24.829 là đối với hiện tượng Nhí
+00:44:26.630 em tắt mạng
+00:44:28.720 đấy là đối với hiện tượng bị tắc bật
+00:44:32.470 Còn đối với hiện tượng bị tắt âm
+00:44:35.500 thì chúng ta thấy
+00:44:37.710 Ừ nếu nhiệt độ trong ngăn tủ của thầy
+00:44:41.670 chuyển về nhiệt độ Dương là chúng ta
+00:44:44.849 nhất ở nước đóng băng ở 0 độ thì bây giờ
+00:44:46.650 nhiệt độ riêng của chúng ta là trên
+00:44:48.180 không
+00:44:49.010 thì lúc này tiếp tan Em nhìn thấy sẽ đợi
+00:44:53.099 ví dụ trên không thì thấy sẽ tiến hành
+00:44:55.380 nhà mở ban để các em nhìn thì sau khi
+00:44:59.820 các em nhìn thì các em sẽ thấy là cái
+00:45:01.619 biểu hiện của tác phẩm để chúng ta dựa
+00:45:03.960 vào những hiện tượng trên mô hình thực
+00:45:07.349 tế để các em sửa chữa đối với các hiện
+00:45:10.890 tượng
+00:45:11.540 sau này trong những cái tủ lạnh gia đình
+00:45:14.099 và chúng ta thì bây giờ đây nhiệt độ cơ
+00:45:15.690 thể đang ở hai độ tại về mặt nhân Đông
+00:45:17.460 nhá nhìn dòng này có em nhìn cái này
+00:45:19.260 xong này rằng chỉ có 0,2 này ăn sân
+00:45:21.960 không ạ Và bây giờ em ở đây à
+00:45:25.500 à à
+00:45:27.780 Khi
+00:45:30.830 dòng tăng chưa em tin cho thầy dòng tăng
+00:45:33.840 chưa
+00:45:34.730 Đấy hát có đồ điện áp suất hút tăng này
+00:45:38.660 và Nếu có sự tuần hoàn thế này luôn luôn
+00:45:41.220 có sự tuần hoàn thì dàn nóng sẽ mãi trao
+00:45:43.620 đổi trao đổi nhiệt áp suất của ga của
+00:45:45.990 dàn nóng cũng sẽ á
+00:45:47.840 lên còn đối với trường nào ở đây thì mọi
+00:45:50.190 người nhớ ngắm ban đầu là ác nó cao như
+00:45:52.140 sau đối với tặng các bản cái sau đó thì
+00:45:55.320 nó lại áp nó lại giảm tại sao lại giảm
+00:45:57.390 bởi vì ngưng tụ hết xăng ra lỏng rồi quả
+00:46:00.990 nhiệt hết rồi thì lúc này áp suất trở
+00:46:02.880 thành là áp suất gà tính chứ không phải
+00:46:05.100 là áp suất của trường hợp là áp suất của
+00:46:07.920 hơi ga ở trạng thái nhiệt độ môi trường
+00:46:10.770 nữa thì chính như vậy là vừa nãy thì ban
+00:46:13.530 đầu và sắc thì chúng ta thấy là nó ở một
+00:46:16.920 cái diện là áp cao sau đó là diện Thấy
+00:46:20.490 mẹ nó giảm Nhưng bây giờ này chúng ta sẽ
+00:46:22.470 ra các cầm thì nó xảy ra hiện tượng này
+00:46:24.290 lại sau khi nó tuần hoàn này là về đến
+00:46:27.000 nhiều âm Ừ nó lại tắc lại thì là nếu về
+00:46:31.240 nhiệt độ âm nhưng nó lại tắt nhỉ dòng
+00:46:33.070 lại lại giảm nhiệt độ dàn nóng mất ra
+00:46:36.880 lạnh Việt Thanh Thì đấy là các em à Quan
+00:46:41.020 sắt hiện tượng bị tắc hệ thống tắc Nở
+00:46:44.650 đây là tắt trạng thái tắt toàn thân và
+00:46:47.860 có thể tắc bật có thể tâm và xin mời
+00:46:50.590 thầy Xin mời cả lớp thấy Xin mời cả lớp
+00:46:53.170 chúng ta sẽ tiến hành kiểm tra ghi chép
+00:46:56.860 các thông số kỹ thuật đối với hiện tượng
+00:46:59.190 hệ thống tủ lạnh hư hỏng ở trạng thái
+00:47:02.820 tắt toàn phần và khi tắc có thể tắt âm
+00:47:07.210 có thể tắt hoặc bật ở thành Xin mời cả
+00:47:11.110 lớp máy học của chúng ta thì trong này
+00:47:13.600 thì đây cũng có một cái video về phương
+00:47:16.000 pháp nào thì các bạn là
+00:47:20.010 quan sát về một cái video Mạnh ra thì à
+00:47:24.450 Anh sắp về cái phương pháp người ta nạp
+00:47:27.420 ga như sau người ta tóm tắt như sau
+00:47:31.130 Thứ nhất là trong hệ thống thì ban đầu
+00:47:33.720 thì đây là đối với sử dụng là giờ
+00:47:36.500 499 thì đầu tiên là người ta sẽ dùng tạo
+00:47:40.170 chân không thì các em nhìn vào đây người
+00:47:41.640 ta dùng máy hút chân không như thế này
+00:47:43.020 là người ta sẽ hút cả đêm là áp suất cảm
+00:47:46.170 ở bên đã thấp đó giống ai đang nhìn sau
+00:47:49.020 đó là hút toàn bộ Mở hai bên trận này
+00:47:51.089 mấy phút hoạt động
+00:47:56.510 thì đây là các bạn cũng sẽ tham khảo đối
+00:47:59.099 với một số loại gà uống với phương pháp
+00:48:00.740 chúng ta nằm thì lúc này khi lấy bút
+00:48:03.570 hoạt động thì tạm cho đậu khô thì anh em
+00:48:04.920 nhìn thấy là đây là cái đồng hồ báo Trần
+00:48:07.770 Công Với ý cái thể tích không khí trong
+00:48:10.470 thể tích khối
+00:48:13.880 và lúc này thì thay thế
+00:48:18.920 máy hút bằng một cái bình chữa màn lúc
+00:48:21.480 này sử dụng K là giờ 49 nạp đầu tiên là
+00:48:23.700 nằm ở thể lỏng ý là nằm ở bên thì áp
+00:48:25.990 suất cao mà chúng ta cũng sẽ ứng dụng
+00:48:27.580 đối với trong ngày sau này nạp cho điều
+00:48:29.859 hòa và nạp điều hòa ô tô khi đạp thì nạp
+00:48:33.970 thì ta cũng đạt được hết mà ta sẽ đắng
+00:48:36.040 khoảng 80 phần trăm thì khi đó Đang
+00:48:37.810 trong máy hoạt động mà tiếp tục là nằm ở
+00:48:39.400 bên phía có thấp thì áp suất cao khóa
+00:48:41.890 lại và nằm bên phía phải không
+00:48:45.810 Đấy là nặng nhọc lòng
+00:48:47.720 [âm nhạc]
+00:48:49.349 đối với Cách thứ 2 thì người ta cũng đầu
+00:48:54.130 tiên là người ta cũng nạp theo một cái
+00:48:55.450 Cách thứ hai là người ta vẫn hút chân
+00:48:56.770 không Này
+00:48:57.839 nút dân công nha vẫn hút ở hai đường đó
+00:49:01.089 là bị méo suất thấp ở bên kẹp suất cao
+00:49:02.740 nên kéo suất thấp là đồng nạp ra trên
+00:49:04.510 máy nén và bên kia suất cao là mình
+00:49:05.980 không công nghệ phải pin thì sau khi đổ
+00:49:09.130 khô để đạt đồ khô và đồng hồ báo thể
+00:49:12.670 tích không khí trong nhà để tính khối
+00:49:14.880 lượng không khí trong thi khối A
+00:49:19.230 đạt yêu cầu chìa khóa 3 lại chuyển dây
+00:49:22.560 đồng hồ sang trái ga ở phần này nạp ở
+00:49:25.700 thể khí
+00:49:26.500 người ta vẫn cho gà ở thể ký vào mình
+00:49:30.800 tiến suất cao không đạt thì bắt đầu rồi
+00:49:32.930 kìa tiếp tục là địa cho máy hoạt động
+00:49:36.340 và cho máy hoạt động và lúc này áp suất
+00:49:39.050 giảm mà người ta sẽ phải mang tên là bổ
+00:49:40.730 sung thêm ở bên phía sấp lại bên sẽ rất
+00:49:43.580 thấp như vậy đáng cho thấy là đối với
+00:49:46.640 anh thấy con nói là đối với phương pháp
+00:49:48.380 Nhưng đối với kế sơ đồ mà tóm tắt về cái
+00:49:52.730 nạp card thì ta đều nạp vào thì ký nằm ở
+00:49:54.619 cái lòng là đều giữ một cân chứ không
+00:49:56.840 phải là quan sát và đồng hồ được và đồng
+00:49:58.369 hồ người ta chỉ để làm kết nối với hệ
+00:50:00.980 thông cái kết nối với hệ không thì đây
+00:50:02.900 là phương pháp nạp card thì tùy thuộc
+00:50:05.210 theo từng loại ga thì thuộc theo từng
+00:50:07.580 địa phương pháp mà chúng ta nằm làm sao
+00:50:10.040 cho nó đặt độ quạt và chỉ có đặt nắp
+00:50:12.530 thùng thì à Tủ lạnh đạt được năng suất
+00:50:15.500 và

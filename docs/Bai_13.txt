@@ -1,0 +1,642 @@
+# tactiq.io free youtube transcript
+# Bài 3 - Phụ Tải Điện ( Động Cơ Block, Động Cơ Quạt Gió, Dàn Sấy Lạnh) Tủ Lạnh II Dạy Nghề Thanh Xuân
+# https://www.youtube.com/watch/oA25NwS6P_4
+
+00:00:00.000 Xin chào các em chúng ta tiếp tục sang
+00:00:03.120 bài học thứ ba hôm nay ta sẽ đi sang
+00:00:06.060 phần hai lớn phụ tải điện thì như thế
+00:00:09.780 nào thì được gọi là phụ tải ở như thế
+00:00:12.929 nào là thiết bị trong buổi học trước là
+00:00:15.780 đi tìm hiểu về thiết bị điện là những
+00:00:18.060 thiết bị điều khiển nguồn cho phụ tải
+00:00:22.160 Còn đối với phụ tải điện là những thiết
+00:00:26.070 bị sẽ tiêu thụ về điện năng biến điện
+00:00:29.670 năng thành các dạng năng lượng khác được
+00:00:32.279 gọi là phụ tay và trong mạch điện của tủ
+00:00:35.760 lạnh thì nên sử dụng một số phụ tải điện
+00:00:39.360 như động cơ blog động cơ quạt gió sấy xả
+00:00:44.399 lạnh và bóng đèn
+00:00:47.390 thì đối với động cơ blog thì trong bài
+00:00:51.270 học thứ hai phần 1 Chúng ta đã đi tìm
+00:00:54.180 hiểu về động cơ blog
+00:00:56.510 điện phụ tải điện là những thiết bị ví
+00:01:00.039 dụ về điện năng nhìn động cơ blog đang
+00:01:03.429 được cấu tạo bởi ba phân cần vỏ ẩn điện
+00:01:06.549 ở phần cơ trong ba phần này phần điện
+00:01:10.330 chính là phụ đại diện
+00:01:14.369 điện thì đây chính là một động cơ điện
+00:01:16.680 được cấu tạo gồm hai phân đó là show to
+00:01:20.590 và stato trong đó due to là thần động
+00:01:24.549 được đặt trong lòng của xe to Yo to đang
+00:01:28.509 được cấu tạo nói sắp từ hình trụ tại tâm
+00:01:32.590 của Roto có một rãnh xoắn
+00:01:34.740 để khi zou to quay đúng chiều sẽ hút dầu
+00:01:38.909 bôi trơn các chi tiết tâm của Rohto 9
+00:01:42.610 ngàn rãnh xoắn và chính lần đối với chú
+00:01:44.649 cừu còn xa to thì được cấu tạo bởi 2
+00:01:48.460 phần đó là không xa từ của cuộn dây đối
+00:01:52.450 với khung sắt từ thì được cấu tạo bởi
+00:01:54.429 nhiều các lá thép kỹ thuật điện ghép lại
+00:01:56.590 với nhau Thạch tạo thành một khối u
+00:02:00.020 ở bên trong có nhiều dáng để chúng ta
+00:02:03.259 đặt cuộn dây và trong đó thì thuộc theo
+00:02:05.390 công suất của động cơ mà số dáng của
+00:02:07.939 chúng ta lớn hơn hoặc bằng 24 gạch
+00:02:11.680 với cuộn dây thì gồm có 2 quận được gọi
+00:02:15.739 là cuộn chạy và cuộn đề và 2 quận này
+00:02:18.650 đang được đặt lệch pha nhau trong không
+00:02:21.080 gian một góc 90 để khi có dòng điện chạy
+00:02:23.900 qua sẽ sinh ra từ trường quay và làm
+00:02:26.690 quay do to
+00:02:30.610 đối với kiểm tra xác định các trận đấu
+00:02:34.190 điện mà kiểm tra đánh giá chất lượng
+00:02:35.769 điện trong động cơ thì buổi học hôm
+00:02:39.799 trước tao cũng đã đi tìm nhiều
+00:02:41.890 nhất là về cách xác định chân đầu tiên
+00:02:44.660 thì động cơ này có 2 quận và đưa ra
+00:02:47.720 ngoài là có 3 trận đấu điện do đó để xác
+00:02:50.239 định các trận đấu điện của động cơ thì
+00:02:51.650 là sẽ dùng đồng hồ vạn năng để thằng nào
+00:02:54.319 ôm đo bảo ba chân đấu điện của động cơ
+00:02:57.280 có 3 lần no lần đo nào chắc chắn lớn
+00:03:01.530 nhất thì chân còn lại là chân dung Từ
+00:03:04.530 chân chung là nó sang hai chân chạy đây
+00:03:06.560 lần do nào có giá trị trẻ nhỏ chân chạy
+00:03:10.680 lớn lại chân đề đây là chiếm số đông là
+00:03:13.560 như vậy
+00:03:14.600 chúng có một số ít trường hợp ngược lại
+00:03:17.100 thì lúc này sao lại cấp nguồn cho động
+00:03:19.830 cơ và dựa vào đồng hồ kẹp dòng Nếu bọn
+00:03:22.709 nó hoạt động ròng lớn hơn dòng định mức
+00:03:25.140 có thể chúng ta đánh sắc dịch sai chân
+00:03:28.110 trạng Trần Đề lúc này ta sẽ đổ chân chạy
+00:03:30.390 vào trận đề cho nhau thì đấy là đối với
+00:03:32.550 cách xác định các trận đấu hiện của động
+00:03:34.170 cơ và kiểm tra đánh giá chất lượng của
+00:03:37.200 động cơ thì đầu tiên chúng ta phải kiểm
+00:03:39.239 tra về
+00:03:40.820 kiểm tra và xuất hiện lần đầu tiên ta
+00:03:42.989 kiểm tra cuộn dây để kiểm tra độ cách
+00:03:45.180 điện của dây da bò và kiểm tra vé dòng
+00:03:48.030 làm việc toàn bộ nội dung của động cơ
+00:03:50.790 bản lock thì trong những buổi học trước
+00:03:53.730 chúng ta đã đi tìm hiểu các em về nhà
+00:03:57.300 xem lại nữa thầy ở phần nội anh lớn
+00:04:00.670 trong bài số 2 buổi học hôm nay chúng ta
+00:04:04.780 sẽ đi sang linh kiện phụ tải thứ hai đó
+00:04:08.200 là động cơ quạt do
+00:04:09.989 thì các em nhìn về động cơ quạt gió thì
+00:04:12.849 đang được bố trí ở bên trong ngăn đông
+00:04:14.379 của tủ lạnh đây là trong cái xe độ
+00:04:16.889 với nhiệm vụ của khoảng thì đang có
+00:04:19.899 nhiệm vụ là khi quạt gió quay sẽ đối lưu
+00:04:22.810 không khí qua dàn trao đổi nhiệt để làm
+00:04:25.389 lạnh để làm lạnh sản phẩm về công dụng
+00:04:30.330 thì quạt gió thì đang được lắp đặt trong
+00:04:32.770 tủ lạnh gián tiếp với công dụng
+00:04:36.060 lãnh đối lưu
+00:04:37.979 không khí và dàn trao đổi nhiên để làm
+00:04:41.440 lạnh để làm lạnh
+00:04:44.130 thì đây là một động về cấu tạo và nguyên
+00:04:46.479 lý làm việc gì đây chính là một động cơ
+00:04:47.830 điện thì là một động cơ điện xoay chiều
+00:04:50.020 Nhưng mà có cái công suất nhỏ có thể
+00:04:53.289 công suất nhỏ thì gồm có một cuộn dây và
+00:04:56.470 khởi động của chúng ta thì bằng vòng
+00:04:58.090 Chậm Hay còn vòng ngắn mạch anh rô thì
+00:05:01.129 nối với trục cơ và Nội cách
+00:05:03.069 do đó chiều quay của động cơ này thì
+00:05:05.389 chưa thấy là dựa vào cấu trúc của cánh
+00:05:07.460 thì chiều ngọt này đây chính là chiều
+00:05:08.930 chiều quay
+00:05:10.419 kỹ thuật từ vị trí lắp đặt ứng dụng vị
+00:05:13.819 trí của quạt trong ngày hình ảnh của
+00:05:17.150 Soda Thì đang nằm ở phía sau đó đông thì
+00:05:19.879 tôi biết rằng thật này xé hút gió có dàn
+00:05:21.530 trao đổi nhiệt có rất nhiều các trường
+00:05:23.090 hợp là nằm ở dưới Hà Đông dài 100 nằm ở
+00:05:27.650 dưới ngăn đông và ngăn mát thì quạt gió
+00:05:29.120 này lệch gió qua dàn sao người Nhật thì
+00:05:31.190 tùy thuộc vào từng loại tủ cấu trúc vị
+00:05:34.250 trí lắp đặt mà có thể hút gió hay đã đẩy
+00:05:36.080 do thì về cấu tạo bằng nguyên lý làm
+00:05:38.389 việc
+00:05:41.169 thì quạt gió được cấu tạo là một động cơ
+00:05:44.380 điện xoay chiều được cấu tạo là một động
+00:05:48.409 cơ điện xoay chiều có công suất nhỏ
+00:05:51.190 trong đó store gồm có một cuộn dây quấn
+00:05:55.280 trên khung sắt từ từ mà khởi động bằng
+00:05:58.879 vòng ngắn mạch
+00:06:00.030 các
+00:06:01.280 loại động cơ này thường quay với một tốc
+00:06:04.020 độ
+00:06:05.570 đừng quay với một tốc độ
+00:06:08.540 do đó chiều quay phụ thuộc vào vị trí
+00:06:13.770 lắp đặt
+00:06:14.690 cấu trúc của cánh vị trí lắp đặt cấu
+00:06:18.990 trúc của cánh mà quạt gió có thể hút gió
+00:06:22.140 hoặc đẩy gió qua dàn trao đổi nhiệt có
+00:06:27.090 thể hút gió hoặc đẩy gió qua dành cho
+00:06:29.940 nhiệt
+00:06:33.110 nếu động cơ quay ngược
+00:06:35.540 thì ta có thể đổi
+00:06:38.000 nếu động cơ quay ngược đặt sẽ đặt
+00:06:41.930 chân Trạch Trần đề cho nhau
+00:06:45.860 ta có thể đổi trấn trạch
+00:06:48.560 Xin lỗi nếu động cơ quay ngược thì ta sẽ
+00:06:51.930 đổi chiều của rô hoặc xa
+00:06:55.850 đổi chân chạy chân đề Thì đấy là đối với
+00:06:58.200 động cơ Blue cả hai đã động cơ quạt mà
+00:07:01.599 có hai cuộn dây Còn đối với động cơ của
+00:07:03.639 chúng ta có một cuộn dây chúng ta sẽ đổ
+00:07:05.020 chiều của rô hoặc xa thì tí nữa chúng ta
+00:07:08.020 sẽ xem nó để thầy hướng dẫn đối với đội
+00:07:10.569 chiều quay của động cơ
+00:07:13.680 tùy thuộc theo từng loại tủ mà chúng ta
+00:07:16.479 thấy là có thể là có một gian thì tôi sẽ
+00:07:18.430 có một động cơ quạt nhưng có hai dành
+00:07:19.960 riêng biệt thì sẽ có 2 động cơ 2 động cơ
+00:07:22.960 quạt thì đây là gió xé hút gió qua dàn
+00:07:25.240 cháo trao đổi nhiệt
+00:07:28.349 với quạt này thứ hỏng ở dạng nào thì do
+00:07:32.229 là một động cơ chúng ta sẽ được cấu tạo
+00:07:33.909 bởi 2 phần do và xa thì nên cúng hư hỏng
+00:07:36.759 giống với các động cơ Block 1 là đất
+00:07:39.309 cuộn dây của động cơ dẫn tới là không
+00:07:41.199 Trạch 2 rôto kẹp mà xa to hoặc là kẹp
+00:07:45.279 trục cơ của bạn sẽ dẫn tới là Quạt quá
+00:07:48.909 yếu hoặc là Không quay thì nếu mà khoan
+00:07:51.309 khoái yếu nhưng mày gió đối lưu qua dàn
+00:07:53.289 này ít ít thì cũng ngoài năng suất làm
+00:07:56.169 lạnh của ta biết rằng hay nói cách khác
+00:07:57.969 là tủ kém lại thì chúng ta biết A và rất
+00:08:00.919 nhiều nguyên nhân bây giờ kém lạnh nào
+00:08:03.139 thì động cơ mà lốc yếu nào tắt một phân
+00:08:06.129 rồi là thiếu ga rồi là nhiệt độ môi
+00:08:09.440 trường quá cao khống chế nhiệt độ ngắt
+00:08:11.539 liên tục rồi biết yếu hay là hỏng mạch
+00:08:14.990 sạc tiếp trong đó gồm có dẹp gồm có rơle
+00:08:17.330 thời gian gồm có cảnh biệt âm gồm có cầu
+00:08:20.810 tri vì nhấn tại linh kiện là học rồi còn
+00:08:24.289 đối trường hợp là tủ trạng nhưng không
+00:08:25.970 lạnh thì trong đó có thể là động cơ
+00:08:28.009 Block bị lùn hơi tắt còn phần hệ thống
+00:08:29.979 rồi lại hết ga 2 là hỏng Mày chả tiếc
+00:08:33.289 đấy là còn bộ nó có
+00:08:35.919 chạy nhưng mà dẹp chạy nhưng mà không
+00:08:38.750 lạnh
+00:08:39.549 thì chúng ta thấy là vẫn rất nhiều các
+00:08:41.690 nguyên nhân rất nhiều vì nguyên nhân
+00:08:48.940 gì về hư hỏng động cơ quạt gió từ nước
+00:08:52.880 hỏng ở dạng như là quan trọng triệt cánh
+00:08:56.000 quay ngược dẫn tới tủ lạnh của Star là
+00:08:59.120 kém lạnh à ở trong đó là triệt cánh thì
+00:09:02.970 dùng lâu thì cho thấy là ở đây nó không
+00:09:04.710 có cá hám thì chị vào trong cái cái cái
+00:09:08.460 cánh quạt ra chỉ dùng một cái phanh để
+00:09:10.530 nó dưới sạc thôi Đây là có thể bị chưa
+00:09:13.020 trượt vào bên trong thì do cánh quạt nó
+00:09:15.930 sát với thân Quạt quá chỉ như vậy là
+00:09:17.790 công thức thì sẽ không Này giờ là quay
+00:09:21.090 ngược thì có thể là do chúng ta thay thế
+00:09:22.680 thì chúng ta bị sai nhầm phải chửi quay
+00:09:26.250 so với chữa bệnh cánh
+00:09:28.820 hoặc là quan trọng thì có thể là do bị
+00:09:31.410 kẹt thì vẫn nói rồi thì động cơ quay
+00:09:33.990 chậm những này Tùng dẫn tới tổ của cái
+00:09:36.720 tủ lạnh ta sẽ gây ra hiện tượng là kém
+00:09:38.700 lạnh
+00:09:40.880 con đối với trường hợp không quay lúc
+00:09:44.340 này không có lạnh
+00:09:47.060 đối với trường hợp Không quay thì không
+00:09:49.620 lạnh
+00:09:53.240 đấy là đối với hư hỏng
+00:09:58.760 về kiểm em
+00:10:01.230 về kiểm tra
+00:10:04.920 dựa vào hiện tượng hỏng mà tao có phương
+00:10:08.110 pháp kiểm tra như sau dựa vào hiện tượng
+00:10:10.600 hỏng đang có phương pháp kiểm tra như
+00:10:11.950 sau
+00:10:12.540 đối tủ kém lạnh
+00:10:15.360 thì lúc này chúng ta sẽ quan sắt vào
+00:10:18.430 chiều quay của cánh rồi tốc độ quay cùng
+00:10:21.400 cánh vị trí của cánh
+00:10:24.360 Nếu quạt quay chậm nếu do quạt quay chậm
+00:10:27.970 thì lúc này ta sẽ vệ sinh và bổ sung dầu
+00:10:30.310 muối chất
+00:10:31.590 đối với tủ đó là đẹp không lạnh thì ta
+00:10:35.560 trẻ quan sát vào cánh quạt
+00:10:39.390 không lạnh ta sẽ quan sát là cánh quạt
+00:10:41.920 Nếu quạt Không quay
+00:10:44.370 thì lúc này chúng ta sẽ tiến hành đo
+00:10:46.420 điện trở động cơ quạt
+00:10:48.210 rồi kiểm tra nguồn cấp cho động cơ bản
+00:10:50.970 kiểm tra nguồn cấp cho động cơ bản thì
+00:10:54.250 đối với trường hợp là có nguồn thì là do
+00:10:57.760 hỏng động cơ và nếu không có nguồn em
+00:11:00.050 kiểm tra nguồn cấp cho động cơ quạt một
+00:11:02.540 nguồn từ công tác của chúng ta đã tìm
+00:11:04.369 hiểu và một nguồn tớ rơle thời gian từ
+00:11:07.759 chân bốn từ chân chế độ dài của ra thời
+00:11:10.189 gian
+00:11:13.749 về thay thế về động cơ quạt thì thay thế
+00:11:17.239 động cơ quạt chúng ta phải thay đúng
+00:11:18.439 hình dạng kích thước đúng với điện áp sử
+00:11:20.749 dụng ghi trên thân Đồng thời khi lắp
+00:11:22.790 chúng ta cần phải làm việc cần sạch kiểm
+00:11:24.949 tra về chiều qua anh thì trên thị trường
+00:11:26.569 quà hiện nay có các cái dòng như là sao
+00:11:30.920 mà fany fany khung rất từ của động cơ
+00:11:34.670 quạt là có khung dây cung mỏng anh gọi
+00:11:37.670 người ta gọi là quạt dây quấn bảo khi đó
+00:11:39.379 là chúng ta lắp quá mỏng thì nó không
+00:11:42.319 vừa chúng lại thật đẹp rồi còn dài thì
+00:11:44.360 lại bị cán đẩy ra ngoài Long cái lồng là
+00:11:48.199 cái cánh gió chắc chắn ở phía sau
+00:11:52.540 rồi chúc cho quạt thì cũng có 3 loại đó
+00:11:56.299 là chúng người ta hay gọi là Trúc tiểu
+00:11:58.819 chung đại có kích thước của trục quạt
+00:12:01.530 của chúng ta cũng có sự to nhỏ khác nhau
+00:12:03.180 chính Vậy là chúng ta cần phải thay đúng
+00:12:05.340 chủng loại đúng hình dạng kích thước
+00:12:06.810 điện áp sử dụng ghi trên thân thì sẽ
+00:12:09.270 hướng dẫn cả lớp
+00:12:10.580 cách kiểm tra đối với quạt gió trong
+00:12:14.940 mạch điện tủ lạnh gián tiếp
+00:12:17.150 chúng ta đã biết quạt gió với nhiệm vụ
+00:12:19.830 là đối lưu gió và dàn trao đổi nhiệt
+00:12:23.900 để làm lạnh sản phẩm quạt gió quay càng
+00:12:28.290 nhanh năng suất làm sạch đạt được càng
+00:12:30.480 tốt và ngược lại
+00:12:33.470 vậy khi quạt hư hỏng ở trạng thái
+00:12:36.890 quay chậm
+00:12:38.630 do bị kẹt cơ xa tốt thì tủ lạnh kém lạnh
+00:12:43.700 đối với trường hợp quá không quay à ở tủ
+00:12:47.210 không lạnh à
+00:12:49.130 Ừ vậy để kiểm tra quạt
+00:12:52.840 từ lúc này
+00:12:54.660 chúng ta sẽ kiểm tra như sau
+00:12:57.930 Bước 1
+00:13:00.270 Em quay cho quạt Đây là loại fan dành
+00:13:05.550 lại phải mỏng này chúng ta tiến hành
+00:13:07.840 kiểm tra bước kế tiếp là loại kem này
+00:13:10.990 nhá thành quả này là quạt giày này có
+00:13:13.090 một sau đó cần đo thì cái phanh trải
+00:13:17.260 nghiệm một thành tích men ở bên ngoài
+00:13:19.060 thì nó thể gây ra hiện tượng chưa anh em
+00:13:21.550 dễ nhìn giá trị của động cơ quạt
+00:13:25.279 từ lúc này
+00:13:27.249 đang đòn
+00:13:29.439 vào hai chân giắc cắm của động cơ
+00:13:33.999 phải có giá trị điện trở
+00:13:36.910 thì giá trị điện trở một thời năng là
+00:13:39.259 600 ôm em thấy kết luận cuộn dây có bị
+00:13:43.309 đứt
+00:13:44.139 Sau đó
+00:13:47.230 chúng ta sẽ cấp nguồn bởi vì có rất
+00:13:50.480 nhiều cái động cơ quạt
+00:13:52.029 khi chúng ta quay trơn nhưng khi cấp
+00:13:55.459 nguồn bị nhiễm điện và Rô dẫn tới tình
+00:13:58.879 trạng bị bó chặt lúc này Hãy sẽ cấp
+00:14:02.629 nguồn cho cơ
+00:14:05.589 thì cấp nguồn cho cơ à
+00:14:10.870 anh ạ
+00:14:14.660 ừ ừ
+00:14:16.899 ừ ừ
+00:14:23.930 Ừ
+00:14:31.120 thì cho tao thấy động cơ quạt quay thế
+00:14:35.180 này
+00:14:36.940 thì chúng ta kết luận là
+00:14:41.110 quạt máy tốt nhưng khi thay thế thì cho
+00:14:45.709 các em lại cần lưu ý giúp thành
+00:14:48.160 một trên thị trường
+00:14:51.279 sẽ có khoảng hơn giày cái mỏng khi chúng
+00:14:55.220 ta lắp vào
+00:14:56.860 lồng quạt sẽ không vừa Thứ hai
+00:15:01.120 chúng ta nhìn trên cánh
+00:15:04.180 thì chiều quay của động cơ là từng chiếu
+00:15:08.080 nhọn của cánh và phía bên trên thì thông
+00:15:11.720 thường nhà sản xuất đều rất là chặt
+00:15:14.420 chúng ta không được phép là cái chỗ quan
+00:15:16.550 thì trồi lên Nếu xảy ra hiện tượng bị
+00:15:19.730 chụp khoản trồi lên thì lúc này
+00:15:23.150 có quạt tiến sát vào bên trong thân quạt
+00:15:25.760 khi đó không có đổi lưu năng suất làm
+00:15:30.140 lạnh của chúng ta cũng đạt thì bây giờ
+00:15:32.680 thì cấp nguồn thì thấy thấy là quạt này
+00:15:35.360 đang quay ngược với chiều quanh
+00:15:38.530 nếu chúng ta để quạt quay ngược thì khi
+00:15:42.620 lắp vào trong tủ lạnh tủ sẽ kèm lạnh
+00:15:45.980 đồng thời rất hay xảy ra hiện tượng bị
+00:15:49.760 tắt kênh gió thổi từ đàn ông nhắm mắt Ừ
+00:15:53.980 vậy để đổi chiều quay của động cơ
+00:15:57.030 các em làm như sau
+00:16:00.840 Thứ nhất
+00:16:02.460 là chúng ta giúp vỏ cánh quạt
+00:16:05.220 Thứ hai
+00:16:09.360 chúng ta dùng tovit à
+00:16:13.089 chị
+00:16:14.579 Thảo Úc để đổi chiều của rô hoặc chiều
+00:16:18.730 của xa
+00:16:21.300 thì chúng ta sẽ thay đổi được Kiểu quanh
+00:16:24.569 chúng ta nhớ chỉ thay đổi một trong hai
+00:16:27.850 thay đổi rô thì thôi không đổi sang mà
+00:16:31.209 thay đổi xa thì thôi từ thay đổi nhôm
+00:16:34.680 thì thầy sẽ hướng dẫn thay đổi rồi sau
+00:16:37.629 khi thầy tháo được các em nhìn thấy xe
+00:16:41.019 nào zô lại
+00:16:43.439 đảo rồi
+00:16:45.300 thì lúc này mày sẽ bảo được chiều quay
+00:16:48.430 của động cơ à
+00:16:51.800 Ừ
+00:16:54.040 nếu chúng ta cũng đảo chiều quay thì các
+00:16:56.330 em có thể mua cánh khắc ta có thể mua
+00:16:58.940 cánh
+00:16:59.980 ngược với
+00:17:02.170 ánh ban đầu
+00:17:05.359 Ừ để cho phù hợp với động cơ bản bởi vì
+00:17:08.329 rất nhiều động cơ quạt thì tôi lại không
+00:17:09.740 sao được mà người ta sử dụng đinh tán
+00:17:12.609 Do đó các em muốn tháo ra thì chúng ta
+00:17:17.030 lại phải
+00:17:18.540 em bỏ đinh tán rồi chúng ta sẽ thay bằng
+00:17:20.579 những bu lông ốc
+00:17:25.030 à à
+00:17:30.320 À
+00:17:31.389 thầy sẽ cấp nguồn à
+00:17:35.080 à à
+00:17:36.740 ừ ừ
+00:17:38.240 ừ ừ
+00:17:44.419 khó khăn tính động cơ quạt đã quay lại
+00:17:47.169 theo đúng chiều quay của cánh à
+00:17:52.290 ở đây chính là phương pháp kiểm tra và
+00:17:56.310 đổi chiều quay của động cơ quạt gió và
+00:17:59.280 bây giờ thì mời các em sẽ kiểm tra trở
+00:18:02.610 thành một số động cơ quạt
+00:18:08.330 thì chúng ta đã biết được là buổi học
+00:18:11.250 trước chúng ta còn đi tìm hiểu về hệ
+00:18:13.110 thống Xả tuyết phía sau một thời gian
+00:18:16.110 tục hoạt động sẽ có kết bám tím mặt dàn
+00:18:18.710 lúc này dẫn tới năng suất làm lạnh của
+00:18:21.180 chúng ta biết rằng
+00:18:22.910 do đó để tăng hiệu quả làm lạnh cho tủ
+00:18:26.970 thì lúc này cái bề mặt dàn tao phải
+00:18:29.040 không thoáng Tuyết nó phải được xả hết
+00:18:31.520 vậy để trả tiết và đảm bảo trong cái thả
+00:18:34.680 rắn nhanh
+00:18:37.070 sản phẩm của chúng ta tái hoạt động trở
+00:18:40.230 lại để làm lạnh lúc đó bên trong tủ lạnh
+00:18:44.010 sẽ sử dụng sấy sấy ý ké đang được lắp
+00:18:48.090 đặt ở một số những cái tủ lạnh chúng ta
+00:18:50.400 sẽ có chức năng sạc à Anh đang sạc biến
+00:18:53.830 điện năng thành nhiệt năng biến điện
+00:18:55.840 năng thành nhiệt năng và đối với quan
+00:18:57.670 trọng nhất là trong sấy ở trong cái tủ
+00:18:59.950 lạnh gián tiếp thì chúng ta nhìn vào đây
+00:19:02.260 thì thứ nhất là bóng sấy hay là sấy ống
+00:19:05.830 kim loại sử dụng ôm đi kèm song song với
+00:19:08.710 bề mặt răng
+00:19:09.780 thì về chức năng của bóng sấy chức năng
+00:19:13.030 của sáng biến điện năng thành
+00:19:15.390 nhiệt năng để làm nóng về mặt giá lạnh
+00:19:18.730 và làm tăng tiết
+00:19:21.690 và đối với tủ lạnh trực tiếp một cánh
+00:19:24.520 cửa thì ở Chúng ta không có sai không có
+00:19:28.180 sạch đồ với tủ lạnh trực tiếp hai cánh
+00:19:31.030 cửa có sấy nhưng có công suất rất nhỏ có
+00:19:35.890 sấy nhưng có công suất rất nhỏ và chỉ có
+00:19:38.890 tác dụng là bổ trợ ở ngăn lạnh chỉ có
+00:19:43.270 tác dụng bổ chậm và ngăn lạnh
+00:19:47.760 đối tủ lạnh gián tiếp
+00:19:50.850 đối tủ lạnh tủ
+00:19:53.890 sấy ra lạnh hết sức quan trọng
+00:19:57.130 và chúng ta đang sử dụng hai loại bóng
+00:19:59.660 xoáy chính là sếu nhôm và sấy bóng Thủy
+00:20:02.870 Tinh
+00:20:04.400 Ừ
+00:20:06.040 thì chúng ta sẽ đi tìm hiểu về cấu tạo
+00:20:09.020 của 2 loại bóng giấy cấu tạo nguyên lý
+00:20:10.910 làm việc mà lòng đối với bóng sấy trong
+00:20:13.880 tủ lạnh gián tiếp đối sấy trong tủ lạnh
+00:20:15.770 gián tiếp thì đây là bóng giấy hay nói
+00:20:18.260 cách khác là
+00:20:19.450 ống thủy tinh và đây là sấy ống nhôm
+00:20:24.070 ý loại ống nhôm thì các bạn nhìn thấy
+00:20:27.470 đây thì các bạn thấy là nó rất giống với
+00:20:30.080 cái dàn ta và đi song song với dàn lạnh
+00:20:33.410 là con chiên qua vô số là nhôm 2 đầu có
+00:20:35.600 đầu dây cấp luôn bóng sấy vỏ bên ngoài
+00:20:38.090 làm bằng ống thủy tinh bên trong là dây
+00:20:40.760 điện trở và loại này thì đang được lắp
+00:20:42.380 một thế giới mà rằng thì cũng sẽ có
+00:20:44.990 những cái yêu phải những cái việc như
+00:20:46.160 sau
+00:20:48.070 đầu tiên là xuống ôm
+00:20:50.800 sẽ ống nhôm thì được cấu tạo vỏ bên
+00:20:55.340 ngoài được làm bằng ống nhôm bên trong
+00:20:58.490 để dây điện trở và bột thủy tinh
+00:21:01.420 loại này thì việc lắp a song với bề mặt
+00:21:05.550 dàn loại này thì được lắp đặt song song
+00:21:08.160 với bề mặt dàn
+00:21:11.990 song song với bề mặt rằng bảo có cá ưu
+00:21:15.300 điểm
+00:21:17.180 là cedar bề mặt dàn bên
+00:21:21.350 bên
+00:21:23.210 Vinh nhận điểm
+00:21:25.940 để nhập điểm
+00:21:27.770 thì hư hỏng
+00:21:29.690 khó thành thế hư hỏng rất là khó thay
+00:21:33.360 thịt
+00:21:35.060 bởi vì do xuyên qua các lá nhôm tản
+00:21:37.680 nhiệt thì nên rất là khó để thay thế à
+00:21:45.380 ừ ừ
+00:21:49.560 a đối với loại sấy bóng thủy tinh
+00:21:53.150 thì sấy bóng thủy tinh thì vỏ bên ngoài
+00:21:55.530 được làm bằng ống thủy tinh
+00:21:57.020 bên trong là dây điện trở ở
+00:22:00.440 anh vào cái loại này thì đang được lắp
+00:22:02.270 đặt ở phía dưới có vẻ mặt dàn và do còn
+00:22:06.260 nước nó có thể là diện thì sấy thì tuyết
+00:22:10.520 tan thùng nước nước chảy vào bóng sấy
+00:22:12.260 Chị đang làm việc điều này có sự dám đổ
+00:22:14.090 11 để bóng sấy rất hay bị đổ móng xây
+00:22:16.130 nên ở phía bên trên của bóng Giấy này
+00:22:18.950 thì đều có một cái bán che bằng kim loại
+00:22:21.320 thì phải ưu điểm
+00:22:23.680 ưu điểm
+00:22:26.740 có cấu tạo đơn giản dễ thay thế nhưng
+00:22:31.190 cái nhược điểm của chúng ta thì kém bên
+00:22:33.160 nhược điểm kém bền à
+00:22:39.670 Ừ
+00:22:41.370 tí những hư hỏng thường gặp
+00:22:43.650 thì chúng ta đã biết thật là bóng sấy
+00:22:45.790 thì được cấu tạo là cái dây điện trở nên
+00:22:48.070 hư hỏng của chúng chủ yếu của ta làm gì
+00:22:50.110 nó được nghỉ làm ít thôi thế bây giờ đất
+00:22:52.780 kìa tủ lạnh có biểu hiện gì bây giờ các
+00:22:55.090 em nhìn vào thì đang có một kỹ sơ đồ đây
+00:22:57.550 là cái sơ đồ của mạch là loại 2 ví dụ
+00:23:00.810 Các em nhìn vào đây đây là sấy đi sấy đi
+00:23:05.650 bây giờ là thứ nhất là sấy Đức
+00:23:08.160 bị đứt thì bây giờ sẽ dẫn tới tình trạng
+00:23:10.420 gì à nứt thì bây giờ là khi ba ai đóng
+00:23:13.870 sáng ba thì về chế độ xả trong cái mạch
+00:23:17.950 này thì hay đóng sáng ba nhưng mà lại
+00:23:20.550 qua cầu chi nhưng điện trở xả người ta
+00:23:24.280 bị bị đứt do đó đi Trà Xanh
+00:23:27.240 Không Việt à xe điện trở xả chúng ta là
+00:23:30.790 không Sao
+00:23:31.860 vậy Không xài
+00:23:34.350 thì đối với trong mạch mạch này là mạch
+00:23:37.090 lại hay
+00:23:39.060 tí không sạc thì chúng ta biết được lá
+00:23:42.160 lúc này cũng không có nguồn cấp cho động
+00:23:44.980 cơ giá rẻ và bị hở chưa được chế độ xả
+00:23:46.900 kỳ cảm biến âm ngắt nguồn điện đối với
+00:23:49.210 cấp cho động cơ ra đây chúng ta đón diệt
+00:23:50.950 nguồn là điều khiển qua bộ điều chỉnh
+00:23:53.950 nhiệt độ tối 2201
+00:23:56.760 lúc này hay xin lỗi hai thông sang Ba
+00:23:59.140 đang ở chế độ sạc
+00:24:00.600 20 tháng 3 thì nếu mà bình thường ra khi
+00:24:03.520 xỏ lạnh mà ta ngắt thì hai trong tháng 3
+00:24:05.410 qua cầu chì qua điện trở Xa Rồi tới chân
+00:24:08.290 bốn qua động cơ xăng môn khi qua động cơ
+00:24:10.600 xăng một thì quá
+00:24:12.450 Rơle bảo vệ quá rock và khởi động của
+00:24:15.670 người nguồn như vậy là không quay được
+00:24:17.230 mà không quay được nằm Nguyễn Trãi chế
+00:24:19.210 độ sạc thì dẫn tới tình trạng là đèn
+00:24:21.310 sáng đem sang nhưng không ở động
+00:24:25.460 thế nhưng đối với các trường hợp
+00:24:29.140 mở đây đối với Đây là đối với các trường
+00:24:32.090 hợp là
+00:24:33.940 mất điện trở say ý kể cả đối với chế độ
+00:24:37.610 dài ta đó là liệt sau đó quay được ở chế
+00:24:41.419 độ dài thì quay theo cảm biến âm lấy
+00:24:44.090 nguồn từ cảm thấy Lâm Nhưng sang chế độ
+00:24:45.350 nhắn cái này đều mất nguồn nhưng đối với
+00:24:47.720 mạch lại một đối với mạch loại 1 thì
+00:24:50.330 buổi học trước chúng ta cũng đã đi tìm
+00:24:52.940 hiểu các bạn có thể này nhìn lại cái
+00:24:54.980 mạch loại 1 các bạn sẽ lấy nhìn lại cái
+00:24:57.230 mạch nói một để ta thấy là những cái hư
+00:24:58.669 hỏng trong cái
+00:25:01.870 sấy thì nó sẽ dẫn tới tình trạng gì à
+00:25:08.500 ừ ừ
+00:25:11.440 [âm nhạc]
+00:25:13.290 em
+00:25:18.890 đang thì ví dụ như động cơ lên thì đang
+00:25:22.500 được lấy nguồn từ chất một
+00:25:24.560 tự động cơ da đen được mấy nguồn ở trên
+00:25:26.940 một này được lấy nguồn từ sấy và câu
+00:25:28.590 chim vậy khi đứt sấy sẽ dẫn tới tình
+00:25:32.580 trạng là động cơ này không được cấp
+00:25:33.810 nguồn vậy không được cấp nguồn thì khi
+00:25:35.640 đó là nếu bạn đóng 4 sau đó là sấy bát
+00:25:38.010 đức thì chúng ta hãy nhớ là nằm nguyên
+00:25:39.660 trạng như chế độ chạy lại dẫn tới tình
+00:25:42.120 trạng mà cũng sẽ mạnh dần rồi mất mạng
+00:25:44.820 Tuyết bám kín làm ảnh dàn Thì đấy là đối
+00:25:47.340 với
+00:25:47.960 bóng sấy khí hỏng thì tủ lạnh sẽ xảy ra
+00:25:51.600 cái tình trạng như vậy à
+00:25:57.400 anh
+00:26:04.980 đi về đúng không ạ
+00:26:09.390 [âm nhạc]
+00:26:11.630 anh
+00:26:13.880 [âm nhạc]
+00:26:19.000 đi sấy thương hỏng dạng bị đứt tủ lạnh
+00:26:23.450 sẽ có biểu hiện
+00:26:26.620 hoạt động nhưng kém lạnh dần rồi mắt
+00:26:30.140 lệch tiết bán kính lên mặt dàn
+00:26:32.950 tiết bán kín với bạn rằng
+00:26:38.170 vẫn trường ấy hỏng thứ hai là tủ không
+00:26:41.000 hoạt động mà chỉ mình nên sạc
+00:26:43.570 không hoạt độc chỉ mình đèn sáng à
+00:26:49.010 thiết bị kiểm tra
+00:26:51.460 ý lúc này ta dùng đồng hồ vạn năng để
+00:26:55.190 than đo
+00:26:56.410 X10 và đo vào hai đầu của giấy
+00:27:00.130 đỏ vào hai đầu của giấy có giá trị điện
+00:27:03.140 trở là xây tốt
+00:27:05.590 có giá trị điện trở là sấy tốt
+00:27:13.120 nếu không có giá trị điện trở
+00:27:16.030 là sấy của ta đã đi bị đứt không có giá
+00:27:20.480 trị điện trở là sấy đang bị đứt
+00:27:30.160 không có giá trị điện trở là xây đất
+00:27:45.040 về thay thế thì
+00:27:49.020 chúng
+00:27:50.600 ta phải thay thế một xíu Mới
+00:27:53.810 ta phải thay thế Một sợi mới
+00:27:58.490 có hình dạng kích thước tương đương
+00:28:02.540 có hình dạng kích thước tương đương
+00:28:10.760 đối với xuống nhôm thì Loại này chỉ bán
+00:28:14.190 kem chủ yếu là bán kèm theo gian nên
+00:28:16.920 thay giấy thật hay gian nhưng Thông
+00:28:18.420 thường thì khi thay dàn thì chúng ta
+00:28:20.340 phải cắt ra rồi chúng ta phải hàn lạnh
+00:28:22.050 nhưng mà nằm ra đó đây Chúng Ta Chính vì
+00:28:24.600 lý do này mà đối với trường hợp này thì
+00:28:26.460 chúng ta sẽ á
+00:28:28.130 chuyển hay chuyển sang từ sông ôm xanh
+00:28:31.800 soi bóng thủy tinh gần cả đất vì em kiểm
+00:28:34.740 tra đối với xảy ra lại
+00:28:37.520 thì đối với xây thật lạnh chúng ta đang
+00:28:40.770 có hai loại một là xài bóng thì tinh là
+00:28:45.450 được gọi bóng giấy hay là sử dụng ôm đi
+00:28:48.630 kèm và em về phương pháp kiểm tra hai
+00:28:52.419 loại giấy này thì tương tự giống nhau
+00:28:54.569 thì đối với sấy khi hỏng yếu hỏng ở
+00:28:58.689 trạng thái đứt dây điện trần tủ lạnh sẽ
+00:29:01.959 xảy ra một trong hai hiện tượng hiện
+00:29:04.989 tượng thứ nhất
+00:29:05.909 tủ chỉ mình đèn sáng blog và gió không
+00:29:09.669 quá đậm hiện tượng thứ hai tủ hoạt động
+00:29:13.889 nhưng kém lạnh dần rồi mắt lại
+00:29:17.369 nếu chúng ta tháo tấm xốp chắn phía
+00:29:20.379 trước của mẹ mặt dàn quan sát vào bề mặt
+00:29:22.869 sàn sẽ xảy ra hiện tượng bóng đá
+00:29:27.029 để kiểm tra thì các em xin dùng đồng hồ
+00:29:30.639 vạn năng để Thăng đo ít người ôm
+00:29:34.829 trước khi đo chúng ta cũng chập hai cái
+00:29:38.049 đo chỉnh kim đồng hồ về vị trí không sau
+00:29:41.859 đó đo
+00:29:43.109 đo vào hai đầu
+00:29:45.209 của bóng xoáy
+00:29:47.369 sâu vào hai nội I Nghe danh anh
+00:29:51.600 ừ ừ
+00:29:56.900 Ừ nếu có giá trị điện trở ở
+00:29:59.399 Ừ
+00:30:00.769 nếu có giá trị điện trở ở
+00:30:05.370 À thì ra kết luận
+00:30:09.440 đá bóng chày tốt
+00:30:11.779 Ừ thì giá trị điện trở của chúng ta thì
+00:30:14.779 đang có giá trị điện trở từ 300 cho đến
+00:30:18.080 500w đây còn thay đang là 380 Ôm
+00:30:24.249 thì các em quan sát vào đây thì thầy
+00:30:27.049 cũng đá có một số bóng giấy thì bóng sấy
+00:30:30.469 Nếu nguyên bản trong nhà sản xuất đều có
+00:30:33.259 một bánh xe
+00:30:35.259 bằng nhôm cho em lên trên và bên dưới có
+00:30:38.659 nhiệm vụ bảo vệ và tránh khi bóng sấy
+00:30:43.909 làm việc thì tiết sẽ tăng nước sẽ chảy
+00:30:48.679 vào bóng sấy gây ra hiện tượng rắn ở đột
+00:30:51.379 ngột nên nhổ móng sấm nổ móng sấy thì
+00:30:54.440 mất lớp bảo vệ gây ra hiện tượng rò điện
+00:30:56.629 ra vỏ
+00:30:57.789 chính với bệnh khi các em thay thế đối
+00:31:00.769 với bóng giấy
+00:31:02.289 thì đối với trường hợp là chúng ta phải
+00:31:05.059 thay đúng
+00:31:06.570 mô hình dạng kích thước đúng công suất
+00:31:08.850 điện áp sử dụng thì khi thay thế các em
+00:31:11.639 cần kiểm tra cho thấy là mánh che bảo vệ
+00:31:14.700 có được phẳng hay không Và nếu bị cong
+00:31:18.659 Vinh gây ra hiện tượng rất hay hỏng bóng
+00:31:21.779 xoáy trường hợp là nộp nóng sạch thì bây
+00:31:25.080 giờ các em sẽ tiến hành kiểm tra vòng
+00:31:27.720 xoáy rất sạch
+00:31:28.700 sẽ mà cả lớp bạn là
+00:31:32.419 đấy là đối với cách kiểm tra bóng xoáy
+00:31:36.440 ái đối với chúng ta còn một cái vụ tải

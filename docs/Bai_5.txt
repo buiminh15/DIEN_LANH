@@ -1,0 +1,1805 @@
+# tactiq.io free youtube transcript
+# Bài 2 - Phân Loại, Nguyên Lý Làm Việc, Sơ Đồ Mạch của Block Tủ Lạnh II Dạy Nghề Thanh Xuân0936989090
+# https://www.youtube.com/watch/t_Ekn0UIyPk
+
+00:00:00.000 Xin chào các em hôm nay chúng ta tiếp
+00:00:03.449 tục Xem bài số 2 trong hệ thống làm lạnh
+00:00:08.269 Bài số 2 hệ thống làm lạnh của tủ lạnh
+00:00:10.920 dân dụng như chúng ta đã biết cấu tạo
+00:00:13.710 của tủ lạnh thì đang được cấu tạo bởi Ba
+00:00:15.929 phần phần vỏ
+00:00:18.740 quan hệ thống làm lạnh toàn hệ thống
+00:00:21.660 mạch điện trong bài 1 Chúng ta đã đi tìm
+00:00:25.800 hiểu về phần vỏ của tủ lạnh Xanh bài số
+00:00:29.760 2 thầy trò chúng ta sẽ tiếp tục đi tìm
+00:00:32.219 hiểu về phần hệ thống làm lạnh trong bài
+00:00:35.309 hệ thống làm lạnh chúng ta gồm có động
+00:00:37.649 cơ blog dàn nóng Thiên Lộc ống Mao và
+00:00:42.180 dàn lạnh thì buổi học ngày hôm nay thầy
+00:00:45.899 và trò chúng ta đi tìm hiểu về Ninh kiện
+00:00:48.899 thứ nhất trong hệ thống làm lạnh đó
+00:00:51.329 chính là động cơ blog này chính là máy
+00:00:53.460 nén hơi
+00:00:57.949 trong nội dung của bài này ở đây chúng
+00:01:01.059 ta đã biết được là gồm 4 thiết bị chính
+00:01:03.180 blog dàn nóng Thiên Lộc và ông Mao và
+00:01:08.439 dàn lạnh ngày hôm nay thì trò cho tấn đi
+00:01:11.380 tìm hiểu về động cơ blog
+00:01:13.830 trong phần động cơ bản lock chúng ta
+00:01:16.360 đang có 7 nội dung nội dung thứ nhất đó
+00:01:19.509 chính là
+00:01:20.640 phân loại
+00:01:22.680 nội dung thứ 2 cấu tạo và nguyên lý làm
+00:01:26.380 việc nội dung thứ ba cách xác định các
+00:01:29.920 trận đấu điện của động cơ nội dung thứ
+00:01:31.899 tư là sơ đồ đấu điện động cơ nội dung
+00:01:35.740 thứ năm là phương pháp kiểm tra đánh giá
+00:01:39.250 chất lượng của động cơ bản lock nội dung
+00:01:42.220 từ 6 hay Dầu cho động cơ nội dung thứ
+00:01:45.490 bảy là một số hiện tượng học Apple kiểm
+00:01:49.569 tra sửa chữa và thay thế
+00:01:52.080 trong buổi học đầu tiên chúng ta đi tìm
+00:01:55.179 hiểu về 4 nội dung chính phân loại cấu
+00:01:58.600 tạo và nguyên lý làm việc 3 cách xác
+00:02:01.549 định trận đấu điện của động cơ sơ đồ đấu
+00:02:04.820 điện cho động cơ
+00:02:10.269 đầu tiên là về phân loại động cơ bản gốc
+00:02:16.060 như chúng ta đã biết đối với hệ thống
+00:02:19.790 làm lạnh nhân tạo bằng máy nén hơi Chúng
+00:02:21.799 ta đã có
+00:02:23.379 3 loại máy nén nó làm anh em chín nửa
+00:02:27.230 kín và họ trong phần động cơ hệ thống tủ
+00:02:30.769 lạnh chúng ta chủ yếu đi sử dụng đó là
+00:02:33.110 máy nén kín hay còn gọi là động cơ bản
+00:02:35.150 lock
+00:02:36.010 đối với x tủ lạnh dân dụng được sử dụng
+00:02:40.280 một trong hai loại động cơ đó là động cơ
+00:02:42.769 Block pittông và động cơ mà rock do
+00:02:46.810 động cơ Block bêtông và động cơ blocked
+00:02:49.579 due to và động cơ này thì có rất nhiều
+00:02:54.019 công dụng
+00:02:55.720 như chúng ta đã học buổi học trước đó
+00:02:58.940 chính là cô Anh ta là hút hơi ga rồi nén
+00:03:02.819 hơi ra tuần hoàn hơi ga trong hệ thống
+00:03:05.040 làm lạnh và sẽ duy trì áp suất nhưng xa
+00:03:10.050 xôi để tủ lạnh toàn bộ các thiết bị điện
+00:03:12.540 và phụ tải điện ở bên trong một tủ lạnh
+00:03:16.050 trong đó gồm máy nén máy nén hay còn gọi
+00:03:19.650 là lá lốt nhiệm vụ của máy nén đối với
+00:03:24.060 trong hệ thống tủ lạnh đó chính là trúc
+00:03:26.190 và ném hơi môi chất hay còn gọi là hơi
+00:03:28.890 ga để tuần hoàn hơi ra trong một tấm mẹ
+00:03:32.330 đối với Đông Tây Bắc thì rất là quan
+00:03:35.190 trọng và đang được ví như một trái tim
+00:03:36.780 một hệ thống đi làm nữa làm tôi bất
+00:03:38.519 chúng ta gồm có đây này bảo vệ cho động
+00:03:41.100 cơ khi động cơ đang bị quá đà thì thiết
+00:03:43.860 bị này sẽ có nhiệm vụ ngắt nguồn cấp cho
+00:03:46.950 động cơ để bảo vệ và luôn là
+00:03:49.700 với nhiệm vụ là nhắc dựa trên nguyên lý
+00:03:52.560 là nhắc dựa vào nghiên và diện và rau
+00:03:55.430 đối với đi kèm với động cơ đốt chúng ta
+00:03:58.950 còn có rơle lý do cần phải động hay còn
+00:04:01.480 gọi là Slender với nhiệm vụ này khởi
+00:04:03.790 động chọn tôm
+00:04:05.250 một số lượng cơm còn có lúc đi kèm để
+00:04:08.950 cũng chậm làm biên và cụ này là tụ làm
+00:04:10.870 đêm
+00:04:12.480 thường lắp đặt ở phía sau và đi kèm với
+00:04:15.790 động cơ tiếp theo chúng ta thấy thiết bị
+00:04:18.608 được
+00:04:19.978 đây chúng ta sẽ đi ấy là Chân Tâm điên
+00:04:22.750 vì chỉ là sắp và động cơ thì nghìn là
+00:04:25.570 phía sau thì phải nhìn vào đây định thấy
+00:04:28.150 là gồm có máy này không còn gọi là lớp
+00:04:31.330 và đi kèm với chồng cắm điện là thấy
+00:04:34.090 buồn le bảo vệ rất là phải thấy động
+00:04:36.510 tĩnh để đối với cháu nhóc này thay thế
+00:04:40.449 các động cơ Plus lúc này chúng ta cần
+00:04:42.430 phải ngạc mối hàng dấu mốc mệt và trong
+00:04:45.760 khi đó là chúng nó sẽ tháo
+00:04:48.030 đang Cái ốc bắt chân động cơ với bỏ mạng
+00:04:53.380 thì như vậy thì đối với đồng chí Nhật và
+00:04:56.889 đôi vậy à Ừ thì đấy lên chúng ta là đi
+00:04:59.900 tìm hiểu tính nhất là trong hệ thống tủ
+00:05:04.100 lạnh động cơ đang được ví như một hệ
+00:05:07.490 thống được ví như một trái tim của mình
+00:05:09.650 hệ thống làm lạnh chính như vậy động cơ
+00:05:12.080 này rất là quan trọng và đồng thời đi
+00:05:14.390 kèm để cấp điện cho động cơ thì ta đã
+00:05:16.190 biết được luôn luôn gồm ra khởi động
+00:05:17.900 Rơle bảo vệ và các ống nối hệ thống để
+00:05:22.520 đưa ra khi sửa chứa hay là thay thế mà
+00:05:25.580 cần phải biết được là vị trí lắp đặt của
+00:05:28.400 động cơ đang nằm ở phía sau và để tháo
+00:05:31.940 ra chúng ta phải ngạc mối hàn và chân
+00:05:34.730 bắt động cơ và vỏ máy và khi thay thế
+00:05:37.040 thì ta lại
+00:05:38.380 làm sao là phải đặt gốc vào đúng vị trí
+00:05:42.040 và đồng thời hàm nối các đường ống chân
+00:05:46.600 dưới đất bây giờ chúng ta sẽ đi tiếp tục
+00:05:49.970 vào bài học của chúng ta đã tìm hiểu
+00:05:54.220 hai loại động cơ đó chính là động cơ A
+00:05:58.370 và động cơ blog Roto
+00:06:02.540 thì đối với động cơ bản gốc Kinh Tâm 2
+00:06:05.400 tầng gọi là ít ông trượt
+00:06:07.580 thì đối với hệ thống này thì chúng ta
+00:06:10.800 nên nhớ là thứ nhất là có hệ thống chống
+00:06:12.810 rung cả bên trong và bên ngoài ở nhờ mới
+00:06:16.380 hệ thống chống rung mà chúng ta lắp động
+00:06:18.960 cơ thì kêu
+00:06:22.610 loại động cơ này thì thuốc
+00:06:26.150 gián tiếp và đầy trực tiếp
+00:06:29.540 và lắp đặt trong hệ thống tủ lạnh có
+00:06:32.820 công suất nhỏ lắp đặt trong điều hòa có
+00:06:36.840 công suất lớn và động cơ blockit ông thì
+00:06:39.860 có nhằm ra
+00:06:42.680 đối với động cơ của risotto Ý hệ thống
+00:06:46.800 chống rung được bố trí ở bên Hoàng
+00:06:49.910 lắc thì không kêu ạ
+00:06:52.650 có mặt thì không kêu hút trực tiếp để
+00:06:56.220 gián tiếp và được lắp đặt trong tủ lạnh
+00:06:58.740 có công suất lớn và lắp đặt trong điều
+00:07:01.199 hòa công suất nhỏ không ống nằm ra
+00:07:05.030 trong hai loại động cơ này thì động cơ
+00:07:07.800 Block pittông có cái ưu điểm ưu của
+00:07:11.130 những ra thì động cơ sẽ trẻ em nhưng
+00:07:14.340 nhược điểm là cầm canh tốn ít diện tích
+00:07:18.150 đặt động cơ
+00:07:19.970 kích thước thật to vị trí Đạt động cơ nó
+00:07:23.280 rộng
+00:07:24.560 trên một hệ thống sản phẩm đối với
+00:07:28.440 blocked due to thì ta thấy là nhỏ gọn vị
+00:07:32.310 trí đặt động cơ thì nó nhỏ nhọn nhưng nó
+00:07:35.010 lại có nhiều
+00:07:36.260 là máy chạy nôn máy chạy ổn thì đối với
+00:07:40.380 chương tủ lạnh trưng tủ lạnh chúng ta sẽ
+00:07:43.530 đi tìm hiểu về động cơ bản nó bê tông
+00:07:47.539 từ cấu tạo nguyên lý làm việc cách xác
+00:07:50.940 định trận đấu điện của động cơ
+00:07:52.660 các phương pháp kiểm tra đánh giá chất
+00:07:54.880 lượng sơ đồ đấu điện
+00:07:57.330 thay dầu vân vân để đã tắt nội dung
+00:08:00.340 thành vòng tròn chúng ta sẽ đi tìm hiểu
+00:08:01.780 về động cơ bản gốc pittông thì trong quá
+00:08:05.050 trình đi tìm hiểu thì thấy sẽ giải thích
+00:08:07.060 một số những trường học để chúng ta phân
+00:08:10.180 biệt hai loại động cơ phía sau
+00:08:13.800 thứ nhất thì mời các em xem về cấu tạo
+00:08:17.800 bên ngoài của động cơ
+00:08:21.150 về cấu tạo động cơ blog để chia ra làm 3
+00:08:24.400 phần phần vỏ điện ở phần cơ
+00:08:29.220 Vỏ phần điện cơ vỏ bên ngoài giờ phần cơ
+00:08:33.340 là phần chuyển động để thực hiện lúc ném
+00:08:36.539 gì ga phần điện là phần động cơ điện máy
+00:08:40.360 biến điện năng thành cơ năng thì thai và
+00:08:43.120 cho chúng ta sẽ đi tìm hiểu đầu tiên mở
+00:08:45.520 thằng em xem
+00:08:46.470 cấu tạo bên ngoài của một động cơ blog
+00:08:49.980 động cơ này thì được cấu tạo a hoàn toàn
+00:08:53.450 thắng sắt thép
+00:08:55.420 bao bọc toàn bộ phận điện phần cơ ở bên
+00:08:59.210 trong
+00:08:59.800 em nhìn động cơ bản gốc thứ nhất thì
+00:09:02.870 chúng ta thấy Gồm có 3 Ông Nội
+00:09:06.100 bao nối thì một ống được nối với dàn
+00:09:09.110 nóng là được gọi nóng đẹp một ống được
+00:09:12.920 nối với dàn lạnh được gọi là ống hút
+00:09:15.590 Uống còn lại đó chính là ông lập ra
+00:09:18.640 chỉ để phân biệt 3 cũng này thì chúng ta
+00:09:21.830 nhìn trên thân với vỏ và động cơ thì ống
+00:09:24.980 nào có tiếp điện nhỏ do chính đóng đầy
+00:09:27.440 hai ống còn lại thì do động cơ này đã
+00:09:31.580 đầy trực tiếp và hút gián tiếp Thế nên
+00:09:33.980 phần cơ năng hút ở bên trong Khanh vỏ và
+00:09:36.620 động cơ và 2 ống hút ống nạp ga là đều
+00:09:39.470 không có khoanh vỏ và hai cái này có thể
+00:09:41.270 đổi vị trí cho nhau
+00:09:44.140 chúng ta nhìn thấy có bốn núm chân cao
+00:09:47.390 su thì bún chân cao su này đây là hệ
+00:09:49.790 thống chống rung ngoài nhìn được à anh ở
+00:09:53.220 bên tay trái chúng ta thấy sẽ có 3 trận
+00:09:55.139 đấu điện và ba chân đấu điện đều có nắp
+00:09:57.749 hộ bảo vệ an toàn y mà chúng ta
+00:10:01.040 đồng đội
+00:10:03.139 đối với loại động cơ Pana thì các em
+00:10:05.490 nhìn là xanh cái hình bên cạnh thì chúng
+00:10:08.519 ta thấy là loại này sẽ có 5 ống ở phía
+00:10:12.689 dưới đấy có 2 ống có hai ông hai ống mày
+00:10:15.899 sẽ chạy nằm ở bên dưới của khoang chứa
+00:10:18.089 dầu và động cơ thì có nhiệm vụ làm mát
+00:10:21.600 dầu khi động cơ hoạt động ở những nơi có
+00:10:25.050 nguồn nhiệt môi trường quá cao khả năng
+00:10:26.850 tỏa nhiệt làm mát bôi trơn các chi tiết
+00:10:28.740 và chúng ta bị sao mà khả năng hư hỏng
+00:10:31.470 máy của chúng ta cũng sẽ cao Nên một số
+00:10:36.019 máy nén ở những cái nghĩa khí nóng hoặc
+00:10:39.629 còn làm việc ở môi trường quá cao thì
+00:10:41.970 luôn luôn thấy có một hệ thống làm mát
+00:10:43.730 kìa đây chính giá hệ thống làm mát dọc
+00:10:47.579 để làm mắt cho máy nén khí
+00:10:52.660 Ừ cái này cấu tạo
+00:11:05.040 thì cấu tạo bên trong
+00:11:07.740 thì mời các em nhìn vào sơ đồ ở bên
+00:11:10.689 trong thì đối với sơ đồ cắt bổ bên trong
+00:11:13.540 thì bên trong vỏ một động cơ Em nhìn
+00:11:17.019 thấy là thứ nhất là chúng ta thấy là có
+00:11:18.759 hệ thống chống rung trong là 3
+00:11:21.240 4 lò xo chống rung ở bên trong có thể là
+00:11:24.040 đỡ phía dưới hoặc lá treo bên trên
+00:11:27.240 chào mừng Trinh và 3 trận đấu điện của
+00:11:29.949 động cơ thì cũng đi vào Bên trong qua vỏ
+00:11:33.399 và động cơ mà có sử dụng đó là sử dụng
+00:11:37.319 xứ để cách điện f xứ Các đầu chân để
+00:11:41.620 cách điện mới vỏ để cung cấp và điện vào
+00:11:45.310 bên trong là nhờ có hệ thống chống rung
+00:11:47.259 trong em nhìn lấy toàn bộ phần Điện phần
+00:11:49.569 cơ được nâng lên ở bên trong khoang vỏ
+00:11:52.209 động cơ lý do đó khi mà chúng ta lắp
+00:11:54.350 động cơ thì ta thấy là kêu đấy chính là
+00:11:57.130 trong cái phần phân biệt thì chúng ta
+00:11:59.360 thấy đã lắp nó không kêu lắm nó không
+00:12:01.820 cầm thứ hai đã đẩy trực tiếp thì anh
+00:12:04.760 nhìn thấy là từ phần cơ thì có một cái
+00:12:07.130 ống đi thẳng ra ngoài vỏ thì có một ống
+00:12:10.850 nhỏ mà đặt Tuấn đó là được quấn bằng nó
+00:12:14.570 so để khi giảm rung nó không bị bẹp
+00:12:16.610 không bị ngấy về uống đánh ở bên trong
+00:12:19.250 khoảng một động cơ thì trong đó là luôn
+00:12:20.960 luôn là quấn cái lò xo để bảo vệ được
+00:12:23.570 không đi ra ngoài
+00:12:26.290 thì đấy là cấu tạo vỏ thì thấy mời cả
+00:12:29.690 lớp ta sẽ ghi về phần bỏ
+00:12:31.780 phần vỏ được cấu tạo bằng sắt thép
+00:12:36.790 và có nhiệm vụ bảo vệ phần điện và phần
+00:12:41.450 cơ ở bên trong
+00:12:44.980 bên ngoài
+00:12:46.690 có 3 đường ống nối
+00:12:50.140 một ống được nối với dàn nóng Ừ thì ta
+00:12:53.639 đừng gọi nóng đây
+00:12:56.240 một ống được nối với dàn lạnh
+00:12:59.899 đó chính là ông hấp vợ ông còn lại ạ tin
+00:13:04.180 nóng mạch gan
+00:13:06.870 uống này sẽ được nối với một số thiết bị
+00:13:10.120 sau này khi mà chúng ta gia công sửa
+00:13:12.790 chữa
+00:13:15.330 gia công sửa chữa Ví dụ như sang đến nơi
+00:13:19.120 bài sau thì ta sẽ học thì cho thấy là
+00:13:22.120 đối với đầu làm ca đã gia công sửa chữa
+00:13:23.980 như là tạo chân không và nạp ga chọi
+00:13:27.100 thông Vân Vân 1 số động cơ bản lúc sẽ có
+00:13:30.400 5 ống trong đó có 2 ống nối sẽ đánh có
+00:13:36.130 nhiệm vụ làm mát dầu
+00:13:38.490 làm mát dầu
+00:13:40.620 và vỏ của chúng ta thì có ba chân đấu
+00:13:43.120 điện
+00:13:45.000 nối từ bên ngoài đi vào trong để cung
+00:13:48.520 cấp điện cho phần điện của động cơ
+00:13:54.150 bên trong vỏ động cơ có từ 3 đến 4 lò xo
+00:13:58.690 chống rung
+00:13:59.640 đấy là đối với cấu tạo về phần vỏ xe Anh
+00:14:04.269 ta sẽ đi xăng cấu tạo nội dung cấu tạo
+00:14:07.670 thứ hai đó là phần cơ cần cơ đi đây
+00:14:11.329 chính là sơ đồ cắt bổ của động cơ
+00:14:15.160 lớp của động cơ thì chúng ta thấy đặt từ
+00:14:17.569 1 cho đến 12 đây chính là cấu tạo các
+00:14:20.449 chi tiết của phận cơ mà 13 14 của chúng
+00:14:23.420 ta thì nó không biết các em nhìn vị trí
+00:14:26.329 của các thiết bị
+00:14:28.569 trong đó một là tiêu lực hút hay là van
+00:14:34.519 hút ma là khoảng này
+00:14:39.040 43 là lá van làm ăn hốt I
+00:14:43.430 anh bốn lá van Bình năm khoảng này 6 yêu
+00:14:50.210 lần này mày thành xylanh 8 khoáng xilanh
+00:14:55.660 9x ông Mười
+00:14:58.630 lậu đỡ 11 là tai biến 12 này chụp chụp
+00:15:05.540 khi Đấy là toàn bộ các chi tiết Cần cơ
+00:15:08.480 của ra thì từ 1 đến 12 13 thì đây là
+00:15:12.680 phần điện ra bến là xa to 14 lần rô Kali
+00:15:17.810 chi tiết của phần cơ thì ta nhìn sang
+00:15:21.290 một cái phòng chiếu Thứ Hai Thứ nhất
+00:15:27.670 chúng ta để ý này là chú khỉ là nó sút
+00:15:32.540 thẳng này
+00:15:33.760 đây Chúc ơi chụp kiểu đây điều khiển là
+00:15:36.980 ta thấy là đây là nối với trục cơ nó đầu
+00:15:39.709 lệch tâm thì trục cơ của ta sẽ được nối
+00:15:42.920 với ý em
+00:15:44.509 tính chụp kiểu gì tay đặt trên trục lệch
+00:15:46.560 tâm
+00:15:47.990 sẽ kết nối với thanh niên và tay biên
+00:15:52.050 thì đi em đó chính là pittông
+00:15:55.730 bên ngoài của chúng ta đây chính là Á
+00:15:57.870 thành xylanh thành xylanh
+00:16:01.100 ta có thành xylanh
+00:16:03.230 [âm nhạc]
+00:16:05.569 thành xylanh và pittông yên tâm này nó
+00:16:09.810 sẽ di chuyển ở bên trong trong thành
+00:16:11.670 xilanh sẽ được nối với tài Biên ở phía
+00:16:15.389 dưới của Tấm trắng thì đây là van hút
+00:16:17.029 làm ăn đẩy ở bên trên mặt Bích trên
+00:16:20.310 người tấm dán mặt big lên trên có sử
+00:16:22.079 dụng bốn bulông thì trên này sẽ chia hoa
+00:16:24.269 hút và con này
+00:16:25.819 Cái hộp trắng ở phía dưới thì đây chính
+00:16:29.069 là diem tiem cửa hút mà tiêu âm cái này
+00:16:32.040 Kỳ à được bắt trực tiếp lên mặt Bích nhờ
+00:16:34.949 vào hai
+00:16:37.220 nhà vợ bóng đèn mà cũng bắt hàng chục
+00:16:39.540 lông để giữ cho việc khoan bịt kín cái
+00:16:42.449 quăng để em ghi âm để dạng âm thanh với
+00:16:45.160 đề à
+00:16:50.980 em về cấu tạo và điện cấu tạo phần điện
+00:16:57.660 thêm mời cả lớp chúng ta nhìn lên cái
+00:17:00.190 phong chiếu về
+00:17:02.610 cứ bộ mà Bên trong vẫn điện chính là
+00:17:05.410 phần ở phía dưới Điện năng được là phần
+00:17:08.109 được bố trí ở bên dưới của động cơ kỳ đà
+00:17:10.959 cán bộ ra đây là một động cơ điện
+00:17:13.890 động cơ điện không đồng bộ 1 pha tím
+00:17:17.140 động cơ năng được cấu tạo bởi 2 phần là
+00:17:19.900 store và slow to
+00:17:21.869 you to anh em nhìn đó là phần ấn động và
+00:17:26.829 phân động đang được bố trí ở bên trong
+00:17:28.809 bên trong
+00:17:31.350 Domino thì được cấu tạo là không sắc từ
+00:17:34.330 được cấu tạo chính là không sẽ từ hình
+00:17:37.059 trụ và bên ngoài thì thường lắp đó là
+00:17:40.720 chính là cái
+00:17:42.870 hợp kim nhôm hoặc là sơn tĩnh điện cánh
+00:17:46.900 từ từ và Rô thì các em nhìn ở đây thì
+00:17:50.990 một số động cơ thì có làm các cái cánh
+00:17:54.410 quạt đi kèm với rô thì đối với loại động
+00:17:57.620 cơ này thì chúng ta thấy là khi mà cái
+00:17:59.360 cánh nó chúng ta nằm ở phía dưới thì
+00:18:00.890 cũng có nhiệm vụ là giàu của chúng ta Nó
+00:18:04.040 sẽ được cánh quạt
+00:18:06.550 là kia nó chạy nó sẽ tăng để bơm làm mát
+00:18:12.370 cho bé
+00:18:15.130 điện của động cơ nhưng ta đem nhìn tại
+00:18:18.230 tâm của do Đây là trục cơ mà chúng ta
+00:18:20.240 vừa nhìn cái trục cơ của chúng ta Thế
+00:18:22.370 bên trong chung cơ sẽ có một rãnh xoắn
+00:18:25.960 danh sách này có cấu trúc giống với một
+00:18:29.210 cái mũi khoan mà các em đã Để ý một mũi
+00:18:31.910 khoan bê tông mũi khoan sắt thì khi rô
+00:18:34.610 này quay đúng chiều thì nhờ vào cái dáng
+00:18:37.190 nó sẽ á lúc dùng bút dầu
+00:18:42.220 bơm từ phía dưới bơm từ phía dưới là
+00:18:46.400 người khoang chứa dầu ta nằm ở phía dưới
+00:18:47.890 bơm lên và bôi trơn các chi tiết truy ở
+00:18:51.230 đây người ta được hẹn ống bơm ròng
+00:18:54.590 con bé xa con được cấu tạo bằng hai phần
+00:18:57.360 đó là khung sắt từ ở cuộn dây thì khung
+00:19:01.650 sắt từ các em được biết đây à là cái
+00:19:04.020 khung ở bên hoa được ghép ở nhiều cái lá
+00:19:06.150 thép kỹ thuật điện đó chính là tôn Silic
+00:19:08.070 với độ dài là 0,35 ép lại thành khối và
+00:19:12.540 bên trong thì có rất nhiều các hình dạng
+00:19:13.890 để chúng ta quấn cuộn dây thì đối với
+00:19:17.250 động cơ của anh ta thì tùy thuộc theo
+00:19:18.750 công suất của động cơ mà số dáng có sự
+00:19:21.660 khác nhau và Thông thường thì là từ lớn
+00:19:24.630 hơn hoặc bằng 24 dáng có nghĩa là nhỏ
+00:19:27.420 chúng ta cũng sẽ có 24 dáng còn lớn hơn
+00:19:29.310 thì ta sẽ có nhiều hơn đấy là theo mình
+00:19:31.740 công suất của động cơ
+00:19:32.870 một cuộn dây
+00:19:35.600 gồm có đây là động cơ không đồng bộ 1
+00:19:39.600 pha thì chúng ta có 2 cuộn cuộn dây có
+00:19:43.020 tiết diện lớn được bố trí ở bên ngoài để
+00:19:46.110 người ta được gọi là cuộn dây trẻ hay là
+00:19:48.240 cuộn dây lắm Làm việc
+00:19:50.980 các loại tiết diện nhỏ hơn được bố trí ở
+00:19:53.590 bên trong đây chính là cuộn dây để tính
+00:19:57.490 như chúng ta đã biết là
+00:19:59.250 tiết diện dây càng càng lớn thì giá trị
+00:20:02.260 điện trở khác nhau và ngược lại Để sau
+00:20:04.600 khi
+00:20:05.280 và đi sang phân cách xác định là trận
+00:20:09.130 đấu điện thì chúng ta sẽ đó thì như
+00:20:11.890 chúng ta đã biết là dây càng lớn thì
+00:20:14.169 điện trả khá nhỏ và dây càng nhỏ thì
+00:20:15.790 điện trở thắng lớn thì đây là chiếm đa
+00:20:17.980 số là cái động cơ thì ta sẽ sử dụng là
+00:20:20.500 dây quấn bộ còn chảy lúc nào cũng sẽ to
+00:20:23.410 hơn để chịu được Rong và thời gian làm
+00:20:26.559 việc trong thời gian dài thì về phần
+00:20:29.049 điện
+00:20:31.080 kia đang muốn về phần điện có nhiệm vụ
+00:20:34.980 biến điện năng thành cơ năng ạ
+00:20:38.850 Ừ để truyền chuyển động đến phần cơ
+00:20:46.160 điện gồm
+00:20:48.290 có hai phần đó là rôm due to và stato à
+00:20:57.820 em
+00:20:58.380 đổi mình rôto
+00:21:00.660 được cấu tạo bằng sắt từ khung sắt từ
+00:21:05.050 hình trụ
+00:21:06.060 bên ngoài được bọc một lớp hợp kim nhôm
+00:21:10.230 rôto đang định mặt ở trong lòng của xe
+00:21:14.140 to
+00:21:16.080 Yo to đang được đặt trong lòng và sakho
+00:21:19.030 để khi có dòng điện chạy qua à
+00:21:23.590 Ừ để khi có dòng điện chạy qua sinh ra
+00:21:28.000 từ trường quay
+00:21:29.130 để làm quay
+00:21:31.830 rôto ạ
+00:21:40.550 Anh
+00:21:41.140 ở Tân của Joe to thì có một rãnh xoắn ạ
+00:21:46.340 Anh ở tâm của Joe to thì có một rãnh
+00:21:49.460 Xoắn à
+00:21:54.080 Ừ để khi Roto quay đúng chiều sẽ hút dầu
+00:21:58.700 và bôi trơn các chi tiết chuyển động
+00:22:01.549 phần cơ mình trên còn phía dưới của
+00:22:04.640 chúng ta thì nhờ một cánh quạt trên rô
+00:22:06.350 thì cũng sẽ làm mắt vẻ điện và phía dưới
+00:22:13.059 pet store được cấu tạo bởi 2 phân là
+00:22:17.690 cuộn dây và không sắt từ
+00:22:19.990 cuộn dây và khung sắt từ
+00:22:26.289 đối với cuộn dây
+00:22:28.770 ở cuộn dây nhập cấu tạo là có hai cuộn
+00:22:32.220 dây đó là cuộn dây làm việc ta còn được
+00:22:35.370 gọi là cuộn trái
+00:22:37.730 cuộn dây khởi động ta được gọi là cuộn
+00:22:40.500 đề à
+00:22:43.350 A và hai cuộn dây này thì nó được đặt
+00:22:46.890 lệch nhau 90 độ trong không gian
+00:22:50.030 được đặt lệch nhau 90 độ trong không
+00:22:53.070 gian
+00:22:55.360 Ừ để khi có dòng điện
+00:22:59.380 anh chạy qua
+00:23:01.110 để khi có dòng điện chạy qua sinh ra từ
+00:23:04.960 trường lệch pha được gọi là từ trường
+00:23:07.600 quay để làm quay về dâu to
+00:23:11.670 để làm quanh về dâu to à
+00:23:20.540 em
+00:23:20.620 [âm nhạc]
+00:23:23.710 về khung sắt từ ừ
+00:23:26.250 khi được ghép bởi nhiều là thép kỹ thuật
+00:23:28.800 điện được ghép bởi nhiều là thép kỹ
+00:23:31.560 thuật điện
+00:23:32.720 đó chính là tôn Silic với tiết diện là
+00:23:36.090 0,35 Mini thành một khối
+00:23:40.640 và bên trong thì có nhiều ra cái dáng
+00:23:44.240 để đặt cuộn dây Vì thuộc thì phải động
+00:23:47.190 cơ thể đã nói là số dáng người ta là lớn
+00:23:49.500 hơn bản 24-8 của động cơ và nó kinh tâm
+00:23:52.440 động cơ blog đang được sử dụng chủ yếu
+00:23:54.990 trong hệ thống tủ lạnh thì mắm tôm và
+00:23:58.320 lòng quyết tâm thì các em nhìn ở đây thì
+00:24:00.480 chúng ta thấy là có 3 ống được nối với
+00:24:04.290 hệ thống thì bảo nó được nối với hệ
+00:24:06.510 thống thì chúng ta biết được là một ống
+00:24:08.340 đợt nối với dàn nóng là được mọi ống độc
+00:24:11.580 thường có thiết diện nhau một ống cho
+00:24:14.220 được mới không dán này là đúng lúc này
+00:24:16.380 là được gọi là có chút cũng có lại càng
+00:24:19.760 được dùng để nối một số thiết bị thì ra
+00:24:23.520 cùng sửa chữa để chính là thì đầu nạp ga
+00:24:26.260 ở nước ngoài chúng ta còn nhìn thấy mà
+00:24:29.860 còn có 3 sân đấu điện để cung cấp bị cho
+00:24:34.660 các thực hiện ở bên trong
+00:24:36.060 Còn đối với cấu tạo ở bên trong và động
+00:24:39.550 cơ là thì chết cả đá dụng cụ để tháo mùa
+00:24:45.820 xuống thì trang thiết bị ở bên trong cơ
+00:24:48.040 thể chúng ta gồm có thì
+00:24:50.730 thêm tiền nọ Tiền lương chúng ta có của
+00:24:56.290 khẩu
+00:24:57.480 bảo lên tổ tiên
+00:25:01.860 cũng hay là chúng tôi rất thì là được
+00:25:04.630 nghỉ
+00:25:06.630 làm luôn tôi và bây giờ thì sẽ hướng dẫn
+00:25:09.850 chúng ta nói một số chi tiết bên trong
+00:25:12.030 một số thì chi tiết bên trong thì để
+00:25:14.920 chuẩn bị thì chúng ta cần phải có 10 để
+00:25:18.460 đựng các thế em cứ bị thu được là tháo
+00:25:21.850 ra để tránh trong hợp là sẽ bị rơi rớt
+00:25:25.270 hay là ở
+00:25:26.889 chỗ này thuê xe hướng dẫn cho chúng ta
+00:25:30.619 này chúng ta biết được cấu tạo thì chết
+00:25:32.809 trong thì đây là một cái động cơ của
+00:25:35.349 blog là không lấy Lúc tủ lạnh động có
+00:25:38.749 bluetooth không thuộc là mày nhanh Chị
+00:25:40.609 toàn bộ phần điện và phần cơ được cấu
+00:25:43.070 tạo 91 phần trăm một lớp vỏ bằng kim
+00:25:45.769 loại sau khi cương nhỏ của động cơ lúc
+00:25:48.349 này chúng ta cần thủ nhạc mới hàng là
+00:25:49.909 rối loạn nhà những hàng đối bạch sau đó
+00:25:52.729 là các em dùng tô-vít chúng ta sẽ tháo
+00:25:57.469 rất rắc cắm điện cho thằng điện và Nông
+00:26:02.059 nghiệp động cơ điện thoại
+00:26:04.389 sẽ đâu để cơm ra ngoài thì đây là toàn
+00:26:08.149 bộ Động cơ thể thấy là bên trong chúng
+00:26:12.589 ta nhìn vào bên trong và động cơ thì
+00:26:13.969 trong đó gồm có
+00:26:17.649 3 cái nào xuống giúp ta gồm của bà lò xo
+00:26:22.249 chống rung và chúng ta có cái giắc cắm
+00:26:25.639 điện anh nghiện rượu và rồng Cái này là
+00:26:29.850 nối với
+00:26:32.120 cùng họ biết trong chúng ta nhìn vào à
+00:26:36.030 động cơ khi thấy nhà đưa ra ngoài này
+00:26:38.820 thì cho tao nhìn vào đây thì thứ nhất là
+00:26:40.920 lịch động cơ điện thì được chia ra làm 2
+00:26:43.500 phần nó chính là sự việc phân cấp trong
+00:26:47.700 đó là không điện là một cái động cơ điện
+00:26:49.380 lạnh
+00:26:50.780 toàn bộ rằng ở bên dưới nhưng động cơ
+00:26:53.190 điện động cơ điện thì người mình có rô
+00:26:55.410 và mà sao chỉ do thì năng lượng ở sông
+00:26:59.640 Lòng Người Xa to tại tâm người do to thì
+00:27:01.500 chúng ta nên tới đây này Nó đang có một
+00:27:04.140 cái danh sắn thì ánh sáng này thì khi
+00:27:06.720 cho nó để cái túi chiều của
+00:27:08.660 thì vừa tháo ra thì lúc này thì bọn cơ
+00:27:12.870 quay đúng chiều thì nó sẽ hút rồi bây
+00:27:15.450 giờ từ thế giới thế giới của người em
+00:27:18.240 đánh của động cơ
+00:27:20.120 Và lúc và Đồ Sơn về các chi tiết chuyển
+00:27:24.450 động người chết à anh với hệ thống bơm
+00:27:27.400 dầu dạng chung của Joe xa thì chúng ta
+00:27:31.210 nhìn ở đây thì nhất là xa to chúng ta
+00:27:33.670 gần có
+00:27:35.280 không Sắp từ và cuộn dây của cuộn dây
+00:27:39.160 mọi người nhìn vào đây thì chúng ta thấy
+00:27:41.020 là gồm có 2 phút này ở trên phần lý
+00:27:44.380 thuyết cho tôi đang học thì vùng quá 2
+00:27:45.670 phút thì con dâu độc tố nước ngoài còn
+00:27:48.100 xuất hiện với to hơn
+00:27:50.160 tiền giấy màu hơn đây chủ nhật cũng chạy
+00:27:52.510 hay còn gọi cũng làm được dẫn ra nhiều
+00:27:54.850 là cuốn ở bên trong thì đây chính là
+00:27:57.430 cuốn dây Thái cái Đọc và hai cuộn dây
+00:27:59.530 này thì đăng đặt lệch pha nhau trong
+00:28:02.710 thời gian góc là là chính luôn để khi có
+00:28:05.620 dòng điện chạy qua sẽ sinh ra từ trường
+00:28:07.630 quay và làm quen với rô to bây ra tay sẽ
+00:28:13.440 sử dụng không phải cây đẹp
+00:28:18.150 áo ra chúng ta sẽ quan sát nghĩa và phần
+00:28:22.480 cơ à
+00:28:26.269 Ừ
+00:29:08.010 [âm nhạc]
+00:29:10.149 ok à
+00:29:23.710 [âm nhạc]
+00:29:26.250 ở
+00:29:30.470 đây xin lỗi của động cơ là Lê Trường Sa
+00:29:33.830 thận sa to
+00:29:40.310 và đây chỉ được rồi rồi thì ta thấy được
+00:29:43.680 cấu tạo là sắp tôi cấu tạo là sát từ đạt
+00:29:47.010 được trong lòng của của xanh tiếp theo
+00:29:49.770 thì chúng ta có chứa thêm cưỡng bức đây
+00:29:54.390 chúng tôi chưa muốn về chủ nhật cho ứng
+00:29:56.690 ở nút này là thành sẽ
+00:30:03.170 cháu
+00:30:04.910 thì phần bên trên thì chúng ta sẽ quan
+00:30:08.040 sát ở toàn bộ của cái phần cơ à
+00:30:26.260 Ê
+00:31:06.240 cho tao như thế là đây nè thêm nút này
+00:31:10.380 thì đi Vào đây Vào đây thì chúng ta thấy
+00:31:13.810 là chúng ta sẽ có
+00:31:16.830 đôi lúc vào khoan hút vào pha nước thì
+00:31:21.670 là sau này thì đang nghe chia ra nó gặp
+00:31:23.980 Asus k45a
+00:31:26.269 anh vào chúng ta thấy nên đi vào thẳng
+00:31:28.489 vào Khoang Út thì lá van ở đây giới sẽ
+00:31:30.709 là làm văn Út van bên trên sẽ là làm ăn
+00:31:32.719 đây bằng lệnh nằm ngoài đây
+00:31:34.929 hoặc đây Cái con này chúng ta thế
+00:31:38.769 Lúc này thể tháo ra thì đây chính là kẽ
+00:31:41.419 lá van làm ăn trên đây làm ăn này thì
+00:31:46.519 đây chúng ta nhìn đây chỉ cần ăn lệch
+00:31:48.919 Toàn bộ bằng bằng kim loại
+00:31:51.070 tấm chăn
+00:31:52.959 là van hút à
+00:32:02.150 ở đây làm ăn hút
+00:32:13.420 Tiếp theo là cái gì cho tôi nhìn thấy
+00:32:15.920 đây thì khi động cơ hoạt động
+00:32:19.210 thì rồi con quên biến chuyển động tịnh
+00:32:22.370 tiến của
+00:32:23.590 của rô to thì chuyển động tịnh tiến của
+00:32:26.600 pittông trong khoan xilanh thì chúng ta
+00:32:28.760 nhìn ở bên trong này thì cái tông Đăng
+00:32:30.500 di chuyển bên trong quan xi lanh thì bên
+00:32:32.840 xung quanh đây đây chính là thành xylanh
+00:32:34.670 thành sẽ Đây
+00:32:37.630 là phần chuyển động cảm biến trong thì
+00:32:40.280 ông lại phần chuyển động bên trong nên
+00:32:41.870 xuống đấy Đây chính là mít công của của
+00:32:44.750 động cơ thì chúng ta nhìn ở bên này để
+00:32:48.680 đối với cái tên với chú khỉ thì đây
+00:32:51.500 chúng ta biết về chính này Thế điên
+00:32:53.630 Thành điên Em chú khỉ là chúng sẽ nước
+00:32:58.190 mới với phần rô thì chú khỉ khi chúng ta
+00:33:03.030 lên chính là chúng lịch tâm thì khi kiến
+00:33:06.390 rồi Tao quay thì đi chu kỳ của chúng ta
+00:33:07.980 neza
+00:33:09.920 sẽ làm truyền chuyển động tới ít ông nhờ
+00:33:14.370 cái biết
+00:33:15.800 đối với tôi một mạch thì chúng ta nhìn
+00:33:19.530 thế này không làm này của thầy cho vào
+00:33:22.620 hai người chuông đêm thứ nhất của mình
+00:33:24.780 cơm rồi thứ hai giờ sau được giống ra
+00:33:28.080 ngoài thì đến chúng là đối với cấu tạo
+00:33:30.860 đối với động cơ mà Lúc thì trong cái
+00:33:35.670 phòng nè cấu tạo này thì nó thường vui
+00:33:38.010 học chắc rằng không phải ngủ chúng ta
+00:33:40.590 thấy là các động cơ thường hỏng rất dạng
+00:33:42.450 thứ nhất đối với tự nhiên điện thì chúng
+00:33:46.350 ta sẽ về nó hỏng và các điểm là tránh
+00:33:49.170 Đức về cuộn dây động cơ đúng phương án
+00:33:52.320 sửa với các loại đối với động cơ này thì
+00:33:55.050 ta sẽ ráng thay dây mà Tuấn động cơ mới
+00:33:59.160 thật chán Tuấn toàn bộ vùng da á
+00:34:02.910 Đối với hình chi tiết của thành công
+00:34:05.610 của chúng ta sẽ được hướng thẳng về chủ
+00:34:08.230 yếu một là chúng ta sẽ
+00:34:12.989 bị cắt bật về là kết kẹt ở đối với phần
+00:34:17.889 chuyển động từ tục câu tới cầu lớn thì
+00:34:22.570 khi đó chúng ta sẽ sử dụng các ý chất
+00:34:26.110 tẩy giun vệ sinh phương thức trong đó
+00:34:29.110 thể là sử dụng xăng hay là dầu hoa cho
+00:34:31.960 tôi sáng Lâm Nghiệp chúng ta sẽ đánh cắp
+00:34:33.250 cái gì xét reset có thể kẹp Nhớ
+00:34:37.560 cái Nguyên chụp kỵ để tung với xilanh
+00:34:40.889 thì chúng ta sẽ vệ sinh chúng ta sẽ được
+00:34:43.630 thứ hai chúng ta sẽ học bổng của các
+00:34:46.330 ngân hàng tiếp theo là lá van nài của
+00:34:48.639 chúng ta chúng ta sẽ bị môn này chúng ta
+00:34:50.889 sẽ thấy chúng ta sẽ bị mòn thì bố đến
+00:34:53.469 trường hợp này thì chúng ta cũng sẽ sử
+00:34:54.820 dụng cái giấy ráp mịn khi đó chúng ta sẽ
+00:34:57.430 á Đánh sách đối người Cái đấy là văn để
+00:35:00.940 chúng ta kiểm tra à Anh
+00:35:03.130 tốt hơn và hỏng lớp rồi
+00:35:07.990 sử dụng là các ý sợ anh em để làm răng
+00:35:12.890 để tránh sự do dị về về về thôi khi mình
+00:35:16.460 mấy nghén đang hoạt động thì mày ném
+00:35:18.799 hoạt động thì đấy là đối với các trường
+00:35:20.809 hợp là thứ họ trong việc động cơ thì
+00:35:23.029 chúng ta sẽ thành khắc phục đối với
+00:35:24.230 trường hợp này thì đấy là đối với cấu
+00:35:27.349 tạo về toàn bộ về chi tiết của phần cơ
+00:35:30.140 của động cơ phần cơm điện của động cơ
+00:35:32.270 Vlog ở bên sóc da thầy trẻ Đắk Lắk và
+00:35:36.819 công
+00:35:42.250 thì lấy là toàn bộ các chi tiết của phần
+00:35:45.770 cơ thì thấy đá cưa bổ và giới thiệu cho
+00:35:50.210 thằng em trực tiếp trên một cái động cơ
+00:35:52.130 Block chúng ta sẽ sang về nguyên lý làm
+00:35:54.440 việc của động cơ khi đối với nguyên lý
+00:35:57.319 làm việc của động cơ thì như chúng ta đã
+00:35:59.599 biết được là động cơ rất là quan trọng
+00:36:02.160 bây giờ chúng ta đã được ví như một cái
+00:36:04.620 trái tim của hệ thống động cơ của hoạt
+00:36:06.690 động thì Tủ lạnh mới có lãnh được chính
+00:36:09.960 vì vậy
+00:36:10.850 chúng ta cần phải biết được là động cơ
+00:36:13.710 đang hoạt động để hút lén trên cơ chế
+00:36:17.670 nào thì mời cả lớp xem một video
+00:36:23.210 về nguyên lý mất ném cảm cơ
+00:36:26.870 [âm nhạc]
+00:36:35.570 thì đây là toàn bộ về
+00:36:38.540 cấu tạo toàn bộ ngày cấu tạo của chúng
+00:36:42.150 ta để cho nhìn thấy cấu tạo của các chi
+00:36:43.830 tiết là pittông xilanh tay Nguyên chụp
+00:36:46.260 kỷ yếu công để
+00:36:48.920 là van hút là ban để là thấy đây thơ này
+00:36:52.860 kiểu này tay điên này
+00:36:55.100 nhưng trong này làm ăn dưới là làm
+00:36:57.540 Macbook làm văn trên là nam vẫn đầy mình
+00:37:00.500 thấy là tay Biên Anh hiểu vào lớn là hai
+00:37:05.049 trên đây này là hai nhà cựu âm không Đây
+00:37:07.089 này
+00:37:08.700 khi biết đâu mà chúng ta là gồm khí đỏ
+00:37:12.970 là nụ khí nén vào lùm Cuộc sống là
+00:37:18.089 rừng xanh là không cứu
+00:37:21.330 [âm nhạc]
+00:37:25.740 mình mình
+00:37:29.020 [âm nhạc]
+00:37:40.500 em có thể nhìn theo cái sơ đồ cấu tạo
+00:37:44.130 các em nhìn vào cái sơ đồ cấu tạo trong
+00:37:46.930 ngày sẽ Lai trước thì chúng ta thấy đây
+00:37:48.250 khi biết ông vừa thầy là đi từ trên
+00:37:50.799 xuống dưới đi đây chính là quá trình này
+00:37:53.079 người ta được gọi là quá chính quá trình
+00:37:54.519 hút cái thẻ thích trong khoang xilanh
+00:37:56.799 này thể tích trong khoang xilanh cũng
+00:37:58.869 phải mở rộng nên áp suất giảm thì các em
+00:38:01.359 đã nhìn thấy ở
+00:38:03.190 đây là cái Chu chính vuốt là hút hơi môi
+00:38:07.010 chất đó là người gà lạnh ở trong khoảng
+00:38:08.839 một động cơ thì toàn ghi âm thì âm mút
+00:38:10.910 thì đây là nhiệm vụ để giành âm bởi vì
+00:38:13.460 chúng ta biết được là động cơ này với
+00:38:15.799 tốc độ quay của động cơ rất là lớn lớn
+00:38:18.200 hơn 3.000 vòng lớn hơn hoặc bằng 3.000
+00:38:21.440 vòng trên phút là thấy là tốc độ quay
+00:38:23.599 rất là nhanh nên năng suất hút cũng rất
+00:38:26.059 là nhanh do đó là do người tiết kiệm
+00:38:28.279 được giống nho nhỏ sẽ gây ra một tiếng
+00:38:29.690 ồn nên là để dạ cái áp khi đó là giảm
+00:38:32.660 giáp với áp suất thấp gì để giảm từ ngôn
+00:38:36.049 ngữ này đã đi qua yêu mút vào khoa hốt
+00:38:39.140 thì qua là vanhoutte thì lúc này chúng
+00:38:40.789 ta thấy là làm ăn hốt của ta mở mà nó
+00:38:43.130 ban bệnh sẽ đọc mà bị kéo xuống thì ta
+00:38:45.770 thấy là lá Để nóng hơn chất sẽ đi vào
+00:38:48.589 Bên trong khoang xilanh để kiếm chỗ và
+00:38:51.740 khi pittông đi đến các điểm chết dưới
+00:38:53.450 đây người ta gọi là quá trình thuốc là
+00:38:54.859 thấy nó cái tông năng đi lên đi lên thì
+00:38:56.990 cái luồng khí nóng của chúng ta lại tí
+00:38:58.940 Nọ đây nén lên áp suất cao và nhiệt độ
+00:39:01.160 cao thì lá van ở bảo tàng sẽ nóng làm ăn
+00:39:03.960 đánh mất hơi ga ở trong khoan xilanh này
+00:39:06.869 trẻ qua lá van điện còn làm ăn Đảng vào
+00:39:09.809 Khoang lệch rồi qua tiên mừng đầy theo
+00:39:12.420 đường ống ra ngoài thì lấy lại ta vừa
+00:39:14.130 nhìn nối với trực tiếp của động cơ thì
+00:39:17.789 đối với quá trình hút nhé và động cơ
+00:39:19.230 được chia ra làm hai lên chương trình
+00:39:20.640 Người ta được gọi là Chu chính hoặc và
+00:39:23.280 chu chính ném
+00:39:24.650 Đó chính là những Chu chính huyết và Chu
+00:39:26.789 Trinh nghén
+00:39:27.980 thì thấy là cái chương trình hút
+00:39:31.490 [âm nhạc]
+00:39:50.630 thì đối với các chu trình thuốc thì về
+00:39:52.920 nguyên lý làm việc các em ghi này quá
+00:39:55.380 trình nuốt ném đang được thực hiện nhờ
+00:39:57.780 chuyển động quay của động cơ
+00:40:00.600 Ừ để biến thành chuyển động tịnh tiến
+00:40:03.270 của pittông trong khoan xilanh
+00:40:07.040 đối với chương trình mốt là khi pittông
+00:40:09.690 đi từ trên xuống dưới
+00:40:11.870 Block thực hiện quá trình hấp Block thực
+00:40:15.030 hiện quá trình Huy
+00:40:16.220 do thể tích trong khoang xilanh lớn nên
+00:40:21.330 áp suất giảm
+00:40:22.700 giá van hút mở lá van đẩy nóng
+00:40:26.630 hơi môi chất từ trong khoang động cơ
+00:40:29.910 blog cua toc
+00:40:31.970 vào Khoang hút và qua là venut
+00:40:36.320 đi vào trong khoang xilanh à
+00:40:40.130 ở đây là toàn bộ là chu trình quốc và
+00:40:43.400 khi tông đi đến điểm chết dưới thì bắt
+00:40:45.770 đầu chuyển động lên trên thì đó là bắt
+00:40:47.960 đầu chuyển sang đến chu chính chu chính
+00:40:49.820 nét ý các em xem về chu trình nén
+00:40:52.780 [âm nhạc]
+00:40:55.930 lúc này thích Long đi từ dưới lên trên
+00:40:58.250 thì giải thích một tam giác
+00:40:59.860 sắp tắt là bác hút nóng Món ăn này thành
+00:41:02.990 ta sẽ tiến thành bảo đây chính tả Phương
+00:41:05.720 Chính nhé em
+00:41:07.360 [âm nhạc]
+00:41:08.660 Ừ thì đối với cái chu trình nén
+00:41:11.380 khí pittông đi đến điểm chết dưới thì
+00:41:15.650 quá trình hút là kết thúc và quá trình
+00:41:18.260 nén
+00:41:18.970 bắt đầu thì pittông sẽ đi từ dưới đi lên
+00:41:22.549 trên à
+00:41:24.290 ê bê tông đi từ dưới lên trên
+00:41:27.850 lúc này thể tích trong khoan xilanh giảm
+00:41:30.550 áp suất tăng là ba nút đóng là văn đầy
+00:41:35.960 mờ
+00:41:36.120 [âm nhạc]
+00:41:38.020 hơi môi chất qua làm ăn đầy vào Khoang
+00:41:42.470 này qua tiên ông này theo đường ống ra
+00:41:46.550 ngoài và quá trình hút lén
+00:41:50.200 của độc của động cơ được lặp đi lặp lại
+00:41:53.540 liên tục trong suốt quá trình hoạt động
+00:41:56.510 để làm lạnh trong suốt quá trình hoạt
+00:41:59.450 động để làm lạnh đấy là nguyên lý làm
+00:42:02.090 việc của động cơ
+00:42:03.610 blocks pittông hãy vừa giới thiệu cho cả
+00:42:06.920 lớp đã xa như nội dung tiếp theo đó là
+00:42:10.220 cách xác định các chân đấu điện của động
+00:42:12.710 cơ
+00:42:13.810 như chúng ta đã biết
+00:42:15.790 động cơ bản gốc đang được cấu tạo bởi 2
+00:42:18.680 cuộn dây đó là cuộn giấy trách hay còn
+00:42:22.280 gọi là cuộn dây làm việc muộn ô hay còn
+00:42:25.440 gọi là cuộn dây khởi động
+00:42:26.960 tháng nấm giới thiệu cho cả lớp đó là
+00:42:30.950 phần lớn
+00:42:32.840 chiếm tuổi 80 85 phần trăm các nhà sản
+00:42:36.240 xuất đều sử dụng dây quấn cho quản trẻ
+00:42:39.390 có tiết diện dây có tiết diện dây
+00:42:43.790 là cuốn sách là danh to đối với quận đề
+00:42:47.250 mình đang sử dụng tiết kiệm giấy nhỏ
+00:42:49.050 Hình như chúng ta đã biết được là dây mà
+00:42:51.210 còn thiết chắc càng lớn điện trở càng
+00:42:53.280 nhỏ
+00:42:54.440 và có hai cuộn dây thì hai cuộn dây
+00:42:58.170 Những đưa ra ngoài vỏ động cơ thể có ba
+00:43:00.180 chân nó hiện như chúng ta đã biết được
+00:43:01.860 là một quạt dây sẽ có hai đầu nối dây
+00:43:05.510 một cuộn dây sẽ có hai đầu nối dây sau
+00:43:08.220 đó là khi cuốn xong nhà sản xuất lấy mức
+00:43:10.470 đầu ra của quán chạy một đầu dây của bạn
+00:43:12.780 bè và đưa ra ngoài tạo ra một ở chung
+00:43:15.360 hiệu là C xe này đang viết tắt của từ
+00:43:17.790 qua non đầu dây còn lại một vẫn chạy thì
+00:43:21.300 Nam được ký hiệu là r viết tắt của từ
+00:43:24.060 năm ở
+00:43:24.960 đầu dây còn lại của quận đề thì đang
+00:43:28.450 được ký hiệu là chữ S viết tắt của start
+00:43:32.970 như vậy tùy thuộc vào từng động cơ mà
+00:43:36.580 chúng ta cần phải xác định đúng đặt chân
+00:43:38.220 đấu điện và cần phải xác định đúng là
+00:43:41.560 chân chung chạy đề đấu điện theo đúng sơ
+00:43:44.410 đồ bởi vì ạ phần cơ Chúng ta đã đi tìm
+00:43:47.500 hiểu là do phải quay đúng chiều mới hút
+00:43:50.560 dầu và bôi trơn các chi tiết máy quạt
+00:43:53.020 chạy của tiết diện dây lớn sẽ chịu được
+00:43:55.180 cái dòng làm việc nhiệt độ thời gian là
+00:43:58.450 thời gian dài quận bè đi diễn ra nhỏ
+00:44:00.820 chịu được trong thời gian ngắn là anh
+00:44:02.650 thì nên nếu chúng ta xác định sai nó sẽ
+00:44:04.960 xảy ra cháy động cơ chúng ta nhìn vào
+00:44:07.660 các em nhìn vào sơ đồ thì ta thấy là
+00:44:09.730 chúng ta đang có 3 chân Như vậy chúng ta
+00:44:12.430 đang có 3 lần đó thì lúc này để xác định
+00:44:14.740 các chân thì các em dùng đồng hồ vạn
+00:44:16.360 năng để thắng đậm
+00:44:18.540 đối với động cơ mà có công suất lớn
+00:44:21.130 chiếc điện trẻ nhỏ để sáng hôm nhỏ khi
+00:44:24.320 động cơ nhỏ điện Chợ Lớn chúng ta để
+00:44:27.230 tăng cao lên thì có biết động cơ bản ốc
+00:44:28.940 ta chủ yếu ta sử dụng than X1 ô để
+00:44:31.700 trường đo
+00:44:32.860 hãy lấy một ví dụ đã nhìn lên sơ đồ này
+00:44:36.140 người ta có ba lần đo được gọi là chung
+00:44:38.810 chạy chúng đền chạy đề nhưng chung chạy
+00:44:42.680 đề này hoàn toàn các em chưa biết được
+00:44:44.090 thấy cũng chưa biết được nhưng chúng ta
+00:44:45.740 thấy nó có ba lần no hoặc lại em đập vào
+00:44:48.170 đây là a b c thì ba lần đo này
+00:44:52.549 anh ra đang có 3 lần đo vì ba lần lo thì
+00:44:55.549 ta thấy là lần đo có giá trị điện trở
+00:44:57.049 lớn nhất chính là chạy đề đang mắc nối
+00:44:58.910 tiếp nhau hay cuộn Danh còn chạy qua đèn
+00:45:01.189 mắc nối tiếp như vậy chân còn lại là
+00:45:03.859 chân chung và từ chân chung
+00:45:06.549 một lo xanh 200 chạy đề do với hai chân
+00:45:10.489 chạy đè thì ta lấy là chiếm số đông là
+00:45:13.819 cuộn Trạch tiết diện dây lớn trẻ nhỏ vì
+00:45:17.539 chúng ta thấy là Trung Trạch sẽ nhỏ hơn
+00:45:19.189 Trung đề đấy chính là cách xác định đặt
+00:45:22.069 chân nối điện của động cơ thì mời cả
+00:45:24.410 nước từ đây xuống đi bar bên trong blog
+00:45:27.709 của hai cuộn dây
+00:45:30.429 đó là cuộn dây làm việc và cuộn dây khởi
+00:45:33.829 động
+00:45:37.299 và mối cuộn dây
+00:45:40.750 chị sẽ có hai đầu nối dây
+00:45:43.800 mỗi cuộn dây sẽ có hai đầu nối dây à
+00:45:47.770 [âm nhạc]
+00:45:49.770 A
+00:45:50.360 và khi lắp đặt xong
+00:45:53.329 khi người ta nối một đầu dây của quán
+00:45:55.910 chay
+00:45:57.430 một đầu dây của cuộn khởi động
+00:46:01.809 để tạo thành một đầu dây chung
+00:46:07.420 để tạo thành một đầu dây trung
+00:46:12.009 ký hiệu là chữ C viết tắt của từ come on
+00:46:21.759 đầu dây còn lại
+00:46:24.859 ý
+00:46:25.690 của quận chạy quận làm việc
+00:46:28.809 thì đang được ký hiệu là chị r viết tắt
+00:46:32.989 của từ răng à
+00:46:36.250 ừ ừ
+00:46:39.810 ở đầu dây còn lại của quận khởi động
+00:46:43.580 người ta được gọi là đầu dây khởi động
+00:46:46.700 hai đầu dây d ký hiệu là chị s viết tắt
+00:46:50.610 của từ start a
+00:46:53.240 anh
+00:46:54.790 lúc này chúng ta dùng đồng hồ vạn năng
+00:46:57.110 để tăng X1 trước khi đo chập 2 que đo và
+00:47:01.280 lo và ba chân đấu điện Đà Nẵng có ba lần
+00:47:03.320 no no anh này và các bạn sẽ ghi thông số
+00:47:06.700 để biết được đâu là chúng chạy đề kỹ
+00:47:10.790 thuộc vào từng loại động cơ
+00:47:13.150 à
+00:47:14.130 mà cắt chân đấu điện có vị trí khác nhau
+00:47:17.880 đặc chân đấu điện có vị trí khác nhau
+00:47:21.030 [âm nhạc]
+00:47:24.240 do đón
+00:47:26.400 tác dùng đồng hồ vạn năng để thang X1 ôm
+00:47:31.440 để than X1 ôm
+00:47:41.430 nó bảo ba chân đấu điện của động cơ
+00:47:48.420 số đo vào ba chân đấu điện của động cơ
+00:47:53.930 có
+00:48:02.079 lần non nào ạ
+00:48:04.970 em có giá trị lớn nhất
+00:48:09.440 khi
+00:48:10.180 đó chính là chân trái và chân đề
+00:48:19.450 chân còn lại là chân chung
+00:48:29.380 chân còn lại là chân chung à
+00:48:33.140 anh bật từ chân dung
+00:48:36.069 số đo với hai chân chạy đề
+00:48:40.859 Ừ Từ Trần Trung đò với hai chân chạy đề
+00:48:45.410 lần lo nào có giá trị điện trở nhỏ
+00:48:49.789 là chân chạy lớn là chân đề
+00:48:54.799 lớn là chân đề đối với vấn đề chỉ
+00:49:00.049 sơ đồ đấu điện Trần Công thì ở các phần
+00:49:05.210 lý thuyết chúng ta vừa học là động cơ
+00:49:08.130 gồm 2 + z42 cuộn dây thì chúng ta thấy
+00:49:11.069 là làm việc hay còn trẻ vẫn đang đang
+00:49:15.960 quản cuộn cái động từ bên ngoài vỏ động
+00:49:18.839 cơ khi đưa ra ta chỉ có 3 chân 3 chân
+00:49:22.099 thì năng lực kí hiệu là chân chung trấn
+00:49:25.380 trạch thì một sân bay thì lúc này chúng
+00:49:27.660 ta thấy nhà hay quần thì người ta sáng
+00:49:29.549 mắt bờ sông nhà sản xuất sẽ lấy một đầu
+00:49:32.130 dây được một chạy một vòng dây ở cuộn đề
+00:49:34.470 được đưa ra ngoài vỏ động cơ được gọi là
+00:49:36.480 giấy chung thì Chân Chung đầu dây thuần
+00:49:39.599 là vẫn chạy theo hai chân trách
+00:49:42.359 đầu dây còn lại một tuần này ta được gọi
+00:49:45.099 là chân đề thì chúng ta thấy là còn chạy
+00:49:48.700 là trung tâm của tiết diện dây và làm
+00:49:50.799 việc liên tục trong thời gian dài thế
+00:49:53.049 nên là sẽ chích được răng lớn nhiệt độ
+00:49:56.859 cao
+00:49:57.749 đối với bọn đề chỉ khởi động tức thời
+00:50:00.849 trong một thời gian rất ngắn nên chỉ làm
+00:50:02.859 việc thời gian rất ngắn về lúc này để
+00:50:05.410 tôi đóng cửa của nó kín để ta xác định
+00:50:07.599 làm sao để biết được đâu là chung chung
+00:50:10.059 được là Tông Trạch và đâu là chất đây
+00:50:11.759 thì chúng ta sẽ phải cái Bo thì chúng ta
+00:50:15.579 sẽ dùng cái đồng hồ vạn năng để chúng ta
+00:50:17.380 đo đo thì chúng ta thấy được một khi lên
+00:50:19.749 ra ngoài vỏ ba chân từ thái hoàn toàn
+00:50:21.400 chúng ta chưa biết được đâu là chúng
+00:50:23.200 chạy đề thì chúng ta thấy lại chúng ta
+00:50:24.940 sẽ có ba lần đó thì thằng em nhìn lên sơ
+00:50:27.369 đồ ví dụ nghỉ trong sạch của một lần này
+00:50:30.420 trúng đề 2 lần và chạy đây là ba lần thì
+00:50:35.200 chúng ta thấy là chạy đề là ba lần thì
+00:50:36.819 chạy đề sẽ có cái giá trị điện trở lớn
+00:50:38.499 nhất bằng
+00:50:40.849 à Còn dây điện mắc nối tiếp nhau thì
+00:50:43.849 chạy đề sẽ có giá trị điện trở lớn nhất
+00:50:45.410 thì chân còn lại sẽ là trận chồng chung
+00:50:48.700 thì khi biết được chân trông này rồi thì
+00:50:51.049 chúng ta sẽ đo lại sang hai tâm trạng
+00:50:53.239 này thì do cộng Trạch làm việc trong
+00:50:56.329 thời gian dài nên có tiết diện dây lớn
+00:50:58.009 điện chọn sẽ nhau còn vợ nè sẽ có tiết
+00:51:01.940 kiệm ra nhỏ trả lớn với người ta sẽ đo
+00:51:04.430 từ chân chung đo sáng trấn trạch Trần Đề
+00:51:06.950 thì chung chạy sẽ nhỏ hơn chủ đề thì lần
+00:51:10.430 đo nào giá trị nhất trẻ nhỏ đây chính là
+00:51:12.410 trốn chạy và lớn là chân đề
+00:51:14.979 Thì đấy là đối với khách Đoàn thì để đo
+00:51:18.950 thì chúng ta cần phải chuẩn bị chúng ta
+00:51:22.069 sẽ dùng cái đồng hồ vạn năng để anh đo
+00:51:24.799 và chúng ta đo và ba chân bốn điện của
+00:51:27.289 động cơ Bây giờ thì sẽ hướng dẫn cho
+00:51:29.539 chúng ta đó có 3 sân khấu điện của động
+00:51:31.789 cơ
+00:51:34.690 Cái đồng hồ vạn năng nghỉ ở phần là điện
+00:51:37.279 tử cơ bản thì chúng ta đã học thì chúng
+00:51:39.349 ta đã học về đồng hồ vạn năng à - đồng
+00:51:41.849 hồ vạn năng này thì có hai dây thì khi
+00:51:44.009 đo điện trọng của động cơ thể chúng ta
+00:51:45.420 hoàn toàn là chúng ta xe không
+00:51:48.259 cần phải xác định là quen nào đò đốc và
+00:51:51.960 ta chỉ cần là
+00:51:53.749 chồng hai que Rồi chị Kim Đồng hồ về vị
+00:51:57.390 trí không chỉ tin về vị trí không mình
+00:52:00.599 chúng ta sẽ lo
+00:52:03.920 thì khi đo thì tôi rất là thơm nhìn vào
+00:52:08.039 ba trong đấu điện của động cơ chỉ thấy
+00:52:09.989 no này à
+00:52:12.580 ừ ừ
+00:52:14.480 ở đây lại 34
+00:52:18.040 ôm em
+00:52:20.810 Mọi
+00:52:21.850 người ơi một
+00:52:25.120 24 như vậy lần đó giá trị điện trở lớn
+00:52:29.360 nhất là 34 thì chân còn lại sẽ là kiến
+00:52:32.480 trúc như bệnh chân ở trên cao đây còn
+00:52:35.060 Thà là tiếng chung thì khi đó thì đó là
+00:52:37.840 một phép lạ mặt ở chung và đo với hai
+00:52:41.120 trong trạng này thì chúng ta thấy là có
+00:52:43.640 người ôm là ra chỉ chuyện trẻ nhỏ này nè
+00:52:47.700 ở trong đêm nhà
+00:52:50.390 và 100 đó là điện 24 như vậy
+00:52:54.140 cặp non giá trị là mười Ôm thì đây chính
+00:52:57.750 là chúng chúng Trạch cặp đo có giá trị
+00:53:00.210 là 24 Ôm thì đây là chúng chúng đây thì
+00:53:04.380 khi đó là vệ sinh đánh dấu chung trẻ để
+00:53:09.690 theo chiều ở trên đồng hồ từ trên đỉnh
+00:53:12.329 tam giác công trong trại để chân chạy
+00:53:15.750 nằm bên tay phải trong đề nằm đến
+00:53:19.310 kiếng trắng vậy Lúc này để chúng ta biết
+00:53:22.410 được là
+00:53:23.570 đấy là toàn bộ về cách đo và xác định
+00:53:27.960 với các chân đấu điện của động cơ
+00:53:31.380 ạ Bây giờ như chúng ta đã biết được là
+00:53:36.150 ở động cơ
+00:53:38.420 động cơ của chúng ta thì đây là chiếm đa
+00:53:42.270 số nhà sản xuất là điện trở cuộn Trạch
+00:53:46.760 đang lượng nhỏ hơn điện trở của quận đề
+00:53:50.190 nhưng cũng có một số ít những trường hợp
+00:53:53.940 ngược lại
+00:53:54.950 chính như vậy Lúc này chúng ta phải kiểm
+00:54:00.329 tra xem là chúng ta đã rất những cái sai
+00:54:02.250 nó có vào công trường hợp là số đông
+00:54:07.789 vào số đông là chiếm từ 80 đến 80 phần
+00:54:10.950 trăm hay không hay là vào số ít là từ 15
+00:54:14.369 đến 20 phần trăm thì ta sẽ sang về lưu ý
+00:54:17.460 của động cơ dựa vào cách xác định cấp
+00:54:19.980 chân đấu điện của động cơ thì chúng ta
+00:54:22.200 cũng sẽ biết được
+00:54:24.049 là điện áp sử dụng của động cơ bởi vì
+00:54:28.170 muốn xác định được chúng ta xác định
+00:54:30.480 đúng hay sai được cấp nguồn cho động cơ
+00:54:32.010 thì chúng ta cần phải biết là nguồn điện
+00:54:33.750 cung cấp thì trên thị trường người ta
+00:54:35.460 đình đang sử dụng Khi dòng 110 mà
+00:54:38.530 200000v
+00:54:40.049 Thì đối với theo công thức của của định
+00:54:42.730 luật Ôm thì chúng ta đã biết được là p =
+00:54:45.760 phu nhân đi vậy y thì lạnh bằng Q chia
+00:54:50.829 giờ như vậy P là công suất thì đang = u
+00:54:54.460 bình phương để hiệu điện thế chia chia
+00:54:58.390 lờ như vậy đối với khi xác định đặt trận
+00:55:02.770 đấu điện của động cơ thì các em dựa vào
+00:55:05.710 giá trị điện trở cuộn trai nếu những
+00:55:09.160 động cơ
+00:55:10.319 mà giá trị điện trở của Quán Trạch năng
+00:55:13.210 lớn hơn hoặc bằng 10 ỉa động cơ này nếu
+00:55:17.319 là đang sử dụng thường là sử dụng điện
+00:55:20.440 221 Tại sao thì nói thường bởi vì nếu
+00:55:22.510 công sức của em lớn
+00:55:24.239 cà phê mà thằng lớn ý đứng Nhấn điện trở
+00:55:27.779 cuộn dây sẽ càng bé lắm ví dụ inox điều
+00:55:30.179 hòa công suất lớn thì Dạo này chúng ta
+00:55:32.339 đo những động cơ to công suất lớn hơn
+00:55:34.859 thì điện trở của còn chạy rất là bé Nó
+00:55:37.439 có thể là một ôm hay là 5 đến 8 một ví
+00:55:40.619 dụ máy 9.000 Nam
+00:55:43.279 807 ôm có loại thì 12.000 thì chỉ còn 40
+00:55:47.629 thì chúng ra thấy là gì
+00:55:49.819 ra thấy là
+00:55:52.410 xe điện trở nhỏ nhưng vẫn sử dụng kiểu
+00:55:54.630 điện áp là 220V thì đối với sáng tạo này
+00:55:56.730 chúng ta sẽ ăn giúp cho các động cơ có
+00:55:58.860 công suất nhỏ từ 200 trở xuống
+00:56:01.100 và nếu điện trở của bọn chạy mà chúng ta
+00:56:03.570 thấy nhỏ hơn 12 trong mắt giờ xuống còn
+00:56:05.790 10 thì động cơ bởi lúc này sẽ sử dụng đó
+00:56:08.850 là điện 110 110
+00:56:11.210 và nếu điện trở một chạch mà nhỏ hơn nhỏ
+00:56:14.670 năm
+00:56:15.530 thì động cơ đó sẽ bị chậm một số vòng
+00:56:18.330 dây Đây là cái lưu ý thứ nhất là khi xác
+00:56:20.880 định trận đấu điện của động cơ thì ta có
+00:56:24.090 thể dựa vào điện trở cuộn trạch cũng xác
+00:56:27.390 định được nguồn điện cung cấp
+00:56:28.880 đó là nếu động cơ bản gốc có giá trị
+00:56:31.380 điện trở lớn hơn 10 ôm Tí động cơ đó
+00:56:34.620 đang sử dụng là điện 220v nhỏ hơn 10
+00:56:39.740 động cơ này Đang sử dụng điện 110 và nếu
+00:56:42.750 bị miếng nhỏ năm ông thì động cơ này
+00:56:46.590 đang bị chậm một số vòng dây và giá trị
+00:56:48.900 chỉ áp dụng cho động cơ có công suất nhỏ
+00:56:52.420 đi bằng hai trong ba thửa ruộng và cái
+00:56:55.270 mí đây ngay à
+00:56:58.360 ý
+00:57:00.570 là sống thường như chúng ta đã biết điện
+00:57:03.940 trở cuộn trại nhỏ hơn điện trở của cuộn
+00:57:07.450 đề
+00:57:08.340 nhưng có rất nhiều động cơ ngược lạ
+00:57:13.140 rất nhiều động cơ Block thì ngược lại
+00:57:15.930 nó chiếm từ 15 đến 20 phần trăm lúc này
+00:57:19.930 chúng ta cần phải lắp Rơle khởi động bảo
+00:57:21.760 vệ và cấp nguồn cho động cơ
+00:57:25.050 cấp nguồn cho động cơ dựa vào đồng hồ
+00:57:28.150 kẹp rong để kiểm tra
+00:57:29.940 dựa vào đồng hồ kẹp dòng để kiểm tra thì
+00:57:33.190 đối với dựa vào đồng hồ kẹp dòng thì
+00:57:34.600 buổi học không chất Mình đã học về sử
+00:57:36.430 dụng đồng hồ kẹp dòng rồi
+00:57:38.340 nếu dòng cao hơn dòng định mức đối với
+00:57:41.740 dòng làm việc cao hơn dòng định mức ghi
+00:57:43.930 trên thân
+00:57:45.750 có thể chúng ta đã xác định sai chân
+00:57:48.910 chạy một chân đề thì lúc này chúng ta sẽ
+00:57:51.820 đổi hai chân chạy đè cho nhau
+00:57:54.510 thì tại sao phải nói nó có thể bởi vì
+00:57:57.070 đối với những trường hợp này thì có khi
+00:57:58.370 động cơ đang bị hỏng trần điện cơ mà bây
+00:58:01.670 giờ cũng xảy ra hiện tượng là giống dòng
+00:58:03.260 cao thì đối với trường hợp này thì buổi
+00:58:05.300 học về đồng hồ kẹp xong thì chúng ta
+00:58:06.740 cũng đã đi tìm hiểu về
+00:58:09.250 là Trạch không chạy rằng bằng không được
+00:58:12.050 không Chạy dòng lớn cho trẻ dòng lớn
+00:58:13.970 người chạy dòng bình thường thì tẩy đà
+00:58:16.540 giới thiệu cho chúng ta ở cái phần lá sử
+00:58:19.370 dụng đồng hồ kẹp dòng à
+00:58:23.500 à à những
+00:58:28.440 lưu ý
+00:58:30.090 với ma đặt dòng định mức
+00:58:34.180 ở đây chính là dòng làm việc tối đa mà
+00:58:37.480 Động cơ hoạt động khi có tài
+00:58:39.330 và nếu không có giá trị dòng định mức
+00:58:42.400 ghi trên thân
+00:58:44.480 anh ta thường dựa vào cái dòng sàn cho
+00:58:47.180 cái động cơ đang lắp đặt cho hệ thống tủ
+00:58:49.850 lạnh dâm xúc với công suất là nhỏ hơn
+00:58:52.130 bằng 200w trong đó động cơ bản gốc sử
+00:58:55.160 dụng điện 220v dòng của chúng ta dao
+00:58:58.460 động từ 0,38 đến 1,5 A và đối với động
+00:59:02.330 cơ sử dụng 110
+00:59:04.210 dòng dao động từ 1,5 cho đến 3,5 a a
+00:59:09.660 ở đây là đối với
+00:59:12.109 lưu ý
+00:59:13.940 đối với lưu ý về cách xác định trận đấu
+00:59:17.220 hiện của động cơ thì chúng ta sẽ xanh
+00:59:19.859 cái nội dung từ mày học ngày hôm nay đó
+00:59:24.030 chính là sơ đồ đấu điện cho động cơ ý
+00:59:27.780 như chúng ta đã biết động cơ blog của ba
+00:59:30.180 chân chung chạy đề và đây chính là động
+00:59:34.260 cơ 1 pha
+00:59:35.809 nguồn điện của chúng ta thì 1phan có hai
+00:59:38.789 dây thì Đây chính là nơi sơ đồ đấu điện
+00:59:41.039 và sơ đồ này cũng là sơ đồ đấu điện cho
+00:59:44.099 động cơ nói riêng và sơ đồ Nói chung là
+00:59:46.740 đây là động cơ không đồng bộ một pha một
+00:59:50.039 cốc
+00:59:54.060 em lúc này em nhìn vào sơ đồ 1 là một
+00:59:58.230 nguồn được cấp lại chân chung một nguồn
+01:00:01.460 được cấp ở trấn trấn trạch còn chân đề
+01:00:05.550 lúc này thấy đăng lấy nguồn từ chân chạy
+01:00:08.040 nhưng qua một khóa K thì quá ca này đây
+01:00:11.100 chính là Rơle khởi động hay còn gọi là
+01:00:13.230 ra đề ý ở cái phần đầu tiên chúng ta
+01:00:16.740 cũng đã đi tìm hiểu đã đi kèm với động
+01:00:18.300 cơ thể luôn luôn có một tiếng Rơle bảo
+01:00:19.800 vệ Rơle phải đâu thì đối với dân em bảo
+01:00:22.860 vệ thì mày không nghe vé trên xe đua
+01:00:24.960 nhưng đây chính là kế giờ đây bắt buộc
+01:00:27.660 phải có vấn đề thì mới đè được cho động
+01:00:30.030 cơ mạnh đề đấy do cái động cơ không đồng
+01:00:32.730 bộ 1 pha bây giờ thành xét ở hai cái
+01:00:35.190 trường hợp mà qua Kama Bây giờ em nhìn
+01:00:37.410 Nếu khóa K mở thì ta thấy là đăng kín
+01:00:40.050 mạch là nguồn điện đi qua quán chạy quay
+01:00:42.180 muốn do lúc này lực từ sinh ra còn chạy
+01:00:46.520 ý là song song với khung sắt từ tại rô
+01:00:50.500 hãy nói một cái khác là chưa sinh ra từ
+01:00:53.450 trường lại vang
+01:00:54.760 động cơ lúc này không Chạy dòng cao và
+01:00:59.060 khi khóa K đóng nguồn điện cấp vào cả
+01:01:02.090 hai cuộn dây chạy đề thì vẫn chạy chỉ
+01:01:04.940 sinh ra một lần từ quận đền sinh ra một
+01:01:07.220 lượng từ và hai cuộn dây này đang được
+01:01:09.350 đặt lệch pha nhau trong rằng góc 90 thì
+01:01:12.080 lúc này sẽ sinh ra một từ trường lệch
+01:01:13.490 pha này sinh năm nữa từ trần lệch và vẫn
+01:01:15.890 đấy Cá rô nó quay
+01:01:17.530 vô quay thì như các em đã biết được về
+01:01:20.270 cấu tạo của bọn dai thì trong đó là quận
+01:01:22.580 đề chỉ cuốn bằng tiết diện dây nhỏ số
+01:01:27.170 vòng ngắn do đó chỉ chịu đựng được
+01:01:29.890 khoảng thời gian làm việc rất ngắm rất
+01:01:32.990 ngặt nên nếu hòa ca của chúng ta mà
+01:01:35.750 không gắt thì tránh các vấn đề do đó là
+01:01:37.340 hoa ca này làm nhiệm vụ là chúng ta thấy
+01:01:41.030 là đèn sau khi đè xong động cơ Trạch đặt
+01:01:44.270 gốc từ 70 đến 75 phần trăm vận tốc thế
+01:01:46.530 này làm sao phải ngắt của đề này sẽ phải
+01:01:50.040 nhắc để bảo vệ
+01:01:51.860 anh em nhìn sang đi sơ đồ
+01:01:54.380 hình 2
+01:01:56.210 thì có lắp thêm một tụ xét và xếp trú
+01:02:00.180 thích của chúng ta đây chính là tục ích
+01:02:01.650 hay còn gọi là cụ khởi động ý một nguồn
+01:02:04.470 được cấp Chân Chung Một nguồn bằng ta
+01:02:06.330 vẫn được cấp mã trấn trấn trạch còn chân
+01:02:09.300 đề mắc nối tiếp được khóa K thì các em
+01:02:11.550 có xét ở một trong hai đi trường học khi
+01:02:13.860 qua km
+01:02:14.930 tí một địa chỉ đi qua mình cuộn dây chạy
+01:02:18.030 và chưa sinh ra từ chưng lệch do đó động
+01:02:21.150 cơ không hoạt động dòng cao
+01:02:23.180 và khi khóa K đóng thì lúc này kín mạch
+01:02:26.280 thì chúng ta đã học về tụm tụ của Chính
+01:02:28.710 Tính chất là nạp sạc cụ và tính chất nạp
+01:02:31.620 sạc khi điện áp ở bên ngoài cao hơn điện
+01:02:34.860 áp ở trong tụ thì đây chính là quá chính
+01:02:37.490 nạp và khi điện áp ở trong tục cao hơn
+01:02:40.410 áp và bên ngoài đó chính là sạc
+01:02:44.150 xả Thế mày nó trở thành một tiếng khi
+01:02:46.540 nguồn điện nguồn điện ở trong tục xả ra
+01:02:49.180 cộng với nguồn điện lưới thùng ta thì nó
+01:02:52.270 chính là hai cái nguồn mắc nối tiếp Mày
+01:02:54.760 nhân đôi và điện áp thì chúng ta thấy là
+01:02:57.010 làm cho thấy nguồn điện đi qua vẫn
+01:03:00.270 quận đề này chúng ta ban đầu rất lớn và
+01:03:03.550 sinh ra một cái lực từ quay văn lớn ban
+01:03:06.100 đầu lớn tháng năm cái nhìn của là nó dễ
+01:03:08.020 dàng
+01:03:09.240 vịt để ăn một cái mô men khởi động ban
+01:03:13.420 đầu nhấn lớn như vậy thì thường là chúng
+01:03:16.120 ta sẽ sử dụng tục kích anh em nhớ nhà
+01:03:18.100 chúng ta thường sử dụng cụ kích cho
+01:03:20.050 những trường hợp động cơ thể cơ Shark
+01:03:23.560 caught nặng khó khởi động ban đầu thì
+01:03:25.660 chúng ta sẽ sử dụng liên tục kích và khi
+01:03:27.760 khóa K ngắt thì tệ này cũng sẽ á ngâm
+01:03:29.940 ngừng làm việc không có sự đặc sản nữa
+01:03:32.680 để bảo vệ cho cuộn dây bảo vệ cho cuộn
+01:03:35.380 dây đây thì ta xanh hình 3A
+01:03:38.860 hồ sơ đồ hình 3 thì một nguồn vẫn được
+01:03:41.320 cố định và chân chung và một nguồn được
+01:03:43.030 các bạn chân chạy thì lúc này sử dụng cụ
+01:03:45.400 là tụ CN này còn gọi tụ mâm làm việc thì
+01:03:48.760 tụ này vừa có công dụng khởi động và làm
+01:03:51.520 việc chúng ta bắt gặp nhiều trong cá cái
+01:03:53.710 động cơ như là máy bơm nước và động cơ
+01:03:56.320 quạt gió và đối với một số các động cơ
+01:03:58.450 mà gốc trong nhiều hoa chủ yếu là người
+01:04:00.730 đã được xây dựng dụng cục và tục này là
+01:04:02.860 tục ngâm thì tục Nhâm Tý giờ chúng ta
+01:04:05.080 xét là tụ luôn nó có tính chất nạp xả
+01:04:07.480 khi tay đổi đó sẽ thay đổi biên độ đối
+01:04:11.230 với nguồn điện xoay chiều thay đổi biên
+01:04:13.150 độ được với nguồn điện xoay chiều
+01:04:14.940 như bệnh do vi tính chất của cuộn đề giờ
+01:04:18.940 tính chất của quận đề chỉ chịu đựng và
+01:04:21.160 làm việc trong thời gian rất ngắn do đó
+01:04:23.220 do đó
+01:04:25.130 thủ tục lắp cho động cơ thì thường phải
+01:04:28.339 tương xứng với công suất của động cơ và
+01:04:30.400 dao động đó là điện là 25 w cho đến 31
+01:04:35.740 trên 1m nó có + -5 phần trăm kĩ thuộc
+01:04:39.769 thể hoạt động cơ thì chúng ta thấy rằng
+01:04:41.089 nếu mà chúng ta dùng tụ to quá Thời gian
+01:04:43.609 nạp xả và đi qua cuộn dây đề này dài làm
+01:04:47.660 trái một đề Mặc dù là tốt khuẩn ta có
+01:04:50.390 đạt được
+01:04:51.579 do cái mô men của chúng ta thì nó có đạt
+01:04:53.990 được một chút nhưng mà nó cũng làm cho
+01:04:55.819 tránh để Nhưng nếu anh em thấy tụi nhỏ
+01:04:58.220 quá thì cái mô men quay ban đầu này
+01:05:00.380 không khởi động được hoặc là khởi động
+01:05:02.480 được rồi nhưng chạy không đạt được mốc
+01:05:04.160 này không đặt tốc thì chính như vậy là
+01:05:06.980 chúng ta nên nhớ là thai phụ phải tương
+01:05:09.170 xứng với công suất của động cơ hãng
+01:05:11.450 tương xứng với công suất của động cơ và
+01:05:13.490 đầu ghi hình 4 kênh em nhìn vào đây thì
+01:05:15.319 một nguồn cũng được cấp ở chân
+01:05:17.589 trần trung một nguồn được các bản chân
+01:05:20.059 chạy
+01:05:21.190 đồng thời có sử dụng cả hai tục là hai
+01:05:24.230 tục hú ý bà muốn sex thì nó là thích hợp
+01:05:27.930 của hình 3 và hình 2 hình 3 hình hai thì
+01:05:31.740 khi mà như vậy chúng ta thấy ý nghĩa ban
+01:05:34.920 đầu thì khởi động nó Kim Thoa ca Nóng
+01:05:36.480 chị đang khởi động bằng mạch khởi động
+01:05:38.279 có lắp đặt cụ đó là con giáp làm tục đi
+01:05:41.789 qua tục xét để khởi động và đồng thời
+01:05:43.849 cũng khởi động nhờ tục CN vụ xe đời này
+01:05:47.279 chúng ta thấy là vừa khởi động và làm
+01:05:48.420 việc
+01:05:49.250 nhưng khi
+01:05:51.470 động cơ đạt 70 đến 75 phần trăm vận tốc
+01:05:54.630 thì ra hoạt động ngắt có nghĩa là mạch
+01:05:56.880 khởi động một nhát thì chỉ con tụ CR sẽ
+01:06:00.779 hỗ trợ trong quá trình làm việc thì sử
+01:06:03.720 dụng nó đang đến nạp Sạc để cuộn bè sẽ
+01:06:05.940 hỗ trợ của bọn Chạy cùng làm việc trong
+01:06:07.680 suốt thời gian động cơ blog phản động
+01:06:11.119 dựa vào chúng ta thấy là dựa vào sơ đồ
+01:06:15.289 đấu điện cho động cơ thì chúng ta kết
+01:06:19.109 luận là đối với sơ đồ đấu điện chậm cơ
+01:06:22.680 sở 1 trong 2 sơ đồ đấu nào Sơn chị sẽ đổ
+01:06:25.809 3
+01:06:28.529 động cơ bản gốc có ba chân đấu điện động
+01:06:33.430 cơ bản lock đang có 3 trận đấu điện
+01:06:35.880 nhưng
+01:06:38.039 nguồn điện 1 pha thì có hai dây
+01:06:43.799 nguồn điện 1 pha có hai dây
+01:06:48.900 sau đó
+01:06:51.240 thi đấu điện cho động cơ
+01:06:54.119 Do đó khi đấu điện cho động cơ
+01:06:57.869 hoạt động cơ blog nói riêng và động cơ
+01:07:00.759 không đồng bộ 1 pha máy chung thủy Một
+01:07:03.640 dây
+01:07:05.700 được cấp vào chân
+01:07:08.819 chạy
+01:07:11.759 một giây được cấp vào chân chung
+01:07:16.559 con chân đề
+01:07:19.440 chúng ta sẽ lấy luôn từ chân chạy
+01:07:23.400 nhưng à em
+01:07:25.900 toàn tục làm việc
+01:07:29.550 ế quá tục làm việc
+01:07:32.840 Giờ đang ở đâu Chỗ làm việc là tụi xe
+01:07:36.200 hay còn gọi là phụ ngâm Thì đấy là đối
+01:07:38.820 với
+01:07:39.500 sơ đồ
+01:07:41.150 đấu điện cho động cơ chúng ta đã xác
+01:07:43.800 định đúng hay sai và động cơ hoạt động
+01:07:46.770 được như thế không thì bây giờ thì sẽ
+01:07:49.290 hướng dẫn tiếp các em về sơ đồ đấu điện
+01:07:51.330 chậm câu sau đó là thành sẽ cắt biết
+01:07:53.220 động cơ blog hoạt động để chúng ta sẽ
+01:07:56.160 quan sát xem lần
+01:07:57.890 đối với động cơ này thấy người xác định
+01:08:00.300 thế là đúng lúc trước thì bây giờ thầy
+01:08:03.300 sẽ chúng ta sẽ đi sang về sơ đồ đấu điện
+01:08:06.810 cho động cơ thì phải ghen nhìn vào thế
+01:08:08.910 sơ đồ đấu điện cho động cơ
+01:08:10.880 thì chúng ta sẽ dựa vào sơ đồ khối
+01:08:13.820 thì đối với sơ đồ khối
+01:08:16.819 thì tốt nhất mà em nhìn nhận việc này
+01:08:20.839 thì khi chúng ta sẽ nhìn được chung chạ
+01:08:23.460 đề chung Trạch bè chúng lên 220v nguồn
+01:08:27.689 điện 1 pha thì có hai dây
+01:08:29.529 ít nhất thì anh Hùng đầu tiên một là một
+01:08:32.319 giây được cấp của Samsung một giây thì
+01:08:34.899 sẽ được cấp và chân trông sạch còn trong
+01:08:38.560 đời thì đang lấy luôn dẫn lối cho chạy
+01:08:40.870 qua một quả cam thì qua K thì lên được ý
+01:08:43.840 nghĩa điều chỉnh được Rơle khởi động
+01:08:46.529 thì muốn lý không được thì chúng ta sẽ
+01:08:49.479 được phát ra 2 trường hợp cho con cá mộc
+01:08:52.000 và trường hợp phá cái nóng trong các môn
+01:08:54.130 Khóa cá mập khi đó nguồn điện đi qua
+01:08:57.460 tầng dưới Trạch nguồn yến mạch lúc này
+01:09:00.760 nhiều định của thầy chỉ nghe qua mình
+01:09:02.290 cuộn dây chạy thì chưa sinh ra đến từ
+01:09:04.090 trưởng từ trưởng lệch pha do đó Động cơ
+01:09:07.029 để chưa hoạt động nhưng khi khóa K để
+01:09:09.189 nóng người nhện sẽ đi qua cả hai cuộn
+01:09:11.290 dây chạy và cuộn dây này lúc này sinh ra
+01:09:14.080 một từ trường lệch pha thì làm quay làm
+01:09:16.510 quay vô nằm quay do to nhưng do cuộc đề
+01:09:20.130 là cuộn dây có tiết diện nhỏ số vòng dây
+01:09:22.899 ngắn thì mình chỉ làm việc trong thời
+01:09:25.000 gian rất ngắn Do đó khi động cơ này quay
+01:09:28.630 đạt từ 7 số 75 phần trăm vật chất quả ca
+01:09:32.450 này chẳng nhắc để kết thúc một lần phải
+01:09:34.250 đọc thì đây chính là Rơle khởi động khóa
+01:09:37.069 K là do đẹp ấy động
+01:09:38.529 có sao Sơn hình
+01:09:42.729 2C ngày mùng hai thì một người
+01:09:45.850 cũng được cấp ở trong chung
+01:09:48.189 mình luôn
+01:09:50.049 được kết và trân trọng còn trong đề lúc
+01:09:54.140 này có tự sướng mắc nối tiếp bị khóa tay
+01:09:57.160 thì chúng ta sẽ phân tích đối với trường
+01:09:59.840 hợp là khi con cá mập khi quanh ta mở
+01:10:02.510 thì người nhện có thể chỉ đi qua cuộn
+01:10:04.220 dây
+01:10:05.620 chỉ đi qua cuộn dây Trạch chua sinh ra
+01:10:08.540 cùng lệch pha do đó động cơ này cũng
+01:10:10.940 chưa hóa đặc nhưng khi quá K đóng kín
+01:10:14.270 mạch nhưng do tụ lúc này cũng sẽ có tính
+01:10:16.940 chất nặng lá và xa thì khi tụ nạp vào và
+01:10:20.840 tục sẽ phóng ra thì làm cho hai cái
+01:10:23.540 nguồn đánh mắc nối tiếp nhau ở một nguồn
+01:10:25.390 200u mà Nguồn của túc sẽ mắc nối tiếp
+01:10:28.250 nhau làm cho điện áp anh
+01:10:30.110 Linh sinh năm một cái từ trường lệch pha
+01:10:33.180 ban đầu lớn Thắng tính y của du ban đầu
+01:10:37.530 dễ dàng hơn thì lúc này động cơ này khởi
+01:10:41.100 động sẽ dễ dàng hơn xuống sắc sau đầu
+01:10:44.340 đấu đối với mùng hai chúng ta lấy đối
+01:10:47.220 với sơ đồ hình hay thường chúng ta đừng
+01:10:50.130 dùng cho động cơ là con túi lớn khó khởi
+01:10:53.940 động ban đầu như cột cơ xá tốt
+01:10:56.840 thì chúng ta sẽ phải dùng tủ phục kích
+01:11:00.650 chỉ việc là CF
+01:11:02.960 anh sang một cái sơ đồ yêu tiếp
+01:11:07.220 chúng ta xong hình nha
+01:11:09.950 Chúng ta xanh cái hình Nga
+01:11:12.170 đối với ngủ ngon thì một nguồn cũng được
+01:11:16.380 cấp ở trong chung
+01:11:17.570 một nguồn gốc từ trong trong trọng trong
+01:11:22.080 đề lúc này thầy sẽ lấy nguồn từ Tông
+01:11:25.620 Trạch ngưng tụ Cl và tục này là tụng
+01:11:29.530 ô hay còn gọi là tục làm chung thì chúng
+01:11:32.050 ta biết được làm từ Thiên Trúc nhạc sàn
+01:11:34.480 khi nguồn điện 220v thay đổi những đêm
+01:11:37.630 thì khi đó tụi này cũng đồng nghĩa với
+01:11:40.090 thay đổi về tính chất làm sao
+01:11:42.150 nạp sản khi đó làm cho nguồn điện đi qua
+01:11:45.730 cuộn dây đề chỉ đạt đất 50 phần trăm so
+01:11:48.850 với cụm Trạch thì vấn đề và cuốn Trạch
+01:11:52.690 đều sinh ra của buổi tựu trường lệch pha
+01:11:55.690 Để mệt thì do như vậy đối với chúng sống
+01:11:58.300 này đối phương pháp này thì động cơ đang
+01:12:02.920 được quận này hỗ trợ không còn Trạch
+01:12:06.130 bệnh do nên phương pháp này thì động cơ
+01:12:10.300 này sẽ hoạt động đạt được cái khuôn quả
+01:12:12.070 cam nhưng đồng nghĩa nếu chúng ta thay
+01:12:14.740 tụy xơ lòng với Sửu Nhi quá lỡ thì làm
+01:12:18.490 thời gian nạp xả của tụi dài vấn đề này
+01:12:21.610 sẽ nhanh học vấn đề này sẽ nhanh hỏng do
+01:12:24.730 đó là công suất của động cơ thường phải
+01:12:27.100 tương xứng với túc thì chúng ta thường
+01:12:29.540 khi sử dụng là 25w trên 1ml
+01:12:33.670 đối với sơ đồ hình số 4 thì chúng ta
+01:12:37.520 thấy là một nguồn điện đúng luôn luôn
+01:12:39.980 được cất ở trong chung luôn hơn và có cả
+01:12:42.770 trong châm Trạch còn trong đời thì lúc
+01:12:47.240 này
+01:12:48.520 bằng kết hợp giữa sơ đồ uống hai và sơ
+01:12:52.040 đồ 3 trong đó mà vừa sử dụng to lớn
+01:12:54.940 thích mắc nối tiếp với quá cam làn da
+01:12:57.800 đen phải độc vừa
+01:12:59.680 tụng server tục làm việc mắc song song
+01:13:02.990 với dây này được những bệnh từ 4 sơ đồ
+01:13:05.840 đấu lên thì chúng ta đưa ra một kết luận
+01:13:08.360 là một nguồn điện luôn luôn được cấp báo
+01:13:10.550 Trần chung một nguồn luôn luôn được cất
+01:13:13.610 và chân trốn chạy còn chân này chúng ta
+01:13:17.480 sẽ lấy nguồn từ trấn trạch Ông chụp Sài
+01:13:20.300 Gòn hoặc qua dây phải khởi động thì bây
+01:13:24.560 giờ là thầy sẽ chuẩn bị về một số thiết
+01:13:27.590 bị trong 40 Shure Ừ để chúng Asiad á sẽ
+01:13:31.469 đấu nó là từ
+01:13:33.260 bây giờ thì sẽ chuẩn bị là một số cái
+01:13:36.300 thiết bị để chúng ta sẽ á Đối với điện
+01:13:39.570 nhất thủy điện
+01:13:43.280 thì thôi
+01:13:45.619 rồi thấy động
+01:13:47.719 Rơle bảo vệ
+01:13:51.800 ba để đồng hồ kèm dòng
+01:13:58.969 Tôi là Đồng hồ vạn năng
+01:14:04.579 gì mà
+01:14:06.710 cắt dây rút dây
+01:14:11.300 các đời rất tốt
+01:14:13.969 và cốt để chúng ta sẽ á cấp điện cho
+01:14:17.969 động cơ và chúc muộn rồi chúc mừng anh
+01:14:22.440 đi lễ chuộc 50 số thì thiết bị để moto
+01:14:27.060 hay là một số người đầu độc bị để chúng
+01:14:30.510 ta làm bạn là an toàn không xảy ra hiện
+01:14:33.090 tượng là chặt vào dây điện nhất là đầu
+01:14:38.160 tiên như thấy chán hướng dẫn chúng ta về
+01:14:39.960 sơ đồ 1 Chúng ta sẽ đi năng lực về cái
+01:14:44.550 sơ đồ
+01:14:50.390 trong sơ đồ hình 1
+01:14:53.030 Các em này nhìn vào sơ đồ về của mình
+01:14:55.949 một
+01:14:59.000 cái sẽ sử dụng ra để sẽ sử dụng liên lạc
+01:15:03.239 được thì em mục thì chúng ta nhìn vào
+01:15:06.210 cái động cơ chúng con sẽ nhìn thấy rất
+01:15:08.219 tôi
+01:15:09.380 thì đầu tiên
+01:15:11.660 chúng ta sẽ lắp Rơle bảo vệ vào chấm
+01:15:15.719 chốt trước khi bắt thì chúng ta sẽ cần
+01:15:19.650 phải kiểm tra chúng ta sẽ từ kiểm tra là
+01:15:22.420 anh em bảo vệ là có mà tốt được không
+01:15:25.600 thì các em sẽ chuyển sang nhà thằng đó
+01:15:27.490 thì không Mày là thằng nào ít mực
+01:15:31.080 đo vào
+01:15:34.650 hai chân chân vào chân ra à
+01:15:38.449 ý của Rơle Nếu không nên thuốc mạnh
+01:15:45.219 nhiều chuyện nên trong mạch
+01:15:47.380 có giá trị điện trở nhau là rất tốt
+01:15:51.709 Chúng ta được nó quá trấn Tiếng Trung
+01:15:54.670 thì nó cũng làm cơm thì chúng ta vừa lo
+01:15:57.260 được Trận chung này để một chắn cần chân
+01:16:01.610 chảy nên phải chủ đề đến bên trái chúng
+01:16:04.159 ta biết đánh dấu bây giờ
+01:16:06.670 thấy rất là chân trần Chung tiếp theo
+01:16:11.499 chúng ta sẽ sử dụng
+01:16:13.510 rừng thuộc
+01:16:16.059 thế đối với giữa Vậy
+01:16:18.789 thì đây chính là một cục quá ca trong
+01:16:22.010 này đây chính nhưng mà chúng ta thì Zen
+01:16:24.590 này có tác dụng có xe điện tử sử dụng
+01:16:27.800 chất bán dẫn
+01:16:28.840 p t sử dụng chất bán dẫn là một cái điện
+01:16:32.360 điện trở nhiệt thì khi đó lắp vào thì
+01:16:35.709 chất bán dẫn này sẽ có nhiệm vụ là ở
+01:16:38.430 trong động cơ đạt từ 70 đến 75 phần trăm
+01:16:40.950 để tóc thì cũng ko tắt nguồn cho cuộn
+01:16:43.860 dây này thì ở cái phần nó sẽ được Tìm
+01:16:48.030 hiểu về sau bây giờ là trước khi lắp
+01:16:50.970 rơle tự động và cũng sẽ to có giá trị
+01:16:53.820 trên chờ từ 10 cho đến năm Nếu là giờ
+01:16:56.760 lại còn dư luận chúng ta sẽ lắp vào chân
+01:16:59.550 chạy lên
+01:17:00.650 nó còn ra chân sẽ đẹp
+01:17:03.170 thì đối với sơ đồ cũng đưa cho mẹ con
+01:17:05.750 thì chúng ta thấy là một người là các
+01:17:08.850 bạn xem chung và giờ làm bảo vệ thì thầy
+01:17:11.280 Chân Dung Một tí nhá cốt thì sẽ lắp và
+01:17:13.110 sống chung nhiều hơn rất tốt trong chặng
+01:17:16.670 một nguồn được cấp một số chẵn thì trông
+01:17:20.220 Trạch đang nằm ở bên đấy phải phải sẽ
+01:17:22.590 cất về tình trạng bên đấy phải
+01:17:25.820 sau khi em cũng đến xong
+01:17:28.970 thì chúng ta sẽ
+01:17:33.140 rất với
+01:17:35.480 chúc cháu luôn mà
+01:17:38.440 mở rộng cửa để kiểm tra
+01:18:00.480 thì đâu có biết cảm ơn
+01:18:02.640 thì xong thì chúng ta sẽ có nhiều thứ cá
+01:18:06.280 luôn thì kiểm tra luôn chúng ta kiểm tra
+01:18:09.160 lại một lần xem là đặt kín mạch của
+01:18:11.440 chúng có hoạt động không kiểm tra thứ
+01:18:14.050 nhất là chúng ta sẽ kiểm tra động cơ
+01:18:17.199 bằng hình thức là
+01:18:19.440 đó
+01:18:26.010 tôi sẽ chúng ta Tao bảo
+01:18:30.239 hai trăm thích ăn luôn được tôn
+01:18:34.050 chúng ta sẽ đổ vào 2 trong thức ăn nguồn
+01:18:36.250 động cơ à
+01:18:38.450 Ừ
+01:18:43.930 nếu Kim không lên thì như thế này là
+01:18:47.030 đang ở cá mạch thì chúng ta cá miệng sẽ
+01:18:49.580 là sóng gió bằng không có thể là do
+01:18:53.950 dây giắc cốt ta đang đi học
+01:18:57.220 lúc này thì sẽ đặt tại điểm này
+01:19:01.660 nhưng hơn
+01:19:04.060 thế nó đây là Kim nên nó hai chân ra của
+01:19:08.330 động cơ này thì chúng lên nhưng thấy đó
+01:19:10.460 đây Thế không lên như vậy trong số này
+01:19:14.870 có thể sẽ có một cái dây đang bị đi học
+01:19:18.340 sẽ còn Sợi dây đó lập tức đi học thì đấy
+01:19:21.170 là đối với chúng ta vừa đối diện là cũng
+01:19:24.050 vừa kiểm tra được tính chất của
+01:19:27.850 của máy
+01:19:30.340 rất nhiều những trường hợp nào sau này
+01:19:32.390 chúng ta đi chúng ta gia công sửa chữa
+01:19:34.760 thì có những tình huống như vậy
+01:19:38.430 Anh thích kiểm tra
+01:19:39.950 từng cả các nước à
+01:19:44.150 cho tỷ số trên sân
+01:19:46.780 về sau khi kiểm tra đó hai đầu tiên cảnh
+01:19:49.190 thì sẽ nhìn thấy là có sờ của động cơ
+01:19:52.100 như vậy chín mạch thì lúc này động cơ
+01:19:54.230 này mới hoạt động được với mày động cơ
+01:19:56.390 này mới hoạt động được với hai chúng ta
+01:19:59.390 sẽ đẹp hơn những người ta
+01:20:02.590 lo một
+01:20:06.489 người luôn
+01:20:08.409 với vỏ
+01:20:10.780 120 nguồn đến với nhau để đảm bảo là
+01:20:14.150 động cơ này không bị rò điện ra vỏ khi
+01:20:16.040 đó đảm bảo an toàn khi chúng ta muốn
+01:20:18.199 chạm vào động cơ thì cũng không ra với
+01:20:20.510 hiện tượng về bị
+01:20:22.030 nhận ra
+01:20:23.890 mình biết
+01:20:26.080 chúng ta sẽ sử dụng một chiếc đồng hồ
+01:20:28.130 cạnh nhau
+01:20:30.040 để kẹp dòng cho ăn cơm
+01:20:32.320 thì chúng ta biết được là khi động cơ
+01:20:34.670 cấu hoạt động
+01:20:35.770 thì đối với động cơ vẫn hoạt động bình
+01:20:39.890 thường thì chúng ta thấy là dòng làm
+01:20:43.460 việc của chúng ta âm
+01:20:44.900 nhạc phim nhạc remix nhưng đối với
+01:20:49.650 trường hợp nếu dòng làm việc mà lớn hơn
+01:20:51.989 dòng định mức gì trong hơn là động cơ để
+01:20:54.300 đang định quát ạ Có thể do kẹt cơ sát
+01:20:56.429 code hay là trằn trọc với con dơi
+01:20:58.580 chẳng sẽ được con dâu thì đối với một số
+01:21:02.489 động cơ mà không nói cho rằng ghi cho
+01:21:04.830 dân thì chúng ta sẽ dựa vào một số dòng
+01:21:07.980 sàn cho cái động cơ block tủ lạnh và con
+01:21:10.080 số thông số thì thuộc trong động cơ của
+01:21:13.110 chúng ta lần là bao nhiêu công suất là
+01:21:17.010 bao nhiêu nhiên thì bây giờ thì sẽ cấp
+01:21:20.070 nguồn cho động cơ thì đối với động cơ
+01:21:21.449 này còn này nó chỉ là không phải
+01:21:25.190 tắm không thể 8A xuống thì mình sẽ cấp
+01:21:29.580 điện cho động cơ
+01:21:37.639 và xin động cơ này tôi thấy mình đang
+01:21:39.900 chạy với dòng là không phải 0,95
+01:21:44.139 Em chỉ là làm thuê xét 0,5 mình động cơ
+01:21:47.550 với cái động cơ này người
+01:21:50.550 trồng cây cao so vừa ý định mức của động
+01:21:54.939 cơ đây là đối với các hiện tượng cơ
+01:22:00.510 Cái đấy là thứ nhất về sơ đồ hình luôn
+01:22:03.519 như là thầy sẽ sang thế
+01:22:06.030 sơ đồ thứ hai
+01:22:08.010 là chúng ta thấy là
+01:22:10.649 rất tục
+01:22:12.599 xét mắc nối tiếp từ khóa ta mắc nối giữa
+01:22:16.840 được cho ta thì bây giờ chúng ta sẽ sử
+01:22:20.199 dụng một cái Rơle Rơle này do điện tử
+01:22:23.949 nhiều vừa sử dụng xong thì nó đăng cái
+01:22:26.499 trạng thái lắm thì sẽ sử dụng một cái
+01:22:29.530 gram mới để
+01:22:33.599 luôn
+01:22:35.219 thì đối với dao này điện tử
+01:22:39.599 đúng hơn anh điện tử thì chúng ta nhất
+01:22:42.729 định là kì I bộ phim nóng thì không khởi
+01:22:46.190 động được thì lúc này thì chúng ta thấy
+01:22:48.080 là một nguồn được vẫn tất và sân Chung
+01:22:50.020 Một nguồn được các loài sinh cảnh đi
+01:22:53.199 thì trong đó
+01:22:55.120 tôi sẽ mắc nối ít lấy mắc nối tiếp với
+01:23:00.920 cả
+01:23:02.170 K1 nối tiếp hoặc như vậy thì trong ngành
+01:23:05.360 Zalo này thì chúng ta nhìn vào đâu thì
+01:23:07.690 tôi sẽ sử dụng đến Rơle
+01:23:11.290 bàn chân của chức năng laptop thì khóa
+01:23:14.330 ca của tài năng này từ chân chéo nhau
+01:23:18.580 xinh xinh đẹp tuyệt trần số 1 với trong
+01:23:22.640 số 3 trong số 1 về dân số 3 của Rơle
+01:23:26.050 như vậy đây chính là hoa Cai về thể sẽ
+01:23:29.420 mắc nối tiếp với tủ
+01:23:32.320 hoặc nối tiếp
+01:23:34.150 tủ xe cũng CF túc mặc nối tiếp hả con
+01:23:38.360 cái này thì mắc thời tiết hôm nay
+01:23:41.050 thời tiết như thế này à
+01:23:44.130 cho
+01:23:48.170 tôi biết thời tiết lớn thì nó bạn ạ
+01:23:55.489 ừ ừ
+01:24:00.340 ừ ừ
+01:24:04.780 khi
+01:24:14.039 mắc nối tiếp với quá k a
+01:24:18.340 Vì
+01:24:44.219 sao nói là thằng sẽ phân tích lại như
+01:24:46.719 thế ta chỉ là
+01:24:48.840 sơ đồ à
+01:24:57.500 Bí
+01:24:58.060 Quyết Định Thay nhìn ở đây
+01:25:02.170 luôn luôn
+01:25:05.200 được cơ mà chồng đi chung nhưng luôn ý
+01:25:10.210 cho dân Đoàn Vệ sẽ vào trong chảy
+01:25:13.620 nếu bắt đầu tư này
+01:25:16.110 nối lẩu tục lấy ra nó biểu tượng cho mắc
+01:25:18.820 nối tiếp không thể không phải mắt trước
+01:25:19.960 quá cao hoặc sau quá ta thì bây giờ là
+01:25:22.840 đủ
+01:25:24.590 cô nương là bảo tự gia tốc smartphone
+01:25:29.000 mới tiếp được khóa K sáng chân trần đề
+01:25:31.520 và bây giờ thấy kế
+01:25:34.360 lắp mà Ờ ra
+01:25:37.090 và cho động cơm sau đó thì sẽ dẹp xong
+01:25:40.060 thì chúng ta sẽ nhìn thấy là đối với
+01:25:42.940 động cơ hoạt động trên dòng người ta vẫn
+01:25:46.429 đặt như phần đông thì đúng trường hợp
+01:25:49.010 này là phải lập dễ dàng hơn nhưng không
+01:25:52.040 làm nghề giảm bé về Rong Và khi quá ca
+01:25:54.949 nhát thì chúng ta thấy là trụ này cũng
+01:25:56.449 không có tác dụng trường hợp này thì
+01:25:58.489 chúng ta thường áp chút khi mà cái động
+01:26:00.080 cơ đặc sắc của chúng ta sẽ dùng đối với
+01:26:03.500 sơ đồ bộ hình phía sau
+01:26:07.360 sơ đồ
+01:26:09.849 ấy chạy xăng như sơ đồ của cái hình
+01:26:13.810 ảnh ma
+01:26:15.820 thế sau sơ đồ tính năng thì đối với sơ
+01:26:19.940 đồ của vùng ba chỉ là chúng ta sẽ xử lý
+01:26:22.929 tôi I đề thi lịch sử dụng thuốc nữa bây
+01:26:26.280 giờ
+01:26:27.950 không dùng ra đây phải màn hình sẽ
+01:26:31.430 chủ yếu là phải sử dụng cụ làm luôn thì
+01:26:35.340 sẽ ăn thử ngay gặp trong các động cơ như
+01:26:37.560 là động cơ mà lốc điều hòa động cơ quạt
+01:26:40.650 gió cơ máy bơm gần đây thì chúng ta sử
+01:26:44.430 dụng đơn giản
+01:26:45.560 chúng ta đang sử dụng là
+01:26:50.120 thì khi đó
+01:26:52.310 hai chân
+01:26:54.410 chạy về thì thấy sẽ
+01:26:58.930 khi lắp ráp 10 lần
+01:27:01.290 thấy giá
+01:27:05.130 20 chạy nè Thấy sẽ
+01:27:07.860 tắt ngồi một là một dây màu đỏ và một
+01:27:10.420 dây
+01:27:10.620 [âm nhạc]
+01:27:13.710 màu đen
+01:27:15.930 và hai dây mồi này thì thấy cũng sẽ Á
+01:27:19.410 hãy dây chạy đè thì sẽ được nối với túc
+01:27:23.610 thì sẽ lắp cẩu thì cái lắp một tổ chức
+01:27:29.880 mà chúng ta không bám sát hồ sơ lược
+01:27:35.280 chúng ta cũng sẽ bám sát bằng sơ đồ là
+01:27:38.680 một nguồn sẽ được cắt bỏ chân
+01:27:40.320 xuống chung
+01:27:42.390 và một nguồn sẽ được kết quả chân
+01:27:45.060 trông trẻ như vậy
+01:27:48.330 luôn luôn thấy có một chung
+01:27:52.410 một nguồn cấp và chân trông
+01:27:56.550 một người được Các bạn trong chảnh à em
+01:27:58.969 yêu ngủ đi Anh đang bên tay phải thì các
+01:28:02.090 bạn sinh sạch
+01:28:06.250 mà sao nó chúng ta cũng kẹt sử dụng đồng
+01:28:09.710 hồ kẹp dòng tủ
+01:28:11.260 chúng ta sẽ sử dụng một người thật lòng
+01:28:14.230 thì chúng ta sẽ nhìn
+01:28:16.210 đối với trường hợp Chúng ta sẽ sử dụng
+01:28:18.890 tốt và cấp nguồn cho động cơ
+01:28:21.950 [âm nhạc]
+01:28:30.070 sẽ buồn tượng cơ
+01:28:35.800 và 4 trường hợp này thì thấy nó sẽ kiểm
+01:28:38.960 tra lại xem đây là đảm bảo yêu cầu trước
+01:28:43.150 đây
+01:28:47.350 bị hỏng từng gây ra liên tục là không
+01:28:51.560 khởi động được công chúng tôi à
+01:28:58.950 ạ
+01:29:07.520 Bây giờ thì xe kinh doanh xuất chúng ta
+01:29:10.050 sẽ đối diện đối với sơ đồ hình
+01:29:13.430 11 nguồn được cấp cuộc sống chung một
+01:29:16.830 nguồn được không phải trân trân trọng
+01:29:19.190 cần chủ đề lấy nguồn từ chân chảnh Hoàng
+01:29:23.670 khóa k a hay còn gọi là Rơle
+01:29:28.460 thì lúc này để xem vải lót bảo vệ
+01:29:32.600 mà chúng chung của động cơ để đảm bảo
+01:29:34.920 khi động cơ này có định quát thì con sẽ
+01:29:36.810 ra hiện tượng là bị cháy động cơ đối với
+01:29:39.030 Rơle bảo vệ thì chúng ta đo để đồng hồ
+01:29:42.900 vạn năng để tăng X1 nó Kim lên thông
+01:29:45.300 mạch của giá trị nhất trẻ nhỏ là sẽ tốt
+01:29:48.960 mà sẽ được nói với chồng chung chăn
+01:29:51.090 chung thì mình đến đó là ở đây bên trên
+01:29:55.160 thì bên mình phải đang rất cấp 2 a
+01:29:59.880 real
+01:30:02.309 khởi động này sẽ sử dụng da đẹp được thì
+01:30:06.489 tôi lại được xuất bản lần
+01:30:08.789 thứ nhất này chúng ta sẽ có 200 và 200
+01:30:13.479 gam 200 ra thì sẽ được cấp vào hai chân
+01:30:16.840 chạy đề động cơ và
+01:30:18.719 nó sẽ không nhanh chân đã cắm
+01:30:22.530 sẽ không ra thì thân các trọng và nằm ở
+01:30:26.639 ở dưới này đây thu nhập hóa Ca Gửi nhanh
+01:30:30.249 chân chạy nè đến đây chính là trong này
+01:30:31.959 có một chất bán dẫn
+01:30:33.869 21 ké điện cho nhiên chính là khóa K thì
+01:30:38.320 lúc này khoảng ta mình sẽ có nhiệm vụ là
+01:30:40.329 khi động cơ hoạt động đạt từ 70 đến 75
+01:30:42.579 phần trăm để tốt sẽ cắt như ông
+01:30:44.699 chủ đề để kết thúc phải đọc từ lúc này
+01:30:49.360 chúng ta sẽ án lắp Rơle khởi động vào
+01:30:53.860 chồng ăn cơm và chúng ta sẽ chán lắm
+01:30:58.940 Anh bảo sơn tôi mà chúng ta sẽ dùng
+01:31:01.780 dây cáp được
+01:31:03.550 tính trong đó một người rất là sống
+01:31:05.840 chung một người là các bạn xem chung
+01:31:08.650 chúng tôi nghĩ một nguồn sẽ được rất là
+01:31:10.880 chung
+01:31:12.790 một luôn hai sẽ cất cả dân chúng trách
+01:31:17.860 một nguồn có người chiến tranh trước khi
+01:31:20.510 cấp điện cho động cơ thì chúng ta cần
+01:31:23.210 phải làm bảo an toàn xem là động cơ này
+01:31:26.180 đá kính mày hay chưa bằng tức là chúng
+01:31:28.310 ta sân O2 đầu phích cắm của động cơ thì
+01:31:30.650 phải có chọn của vấn
+01:31:32.050 có chạy tới chuẩn của Trạch thì thấy sẽ
+01:31:36.230 lo nên là thích làm thì chúng ta nhìn
+01:31:38.180 thấy đây chúng ta thấy là đo hai đầu
+01:31:39.590 thích ngắm vợ chồng này kín mạnh để
+01:31:41.690 chúng ta nhìn
+01:31:43.180 sẽ trúng mạch thì cái đó sẽ hỗ trợ của
+01:31:45.760 cụ Trạch Bước 2 chúng ta sẽ kiểm tra nó
+01:31:49.969 hiện do sự cách biệt của nó tiên Tránh
+01:31:53.540 trường hợp là khi Thành à chặt mà vỏ
+01:31:56.390 động cơ thể gây ra hiện tượng giật à ừ ừ
+01:32:00.190 ừ ừ
+01:32:04.789 khi sex
+01:32:06.670 ở
+01:32:12.630 đây là toàn bộ về cách xác định đặt chân
+01:32:17.100 đấu điện của động
+01:32:19.230 động cơ và sơ đồ đấu điện cho động cơ
+01:32:23.550 làm phân loại
+01:32:27.000 phân loại về động cơ hay là cấu tạo
+01:32:32.410 nguyên lý làm việc của động cơ 3 là cách
+01:32:37.600 xác định các trận đấu điện của động cơ
+01:32:39.030 bốn là sơ đồ đấu điện cho động cơ
+01:32:42.929 kia nội dung này trong bài học thì phải
+01:32:47.230 sử dụng một số đăng ký video trực tiếp
+01:32:50.710 của trường trực tiếp làm và một số phận
+01:32:53.620 video
+01:32:54.960 công ty thì trên mạng mà có cái đường
+01:32:57.520 link ở phía dưới đấy là đối với toàn bộ
+01:33:00.550 bài học ngày hôm nay
+01:33:04.170 mời cả lớp à ở đây là kết thúc chúng ta
+01:33:09.199 hẹn gặp lại vào bài học xong chúng ta sẽ
+01:33:12.499 bị nốt phần nội dung của phần động cơ
+01:33:14.599 blog Xin chào anh em

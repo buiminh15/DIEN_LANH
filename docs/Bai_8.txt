@@ -1,0 +1,788 @@
+# tactiq.io free youtube transcript
+# Bài 3 - Rơ Le Khởi Động Chất Bán Dẫn Trong Tủ Lạnh II Dạy Nghề Thanh Xuân 93 Nguyễn Tuân -0936989090
+# https://www.youtube.com/watch/4iH4x7AsKmg
+
+00:00:00.000 Xin Chào anh em buổi học ngày hôm nay
+00:00:02.939 chúng ta sẽ đi tiếp sang 2.2 ra đi tìm
+00:00:07.950 hiểu về cấu tạo
+00:00:09.740 và nguyên lý làm việc
+00:00:11.870 về những sự hư hỏng đối với xe đạp thải
+00:00:15.360 độc chất bán dẫn
+00:00:19.010 đối với dây phải đọc chất bán dẫn thì
+00:00:22.680 cũng giống như Zara khởi động cơ Bữa nào
+00:00:25.439 trước thì đã đi tìm hiểu công dụng của
+00:00:28.080 rễ khởi động chính vẫn điều khiển nguồn
+00:00:30.390 cho cuộn dây khởi động
+00:00:33.260 để tạo ra một từ trường lệch pha
+00:00:36.290 làm quay do to
+00:00:39.079 khi động cơ hoạt động đạt từ 70 đến 75
+00:00:43.770 phần trăm về tốc lúc này ra khởi động sẽ
+00:00:46.920 ngắt nguồn cho cuộn dây đề vậy đối với
+00:00:49.739 da đen phải động sẽ điều khiển nguồn cho
+00:00:52.920 cuộn dây đề như thế nào thì buổi học
+00:00:55.829 ngày nay chúng ta sẽ
+00:00:57.500 tiếp tục đi tìm hiểu về a chất bán dẫn
+00:01:00.850 hay còn gọi là rẽ điện tử đối với xe này
+00:01:03.850 Khởi động trước còn dẫn
+00:01:05.759 trong Zara thì đang có 3 loại đó là loại
+00:01:10.540 1 vào 2 ra hay còn gọi là loại 3 chân
+00:01:14.080 loại Rơle này không lo bản tụ và loại
+00:01:18.310 Rơle hay vào hay ra thì
+00:01:21.659 có lắp đặt có lắp đặt tụ và tụ của chúng
+00:01:25.270 ta đó là tục làm việc
+00:01:28.259 và loại 3 vào hay ra bà bảo ngày ra lấy
+00:01:32.950 loại Rơle 3 vào hay ra thì có lắp đặt cả
+00:01:35.679 tục ngâm và thụ Thích
+00:01:37.740 thì về cấu tạo
+00:01:39.899 về cấu tạo
+00:01:41.700 thì các em nhìn vào một cái hình ảnh của
+00:01:44.710 Zara
+00:01:45.600 nói nhìn vào một cái hình ảnh của gen
+00:01:47.649 cấu tạo của serre thì bên trong thì được
+00:01:51.100 cấu tạo chỉ gồm một chất bán dẫn ở bên
+00:01:53.890 trong thì chất dẫn này thì tương tự như
+00:01:56.679 một điện trở nhiệt Dương thì điện trở
+00:01:59.830 thì xe điện trở nhiệt là điện trở có giá
+00:02:02.240 trị điện trở thay đổi
+00:02:03.759 nhiệt độ môi trường xung quanh thay đổi
+00:02:06.490 về cấu tạo
+00:02:08.440 gồm 1 miếng bán dẫn ý những ân dẫn này
+00:02:12.319 thì có cấu tạo như một điện trở nhiệt
+00:02:14.030 Dương khi nhiệt độ tăng
+00:02:18.940 nhiệt độ trước mặt dẫn tăng thì kéo theo
+00:02:22.060 điện trở tăng nhanh kéo theo nhiên trả
+00:02:25.549 tăng nhanh thì đấy là đối với cấu tạo
+00:02:28.269 Rơle khởi động
+00:02:30.970 các em nhìn trên hình ảnh về đang có 3
+00:02:34.430 loại đầu tiên da đen 1 vào 2 ra loại gen
+00:02:38.959 này không nó top thứ 22 vào hay ra có nó
+00:02:43.489 cả tục ngâm và ba vào hay ra lắp đặt cả
+00:02:47.480 tục ngâm và tục tích
+00:02:50.170 [âm nhạc]
+00:02:53.799 để hiểu về nguyên lý làm việc các em
+00:02:56.840 nhìn vào sơ đồ đây là sơ đồ đối với khi
+00:03:00.110 khởi động chất bán dẫn loại 1 vào 2 ra
+00:03:05.959 đối loại 1 vào 2 ra
+00:03:08.630 thì chỗ ta xét
+00:03:11.420 chúng ta xét vào với sơ đồ các em chú ý
+00:03:14.910 và sơ đồ này sẽ thích cho cả lớp thứ
+00:03:17.489 nhất
+00:03:18.770 bảng xếp hạng sơ đồ cấp điện cho động cơ
+00:03:21.569 không đồng bộ 1 pha tín động cơ không
+00:03:24.360 đồng bộ 1 pha thì có ba chân đang được
+00:03:26.880 ký hiệu chung Trạch để nguồn điện 1 pha
+00:03:31.380 có hai dây lúc này một giây được cố định
+00:03:34.680 mở chân chung một giây được cố định vào
+00:03:37.980 chân chạy nhưng Ban đầu chúng ta vừa cấp
+00:03:41.160 điện điện trở chất bán dẫn đang thấp giá
+00:03:44.280 trị điện trở chất bán dẫn lúc này Anh ở
+00:03:47.360 trong khoảng từ 10 cho đến năm nay ôm
+00:03:50.440 như chúng ta đã biết điện trở có tính
+00:03:53.300 chất cản trở về dòng điện do đó ban đầu
+00:03:55.970 dòng điện đi qua chất toàn dân
+00:03:58.450 góp vào quận đề như vậy nguồn điện cấp
+00:04:02.480 vào cả hai cuộn dây sinh ra từ rừng lệch
+00:04:04.670 pha
+00:04:05.980 sinh ra từ trường lại pha và làm quay do
+00:04:09.470 to và lòng quay do to
+00:04:13.120 làm quay do to
+00:04:15.579 và khi
+00:04:17.470 chúng ta biết được là đối với cuộn dây
+00:04:19.880 đề
+00:04:20.709 do cấu trúc nó quấn với cái tiết diện
+00:04:23.810 dây nhỏ số vòng dây ngắn chỉ chịu đức và
+00:04:27.260 làm việc trong một thời gian ngắn do đó
+00:04:30.070 do đó chúng ta nên nhớ là ban đầu thì
+00:04:33.710 cái của rô cũng lớn và nhờ vào có cái
+00:04:36.320 dòng điện đi qua chất bán dẫn ban đầu nó
+00:04:38.960 lớn thì chúng ta biết được là chất bán
+00:04:41.479 dẫn tương tự như một điện trở nhiệt
+00:04:43.190 Dương nhờ có dòng điện đi qua lớn khi bị
+00:04:46.949 dẫn này sinh nhiệt độ nhiệt cao và nhiệt
+00:04:50.189 cao thì điện trở này cũng tăng lên rất
+00:04:51.930 nhanh
+00:04:52.729 bắt đầu chỉ là từ 10 cho đến 50 ôm và
+00:04:56.069 bây giờ khi có dòng điện đi qua nhiệt độ
+00:04:58.819 tăng nhanh điện trở tăng và tăng lên có
+00:05:01.949 thể đặt từ 10 cho đến 20m đâu từ 10 đến
+00:05:06.270 20 câu
+00:05:07.339 lúc này điện trở lớn thì cản trở dòng
+00:05:10.229 điện do đó cái dòng điện đi qua chất bán
+00:05:12.960 dẫn không ảnh hưởng tới cuộn dây đề và
+00:05:16.020 lúc này đã kết thúc một lần phải đọc và
+00:05:19.289 trong suốt quá trình Động cơ hoạt động
+00:05:20.689 thì chính cuộn dây đề
+00:05:22.999 lại luôn luôn duy trì và cấp nguồn cấp
+00:05:27.059 nguồn cho chất bán dẫn luôn luôn ở trạng
+00:05:30.059 thái nóng luôn luôn ở trạng thái nóng
+00:05:32.990 luôn luôn ở trạng thái nóng thì chính
+00:05:35.999 như vậy
+00:05:36.860 loại gen này nếu mà đang nóng thì lúc
+00:05:41.729 này chợ Lớn chợ lớn thì cái tấm cái dòng
+00:05:45.569 điện đi Anh tính như vậy là không tạo ra
+00:05:48.310 một cái mô men quay do đó là buổi học
+00:05:50.890 trước chúng ta đã đi tìm hiểu là trong
+00:05:54.250 hệ thống tủ lạnh chúng ta cần phải Dung
+00:05:56.710 ta nên Dung đối với thiết bị bảo vệ lạnh
+00:05:59.620 bởi vì thiết bị này rất tốt là một là
+00:06:02.290 ngắt nguồn cấp cho tủ khi đã quá cao
+00:06:04.330 hoặc quá thấp và đồng thời chế thời gian
+00:06:06.240 chế thời gian cấp điện cho tủ Tìm mục
+00:06:09.730 đích chế thời gian để cân bằng áp suất
+00:06:11.170 giữa hai dàn nhẹ tại cho máy nén thì
+00:06:13.750 khởi động thứ hai là chất bán dẫn của
+00:06:15.970 chúng ta luôn chất bán dẫn muộn
+00:06:19.140 anh em sang sơ đồ
+00:06:22.110 sơ đồ 2 vào hay ra có là thảm tục ngâm
+00:06:27.090 thì đối với sơ đồ 2 bào hay ra có lắp
+00:06:31.210 đặt bị ngâm
+00:06:32.640 mình các em nhìn vào sơ đồ ban đầu nguồn
+00:06:36.700 điện cũng đi qua rơ le bảo vệ cấp vào
+00:06:38.980 chân chung và động cơ bản lock một nguồn
+00:06:42.420 cấp và chân Trạch của động cơ do
+00:06:46.280 a
+00:06:46.840 chất bán dẫn của chúng lá điện trở
+00:06:50.230 điện trở nhỏ cho rằng đi qua Lớn Lúc này
+00:06:53.570 nguồn điện đi qua cả hai cuộn dây chạy
+00:06:55.610 là cuộn dây đề và sinh ra một cái từ
+00:06:58.520 trường lại Phan là khi sinh ra một từ
+00:07:00.889 trường này pha sẽ làm quay do to sẽ làm
+00:07:04.040 quay do to
+00:07:06.400 ở nhờ có dòng điện đi qua chất bán dẫn
+00:07:08.810 ban đầu lớn lúc này nhiệt độ chất dẫn
+00:07:12.410 tăng nhanh điện trở tăng nhanh và tăng
+00:07:15.740 nên nó thì hiện ban đầu là từ 10 cho đến
+00:07:18.050 năm tôm và bây giờ tăng lên là thứ 10 B
+00:07:20.960 giờ đến 20 mê đau và lúc này cấm dòng đi
+00:07:24.080 qua nhưng trong đó tụ CR vẫn luôn luôn
+00:07:27.590 quá trình đó là nhiều quá trình nạp sạc
+00:07:29.860 luôn luôn có quá trình nạp sản thì lúc
+00:07:32.360 này luôn luôn duy trì một cái nguồn điện
+00:07:34.390 đi qua cuộn dây cuộn dây đè duy trì chạy
+00:07:38.750 mắt chảy nhắc để tạo ra một từ trường
+00:07:40.160 lên và tạo ra một cái từ trần lệ pha để
+00:07:42.710 này cho dù to dù tao quay đây chính là á
+00:07:46.289 Đối với
+00:07:48.110 sơ đồ hãy vào hay ra hình như chúng ta
+00:07:51.719 đã biết tự cl là tục làm việc và luôn
+00:07:54.930 luôn Nạp sạc trong suốt quá trình máy
+00:07:57.240 nén hoạt động mặc dù là khóa K chất bán
+00:08:00.479 dẫn này Nó câm thì tục này vẫn cứ nạp
+00:08:03.119 sạc
+00:08:03.830 thì trí như vậy là mạch trong cái mạng
+00:08:06.180 này thì mang đầu khởi động đi khởi động
+00:08:08.669 của động cơ dựa vào hai cái mạch một là
+00:08:12.509 khởi động qua chất bán dẫn của ra khởi
+00:08:14.580 động hay là khởi động và tụ c r và khi
+00:08:18.059 chất bán dẫn này cấm đi tụi cl Đang làm
+00:08:20.939 nhiệm vụ là làm việc do đó tụi CR7 vừa
+00:08:23.309 có nhiệm vụ khởi động và làm việc cho
+00:08:25.830 động cơ
+00:08:29.059 xăng sơ đồ
+00:08:32.000 ma vào hay ra có lắp đặt cả tục ngâm dấm
+00:08:35.818 tục kích thích các em cũng nhìn trên sơ
+00:08:38.429 đồ
+00:08:39.169 bắt đầu một nguồn đi qua cho em bảo vệ
+00:08:42.568 cấp ở chân Trung của động cơ một nguồn
+00:08:46.270 ở trại của động cơ còn chân đề lúc này
+00:08:50.640 mắc nối tiếp giữa tục kích chất bán dẫn
+00:08:55.060 Tức là lấy nguồn tới chân chạy nhưng quá
+00:08:57.840 tục kích hoạt chất bán dẫn về chân đề
+00:09:01.050 thì như chúng ta đã biết ban đầu thì
+00:09:04.420 điện trở trước con rắn
+00:09:05.910 nhỏ
+00:09:07.680 dòng điện đi qua lớn chỗ này nạp xả lớn
+00:09:11.080 ý sẽ phóng nạp vào nạp vào điện áp lớn
+00:09:14.140 thì phóng ra điện áp lớn
+00:09:15.630 làm cho cái nguồn điện đi qua cuộn dây
+00:09:18.640 cuộn dây đè ban đầu lớn sinh ra một cái
+00:09:21.940 từ trường từ trường quay sinh ra một cái
+00:09:24.580 từ chẳng quay ban đầu rất lớn hắn đã
+00:09:26.290 phải nghỉ của rồi dễ dàng hơn nhưng dòng
+00:09:29.230 điện do con cái dòng điện đi qua chất
+00:09:31.150 bán dẫn như nên là làm cho cái chất bán
+00:09:32.740 dẫn để nhiệt độ tăng lên rất nhanh Giờ
+00:09:34.480 này tăng nhanh khi trở để tăng nhanh thì
+00:09:37.240 cấm dòng thì cấm dòng thì đối với tục
+00:09:41.170 khi này nạp điện áp nhỏ thì cũng sẽ
+00:09:44.230 phóng hiện ăn nhỏ do đó
+00:09:46.279 Khi dòng điện mà đi qua chất bán dẫn một
+00:09:48.680 ngày rất nhỏ và không làm ảnh hưởng tới
+00:09:51.499 cuộn dây cuộn dây đề không làm ảnh hưởng
+00:09:53.990 từ cuộn dây đàn để kết thúc một lần phải
+00:09:56.870 đọc trong khi đó tụi cl vẫn duy trì vẫn
+00:10:00.259 duy trì trong suốt quá trình nạp xả vẫn
+00:10:03.980 duy trì trong suốt quá trình đặc sản
+00:10:06.730 cho động cơ để thực hiện chế độ làm việc
+00:10:14.199 với các em xin cái về nguyên lý làm việc
+00:10:17.230 thì dựa vào 3 sơ đồ chúng ta có nguyên
+00:10:19.879 lý làm việc đối với Dell khởi động chất
+00:10:21.889 bán dẫn như sau
+00:10:23.439 khi mới cấp nguồn điện cho động cơ khi
+00:10:26.839 mới cấp nguồn điện cho động cơ
+00:10:29.230 do nhiệt độ chất bản thấp do nhiệt độ
+00:10:32.930 chất dần dần cấp nên
+00:10:35.740 điện trở lên điện trở
+00:10:39.999 có điện trở chất benzen thấp lúc này cho
+00:10:44.959 dòng điện chạy qua từ
+00:10:46.880 lúc này cho dòng điện chạy qua cả hai
+00:10:49.769 cuộn dây
+00:10:50.570 cuộn dây Trạch và cuộn dây đè
+00:10:54.199 sinh ra từ trường quay để làm quay Roto
+00:10:58.639 sinh ra từ trường quay để làm quay do to
+00:11:04.880 nhưng do có dòng điện chạy qua chất bán
+00:11:09.060 dẫn nhưng do có dòng điện chạy qua Chất
+00:11:12.360 bàn dân nên
+00:11:14.420 nhiệt độ chất bán dẫn tăng nhiệt độ chất
+00:11:18.600 bán dẫn tăng điện trở xăng
+00:11:21.980 điện trở Tăng
+00:11:24.980 muôn dòng điện
+00:11:27.920 dòng điện chạy qua là rất nhỏ
+00:11:31.160 dòng điện chạy qua là rất nhỏ và kết
+00:11:34.620 thúc một lần khả năng dòng điện chạy qua
+00:11:38.430 là rất nhỏ và kết thúc một lần phải động
+00:11:41.370 à
+00:11:46.270 khi
+00:11:49.290 chúng ta sẽ xăng nội dung tiếp theo đó
+00:11:53.500 là hư hỏng thường gặp kiểm tra và thay
+00:11:56.770 thế thì trước khi chúng ta đi vào hư
+00:11:59.890 hỏng thường gặp thì các em nhìn lại về
+00:12:02.470 cấu tạo của Zara
+00:12:07.230 đối với cấu tạo của Zara chất bán dẫn
+00:12:11.460 đây là cấu tạo thực tế thì đối với dây
+00:12:14.980 này trưởng hỏng ở dạng các thì chân giắc
+00:12:17.740 cắm tiếp xúc một là tiếp xúc với chân
+00:12:20.710 của động cơ bản lock tiếp xúc mà chân
+00:12:22.810 của động cơ bản gốc bị oxy hóa bị dịp
+00:12:24.730 tiếp xúc không tốt hay từ chân giắc cắm
+00:12:27.670 này tiếp xúc với miếng bán dẫn
+00:12:31.620 xem có tốt hay không là miếng bán dẫn
+00:12:34.060 này là phải nhất là phải còn nguyên và
+00:12:39.220 đồng thời phải có sự thay đổi giá trị
+00:12:42.520 điện trở khi nhiệt độ thay đổi do đó đặc
+00:12:44.950 biệt bàn dẫn này cũng tưởng hỏng làm Cho
+00:12:46.749 biết sự thay đổi về giá trị điện trở của
+00:12:49.819 ta kém hoặc là không không thay đổi tìm
+00:12:53.420 sẽ dẫn tới những tình trạng là có những
+00:12:54.740 cái thứ hỏng là không
+00:12:56.499 Cúp điện trong cuộn dây cuộn dây nè
+00:12:59.060 nhưng mà không điều khiển nguồn thu gọn
+00:13:00.589 dây đè lúc này động cơ blog không hoạt
+00:13:02.120 động giọng cao động cơ blog không hoạt
+00:13:04.730 động tháng cao sau đó
+00:13:07.120 để kiểm tra thì chúng ta cũng dựa vào
+00:13:10.100 đối với dân em lại 1 vào 2 ra
+00:13:13.209 22 vào hay ra 23 vào hay ra mà chúng ta
+00:13:16.399 có các ý Kiểm tra theo các bước như sau
+00:13:19.550 đầu tiên anh em chưa đi bé hư hỏng gặp
+00:13:26.290 ra đây phải động bán dẫn thường hư hỏng
+00:13:29.329 là dạng hướng hỏng ở ra
+00:13:32.230 miếng bán dẫn gì vớ
+00:13:34.360 viên bán dâm bị vơ không thay đổi được
+00:13:37.220 giá trị điện trở không thay đổi được giá
+00:13:40.490 trị điện trở
+00:13:43.809 không tiếp xúc
+00:13:46.290 a blog sẽ có biểu hiện là không phải
+00:13:48.930 giọng cao không Ở động dòng cao
+00:13:57.259 về kiểm tra
+00:13:59.509 kỹ năng mọi người nhìn vào sơ đồ tính
+00:14:03.089 chúng ta sẽ kiểm tra như sau thì sẽ biết
+00:14:05.550 được là blog không hoạt động dòng cao nó
+00:14:07.350 rất nhiều nguyên nhân có thể là do động
+00:14:09.720 cơ bản gốc bị cảnh sát cốt có thể ra
+00:14:11.759 điện yếu có thể ra cắt một phần
+00:14:14.839 rất rất nhiều đối với trường hợp lá lốt
+00:14:17.459 không Trạch dòng cao không ạ bây giờ
+00:14:19.709 phải kiểm tra này
+00:14:21.319 đối với Lara 1 vào 2 ra đến hai chân MF
+00:14:27.089 này là hai chân được cám ơn chắc chắn
+00:14:28.319 cho đẹp thì bây giờ thầy sẽ dùng cái
+00:14:31.529 đồng hồ vạn năng các em nhìn theo sơ đồ
+00:14:33.420 thì sẽ phân tích dựa trên sơ đồ trước
+00:14:35.670 sau đó là những ghi sau ta sẽ dùng cái
+00:14:38.339 đồng hồ vạn năng để thắng cách mục thành
+00:14:40.649 sẽ đó chân hay để xin tao mới chân mờ
+00:14:42.649 email trong mạch kín bên trong mạch thì
+00:14:46.019 đây cách kiểm tra máy tiếp xúc để cấp
+00:14:48.220 phải chân chạy sau đó là phải lo m&amp;s
+00:14:50.580 hoặc là hai đới vs
+00:14:53.820 Ms mặc là 2s thì phải có giá trị điện
+00:14:56.110 trở mà giá trị điện trở chúng ta nằm
+00:14:58.870 trong phạm vi từ 10 đến 50 ôm 10 sẽ nằm
+00:15:02.350 ôm đây chính là
+00:15:04.320 giờ này tốt đối với tôi lại hay vào hay
+00:15:07.810 ra đi trước tiên
+00:15:10.350 chúng ta sẽ đó chân hay vì chân em Ờ
+00:15:13.200 nó chân hai chân lên bờ đó chân ba méc đ
+00:15:17.190 ở Kim Liên thông mạch sau đó đờ mờ vs là
+00:15:22.650 hai chân ra hoặc là 23 do thì phải có
+00:15:26.640 giá trị điện trở của miếng bán dẫn từ
+00:15:29.040 người ô cho đến năm nhôm là cho nên tốt
+00:15:32.630 đối loại 3 vào hay ra
+00:15:37.490 Đối Loạn 3 vào hay ra
+00:15:40.160 trước tiên chúng ta No chân hay với chân
+00:15:43.110 mờ giọt đòi tiền hàng chân em ờ Kim lên
+00:15:46.590 thông mạch sau đó chân ba với chép
+00:15:50.300 đó hai bên bờ nó Ba ghét trên sông mạch
+00:15:53.870 Sau đó chúng ta sẽ đặt chân một với chép
+00:15:57.000 hoặc là chân một cái chất ba thì đây là
+00:15:58.890 đo có đi qua chất bạn giật có đi qua
+00:16:01.890 chất phần dân phải có giá trị điện trở
+00:16:03.920 từ 10 cho đến năm mới ôm giá trị điện
+00:16:07.410 trở của chất bán dẫn thì đây chính tả
+00:16:09.830 của chúng ta đang ăn tốt đấy chính là
+00:16:14.220 đối với cách kiểm tra a em về cách kiểm
+00:16:18.260 tra đối với da đen
+00:16:19.690 thì chúng ta sẽ dùng đồng hồ vạn năng ta
+00:16:23.300 sẽ dùng đồng hồ vạn năng
+00:16:25.780 để Thăng đo ích 1 ôm để thằng nào ít một
+00:16:30.290 ôm
+00:16:32.740 tùy thuộc vào từng loại Zara
+00:16:35.920 mà có cách đo khác nhau tùy thuộc vào
+00:16:39.230 từng loại da đen mà chúng ta có cách nó
+00:16:41.330 khác nhau
+00:16:43.180 đối với loại 1 vào
+00:16:45.430 2 ra 05 bản tụ 05 cảm thụ
+00:16:51.370 đó chân một bên này chúng ta sẽ nói thật
+00:16:54.350 hay nói đùa trên hai mình trở nên mờ
+00:16:56.950 Kim Linh trong mạch in lên thông bạch
+00:17:03.160 Sau đó chúng ta lo chân hay với chân ép
+00:17:09.130 nó chân hay về chép hoặc m bit thì có
+00:17:13.490 giá trị điện trở
+00:17:14.950 từ 10A xe ôm chở đến năm em 10 đến 50 ra
+00:17:21.450 kết luận giờ đen tốt
+00:17:29.300 đối với loại 2 vào hai xanh
+00:17:32.570 có lắp đặt tụ ngâm và lắp đặt cọc âm
+00:17:37.130 thanh o2m
+00:17:40.580 đó hai vì em mờ nó 3vf
+00:17:45.260 in lên Xong mạch in đen không mạch
+00:17:50.810 sau đó
+00:17:52.430 đó 2,3 hoặc
+00:17:55.880 mvs nó 2,3 hoặc mbs
+00:18:01.360 cô Kim Linh còn giá trị điện trở từ 10
+00:18:05.610 đến 50 ôm
+00:18:08.309 từ 10 Việt Nam em
+00:18:12.510 nào tốt
+00:18:18.570 từ 10 đến 50 ôm là tốt
+00:18:24.780 đối với loại 3 vào hay ra đối với loại
+00:18:30.040 Bà bảo hai ra à a và có lắp đặt tụ ngâm
+00:18:35.490 và tục tiếp
+00:18:38.280 tục ngâm mà tục kích
+00:18:40.950 lúc này ta đo chân hay với chân em mờ
+00:18:45.360 chân 3 và
+00:18:47.760 s2 m32
+00:19:01.890 e37s
+00:19:04.050 Yên bên trong mạch in lên thông mạch sau
+00:19:08.230 đó đau một 13 hoặc mua PS thì phải có
+00:19:13.450 giá trị điện trở
+00:19:14.970 từ 10 đến năm ôm làn da tốt
+00:19:21.120 từ 10
+00:19:24.150 đến Nami home Lazada tốt à
+00:19:29.130 em
+00:19:33.890 về thay thế
+00:19:36.050 thì chúng ta nên nhớ là chúng ta nó có 3
+00:19:38.370 loại do đó là khi thay thế thì chúng ta
+00:19:40.680 cũng phải dựa vào cái hình dạng kích
+00:19:43.050 thước chủng loại
+00:19:44.570 hình dạng kích thước chủng loại
+00:19:48.320 và công suất
+00:19:50.390 công suất giá trị điện trở của Zara được
+00:19:54.060 nhân thân thì chính những giá trị điện
+00:19:55.770 trở chúng ta nên nhớ là nó không chính
+00:19:58.470 là tương xứng với với công suất thì
+00:20:00.660 trong đó là công suất của động cơ càng
+00:20:02.160 lớn công suất của động cơ càng lớn
+00:20:05.030 thì
+00:20:07.430 điện trở của Zara càng nhỏ điện trở của
+00:20:11.160 da càng nhỏ chúng ta có thể dựa theo
+00:20:12.570 công thức của định luật Ôm
+00:20:14.180 p nó sẽ bằng phu nhân y mà y = u trên R
+00:20:17.670 do đó tên p sao bằng là đẹp u bình
+00:20:20.250 phương chia là tê càng lớn thì giờ càng
+00:20:21.810 nhọn hoặc là chúng ta theo một cái sĩ
+00:20:24.180 luận lôgic là công suất càng lớn thì lúc
+00:20:27.450 này là tính gì của rô nó cũng sẽ ăn sau
+00:20:29.200 khi tích y lớn cần ra một cái từ trường
+00:20:32.620 một cái mô men quay thật lớn để thắng
+00:20:34.390 được cái gì mà rô do đó từ trường thì
+00:20:37.360 đẹp phụ thuộc vào dòng điện dòng càng
+00:20:40.030 lớn vì
+00:20:41.280 cho rằng đi qua càng lớn thì lúc này
+00:20:43.960 cũng sinh ra một cái mô men quay càng
+00:20:45.670 lớn thì lúc đó mới thắng cái gì của rồi
+00:20:48.580 đấy dàng hơn đấy là đối với thành thế
+00:20:51.400 thì công suất của Soda chính là giá trị
+00:20:53.290 hỗ trợ giá trị còn nhỏ ta được lắp động
+00:20:56.260 cơ có công suất lớn
+00:21:00.150 ta sẽ sang vấn đề thay thế
+00:21:03.900 rồi nghỉ bây giờ chúng ta sẽ sang một số
+00:21:06.130 nhưng cái lưu ý trong cái phần này tí để
+00:21:09.070 chúng ta sang một số như cái lưu ý trong
+00:21:11.470 giá rét đậm chất bán dẫn kìa mời các em
+00:21:15.280 xem lại về sơ đồ đấu điện ba loại Rơle
+00:21:22.020 đầu tiên chúng ta nhìn vào giờ loại loại
+00:21:26.980 1 vào 2 ra à vị trí thứ nhất
+00:21:30.580 là chúng ta theo cái sơ đồ gì cho Cam ám
+00:21:33.799 sát mà cái sơ đồ đấu điện cho động cơ
+00:21:35.779 thì một nguồn được cấp ở chân chung và
+00:21:38.029 một nguồn cấp 7 chân Trạch còn chân đề
+00:21:40.659 thì đang lấy nguồn từ chân chạy nhưng
+00:21:43.580 quá tục hoặc qua ra đây phải đâu như vậy
+00:21:46.479 Thấy giả thiết nếu ở đây là đang là đề
+00:21:50.509 là đang ở bên bên trái và chạy đường bên
+00:21:52.609 phải bây giờ thành ra tiếp là ngược lại
+00:21:54.249 đây này mình sẽ chạy thì đây thì đối với
+00:21:57.289 loại 1 này chúng ta sẽ không cấp nguồn
+00:21:58.489 được
+00:21:59.169 để chúng ta sẽ không cấp được nhưng loại
+00:22:02.179 2 thì ta lại ý bám sát vào Nếu chạy sang
+00:22:05.419 năm mới xin số 3 thì nguồn sẽ là cái
+00:22:07.729 chân số 3 cái nguồn của chúng ta sẽ
+00:22:09.739 chuyển số ba
+00:22:11.469 con đối với
+00:22:13.599 loại ma vào hay ra bây giờ thiết là chạy
+00:22:18.109 của chúng ta đổi vị trí cho nhau chạy ở
+00:22:21.409 bên lề trái để bên phải thì lúc này
+00:22:23.570 nguồn một cái này bà trong số 3 được
+00:22:24.799 phải chân Trạch và mắc nối tiếp giữa là
+00:22:27.049 điện quá ca với tô chủ đề nghị đối với
+00:22:30.540 tụ C là nằm đây cái lưu ý đầu tiên là
+00:22:34.440 chúng ta nên nhớ là khi mà lắp Rơle cho
+00:22:36.780 động cơ thì chúng ta cũng cần phải xác
+00:22:39.870 định các chân của Rơle đặc trưng của
+00:22:41.850 động cơ bản gốc để lắp đặt cái đúng sơ
+00:22:44.310 đồ đây là cái thứ nhất từ thứ 2 thì
+00:22:47.910 chúng ta biết được mà muốn khởi động
+00:22:49.860 được nhìn nhiệt độ chất bán dẫn đến bệnh
+00:22:52.410 thấp thì giá trị điện trở thấp điện trở
+00:22:54.840 thuốc khi cho dòng điện đi qua lớn do đó
+00:22:56.880 động cơ này khi vừa hoạt động mà muốn
+00:22:59.340 trong hoạt động trả lại yêu cầu yêu cầu
+00:23:02.460 của chúng ta là cái nhiệt độ chất bán
+00:23:04.290 dẫn của ta phải
+00:23:05.570 nhiệt độ trận dẫn nhảy thấp này chúng ta
+00:23:08.070 yêu cầu đó nhiệt độ chân thật và nếu
+00:23:10.620 nhiệt độ chất bán dẫn của chúng ta mà
+00:23:12.630 đang cao thì lúc này ta không khởi động
+00:23:14.730 được do đó là nếu lúc vừa chạy mà muốn
+00:23:17.640 cho hoạt động trở lại thì ta phải cho
+00:23:19.500 dâng 5 đến 7 phút nó mới chạy được rồi
+00:23:23.760 mà cái lưu ý tiếp theo là các em nhìn
+00:23:25.230 vào đây thì đối với Lara có đọc tụng
+00:23:27.870 Thích Nếu các hoạt động cơ không cần
+00:23:30.880 dùng Đột Kích thì kết nối trong một ngày
+00:23:32.230 10.2 thì nó trở thành ra lại hai
+00:23:34.980 chúng ta sẽ trở thành ra lại hai
+00:23:37.680 và các loại gel này thì thường là trẻ có
+00:23:41.170 công suất nhỏ hơn đối với Sniper đường
+00:23:43.570 sẽ có công suất nhỏ hơn đối với giai
+00:23:44.710 đoạn render thì bây giờ tại sao lại công
+00:23:46.990 suất nhỏ hơn đối với rapper thì em nhìn
+00:23:48.550 nhưng
+00:23:50.370 như chúng ta đã biết được là nhờ vào cái
+00:23:53.020 dòng điện đi qua chất bán dẫn lớn làm
+00:23:55.990 cho cái nhiệt độ chất dẫn tặng ngay điện
+00:23:58.570 trở tăng nhanh cấm dòng điện đi qua
+00:24:00.300 nhưng sự ký sự cấm dòng điện đi qua này
+00:24:03.280 thì trên thực tế thì đã chưa để biết
+00:24:04.750 được chưa thể khẳng định được ạ Lúc nó
+00:24:06.700 cấm rằng đi qua cấp cho bạn bè là động
+00:24:08.710 cơ đá hoạt động được hay chưa
+00:24:11.550 đã hoạt động lại chưa Nên là nếu công
+00:24:15.040 suất càng lớn thì cái dòng điện đi qua
+00:24:16.870 cuộn dây cũng lớn và dòng điện đi qua
+00:24:18.490 cuộn dây lớn thì nhiệt độ phải tán nhanh
+00:24:20.830 ngày nhiệt độ tăng nhanh nhiệt độ tăng
+00:24:23.260 nhanh trở tăng nhanh trở tăng nhanh thì
+00:24:25.540 cấm nhanh mà Cấm cũng nhanh thế này này
+00:24:27.910 mà chúng ta ư anh với lốc lớn thì cái gì
+00:24:31.009 nó có lớn thế nhỉ Nó lớn thì cái thời
+00:24:33.229 gian khởi động sẽ lâu hơn thời gian khởi
+00:24:35.539 động lâu hơn do đó ra đè đậm chất thần
+00:24:38.179 dân chủ yếu đang được sử dụng cho những
+00:24:40.460 cái động cơ công suất nhỏ nhưng đối với
+00:24:42.679 những cái động cơ mà sử dụng công suất
+00:24:44.089 lớn thì là phải sử dụng cho đẹp cơ bị
+00:24:46.460 đặc tính của Saker là khi nào Động cơ
+00:24:48.919 hoạt động được đạt được thứ 70 đến 75
+00:24:52.070 phần trăm vận tốc thì lúc đó
+00:24:54.399 rằng giảm dòng giảm thì lúc đó nó sắp từ
+00:24:59.210 sẽ rơi xuống ngắt tiếp điểm và kết thúc
+00:25:01.129 là cài đặt vải vải Trạch động cơ phải
+00:25:03.830 hoạt động thì lúc đó nó mới kết thúc
+00:25:05.989 phải không Nhưng ở đây động cơ tí có thể
+00:25:10.219 Trương hoạt động động cơ có thể trước
+00:25:12.379 hoạt động đã kết thúc đẩy động lực đẩy
+00:25:14.690 cái những cái lưu ý trong ấy Rơle phải
+00:25:17.779 độc
+00:25:19.089 chất bàn chân đây là một số lưu ý trong
+00:25:21.830 thời gian đẹp và đậm chất Nhân dân II
+00:25:29.130 ý
+00:25:33.230 thì cái lưu ý thứ nhất
+00:25:35.480 kỹ thuật và từng loại Zara có ký hiệu
+00:25:39.360 khác nhau có kiểu khác nhau
+00:25:42.350 Do đó khi lắp đặt Rơle xao động công
+00:25:50.390 Do đó khi lắp đặt Rơle cho động cơ
+00:25:55.190 ta phải xác định các chân ta phải xác
+00:26:00.030 định các chân
+00:26:03.050 của Rơle chân của động cơ
+00:26:07.130 chân của Zara chân của động cơ
+00:26:16.910 chân vào động cơ để
+00:26:29.140 Xin chào đúng sơ đồ
+00:26:40.200 lưu ý
+00:26:42.390 thứ hai là
+00:26:46.680 muốn cấp nguồn
+00:26:50.100 cho động cơ blocks Muốn cấp nguồn cho
+00:26:53.440 động cơ bản lock
+00:27:01.860 muốn cấp nguồn cho động cơ đốc
+00:27:04.740 yêu cầu nhiệt độ chất bán dẫn phải thấp
+00:27:09.030 yêu cầu nhiệt độ chất bán dẫn thải thấp
+00:27:16.380 Do đó khi động cơ bản lock
+00:27:19.890 vừa hoạt động nâng
+00:27:24.570 di động cơ blog và dừng hoạt động di
+00:27:28.090 động cơ blog về Em
+00:27:29.979 muốn xuất động cơ hoạt động trở lại
+00:27:34.089 yêu cầu nhiệt độ chất bán dẫn tới là
+00:27:37.940 muốn cho động cơ bản nó hoạt động trả
+00:27:39.109 lại yêu cầu chúng ta phải nghỉ
+00:27:41.799 ma đến 5 phút mới được cấp nguồn
+00:27:45.039 mà lâu hơn thì càng tốt có thể làm bệnh
+00:27:48.529 phút
+00:27:55.269 lưu ý
+00:27:58.299 thứ ba
+00:28:01.089 gel hoạt động Chất vấn thường có công
+00:28:04.399 suất nhỏ
+00:28:05.409 do đó chúng ta đang được lắp đặt cho
+00:28:08.029 những cái động cơ có công suất nhỏ và
+00:28:11.179 đối với động cơ bản gốc của công suất
+00:28:13.099 lớn thì chúng ta nên sử dụng ra đây là
+00:28:15.019 động dòng điện
+00:28:16.029 thì dẫn này phải động cơ và giờ đây hoạt
+00:28:18.409 động dòng điện thì
+00:28:20.529 xin lỗi đối với da Khởi động chất bán
+00:28:23.179 dẫn là điện tử với Dell khởi động cơ thì
+00:28:26.839 ra khởi động chất bán dẫn không bị muộn
+00:28:28.669 thì cứ điểm ạ bây giờ cơ thì đang bị mua
+00:28:31.500 về cái đẹp
+00:28:35.240 dẫn đối với Rơle khởi động
+00:28:38.030 đó là tụt thích có lắp đặt cục kích
+00:28:41.750 khi mà chúng ta lắp vào
+00:28:44.090 khi mình sẽ tắt và cho các động cơ Nếu
+00:28:48.180 không có nhu cầu sử dụng tủ kích Nếu
+00:28:50.700 không có nhu cầu sử dụng kích vì chúng
+00:28:53.460 ta cần phải nói tắt trận đấu tục kích
+00:28:55.410 lại chúng ta cần đến lối tắt trên đầu
+00:28:57.780 chủ tịch này
+00:28:58.880 thì ở trên bàn tay đá có một số Gia Lai
+00:29:02.930 thứ nhất phải nhắc lại ở phần lý thuyết
+00:29:06.140 về cấu tạo của da đen cấu tạo một da đen
+00:29:09.570 thì bên trong của Zara chỉ gồm có một
+00:29:12.510 miền Nam dân ở
+00:29:15.200 A và chân giắc cắm
+00:29:19.149 đối với da Khởi động chân bằng giấy
+00:29:22.010 chúng ta đang sử dụng một trong ba loại
+00:29:25.510 nhất là loại Zara 1 vào
+00:29:28.720 2 ra
+00:29:30.519 200k
+00:29:32.080 một chân cấp nguồn vào loại này thì
+00:29:35.149 không nên đã tung
+00:29:36.370 A gọi thôi
+00:29:38.820 loại 200 vào
+00:29:41.670 A và 200A
+00:29:44.160 em có lắc à tù nhân
+00:29:46.820 tự đặc biệt
+00:29:48.620 loại Thứ ba là loại có 300 vào
+00:29:53.360 vàng hay tham gia à
+00:29:56.060 Ma Kết quả thực trạng xinh đẹp
+00:29:58.240 như vậy để kiểm tra nối với Zed thì
+00:30:01.510 ta cần phải chuyển cho anh
+00:30:04.080 để đảm bảo yếu tố thứ nhất là chân rất
+00:30:10.470 cắm tiếp xúc tốt cho hay những bán dẫn
+00:30:13.850 là không đi học
+00:30:15.799 thì chưa tiên
+00:30:17.990 chúng ta sẽ dùng đồng hồ vạn năng để
+00:30:20.850 chúng ta sẽ lâu lúc này
+00:30:25.190 chọn thằng Bo X1 ôm trước khi đoàn chúng
+00:30:29.549 ta cũng trọng hay que đồng hồ chỉnh kim
+00:30:32.460 đồng hồ và vị trí không
+00:30:34.460 để chúng ta đo
+00:30:36.559 thứ nhất đối với loại gen 1 vào 2 ra
+00:30:40.940 tao chăm vào
+00:30:44.750 là chân số 2 với chân Số năm
+00:30:48.470 kinh doanh trong mập như vậy chân ra cấm
+00:30:51.779 tiếp xúc rất tốt sau đó đó châm hộp mấy
+00:30:55.980 trăm số 6
+00:30:57.260 thì có giá trị điện trở 100 bàn chân
+00:31:00.320 là từ 10 cho đến ôm em à vì trên thị
+00:31:05.140 trường chủ yếu chúng ta đang sử dụng 3
+00:31:08.890 loại là mười
+00:31:11.190 222333 em hoặc là chúng ta sẽ cho hai
+00:31:14.980 chân răng có giá trị điện trở
+00:31:20.400 của chất toàn dân từ 16 đến 30 từ 10 đến
+00:31:23.980 30 đối với loại 2
+00:31:27.179 loại hoa vào hai nhanh nhất
+00:31:31.260 là tao chân số 2
+00:31:36.360 với chân m
+00:31:39.510 Kim Liên thông mạch
+00:31:42.360 thì chất ra tắm tiếp xúc tốt
+00:31:46.690 số trang 63
+00:31:48.930 Trần spa à
+00:31:51.810 thì mới chép
+00:31:54.260 kim bên thằng mập
+00:31:56.780 Sau đó
+00:31:58.820 chúng ta sẽ đổ 200g là hai chân máy ép
+00:32:01.860 hoặc là 23 hai chân vào có giá trị điện
+00:32:06.090 trở từ 10 cho đến
+00:32:09.800 năm em
+00:32:11.660 thì là ra đây em tốt
+00:32:14.990 đối với loại Zara
+00:32:17.120 3 vào hay là
+00:32:20.660 chỉ ta nói như sau A ít nhất là thì sẽ
+00:32:25.330 đôi chân hay về trên m363u
+00:32:34.090 [âm nhạc]
+00:32:36.360 ở Kim Liên thông mạch
+00:32:38.840 Sau đó chúng ta cần phải biết được trận
+00:32:43.410 đấu tục tích ở đâu để kiểm tra một chất
+00:32:45.720 nhân dân
+00:32:47.090 thì sẽ lo hai chân máy in không lên như
+00:32:51.120 vậy 200f là chất bạn không nằm ở hai
+00:32:54.270 chân máy ép và lo phần 1 với chân spa
+00:32:58.130 thì có chồng ở
+00:33:00.909 ý của chất nhân dân như vậy ạ
+00:33:04.620 khi Rơle bán tốt nhưng chúng ta rất
+00:33:08.130 nhanh ngầm trên thị trường cũng có một
+00:33:10.710 số loại Rơle bàn chân nhưng lại là ra
+00:33:15.059 lại hay thì bây giờ thấy nó kéo một giờ
+00:33:18.240 lên chân
+00:33:19.250 nhưng thấy lo
+00:33:21.700 U13 có trợ chân bàn chân nhưng quan
+00:33:25.250 trọng thành sẽ cho vào chân MF là hai
+00:33:27.560 dân gian Loại này có chồng thì đây tí
+00:33:31.340 nhá Giờ lại hay nhưng
+00:33:34.330 đỏ vào hai chân máy ép
+00:33:37.060 ở đây không có chậm của chân bàn chân
+00:33:39.730 nhưng đo một về ép hoặc là 1,3 có chẳng
+00:33:44.150 Xem bàn chân thì đây mới là ra lại loại
+00:33:47.060 3 đoạn 3 vào thời gian có lắp đặt dụng
+00:33:53.050 thì ở phần buổi học phần duy nhất chúng
+00:33:57.170 ta đã học về sơ đồ đấu điện cho động cơ
+00:33:59.360 Bây giờ cái sẽ
+00:34:01.990 đấu điện theo sơ đồ mà chúng ta bắt được
+00:34:05.780 không có lắp đặt chung Vì sao
+00:34:09.670 nhất thể sử dụng đất roblox
+00:34:13.630 đầu tiên thì cũng sẽ mất kiểm tra về dây
+00:34:18.050 đeo bảo vệ
+00:34:19.659 kiểm tra người dân bảo vệ à a và có lắp
+00:34:23.609 đặt ra bảo vệ cho động cơ
+00:34:28.280 có lắp đặt ra bảo vệ động cơ
+00:34:32.000 thứ hai
+00:34:33.589 anh kiểm tra mình ra lại một cái đăng
+00:34:36.599 kiểm tra giờ này tốt thì đối với loại 1
+00:34:39.899 vào 2 ra
+00:34:41.810 thể lắp
+00:34:43.819 vào hai chân chạy nè và động cơm và cây
+00:34:47.760 cấp nguồn chúng ta luôn luôn bám sát
+00:34:50.780 vào sơ đồ đấu điện cho động cơ
+00:34:53.540 một nguồn đó các bạn chung chung
+00:34:56.900 một người mà các bạn tâm trạng như vậy
+00:34:59.670 chúng ta phải xem chân vào của chúng ta
+00:35:02.250 có chung với chạy của động cơ bản nó hay
+00:35:04.349 không
+00:35:05.359 đối với thằng côn trùng thì chúng ta sẽ
+00:35:07.890 không lắp được đối với
+00:35:09.619 Rơle loại một đây chúng ta phải nhìn cấu
+00:35:14.880 trúc của Zara ở chân vào
+00:35:16.730 thu hoạch bị chân ra à
+00:35:19.790 Ừ thì chúng ta phải xem là chân ra đang
+00:35:21.890 nằm bên tay phải
+00:35:22.870 có trùng với động cơ là trấn trạch ở bên
+00:35:26.390 tay phải hay không thì chúng ta được các
+00:35:28.220 nguồn lực nhưng đối với một số trường
+00:35:30.200 hợp là chân chạy với động cơ lại ở bến
+00:35:33.320 bên trái do đó chúng ta không sử dụng
+00:35:35.840 được ra đây này nhu cầu chúng ta cần
+00:35:38.330 phải kiểm tra Rơle và kiểm tra động cơ
+00:35:43.690 và thầy chế cấp nguồn cho động cơ mà
+00:35:46.970 chúng ta sẽ quan sát
+00:35:54.490 thì đây là đối với
+00:35:57.100 gia lai khởi động loại 1 vào 2 ra bây
+00:36:01.130 giờ thì chuyển sang Rơle khởi động hay
+00:36:04.520 vào hành lang có lắp đặt thùng
+00:36:07.270 thì chúng ta đã biết cùng âm là tục làm
+00:36:10.460 việc mắc song song thì quá Con hãy song
+00:36:13.070 song với chất toàn dân lúc này
+00:36:16.270 thì sẽ lắp
+00:36:18.340 Rơle e từ
+00:36:20.040 [âm nhạc]
+00:36:21.770 một nguồn có chung một nguồn tài trợ cấp
+00:36:25.530 cho sạch
+00:36:29.000 tài sản Cất vào trong sạch lúc này thì
+00:36:32.340 sử dụng cụ
+00:36:34.910 tục làm việc mắc song song với các em
+00:36:38.150 thì thầy Trạch các bà châm số ba
+00:36:41.780 lần ở chân 63
+00:36:54.170 và chân tốc
+00:37:02.270 và một chân trụ
+00:37:04.820 sẽ nói với người này xem chạy à
+00:37:08.780 Ừ thì cho tao nhìn nguồn ở chân sạch
+00:37:19.210 [âm nhạc]
+00:37:29.410 chúng ta sử dụng các bước bảo vệ
+00:37:35.740 kẹp dòng là cắt luôn và một trong 200
+00:37:40.280 nguồn cho tro tàn cặp đồng hồ của một
+00:37:43.820 trong hai chân cấp nguồn tạo ra để khỏa
+00:37:46.040 thân ăn xong mà lúc này
+00:37:50.020 chúng ta không quan sát hoặc kim đồng hồ
+00:37:52.180 và Thầy cũng sẽ cấp nguồn cho động cơ
+00:38:02.770 lúc này là nó hoạt động và giá trị ròng
+00:38:06.580 giảm hơn so với khi chúng ta không sử
+00:38:10.050 dụng không sử dụng thuốc vì đây là xài
+00:38:13.350 giá sử dụng đối với Siro
+00:38:15.860 sử dụng rơle khởi động hay vào 2 răng và
+00:38:20.370 bây giờ thấy chán lắm rồi chúng ta loại
+00:38:23.520 gel khởi động
+00:38:24.920 3 vào này ra
+00:38:30.890 bà bảo hai răng
+00:38:32.840 thì thấy nhất là chúng ta vẫn cứ cấp
+00:38:35.910 nhầm cho động cơ
+00:38:38.840 lắp Rơle khởi động các nguồn cho động cơ
+00:38:41.580 bám sát và sơ đồ bám sát và sơ đồ đấu
+00:38:44.970 nhiên là được học là một con được cấp ở
+00:38:47.790 sân Chung Một nguồn các phần chân trẻ
+00:38:51.230 mình sẽ rất là chân Trạch
+00:38:54.820 a
+00:38:55.340 [âm nhạc]
+00:38:59.970 tiếp tục
+00:39:03.570 tù nhân
+00:39:05.400 mắc song song
+00:39:07.830 với Popin
+00:39:12.510 mắc song song với quá tay
+00:39:16.410 phụ ngâm của Phi tương tự nhưng mà lấy
+00:39:19.810 chúng ta có có đâu chân núi tụ
+00:39:24.390 nhân được lắp ở chân Trạch II
+00:39:27.490 Ừ
+00:39:28.410 như vậy Khá ra lúc này chưa kết nối
+00:39:32.160 hoặc ta sẽ được kết nối
+00:39:34.950 thì fan
+00:39:37.260 tìm thấy chúng ta đã kiểm tra và ca từ
+00:39:40.240 trong 16.3
+00:39:41.820 như bệnh
+00:39:44.730 anh sắp nối
+00:39:47.490 người biết đi qua thấp rồi mắc nối tiếp
+00:39:51.130 các
+00:39:52.560 thì phải đang sử dụng tung à
+00:39:58.470 anh nói xem hộp Trần Mạnh Tùng
+00:40:02.480 sẽ lấy cái mồm ở trong sạch
+00:40:06.440 sẽ nói cái nguồn là chân chạy
+00:40:10.190 và thầy cũng dùng nắp chụp để bảo vệ
+00:40:19.670 người dùng đồng hồ ca lằm
+00:40:22.580 cả vào một trong hai dây
+00:40:25.790 100 200 cấp nguồn cho động cơ
+00:40:29.790 [âm nhạc]
+00:40:31.490 và thầy trá cấp hợp
+00:40:34.310 chúng ta quan sắt
+00:40:38.210 thì động cơ và lốc hoạt động bình thường
+00:40:41.300 thì như vậy đây chính là sau đây có lắp
+00:40:44.670 đặt cả đúng nhân và tục ích cho động cơ
+00:40:48.500 và bây giờ các em sẽ tiến hành kiểm tra
+00:40:52.380 và móc nối cho thầy cho đúng show hình
+00:40:55.500 giận à

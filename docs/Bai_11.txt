@@ -1,0 +1,794 @@
+# tactiq.io free youtube transcript
+# Bài 3 - Cảm Biến Âm ( Sò Lạnh ) và Cầu Chì Nhiệt Tủ Lạnh II Dạy Nghề Thanh Xuân 93NT - 0936989090
+# https://www.youtube.com/watch/K9RuQvvCQIw
+
+00:00:00.000 Xin chào các em chúng ta tiếp tục sang
+00:00:03.990 bài học ba là các thiết bị điện tải điện
+00:00:07.730 trong hệ thống tủ lạnh dân dụng buổi học
+00:00:11.309 ngày hôm nay tao đi tiếp đó chị cũng là
+00:00:14.849 cả miền đông và cầu chi nhiên
+00:00:18.020 đối nội dung của bài mình nhất là cảm
+00:00:21.750 biến âm chúng ta sẽ đi tìm hiểu về cấu
+00:00:24.539 tạo
+00:00:25.580 và công dụng để cấu tạo và nguyên lý làm
+00:00:29.070 việc hiện tượng học cách kiểm tra và
+00:00:32.399 thay thế với cầu chì nhiệt chúng ta
+00:00:35.520 không đi tìm hiểu về ứng dụng về cấu tạo
+00:00:38.280 và nguyên lý làm việc và một số những
+00:00:40.649 hiện tượng không thay thế cầu chì nhiên
+00:00:43.879 thì đầu tiên chúng ta sẽ đi về cảm biến
+00:00:46.980 âm thì cảm biến âm hay còn gọi là xóa
+00:00:50.579 lạnh
+00:00:51.920 công dụng của cảm biến âm dùng để làm gì
+00:00:55.309 thì thấy mời các em quay lại về sơ đồ
+00:00:59.489 mạch điện số của tủ lạnh vào buổi học
+00:01:02.440 hôm trước chúng ta có đi tìm hiểu
+00:01:08.009 trên trên sơ đồ thì các em nhìn vào một
+00:01:11.530 cái sơ đồ mạch điện tủ lạnh Hitachi buổi
+00:01:13.750 học không chất tỉnh đã nói học về đồng
+00:01:16.030 hồ thời gian thì thành cũng đã nói là
+00:01:17.770 lấy ví dụ
+00:01:19.590 đối với đồng hồ thời gian như chúng ta
+00:01:22.119 đã biết
+00:01:23.280 đố về chế độ dài 3 Đóng 4 thì thời gian
+00:01:27.340 là từ 6 giờ đến 8 giờ và thời gian ba
+00:01:31.750 đóng sáng 2 từ 15 đến 30 phút
+00:01:36.330 đối với trường hợp
+00:01:38.580 khi tủ lạnh hoạt động trong phạm vi ngắn
+00:01:43.060 có thể là
+00:01:45.119 hai tiếng hai giờ sau đó là do their
+00:01:48.460 chuyển sang chế độ
+00:01:50.159 - giáo hoạt động là 2 giờ chế độ chạy
+00:01:52.959 lạnh sau đó chuyển sang chế độ sạc lúc
+00:01:55.899 này nếu nhiệt độ tại bề mặt dàn
+00:01:58.080 mà không lạnh khi
+00:02:00.609 mà chúng ta xảy ra Xả tuyết thì sẽ dẫn
+00:02:04.880 tới một cái tình trạng à
+00:02:07.550 chị
+00:02:12.250 xem dẫn tới một tình trạng
+00:02:15.490 là nhiệt tỏa ra và nghiệm thu vào triệt
+00:02:19.220 tiêu nhau khi đó tốn về điện năng
+00:02:23.310 á Đối trường hợp Mở chế độ xả thì như
+00:02:27.569 chúng ta đã biết được là
+00:02:30.110 đối với chế độ sấy thì nó sẽ phải làm mà
+00:02:33.690 nóng bề mặt dàn và làm thanh khiết và
+00:02:37.590 buổi học trước thì chúng ta cũng đã đi
+00:02:39.420 tìm hiểu về đối với về cấu tạo của Ran
+00:02:42.930 lệch tủ lạnh gián tiếp trong hệ thống
+00:02:45.989 lạnh thì lúc này quạt gió sẽ đối lưu gió
+00:02:49.200 qua dàn trao đổi nhiệt
+00:02:51.319 nếu sấy mặc không hết tiết trong vòng 15
+00:02:55.830 phút mà không thấy tuyết Hay là 30 phút
+00:02:57.269 mà không Nhắn tiếp
+00:02:59.180 đi lúc này gió vẫn không thể đối lưu qua
+00:03:02.400 rằm trao đổi nhiệt được chính bể cũng sẽ
+00:03:05.190 xảy ra những hiện tượng là kém lạnh Do
+00:03:07.680 đó công dụng của gió lạnh lúc này cũng
+00:03:10.980 đang được lắp đặt trong mạch điện tủ
+00:03:12.840 lạnh gián tiếp với công dụng là cùng với
+00:03:17.069 rơle thời gian điều khiển nguồn gió cho
+00:03:20.760 xây Nhưng lúc này
+00:03:23.319 máy sấy 20 sấy lại phụ thuộc vào nhiệt
+00:03:26.650 độ tại về mặt dàn do đó nếu bây giờ là
+00:03:30.280 nhiệt độ tại bề mặt dàn là không có tiếc
+00:03:32.889 vì lúc này sẽ không cho sấy để giảm với
+00:03:36.069 quá trình thì tối đa năng đối với trường
+00:03:39.040 hợp khi sấy mà biết trong dàn của chúng
+00:03:42.219 ta đã diện 15 phút mà vẫn còn tiếp vẫn
+00:03:44.230 còn nhiều tiếc thì lúc này tiếp tục xây
+00:03:46.209 tiếp tục giấy bao giờ hết thì thôi để
+00:03:49.569 cái bề mặt dàn thông quán lúc đó mới đạt
+00:03:52.239 được năng suất làm lạnh
+00:03:57.900 về công dụng
+00:04:00.510 cảm biến âm được lắp đặt ở tủ lạnh gián
+00:04:04.719 tiếp và có chức năng đóng ngắt nguồn cho
+00:04:10.180 sấy và chức năng đóng ngắt nguồn cho sấy
+00:04:12.790 giá lạnh và dựa vào nhiệt độ tại bề mặt
+00:04:16.930 dàn dựa vào nhiệt độ tại bề mặt dàn ý
+00:04:23.300 em
+00:04:27.910 [âm nhạc]
+00:04:29.500 dựa vào nhiệt độ tại bề mặt dàn
+00:04:38.830 cấu tạo
+00:04:40.720 và nguyên lý làm việc
+00:04:42.879 thì đối với cảnh bị đâm thì đang được
+00:04:46.430 cấu tạo của chúng ta đó được việc
+00:04:49.270 cấu tạo là một cặp tiếp điểm và thanh
+00:04:52.639 lớn kim
+00:04:54.069 cảm biến âm được sử dụng trong hệ thống
+00:04:56.509 tủ lạnh có giá trị nhiệt độ tướng hai
+00:04:59.690 sao này Âm 14 độ và chủ yếu sử dụng từ
+00:05:03.889 -8 rất là từ âm 207
+00:05:07.180 trong đó là kẻ chủ yếu là sử dụng âm hay
+00:05:09.860 thì yến mạch Thế lấy ví dụ
+00:05:11.889 là trên thân của cảm âm của ty giá trị
+00:05:15.500 nhiệt độ 5 năm
+00:05:17.379 với giá trị nhiệt độ bằng 5 năm anh lần
+00:05:20.750 Kim đang là một đường thẳng và đang đóng
+00:05:22.610 tiếp điểm khi đóng tiếp điểm
+00:05:26.870 giá trị nhỏ hơn em 5 -6 cho đến âm 30 độ
+00:05:31.020 bằng nhiệt độ tại bề mặt dàn ý tiếp điểm
+00:05:34.170 của ta cũng đang ở trạng thái đóng thành
+00:05:35.910 nhắn tin cong xuống nhưng lớn hơn 5 năm
+00:05:38.300 thì tan đường kim cong lên và lúc này hở
+00:05:41.030 vào mạch và mạch
+00:05:44.660 như vậy về nguyên lý làm việc
+00:05:48.500 thì chúng ta thấy là khi nhiệt độ bề mặt
+00:05:51.750 giá lạnh cao
+00:05:53.310 [âm nhạc]
+00:05:54.410 và cao hơn giá trị nhiệt độ được ghi
+00:05:56.760 trên thân lúc này cảm thấy nhắc tiếp
+00:05:59.940 điểm
+00:06:00.680 và khi nhiệt độ mài mòn dàn lạnh thấp
+00:06:03.620 thấp hơn hoặc bằng giá trị nhiệt độ được
+00:06:07.650 ghi trên thân lúc này cảm với âm đóng
+00:06:10.740 tiếp điểm cảm âm đóng tiếp điểm để cấp
+00:06:14.220 nguồn cho sấy dàn lạnh làm việc
+00:06:17.030 như vậy
+00:06:19.070 chúng ta thấy
+00:06:21.050 cả Rơ le thời gian à Anh và cả Mỹ Tâm là
+00:06:25.030 hai Thiết bị sẽ điều khiển nguồn gió cho
+00:06:28.030 sấy nhưng thời gian sấy thời gian xả
+00:06:32.320 thiết
+00:06:33.180 đang phụ thuộc vào thời gian đóng mạch
+00:06:35.830 của cảm biến âm nó chính là phụ thuộc
+00:06:39.250 vào lượng Tuyết bám tại bề mặt dàn phụ
+00:06:43.480 thuộc vào lượng tiếp bám ở bề mặt rằng
+00:06:47.220 đây chính là đối với nguyên lý làm việc
+00:06:49.930 của cảm biến âm
+00:07:00.300 chúng ta sẽ đi về hư hỏng
+00:07:03.510 cách kiểm tra và thay thế
+00:07:07.830 nhưng chúng ta đã biết đối với một cảm
+00:07:10.750 biến 5 tốt
+00:07:12.570 thì khi nhiệt độ thấp hơn hoặc bằng
+00:07:15.660 nhiệt độ đăng ký chân thân tình cảm với
+00:07:18.400 âm
+00:07:19.230 đóng tiếp điểm và khi nhiệt độ lớn hơn
+00:07:22.030 nhỉ ở thân đi cảm với âm
+00:07:28.569 vậy một cảm biến âm hư hồng thì nó ngược
+00:07:32.060 với cái Chừng nào tốt này thì lấy ví dụ
+00:07:34.210 nhiệt độ cao hơn giá trị nhiệt độ
+00:07:36.259 nghiêng thân thì cảm với âm lại đang
+00:07:38.659 đóng và nhiệt độ thấp hơn giá trị nhiệt
+00:07:40.669 độ nghĩ thân thì cảm ơn ông không đóng
+00:07:42.949 cái điểm
+00:07:43.870 đó là đang ở mang
+00:07:46.659 vậy Nếu cảm thấy đã bước Hồng đi tủ lạnh
+00:07:50.479 sẽ xảy ra những cái biểu hiện nào Bây
+00:07:53.449 giờ thì mình cả lớp ta lại quan sát vào
+00:07:56.750 sơ đồ mạch điện đó là sơ đồ mạch điện sử
+00:07:59.000 dụng đen thành ra lại một
+00:08:03.879 lúc này
+00:08:06.940 thì lấy một ít trường hợp lạc
+00:08:10.880 anh
+00:08:11.470 kimin
+00:08:14.080 tim mạch điện của tủ lạnh bằng làm việc
+00:08:16.850 ở chế độ sạc
+00:08:18.070 thì cái nguồn điều khiển qua bộ điều
+00:08:21.230 chỉnh nhiệt độ tới sân
+00:08:23.320 33 lúc này sẽ nóng xanh chân chân hay
+00:08:28.210 đóng chân chất hai nếu
+00:08:31.210 cảm ơn ông không đóng tiếp điểm
+00:08:34.059 thì lúc này chưa ra thấy là mạch Chuyển
+00:08:36.470 chế độ là nguồn điều khiển sẽ qua
+00:08:40.450 bộ điều chỉnh nhiệt độ tới chân ba ra
+00:08:42.979 đây Thời gian ba qua động cơ của Zara
+00:08:45.470 xanh trên
+00:08:46.330 11 qua điện trở xả qua điện trở xả qua
+00:08:50.360 xóa nóng ta quay từ nguồn như vậy
+00:08:54.130 sau 15 đến 30 phút giờ lại chuyển từ chế
+00:08:57.980 độ sản sang chế độ chạy lạnh và không
+00:09:01.460 xây I ạ Và nếu không xây thì lúc này
+00:09:05.499 chiếc xe bán kín da mặt dàn chúng ta
+00:09:07.509 tháo tấm xốp trắng được phía trước Tuyết
+00:09:09.730 bám kín mặt dàn vào tủ lạnh của chúng ta
+00:09:12.189 sẽ kém lại dần rồi mắt lệch
+00:09:16.620 trường hợp tiếp theo là ở trên đó xài
+00:09:20.370 cái mạch điện ấy đang làm việc này nói
+00:09:24.100 cách khác là xóa lạnh chả mâm không hát
+00:09:27.370 tặng tiếp điểm đang ở trạng thái chậm
+00:09:28.660 thì mọi người nhìn này
+00:09:31.139 từ nguồn điều khiển qua một điều chỉnh
+00:09:34.180 nhiệt độ tới chất 33 nóng xanh chất hay
+00:09:37.709 hay bây giờ qua gió lạnh qua điện trở xả
+00:09:40.980 qua xào nóng chính là cầu chì nhiệt và
+00:09:43.870 quay lại nguồn cấp trước gì Nếu thấy rồi
+00:09:46.899 chúng ta có làm việc liên tục thì tôi đã
+00:09:49.389 biết thật là biến điện năng thành nhiệt
+00:09:51.790 năng và làm nóng tại bề mặt dàn mà Xây
+00:09:54.730 dây điện trở này thì chúng ta cũng gặp
+00:09:56.290 rất là nhiều ở trong
+00:09:57.640 [âm nhạc]
+00:09:59.910 với ở trong các đẹp rồi à Anh ấy là
+00:10:03.230 nhiệt rất cao có thể gây giá trái cây về
+00:10:07.280 bên trong tủ Vậy để đảm bảo sản phẩm ở
+00:10:11.690 bên trong Không bị hỏng tủ lạnh không bị
+00:10:13.490 không Không xảy ra những hiện tượng là
+00:10:15.590 diệt hỏa hoạn lúc này so nóng sẽ tự đất
+00:10:20.060 Bà khi sao nóng rất
+00:10:22.750 quay lại về buổi học trước chúng ta có
+00:10:25.460 đi tìm hiểu về gara thời gian đối với
+00:10:28.010 sure thời gian loại 1 thì chất một năng
+00:10:30.830 lấy nguồn từ sấy và cầu gì vậy khi chân
+00:10:33.890 một lấy nguồn từ sấy và cụ gì thì tìm
+00:10:36.620 đứt cầu chì thì mất nguồn cấp cho động
+00:10:39.500 cơ giá rẻ do đó ra đây không quay chuyển
+00:10:42.650 được từ chế độ
+00:10:44.950 sấy sang đây cho chế độ chạy lệch do đó
+00:10:49.570 chỉ mình đèn sáng vào tủ không có độc
+00:10:52.370 chỉ mình đèn sáng và thụ động thì đấy
+00:10:55.100 chính là đối với
+00:10:56.500 hư hỏng
+00:10:58.240 đối với lỏng của cảm biến âm
+00:11:02.520 vì
+00:11:04.220 vậy hư hỏng có cảm biến âm thì cảm biến
+00:11:07.290 âm hư hỏng ở dạng là nhiệt độ cao
+00:11:11.840 cảm biến âm không ngắt mạch người ta gọi
+00:11:14.880 cũng chậm hoặc ở nhiệt độ thấp không
+00:11:18.360 đóng mạch
+00:11:20.330 nên
+00:11:21.860 tủ lạnh có biểu hiện ngủ không hoạt động
+00:11:25.710 thì mình đèn sáng biểu hiện thứ hai là
+00:11:29.490 tủ hoạt động nhưng kém lại dần rồi mắt
+00:11:33.210 bạch chúng ta tháo tấm xốp cắn ở phía
+00:11:35.760 trước thì tiếp bàn phím bề mặt dàn Tuyết
+00:11:39.510 bán kính để bảo rằng
+00:11:48.050 Vậy chúng ta kiểm tra như nào
+00:11:50.660 kiểm tra như nào để biết được một cảm
+00:11:53.820 thấy một tốt
+00:11:55.670 đối với kiểm tra một cảm biến âm tốt
+00:11:59.870 thì lúc này
+00:12:02.529 chúng ta sẽ kiểm tra
+00:12:04.529 phía sau
+00:12:07.980 nhất là đối với nhiệt độ cao
+00:12:11.910 nhiệt độ cao hơn giá trị nhiệt độ nhiên
+00:12:14.110 nhân thân thì ta sẽ dùng cái đồng hồ vạn
+00:12:15.730 năng để theo dõi ích một đo vào hai đầu
+00:12:18.009 của cảm âm cảm thấy là nếu Kim lên người
+00:12:21.220 ta gọi được Chắc đi hỏng Và nếu Kim
+00:12:24.399 không lên thì lúc này chúng ta phải tiến
+00:12:28.269 hành đặt cảm bị đâm ở nơi có nhiệt độ
+00:12:30.610 thấp
+00:12:31.529 thấp hơn
+00:12:33.449 hoặc bằng giá trị nhiệt độ được ghi chân
+00:12:36.579 thân
+00:12:37.740 thấp hơn hoặc bằng giá trị nhiệt độ được
+00:12:40.930 ghi trên thân
+00:12:41.999 nếu Kim lên là cảm với năm tốt
+00:12:46.769 như vậy đối với cảm biến âm thì ta phải
+00:12:50.139 đặt ở nơi có nhiệt độ thấp thấp hơn hoặc
+00:12:52.240 bằng giá trị nhiệt độ được ghi ra nhân
+00:12:54.129 đây là một trong những cái
+00:12:56.579 ra ngoài thực tế thì muốn một gia đình
+00:12:59.319 bạn có một cái tủ lạnh và bây giờ là thủ
+00:13:02.510 mà hỏng thì chúng ta cũng không thể có
+00:13:04.940 nhiệt độ sắp đẻ chúng ta đặt cả minam
+00:13:09.550 để ta kiểm tra do đó chúng ta sẽ kiểm
+00:13:14.090 tra chúng ta sẽ kiểm tra đối với cảm
+00:13:16.940 biến âm dựa theo mạch điện xả tiết đó là
+00:13:20.690 chúng ta sẽ dựa trên một số linh kiện
+00:13:22.850 trong mạch điện sạc biết mặt dựa vào
+00:13:24.650 biểu hiện của tù
+00:13:26.290 thì lấy ví dụ là tôi sẽ dựa vào biểu
+00:13:29.750 hiện tù thì chúng ta thấy là trường hợp
+00:13:32.420 chậm thì chúng ta đo được rồi Vậy cứ
+00:13:35.270 Trần Lập không tiếp xúc thì lúc này sẽ
+00:13:37.340 dẫn tới tình trạng không cấp nguồn cho
+00:13:38.690 xây mà không cấp nguồn cho sấy thì chủ
+00:13:40.970 yếu
+00:13:41.620 đang tiết sẽ bám kín mà rằng mà khi tiết
+00:13:44.780 bán kính là màn zin
+00:13:46.450 thì lúc này chúng ta sẽ dựa vào thương
+00:13:48.740 là kiểm tra đối với hiện tượng là hiện
+00:13:51.080 tượng này là hiện định chung trong mạch
+00:13:52.820 điện xả tiết đó chính là hỏng giờ này
+00:13:55.490 phải gian tổng cảm biến âm hỏng cầu chị
+00:13:58.610 Nhiên học sinh thì bây giờ mình sẽ kiểm
+00:14:02.300 tra ở trong bệnh viện chả biết rồi kết
+00:14:04.500 Vậy
+00:14:05.420 là cảm biến âm Ngọc
+00:14:08.150 kết luận cả mấy tấm lòng hay là cảm biến
+00:14:12.600 5 đang được đặt ở trong một cái vỏ và
+00:14:14.520 nhựa và có
+00:14:17.900 bơm chân không đây là sử dụng là hút
+00:14:21.960 chân không Hoặc là sử dụng gì trơn trong
+00:14:24.840 này không có thẩm do đó nếu sau này đi
+00:14:27.420 làm thì đối với kinh nghiệm của thầy thì
+00:14:30.780 khi đi làm Nếu bên trong này có hơi
+00:14:32.460 không chỉ thương trước sau thì cảm thấy
+00:14:35.370 tâm đi học hay nói khác là cảm thấy chán
+00:14:37.500 không chữa bệnh là tôi sẽ thay thì sẽ
+00:14:40.170 kết luận là cảm thấy ấm lòng
+00:14:42.710 đấy là đối với
+00:14:44.840 cách kiểm tra về cảm biến âm
+00:14:51.170 cách kiểm tra máy cảm nhận âm u
+00:14:55.330 [âm nhạc]
+00:14:57.950 ừ ừ
+00:15:00.460 vì vậy thay thế
+00:15:03.720 khi thay thế cảm biến âm âm thì ta phải
+00:15:07.540 thay đúng vị trí
+00:15:09.430 ở đúng vị trí thì cả Mỹ Tâm đang được
+00:15:12.910 lắp đặt ở vị trí cao nhất của bề mặt
+00:15:14.680 rằng cao nhất tại bề mặt dàn và thương
+00:15:17.560 được Bó và xóa bỏ thích học và đập mặt
+00:15:20.470 có ghi nhiệt độ bề mặt có ghi nhiệt độ
+00:15:22.660 được ốp vào hệ thống
+00:15:24.630 sau đây chúng ta sẽ sang phần thích anh
+00:15:27.130 anh các bạn xe là khó lạnh này chẳng còn
+00:15:30.130 video này là đấng để kiểm tra lại cảm
+00:15:32.620 giác đối với gió lạnh ở sơ đồ thì buổi
+00:15:35.860 hoạch trước chúng ta đã biết được
+00:15:38.490 nhiệm vụ của gió lạnh chính là điều
+00:15:42.610 khiển nguồn cho sấy để Xả tuyết nhưng
+00:15:45.700 dựa vào lượng Tuyết bám ở bề mặt răng
+00:15:49.170 đối với sò lạnh khi hỏng thì tủ lạnh của
+00:15:53.920 chúng ta đều xảy ra một trong hai hiện
+00:15:56.020 tượng từ một
+00:15:58.529 lần tổ hoạt động nhưng kém lạnh dần rồi
+00:16:02.560 bắt lạnh Nếu chúng ta tháo tấm xốp phía
+00:16:06.339 sau của Nhẫn đông thì trước của bề mặt
+00:16:09.410 anh ta quan sát thấy bề mặt dàn sẽ bị bỏ
+00:16:12.410 ra tiếp bán kín mặt dàn Chắc là thứ hai
+00:16:16.750 tủ không hoạt động đèn sáng
+00:16:20.370 Ừ vậy để kiểm tra cảm biến âm thì chúng
+00:16:23.820 ta cần phải nắm được về sơ đồ cấu tạo
+00:16:28.020 thì phải nhắc lại cho chúng ta về cái sơ
+00:16:30.210 đồ cấu tạo trong cả máy đâm
+00:16:33.950 trên tay này đang có hai cảm với âm
+00:16:36.950 còn đi giá trị Tâm năm và giá trị Tâm
+00:16:40.350 bận vậy em hiểu
+00:16:42.680 kiếm giá trị 85 bản mệnh như nào
+00:16:46.760 thì đối với giá trị âm năm
+00:16:50.360 thì nếu nhiệt độ lớn hơn 5 năm
+00:16:55.279 Lúc này tiếp điện bên trong cảm biến âm
+00:16:58.910 đang lại trạng thái mà
+00:17:02.630 nếu nhiệt độ bằng và nhỏ hơn
+00:17:06.890 85
+00:17:08.569 thì lúc này cái điểm ở trạng thái nóng
+00:17:13.369 cấp nguồn cho xây như bệnh để kiểm tra
+00:17:18.119 cảm biến âm thì đối với trường hợp ở
+00:17:20.380 trên dùng đồng hồ vạn năng
+00:17:22.650 để thằng đo ích một ô tô
+00:17:25.770 sau khi để theo dõi X1 ôm
+00:17:28.470 chậm hay quen đồng hồ chỉnh kim đồng hồ
+00:17:31.750 về vị trí không sau đó tiến hành đo
+00:17:36.000 đo vào hai que
+00:17:38.190 vào hai dây của cảm biến âm
+00:17:41.090 Ừ nếu Kim lên
+00:17:43.779 thấy kết bạn cảm nhận đang học chắc chắn
+00:17:46.700 với chồng à
+00:17:48.559 a
+00:17:49.090 đối với Kim không lên
+00:17:52.539 lúc này để biết được nạp nhiệt độ thấp
+00:17:56.120 hơn hoặc bằng âm năm hai lần Kim bên
+00:17:58.549 trong và đóng được cái điểm hay không
+00:18:01.039 Chúng ta cần phải đặt bên trong ngăn
+00:18:03.620 đông
+00:18:04.749 của tủ lạnh đang hoạt động bình thường
+00:18:07.610 sau đó thì chúng ta kiểm tra
+00:18:10.389 như bọn
+00:18:12.340 chúng ta sẽ phải mất một khoảng thời
+00:18:14.360 gian để kiểm tra đối với trường hợp là
+00:18:18.080 khi có nhiệt độ lạnh do đó nếu sửa chữa
+00:18:22.730 các em có thể dựa vào sơ đồ mạch điện
+00:18:26.809 của tủ lạnh để kiểm tra
+00:18:29.200 thì đối với sơ đồ mạch điện tủ lạnh thì
+00:18:32.539 chúng ta cũng sẽ học ở phần sau những
+00:18:34.249 cái Các em có thể nhìn vào sơ đồ mạch
+00:18:36.769 điện tủ lạnh ví dụ thấy có một cái sơ đồ
+00:18:38.389 mạch điện tủ lạnh thì xong thì chúng ta
+00:18:41.059 sẽ nhìn vào đây
+00:18:42.730 đối với sơ đồ mạch điện tủ lạnh Thế bây
+00:18:46.340 giờ phải xét à chế độ chạy lạnh
+00:18:50.810 Tìm nguồn điện sẽ qua khống chế nhiệt độ
+00:18:54.600 anh tới Trần 3 của đồng hồ
+00:18:57.530 3 lúc này đóng tiếp điểm xanh trên bốn
+00:19:00.390 để cấp nguồn cho quạt gió và động cơ
+00:19:03.510 blog hoạt động
+00:19:05.000 thì ở những chế độ này thì các em nhìn
+00:19:08.520 động cơ le buổi học hôm trước chúng ta
+00:19:11.549 đã đi tìm hiểu cấu tạo của động cơ lên
+00:19:13.640 là có giá trị điện trở là 30k ôm
+00:19:18.260 anh
+00:19:18.880 đi qua điện trở xả tiết
+00:19:21.250 khoảng 500 ôm
+00:19:23.830 qua cảm biến Dương hay còn gọi cầu chi
+00:19:26.360 nhiệt quay mình nguồn
+00:19:28.900 lúc này động cơ Zara luôn hoạt động
+00:19:34.510 vận động cơ lên luôn vào độc
+00:19:37.210 thì chúng ta sẽ quan sát và mắt kính mở
+00:19:39.770 ra nếu
+00:19:43.870 khi Roto quay hệ thống bánh răng quay
+00:19:47.730 thì lúc này chúng ta kết luận được
+00:19:51.270 động cơ bản tốt điện trở xả tiết thanh
+00:19:55.990 tốt cả miền Dương ảnh cầu chỉ Nhật ăn
+00:19:58.870 tốt
+00:20:01.789 khi bệnh
+00:20:05.110 từ lúc này để kiểm tra giữa cả Mỹ Tâm và
+00:20:07.809 tiếp điểm của đồng hồ
+00:20:10.140 thì các em xoay trục cam để kiểm tra
+00:20:14.170 tiếp điểm và đóng sang hai chế độ ngắn
+00:20:17.049 Nếu ba đóng sang hai chế độ ngắn tốt
+00:20:21.210 mà tủ lạnh xảy ra mó tiết tại bề mặt dàn
+00:20:24.340 thì nguyên nhân do họ cảm bị đâm Do đó
+00:20:28.230 các em chỉ cần thay cảm với âm là được
+00:20:34.550 anh hoặc cách mạng hoặc các em có thể
+00:20:36.880 ghép lại cho thành bằng cách khi em xoay
+00:20:41.780 3 Đóng sáng
+00:20:43.570 hay
+00:20:45.250 mà các em quan sát thứ nhất đồng hồ vẫn
+00:20:48.200 quay à
+00:20:50.080 ở đồng hồ vẫn quay
+00:20:52.350 ta kết luận được là âm này chưa đọc
+00:20:55.610 anh em để nối tất cả biển Đông ông
+00:20:58.940 Anh nói tất cả bị đâm
+00:21:01.450 đồng hồ để dừng Quay đồng thời điện trở
+00:21:05.720 sản để làm việc chắc chắn chúng ta cũng
+00:21:09.410 kết luận là cảm ơn em đã học
+00:21:12.700 Ở đối với trường hợp này các em sẽ Á có
+00:21:17.140 thể là chúng ta chán Sang thai sẽ hướng
+00:21:19.360 dẫn chúng ta sẽ kiểm tra trực tiếp trên
+00:21:22.660 mô hình mạch điện của tủ lạnh các em sẽ
+00:21:25.360 nắm được đó hơn bây giờ các em sẽ xem
+00:21:29.350 thầy dẫn dựa vào mặt điện của tủ lạnh để
+00:21:31.930 kiểm tra cái âm u
+00:21:35.450 Vì
+00:21:41.679 sao đây để xem hướng dẫn chúng ta kiểm
+00:21:44.809 tra cảm biến âm trực tiếp trên mô hình
+00:21:47.630 tủ lạnh gián tiếp nhất là thầy cấp nguồn
+00:21:51.980 cho tủ lạnh
+00:21:53.740 để
+00:21:55.600 đồng hồ đang ở chế độ trái lạnh
+00:21:58.659 gốc hoạt động và quay
+00:22:02.950 thì chúng ta nhìn vào đồng hồ kẹp dòng
+00:22:07.210 thấy đang có dòng động cơ bản gốc là
+00:22:10.700 không phải chính trị
+00:22:13.120 và đồng thời quạt đang quay
+00:22:15.909 thì vừa nãy thầy là phân tích cho các em
+00:22:18.740 đối với mạch sử dụng rơle thời gian lại
+00:22:21.139 một ở chế độ trái lạnh
+00:22:25.240 ở chế độ trái lạnh chúng ta quan sát và
+00:22:28.370 mắt kính của Rơle
+00:22:32.440 thấy hệ thống đánh răng hoặc do to quay
+00:22:35.090 à cho
+00:22:36.380 tôi cái một số loại Rơle thì mắt kính đã
+00:22:39.240 được sử dụng silicon nhà sản xuất và đặc
+00:22:41.880 biệt thì chúng ta có thể là đóng luôn
+00:22:44.700 vào chân một ở trên 3
+00:22:47.000 khi thấy no nguồn 1.1.3 này thì sẽ dùng
+00:22:50.160 cái đồng hồ vạn năng để Khanh
+00:22:53.600 250ac thì khi thấy đo thì có điện và 220
+00:22:58.280 như bận
+00:23:00.590 như vậy có điện 220
+00:23:03.440 thì thầy kết luận được
+00:23:06.620 thì nhất là động cơ này
+00:23:09.800 quay động cơ này tốt này
+00:23:13.430 cảm biến Dương
+00:23:15.500 tốt này biển Dương tốt này
+00:23:20.600 sấy tốt này thì cấp nguồn cho động cơ
+00:23:24.530 như vậy để kiểm tra đối với các trường
+00:23:28.020 hợp là cảm biến âm đang ở hỏng ở trạng
+00:23:30.270 thái là không tiếp xúc thì lúc này này
+00:23:33.240 sẽ
+00:23:34.010 chuyển về trên A và thì tiến hành thế đó
+00:23:37.629 anh xong
+00:23:39.539 phải chuyển về chế độ sấy thể tiến hành
+00:23:41.889 theo như sau Thứ nhất là cái xoay
+00:23:46.679 trục cam
+00:23:49.769 về chế độ sấy
+00:23:55.289 thì khi về chế độ sấy lốc ngắt quạt
+00:23:59.139 Không quay thì cho cái nhìn vào đây thì
+00:24:01.419 không có dòng động cơ 4 lốc chỉ có dòng
+00:24:03.669 bóng đèn là 0,04 a a
+00:24:06.840 Ừ anh em tiếp tục
+00:24:09.610 Anh lo
+00:24:11.490 cho em tiếp tục lo 7.1.3 của động cơ
+00:24:17.710 vì thế các em nhìn vào đây thì vẫn có
+00:24:20.380 nguồn thì động cơ thể năng hoạt động
+00:24:22.559 động cơ đẩy năng hoạt động
+00:24:25.100 từ
+00:24:25.990 lúc này
+00:24:28.419 thấy sẽ tiến hành
+00:24:32.100 em
+00:24:32.990 dựa vào cảm biến âm u vì lý do với nhiệt
+00:24:36.870 độ
+00:24:37.450 ở môi trường nước ta thì hoàn toàn
+00:24:40.169 là âm này không thể đóng được
+00:24:42.950 em đi bậc II
+00:24:45.059 ở tay chân núi tắt hai dây cảm biến đa
+00:24:48.419 dạng với nhau để chắn lối tắt hai dây có
+00:24:50.879 cả phải độc lập với nhau
+00:24:52.159 thì các em nói tắt thì các em sẽ rút
+00:24:55.440 điện ra thì nói tắt
+00:24:58.580 hoặc là thấy sẽ nối tắt hai dây có cả
+00:25:01.679 cái âm lại
+00:25:04.070 ở đây xin lỗi tắt hai dây của cả người
+00:25:05.960 lạnh như này à
+00:25:09.080 sau khi thay nối tóc hay danh cảm biến
+00:25:11.180 đông lạnh
+00:25:12.700 Ừ thì các em nhìn đồng hồ thấy đã con
+00:25:16.660 rồng của sấy tại nhà thấy nhà ra đây à
+00:25:21.220 ý là 0,04 tên là dòng vào bóng đèn nhá
+00:25:24.100 thì kiểm tra lại này
+00:25:26.780 em mất lòng này tắt bóng đèn đi nó vẫn
+00:25:29.690 dòng này mở ra này
+00:25:32.050 như vậy Đây là dòng và bóng đèn
+00:25:35.590 anh vào lúc này là đồng hồ đang hoạt
+00:25:38.559 động này
+00:25:40.500 cho
+00:25:42.620 con mua này ở Đồng hồ
+00:25:46.430 vạn năng sẽ đang có điện này Bây giờ thì
+00:25:49.920 chắc không này
+00:25:51.370 anh em nhìn nha à
+00:25:54.830 em phải nói tắt âm này à
+00:25:58.279 anh em nhìn thấy là mất nguồn cấp cho
+00:26:02.350 Mở
+00:26:03.210 đồng hồ
+00:26:06.070 khi mất nguồn cấp cho đồng hồ
+00:26:10.260 và đồng thời là có nguồn của sấy à
+00:26:14.169 và
+00:26:14.730 con vượn và xây
+00:26:17.100 thích khi đó
+00:26:18.899 em chỉ kiểm tra cho thầy
+00:26:21.330 tiết niệu
+00:26:23.580 em kiểm tra cho thấy tiết kiệm
+00:26:26.340 về chân ba
+00:26:28.619 với chân hai chân triệu ngắn chúng ta sẽ
+00:26:31.690 để than X1 ôm
+00:26:34.889 đo thông mạch
+00:26:37.409 em đo thấy không mạch hai chân
+00:26:41.249 chân ta phải chấp 2A
+00:26:44.890 chị khen lo chân 37 chân hay
+00:26:47.640 mở Kim lên trong mạch
+00:26:50.100 thì kết luận đồng hồ xả Tuyết của chúng
+00:26:55.840 ta tốt
+00:26:56.790 lúc này tiết hiện tượng Tuyết bám kín
+00:27:00.100 lên bản dàn là do hỏng cảm biến âm Em
+00:27:04.660 chỉ cần thay là người âm là được
+00:27:08.330 Ừ
+00:27:09.039 đấy là đối với cách kiểm tra trực tiếp
+00:27:12.640 trên mạch điện của tủ lạnh thì bây giờ
+00:27:15.740 các em ạ cậu chỉ nhiệt hay còn gọi là
+00:27:18.350 cảm biến Dương
+00:27:19.600 thì các em nhìn vào cái hình ảnh của cầu
+00:27:22.490 chì nhiệt
+00:27:23.649 vậy công dụng của cầu chì nhiệt dùng để
+00:27:26.570 làm gì
+00:27:28.720 thì thành mời cả lớp xem lại về sơ đồ
+00:27:32.690 mạch điện chúng ta vừa phân tích độ
+00:27:35.960 chỉnh nhiệt hay còn gọi là á sò dương
+00:27:38.659 sói nóng thì đang được lắp đặt là mắc
+00:27:42.440 nối tiếp
+00:27:43.809 với điện trở xả cấp nguồn điện sạc vì
+00:27:47.600 vừa thấy có vật ích cho cả lớp thì chúng
+00:27:49.519 ta cũng đã đi tìm hiểu là đối với Trần
+00:27:51.049 Lập là khi xóa mạng bị chậm thì làm cho
+00:27:53.690 điện trở xả này sẽ làm việc liên tục
+00:27:55.309 trong thời gian dài và
+00:27:58.389 sấy
+00:28:00.490 sẽ làm việc liên tục trong thời gian dài
+00:28:02.600 sinh nhiệt và có thể làm tránh chảy và
+00:28:07.220 có thể gây ra hỏa hoạn mà hỏng thì cái
+00:28:10.309 tủ lạnh
+00:28:12.200 vậy
+00:28:13.789 Sao lại so nóng sao nóng sao lại đi chậm
+00:28:18.990 thì sao nóng hay còn gọi là cầu chi nhật
+00:28:21.140 sẽ thích để mất nguồn cấp cho xây nhà
+00:28:24.539 bảo vậy thì đối với cầu chì nhiệt cũng
+00:28:28.260 đang được lắp đặt trong mạch điện của tủ
+00:28:31.020 lạnh gián tiếp
+00:28:32.360 và có cái công dụng là đang điều khiển
+00:28:35.250 nguồn giờ
+00:28:36.500 cho điện trở xa và bảo vệ cho tủ lạnh
+00:28:39.539 khi mà mới nhiệt độ tối cao hơn nhiều
+00:28:41.580 nhiên thân thì đối với cậu chủ nhật này
+00:28:43.799 sẽ rất để bảo vệ à
+00:28:47.890 ừ ừ
+00:28:49.670 Ừ thì về công dụng
+00:28:51.580 đối với cầu chứng nhận hay còn gọi là
+00:28:53.990 cảm nhận riêng hay còn gọi là xo rước
+00:28:55.990 đến một số thở ngôn ngữ có thợ thì năng
+00:29:01.280 được lắp đặt ở tủ lạnh gián tiếp và có
+00:29:04.400 chức năng
+00:29:06.340 bảo vệ các thiết bị ở bên trong
+00:29:10.279 để tủ lạnh khi nhiệt độ bề mặt giá lạnh
+00:29:13.489 tăng cao
+00:29:15.190 được lắp đặt ở tủ lạnh gián tiếp và có
+00:29:19.159 chức năng
+00:29:20.049 bảo vệ các thiết bị bên trong tủ khi
+00:29:25.070 nhiệt độ bề mặt dàn tăng cao
+00:29:29.049 về cấu tạo
+00:29:31.059 thì đối với cấu tạo thì chúng ta thấy là
+00:29:33.529 bên trong là một cái dây kim loại có
+00:29:35.659 nhiệt độ nóng chảy cấp và bên ngoài sao
+00:29:38.869 là một thủy tinh và hoàn toàn là kín
+00:29:40.429 chúng ta không nhìn nhầm nó không nhiên
+00:29:42.769 là cái cầu chị uống ở trạng thái trước
+00:29:44.539 khi nhắc được thằng át đây khi nhiệt độ
+00:29:46.219 cao hơn giá trị là đủ đi chân thì cậu
+00:29:47.929 trí Đất Này hãy để bảo vệ và thiết bị
+00:29:51.109 này chỉ bảo vệ một lần
+00:29:53.919 Trí Thông thường cầu chì nhiệt tương tự
+00:29:57.229 như một danh dẫn
+00:29:58.539 thông thường tùy chỉnh nhiệt tương tự
+00:30:01.099 như một danh dân để cấp nguồn cho sấy
+00:30:03.919 giả dạng làm việc để Xả tuyết sấy giả
+00:30:07.789 dạng làm việc để Xả tuyết
+00:30:10.330 thế nhưng
+00:30:12.419 khi nhiệt độ bề mặt giá lạnh tăng cao
+00:30:15.899 khi nhiệt độ bề mặt giá lạnh tăng cao à
+00:30:19.960 ừ ừ
+00:30:22.770 anh cao hơn giá trị nhiệt độ được ghi
+00:30:24.990 trên thân
+00:30:26.720 cao hơn giá trị nhiệt độ được ghi trên
+00:30:29.580 thân
+00:30:31.430 thì lúc này cầu chì sẽ rất để bảo vệ
+00:30:34.460 bàn thiết bị này
+00:30:36.650 chỉ bảo mẹ có một lần
+00:30:41.540 biết để bảo vệ
+00:30:45.560 khi
+00:30:51.370 thiết bị này chỉ bảo vệ một lần
+00:30:57.309 khi sex ừ ừ
+00:31:03.210 vì vậy bé không
+00:31:06.440 [âm nhạc]
+00:31:07.909 Câu chính thức thì bây giờ đứt thì tủ
+00:31:11.279 lạnh sẽ có xảy ra anh hiện tượng gì thì
+00:31:13.830 bây giờ chúng ta xét là đối với trường
+00:31:15.270 nhập 35 đóng ở sang chế độ dài là bốn
+00:31:18.270 thì buổi học chất chúng ta còn đi tìm
+00:31:20.490 hiểu về sơ đồ đấu điện trong mạch điện
+00:31:22.169 ít ai Lấy một ví dụ đó là cái mạch loại
+00:31:24.870 1 thì mạch loại 1 thì chân một thường lý
+00:31:28.320 nguồn từ sấy và kochi
+00:31:30.470 chân hay thường đối với cảm biến âm hay
+00:31:35.190 còn gọi là gió lạnh chân ba tín đối với
+00:31:37.620 da không khí nhiệt độ đó chính là bộ
+00:31:40.380 điều chỉnh nhiệt độ và chân 4 thì thường
+00:31:41.940 đối với đồ lót của quần giọt như vậy
+00:31:44.070 chân một thì đang lấy nguồn từ sấy và
+00:31:46.049 cầu chì vậy nếu cầu chín thì bây giờ đất
+00:31:50.100 thì động cơ này mắt nguồn Nếu động cơ 5
+00:31:53.130 mất nguồn mà Zen đang nằm ở chế độ dài
+00:31:55.549 nếu Zen đang ở chế độ dài thì nằm nguyên
+00:31:58.260 trạng chế độ dài thế này đủ trong hoạt
+00:32:01.020 động trong thời gian dài mà không xây
+00:32:02.490 được thì sẽ dẫn ý là tiết bám kín bề mặt
+00:32:04.780 da biết bán kính về bản dàn
+00:32:07.920 ngủ kém lạnh dần rồi mắt lạnh nhưng nếu
+00:32:11.470 nằm nguyên trạng ở chế độ sai lầm Nguyễn
+00:32:14.680 Trãi ở trên cộng sản thì sẽ dẫn tới một
+00:32:16.330 cái tình trạng đã đen sáng tôi không vào
+00:32:19.000 đâu như vậy biểu hiện này cũng chung với
+00:32:22.330 biểu hiện hỏng cảm lâm chồng mới biểu
+00:32:25.240 hiện Hồng của ra thấy thời gian
+00:32:28.200 và về cách kiểm tra thì chúng ta chỉ
+00:32:30.580 dịch do cầu chì nhiệt thì tương tự cuộn
+00:32:33.670 dây dẫn do đó là cách kiểm tra chúng ta
+00:32:35.800 sẽ dùng cái đồng hồ vạn năng để tăng X1
+00:32:38.440 ôm và chúng ta sẽ tiến hành đo đo vào
+00:32:42.010 hai đầu dây của câu chi nếu Kim Liên
+00:32:44.350 thông mạch là tốt thì cũng nên nó không
+00:32:47.160 Đấy là đối với
+00:32:49.260 đồng chí nhật vì vậy không
+00:32:52.380 [âm nhạc]
+00:32:54.870 cầu chì nhiệt tương tự
+00:32:58.290 anh như một dây dẫn do đó thường hỏng ở
+00:33:00.840 trạng thái bị đứt ý khi bị đứt
+00:33:03.620 tủ lạnh sẽ khóa biểu hiện
+00:33:06.080 cầu chi tưởng hỏng giật đứt vào tủ lạnh
+00:33:09.390 có biểu hiện là không hoạt động hoặc
+00:33:13.070 hoạt động nhưng kém lạnh rồi mất mạng
+00:33:22.880 về cách kiểm tra
+00:33:25.370 khi ta trân dùng đồng hồ vạn năng
+00:33:28.310 để than đó ích 1 ôm
+00:33:31.280 và đo vào hai đầu của cầu chi
+00:33:35.360 nếu Kim không lên
+00:33:37.730 là cầu chí không
+00:33:40.910 Nếu Kim không lên là cầu trí học và nếu
+00:33:43.890 Kim lên là câu chi tốt à
+00:33:52.039 em về cách kiểm tra cách thay thế
+00:33:55.330 về thay thế thì khi thay thế về cầu chì
+00:33:58.700 thì ta phải dựa vào các thông số kỹ
+00:34:01.369 thuật được ghi trên thân và lắp đặt đúng
+00:34:03.799 vị trí thì đối với câu chi của chúng ta
+00:34:05.359 thì
+00:34:07.869 thương chồng ở trong cái tủ lạnh chúng
+00:34:10.699 ta đang sử dụng là cầu chì nghiệt với
+00:34:12.168 nhiệt độ là từ riêng 70 đến Dương 80 Còn
+00:34:16.069 đối với ở trong nồi cơm thì của sân sử
+00:34:20.899 dụng là từ 125 đến 155
+00:34:26.109 155 160 thì đối với ta phải thay đúng
+00:34:30.949 cái này thông số kỹ thuật Mình ghi trên
+00:34:32.329 thân và lắp đặt đúng vị trí và vị trí
+00:34:35.239 của cầu chì nhiệt hiện đang được lắp đặt
+00:34:36.799 ở vị trí giữa dàn
+00:34:39.730 về lưu ý
+00:34:42.699 chúng ta biết được là hồi trình nhật rất
+00:34:45.139 là khi nhiệt độ mà mặt rắn cao hơn giá
+00:34:47.780 trị nhiệt độ nghĩ chân thân và khi nào
+00:34:49.969 cao là khi sấy
+00:34:52.020 ở trạng thái giao trong trường hợp dài
+00:34:54.360 mà khi sấy trong trường hợp dài thì có
+00:34:57.450 thể là do -1 nghỉ học chính gây bệnh lý
+00:35:01.350 phát hiện cầu chì nhiệt nhất khi ta cần
+00:35:04.020 phải thay thế cảm biến âm cần phải thay
+00:35:06.780 thế cảm ngâm
+00:35:09.550 [âm nhạc]
+00:35:11.450 I may I
+00:35:14.230 bộ cảm biến âm và cầu chì nhiên
+00:35:17.340 thì tách rời thì trên thị trường ra còn
+00:35:20.380 gặp một cái loại cảm âm và cầu chỉ nhật
+00:35:22.000 thích hợp 2 trong 1 do đó
+00:35:24.869 ta cần phải xác định đúng và lắp đặt
+00:35:28.060 theo sơ đồ nhí sau thì đây là chúng ta
+00:35:30.400 nhìn vào đây là đối với cảm âm tổng hợp
+00:35:32.230 là nó có 3 bàn chân thì do vỏ là vỏ nhựa
+00:35:36.600 trắng trong nên chúng ta nhìn được thì
+00:35:40.330 thứ nhất ở trên chung chân còn lại của
+00:35:42.940 cảm biến âm thanh gọi là chất âm và chân
+00:35:44.800 còn lại là của đồng chí nhiên hàng gọi
+00:35:47.380 là chân dưỡng kỹ sơ đồ người ta nói sau
+00:35:50.400 trong mạch điện dù loại 12 loại 2 thì
+00:35:53.200 chân Trung này sẽ được nối với dân 1 của
+00:35:55.150 rơle thời gian đối với chân cầu chì thì
+00:35:59.320 đang được nối với sấy và chân cảm âm ý
+00:36:04.150 mà một ở đây chính là mạch điện sử dụng
+00:36:06.160 rơle thời gian loại 1 thì sẽ được nối
+00:36:08.530 với chân số 2 của Zara đối mạch lại 2m 2
+00:36:12.880 ngày chỉ là mạch loại 2i anh với nguồn
+00:36:15.080 cấp trước thì cái này thì chúng ta sẽ
+00:36:16.700 sang phần phân tích mạch điện thì sẽ nói
+00:36:18.320 rõ hơn thì sẽ hướng dẫn cho các em cách
+00:36:22.040 kiểm tra họ Dương hay còn gọi là cầu chi
+00:36:27.290 chi
+00:36:28.930 a đối với cầu chì Nhật
+00:36:32.130 thiết bị này đang được lắp đặt trong
+00:36:35.170 mạch điện tủ lạnh gián tiếp
+00:36:36.900 Khi hư hỏng tủ lạnh có biểu hiện
+00:36:41.040 một thủ không hóa độc chỉ mình đèn sáng
+00:36:45.480 hay tổ hoạt động nhưng kém lạnh dần rồi
+00:36:49.720 mát lạnh
+00:36:51.030 Nếu chúng ta tháo tấm xốp phía trước của
+00:36:54.490 bề mặt sàn và quan sát là mày thật rằng
+00:36:56.790 tiết bàn phím lại mặt chằm ta được gọi
+00:36:59.800 là hiện tượng bỏ ra à
+00:37:03.360 a đối với cầu chì
+00:37:05.840 Ừ thì chúng ta đang có các loại với cái
+00:37:08.570 giá trị nhiệt độ được ghi chân thân là
+00:37:12.890 từ Dương 70 đến Dương 80 mà chủ yếu
+00:37:16.970 trong tủ lạnh dùng nhiều rừng 73 dùng 76
+00:37:20.150 ạ
+00:37:22.350 Ừ vậy để kiểm tra
+00:37:24.940 a đối với cầu chì nhiệt kiểm tra như thế
+00:37:27.760 nào
+00:37:29.710 a
+00:37:30.839 đối với kiểm tra lúc này em dùng đồng hồ
+00:37:34.210 vạn năng để sang X1 ôm để ăn đòn không
+00:37:38.260 mạch
+00:37:42.970 khi chúng ta dùng hai QR đo vào hai dây
+00:37:48.390 của cầu chì nhiên
+00:37:50.610 nếu Kim lên trong mạch là cầu chì tốt
+00:37:56.040 nếu Kim không lên là cầu chì đang hỏng
+00:37:59.680 trạng thái đứt
+00:38:00.870 tay kiểm tra không của chị thứ hai a
+00:38:04.590 Em à nếu Kim không lên thì cầu chì đang
+00:38:07.530 học chẳng Thái mới đứt
+00:38:09.359 à à
+00:38:11.430 A và Khi cầu chì bị đứt thì về thay thế
+00:38:14.730 thì chúng ta cũng phải thay thế đúng chứ
+00:38:16.800 thông số kỹ thuật được ghi trên thân ví
+00:38:20.040 dụ như là Dương Bệnh 62 Dương 73 gạch và
+00:38:23.640 lắp đặt đúng vị trí ở dưới của bề mặt
+00:38:26.160 răng à
+00:38:27.589 ở đây là đối với tôi và bây giờ các em
+00:38:30.529 kiểm tra một số cầu chì cho thành Đấy là
+00:38:33.829 tôi một tính cách kiểm tra cấu chi thì
+00:38:37.579 đối với 12 học của ngày hôm nay thì thầy
+00:38:39.920 đá hướng dẫn cho cả lớp về công dụng về
+00:38:43.759 cấu tạo nguyên lý làm việc về một số
+00:38:46.789 những hư hỏng cách kiểm tra và thay thế
+00:38:49.369 đối với cảm biến âm và cầu chính Yên Bài
+00:38:53.119 học của chúng ta đến đây kết thúc hẹn
+00:38:56.450 gặp lại các bạn vào buổi học sau thì các
+00:38:58.579 bạn về nhà xem lại bài và kiện
+00:39:02.890 Xem lại bài học và chuẩn bị bài học mới
+00:39:05.900 sinh

@@ -5,6 +5,7 @@
   let keyHandler = null, spy = null;
 
   const CATS = [
+    { id: 'nguyen-ly', name: 'Nguyên lý làm lạnh', ready: true },
     { id: 'tu-lanh', name: 'Tủ lạnh', ready: true },
     { id: 'may-giat', name: 'Máy giặt', ready: true },
     { id: 'dieu-hoa', name: 'Điều hòa', ready: false }
@@ -17,6 +18,7 @@
     { id: 'sap-xep', name: '🔢 Sắp xếp các bước' }
   ];
   const ICONS = {
+    'nguyen-ly': '<svg class="ico" viewBox="0 0 96 96" aria-hidden="true"><rect x="12" y="14" width="26" height="20" rx="5" fill="var(--surface2)" stroke="var(--ink)" stroke-width="3"/><rect x="58" y="14" width="26" height="20" rx="5" fill="var(--warm)" fill-opacity=".25" stroke="var(--ink)" stroke-width="3"/><rect x="58" y="62" width="26" height="20" rx="5" fill="var(--surface2)" stroke="var(--ink)" stroke-width="3"/><rect x="12" y="62" width="26" height="20" rx="5" fill="var(--cold-tint)" stroke="var(--ink)" stroke-width="3"/><path d="M38 24H58M71 34V62M58 72H38M25 62V34" stroke="var(--cold)" stroke-width="3.5" fill="none" stroke-linecap="round"/></svg>',
     'tu-lanh': '<svg class="ico" viewBox="0 0 96 96" aria-hidden="true"><rect x="22" y="6" width="52" height="84" rx="9" fill="var(--cold-tint)" stroke="var(--ink)" stroke-width="3"/><path d="M22 36H74" stroke="var(--ink)" stroke-width="3"/><rect x="62" y="16" width="5" height="14" rx="2.5" fill="var(--ink)"/><rect x="62" y="46" width="5" height="22" rx="2.5" fill="var(--ink)"/><path d="M40 62l8-8 8 8M40 74l8-8 8 8" stroke="var(--cold)" stroke-width="3.5" fill="none" stroke-linecap="round"/></svg>',
     'may-giat': '<svg class="ico" viewBox="0 0 96 96" aria-hidden="true"><rect x="12" y="8" width="72" height="80" rx="10" fill="var(--surface2)" stroke="var(--ink)" stroke-width="3"/><path d="M12 26H84" stroke="var(--ink)" stroke-width="3"/><circle cx="48" cy="57" r="22" fill="var(--cold-tint)" stroke="var(--ink)" stroke-width="3"/><path d="M34 57q7-8 14 0t14 0" stroke="var(--cold)" stroke-width="3.5" fill="none" stroke-linecap="round"/><circle cx="24" cy="17" r="3" fill="var(--ink)"/><circle cx="35" cy="17" r="3" fill="var(--ink)"/></svg>',
     'dieu-hoa': '<svg class="ico" viewBox="0 0 96 96" aria-hidden="true"><rect x="6" y="18" width="84" height="34" rx="9" fill="var(--surface2)" stroke="var(--ink)" stroke-width="3"/><path d="M14 44H82" stroke="var(--ink)" stroke-width="3"/><path d="M26 62q-4 8 0 16M48 62q-4 8 0 16M70 62q-4 8 0 16" stroke="var(--cold)" stroke-width="3.5" fill="none" stroke-linecap="round"/></svg>'
@@ -69,7 +71,7 @@
     const all = inCat(cat), ready = all.filter(l => l.ready);
     const avg = ready.length ? Math.round(ready.reduce((s, l) => s + DL.percent(l), 0) / ready.length) : 0;
     main.innerHTML = `<div class="wrap"><div class="hero"><div class="sec-n">Chuyên mục</div><h1>${catName(cat)}</h1>
-      <p class="lead">${cat === 'may-giat' ? 'Từ phân loại, cấu tạo, phần điện – cơ, cách sử dụng đến phân tích mạch và sửa chữa. Mỗi bài có phần học và 4 dạng ôn luyện.' : 'Từ cấu tạo từng bộ phận đến cách kiểm tra, sửa chữa. Mỗi bài có phần học và 4 dạng ôn luyện.'}</p></div>
+      <p class="lead">${cat === 'nguyen-ly' ? 'Nền tảng của nghề lạnh: truyền nhiệt, 4 thiết bị chính và thiết bị phụ, môi chất, dầu lạnh, dụng cụ đo và kỹ thuật gia công ống. Mỗi bài có phần học và 4 dạng ôn luyện.' : cat === 'may-giat' ? 'Từ phân loại, cấu tạo, phần điện – cơ, cách sử dụng đến phân tích mạch và sửa chữa. Mỗi bài có phần học và 4 dạng ôn luyện.' : 'Từ cấu tạo từng bộ phận đến cách kiểm tra, sửa chữa. Mỗi bài có phần học và 4 dạng ôn luyện.'}</p></div>
       <div class="stats"><div class="stat"><b>${ready.length}/${all.length}</b><span>bài đã có</span></div><div class="stat"><b>${avg}%</b><span>tiến độ trung bình</span></div></div>
       <div class="lcards">${all.map(l => {
         const pct = l.ready ? DL.percent(l) : 0, tag = l.ready ? 'a' : 'div';

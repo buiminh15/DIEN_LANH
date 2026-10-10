@@ -35,7 +35,7 @@
   function renderSide(cat, activeId) {
     side.innerHTML = `<h2 class="side-h">${catName(cat)} · Các bài học</h2><ul class="lnav">${inCat(cat).map(l => {
       const pct = l.ready ? DL.percent(l) : 0;
-      return `<li><a class="${l.id === activeId ? 'on' : ''} ${l.ready ? '' : 'soon'}" href="#/${cat}/${l.id}"><span class="n">${l.id}</span>
+      return `<li><a class="${l.id === activeId ? 'on' : ''} ${l.ready ? '' : 'soon'}" href="#/${cat}/${l.id}"><span class="n">${l.id || "★"}</span>
         <span class="t">${esc(l.title)}<span class="s">${l.ready ? esc(l.sub || '') : 'Sắp có'}</span></span>
         <span class="st">${pct >= 100 ? '✓' : l.ready && pct ? pct + '%' : ''}</span></a></li>`;
     }).join('')}</ul>`;
@@ -73,7 +73,7 @@
       <div class="stats"><div class="stat"><b>${ready.length}/${all.length}</b><span>bài đã có</span></div><div class="stat"><b>${avg}%</b><span>tiến độ trung bình</span></div></div>
       <div class="lcards">${all.map(l => {
         const pct = l.ready ? DL.percent(l) : 0, tag = l.ready ? 'a' : 'div';
-        return `<${tag} ${l.ready ? `href="#/${cat}/${l.id}"` : ''} class="lcard ${l.ready ? '' : 'soon'}"><span class="num">Bài ${l.id}</span><h3>${esc(l.title)}</h3><p>${esc(l.sub || '')}</p>
+        return `<${tag} ${l.ready ? `href="#/${cat}/${l.id}"` : ''} class="lcard ${l.ready ? '' : 'soon'}"><span class="num">${l.id ? "Bài " + l.id : "Mở đầu"}</span><h3>${esc(l.title)}</h3><p>${esc(l.sub || '')}</p>
           <div class="bar"><i style="width:${pct}%"></i></div><div class="foot"><span>${l.ready ? '≈ ' + l.minutes + ' phút' : 'Sắp có'}</span><span>${l.ready ? pct + '%' : ''}</span></div></${tag}>`;
       }).join('')}</div></div>`;
   }
@@ -87,7 +87,7 @@
     if (tab === 'hoc') DL.setProgress(l.key, { visited: true });
     renderSide(cat, l.id);
     main.innerHTML = `<div class="wrap">
-      <div class="lhead"><div class="crumb"><a href="#/${cat}">${catName(cat)}</a> › Bài ${l.id}</div>
+      <div class="lhead"><div class="crumb"><a href="#/${cat}">${catName(cat)}</a> › ${l.id ? "Bài " + l.id : "Tổng quát"}</div>
         <h1>${esc(l.title)}</h1><p class="lead">${l.lead}</p>
         <div class="chips"><span class="chip">⏱ ≈ ${l.minutes} phút</span><span class="chip">🃏 ${l.flashcards.length} thẻ</span><span class="chip">✅ ${Math.min(l.quiz.length, l.quizSize || 12)} câu hỏi/lượt</span></div></div>
       <nav class="mtabs" aria-label="Phần bài học">${TABS.map(t => `<a class="mtab ${t.id === tab ? 'on' : ''}" href="#/${cat}/${l.id}/${t.id}">${t.name}</a>`).join('')}</nav>
@@ -127,7 +127,7 @@
     const [, cat, id, tab] = (location.hash || '#/').split('/');
     if (CATS.some(c => c.id === cat && c.ready)) id ? lessonPage(cat, id, tab) : hub(cat); else home();
     window.scrollTo(0, 0); main.focus({ preventScroll: true });
-    document.title = (id && lesson(cat, id) ? catName(cat) + ' · Bài ' + id + ' · ' : '') + 'Điện Lạnh – Học & Ôn luyện';
+    document.title = (id && lesson(cat, id) ? catName(cat) + ' · ' + (+id ? 'Bài ' + id : 'Tổng quát') + ' · ' : '') + 'Điện Lạnh – Học & Ôn luyện';
   }
 
   /* ---------- sự kiện chung ---------- */

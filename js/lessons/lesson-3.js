@@ -27,6 +27,36 @@
       <text class="lbl" x="160" y="396" text-anchor="middle">Dàn chìm: hai sườn + sau + ron cửa</text></svg>`;
   }
 
+  /* ============ Hình bổ sung: nhiệt độ dọc dàn, lắp đúng chiều ============ */
+  const PROF = {
+    ok: { n: 'Bình thường', pts: [95, 90, 84, 78, 72, 66, 60, 55, 50, 47, 45], note: 'Đầu dàn rất nóng, nguội dần, <b>cuối dàn ấm khoảng 40 – 50 °C</b>. Gas ra khỏi dàn là lỏng ấm.', cls: 'ok' },
+    part: { n: 'Tắc một phần', pts: [95, 90, 84, 78, 72, 66, 28, 26, 25, 25, 25], note: 'Sau điểm tắc gas bắt đầu sôi như qua van tiết lưu nên đoạn cuối <b>lạnh, đổ mồ hôi hoặc bám tuyết</b>, trong khi đầu dàn vẫn rất nóng.', cls: 'bad', block: .6 },
+    full: { n: 'Tắc toàn phần', pts: [95, 95, 94, 92, 60, 32, 30, 30, 30, 30, 30], note: 'Gas dồn ở <b>đầu dàn</b> (cắt ra thì xì mạnh), còn <b>cuối dàn trống</b>: không có gas nên không nóng.', cls: 'bad', block: .4 }
+  };
+  const profSvg = k => {
+    const P = PROF[k], X = i => 70 + i / 10 * 520, Y = t => 210 - t / 110 * 180;
+    const d = P.pts.map((t, i) => (i ? 'L' : 'M') + X(i) + ' ' + Y(t)).join('');
+    let s = '<svg viewBox="0 0 640 262" role="img" aria-label="Nhiệt độ dọc dàn nóng, tình trạng ' + P.n + '">';
+    s += '<rect x="70" y="' + Y(50) + '" width="520" height="' + (Y(40) - Y(50)) + '" fill="var(--ok)" opacity=".18"/><text class="lx-s" x="594" y="' + (Y(45) + 4) + '">40 – 50 °C</text>';
+    for (let t = 0; t <= 100; t += 20) s += '<path d="M70 ' + Y(t) + 'H590" class="lx-gl"/><text class="lx-s" x="62" y="' + (Y(t) + 4) + '" text-anchor="end">' + t + '</text>';
+    s += '<text class="lx-s" x="20" y="16">°C</text><text class="lx-s" x="70" y="246">đầu dàn (nối block)</text><text class="lx-s" x="590" y="246" text-anchor="end">cuối dàn (nối phin)</text>';
+    s += '<path d="' + d + '" fill="none" stroke="var(--hot)" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>';
+    if (P.block) s += '<path d="M' + X(P.block * 10) + ' 24V218" stroke="var(--ink)" stroke-width="3" stroke-dasharray="5 4"/><circle cx="' + X(P.block * 10) + '" cy="' + Y(P.pts[Math.round(P.block * 10)]) + '" r="9" fill="var(--bad)" stroke="var(--ink)" stroke-width="2.5"/><text class="lx-t" x="' + (X(P.block * 10) + 12) + '" y="38">điểm tắc</text>';
+    return s + '</svg>';
+  };
+  const orientSvg = ok => {
+    const path = 'M120 40H260V80H120V120H260V160H120V200H260V240';
+    return '<svg viewBox="-110 0 640 290" role="img" aria-label="Dàn nóng đặt đứng, lắp ' + (ok ? 'đúng' : 'ngược') + ' chiều">' +
+      '<rect x="90" y="20" width="200" height="240" rx="12" fill="var(--surface2)" stroke="var(--ink)" stroke-width="2.5"/>' +
+      '<path d="' + path + '" fill="none" stroke="' + (ok ? 'var(--hot)' : 'var(--bad)') + '" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>' +
+      '<path class="lx-fw' + (ok ? '' : ' rev') + '" d="' + path + '" fill="none"/>' +
+      '<path d="M120 40H60" class="lx-pp"/><path d="M260 240H330" class="lx-pp"/>' +
+      '<text class="lx-t" x="56" y="34" text-anchor="end">' + (ok ? 'B: vào (từ block)' : 'ra (tới phin)') + '</text>' +
+      '<text class="lx-t" x="334" y="256">' + (ok ? 'A: ra (tới phin)' : 'vào (từ block)') + '</text>' +
+      (ok ? '<text class="lx-s" x="320" y="120">hơi nóng đi từ trên xuống,</text><text class="lx-s" x="320" y="136">lỏng chảy xuôi xuống thấp</text>' : '<text class="lx-s" x="320" y="120" style="fill:var(--bad)">lỏng phải bị đẩy ngược lên cao</text><text class="lx-s" x="320" y="136" style="fill:var(--bad)">→ block nặng tải</text>') +
+      '</svg>';
+  };
+
   function learn() {
     return `
 <section class="sec" id="s-role" data-toc="1 · Vai trò">
@@ -50,6 +80,8 @@
   <div class="sec-n">Phần 3</div><h2>Dàn nóng hỏng ở dạng nào?</h2>
   <p>Dàn nóng thường hỏng theo <b>3 dạng</b>. Bấm để xem biểu hiện:</p>
   <div id="fTabs"></div><article class="panel hotc" id="fPanel" aria-live="polite"></article>
+  <h3 style="margin-top:22px">Nhiệt độ dọc dàn theo từng tình trạng</h3>
+  <div class="stage lx-st" id="profBox"><div class="row" id="profBtns" role="group" aria-label="Tình trạng dàn nóng" style="margin-bottom:8px"></div><div class="nl1-scroll"><div id="profSvg"></div></div><p class="nl1-swipe muted">Vuốt ngang để xem hết biểu đồ ↔</p><div class="verdict" id="profV" aria-live="polite" style="margin-top:8px"></div><p class="muted" style="font-size:13px;margin:8px 0 0">Hình minh họa dạng đường nhiệt độ; chỉ các mốc 90 – 100 °C ở đầu dàn và 40 – 50 °C ở cuối dàn bình thường lấy từ bài giảng.</p></div>
   <div class="callout"><span class="ic">🌡️</span><div><b class="t">Nhiệt độ bình thường dọc dàn</b><p>Đầu dàn rất nóng (có thể khoảng <b>90 – 100 °C</b>), càng về cuối càng nguội dần, cuối dàn còn <b>ấm khoảng 40 – 50 °C</b>. Nếu cuối dàn <b>lạnh, đổ mồ hôi hoặc bám tuyết</b> → có điểm tắc một phần ngay phía trước đó (chỗ tắc hoạt động như một van tiết lưu).</p></div></div>
 </section>
 
@@ -79,6 +111,7 @@
     <div class="row"><label>Dung tích tủ <input id="vol" type="number" min="50" max="600" value="250" class="btn sm" style="width:100px;min-height:40px;text-align:center"> lít</label><b id="volOut" style="font:700 28px var(--head)"></b></div>
     <p class="muted" style="font-size:14px;margin:8px 0 0">VD tủ 250 L ≈ 21 đốt: mua 1 dàn 14 đốt + 1 dàn 6 – 7 đốt hoặc 2 dàn ~10 – 11 đốt <b>mắc song song</b>.</p></div>
   <h3 style="margin-top:26px">Lắp đúng chiều</h3>
+  <div class="stage lx-st"><div class="row" role="group" aria-label="Chiều lắp"><button class="btn pri sm" id="orOk" aria-pressed="true">✓ Lắp đúng</button><button class="btn sm" id="orBad" aria-pressed="false">✗ Lắp ngược</button></div><div class="lx-or" id="orFig"></div></div>
   ${U.steps([['Dàn đặt đứng: đầu vào ở trên', 'Đầu <b>B</b> (ống thẳng lên trên) nối ống đẩy block; đầu <b>A</b> ở dưới là cuối dàn, nối phin lọc. Hơi nóng đi từ trên xuống, gas lỏng chảy từ cao xuống thấp nên đỡ tải cho block.'], ['Lắp ngược sẽ làm sao?', 'Gas lỏng phải bị đẩy ngược lên cao rồi mới quay xuống → block nặng tải. Nên phải lắp đúng chiều.'], ['Dàn đặt nằm ngang', 'Không cần quan tâm đâu là đầu, đâu là cuối.'], ['Ghép 2 dàn song song', 'Cách nhau khoảng <b>1,5 – 2 cm</b> ở phía sau tủ; gom hai đầu vào chung một đường vào, hai đầu ra gom lại nối phin.'], ['Trước khi thay dàn tắc', 'Phải <b>súc rửa dầu và cặn bẩn</b> trong block và hệ thống, nếu không cặn còn lại sẽ tiếp tục gây tắc.']])}
 </section>
 
@@ -130,6 +163,14 @@
       cv.innerHTML = `Nhiệt độ ≈ <b style="color:${state[1]}">${T} °C</b> · trạng thái: <b>${state[0]}</b> · áp suất ≈ <b>8 bar</b> (cao). Gas đang <b>tỏa nhiệt</b> ra môi trường.`;
     }
     cp.oninput = cond; cond();
+    // biểu đồ nhiệt độ dọc dàn
+    const pb = $('#profBtns', root);
+    pb.innerHTML = Object.entries(PROF).map(([k, v]) => '<button type="button" class="btn sm" data-k="' + k + '" aria-pressed="false">' + v.n + '</button>').join('');
+    const pset = k => { $('#profSvg', root).innerHTML = profSvg(k); const v = $('#profV', root); v.className = 'verdict ' + PROF[k].cls; v.innerHTML = PROF[k].note; $$('button', pb).forEach(b => { const on = b.dataset.k === k; b.classList.toggle('pri', on); b.setAttribute('aria-pressed', on); }); };
+    $$('button', pb).forEach(b => b.onclick = () => pset(b.dataset.k)); pset('ok');
+    // chiều lắp dàn
+    const oset = ok => { $('#orFig', root).innerHTML = orientSvg(ok); $('#orOk', root).classList.toggle('pri', ok); $('#orBad', root).classList.toggle('pri', !ok); $('#orOk', root).setAttribute('aria-pressed', ok); $('#orBad', root).setAttribute('aria-pressed', !ok); };
+    $('#orOk', root).onclick = () => oset(true); $('#orBad', root).onclick = () => oset(false); oset(true);
     // 2. Phân loại
     U.tabset($('#kindTabs', root), [{ id: 'out', name: 'Dàn nổi', sub: 'lộ phía sau tủ' }, { id: 'in', name: 'Dàn chìm', sub: 'ẩn trong vỏ tủ' }], id => {
       const k = KINDS[id]; $('#kindSvg', root).innerHTML = backSVG(id);

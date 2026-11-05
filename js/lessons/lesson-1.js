@@ -116,6 +116,37 @@
       <text class="lbl" x="150" y="182" text-anchor="middle">${Math.round(v)} psi</text></svg>`;
   }
 
+  /* ============ Hình bổ sung (sơ đồ vị trí hỏng, thử kín, sửa keo) ============ */
+  const lxSv = (w, h, b, l) => `<svg viewBox="0 0 ${w} ${h}" role="img" aria-label="${l}">${b}</svg>`;
+  const lxPipe = (d, c) => `<path d="${d}" fill="none" stroke="var(--${c})" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>`;
+  const badge = (x, y) => `<g class="lx-bd"><circle cx="${x}" cy="${y}" r="12"/><text x="${x}" y="${y + 5}" text-anchor="middle">!</text></g>`;
+  const LOOP_F = lxSv(640, 270, `
+    <g class="lx-pipes">${lxPipe('M540 130V66H400', 'hot')}${lxPipe('M240 66H110V130', 'warm')}${lxPipe('M110 130V204H240', 'cold')}${lxPipe('M400 204H540V130', 'cold-l')}</g>
+    <path class="lx-flow" d="M540 130V66H110V204H540V130"/>
+    <g class="lx-n"><circle cx="540" cy="130" r="30"/><text x="540" y="135" text-anchor="middle">Máy nén</text></g>
+    <g class="lx-dv" data-f="cond" tabindex="0" role="button" aria-label="Dàn nóng"><rect x="236" y="42" width="168" height="48" rx="9"/><path d="M240 66L254 50L276 82L298 50L320 82L342 50L364 82L386 50L400 66" fill="none" stroke="var(--hot)" stroke-width="5" stroke-linejoin="round"/><text x="320" y="110" text-anchor="middle">② Dàn nóng</text>${badge(404, 42)}</g>
+    <g class="lx-dv" data-f="evap" tabindex="0" role="button" aria-label="Dàn lạnh"><rect x="236" y="180" width="168" height="48" rx="9"/><path d="M240 204L254 188L276 220L298 188L320 220L342 188L364 220L386 188L400 204" fill="none" stroke="var(--cold)" stroke-width="5" stroke-linejoin="round"/><text x="320" y="252" text-anchor="middle">④ Dàn lạnh</text>${badge(404, 180)}</g>
+    <g class="lx-dv" data-f="filter" tabindex="0" role="button" aria-label="Phin lọc"><rect x="146" y="52" width="58" height="28" rx="13"/><path d="M168 56V76M176 56V76" stroke="var(--ink)" stroke-width="2" stroke-dasharray="3 3"/><text x="175" y="40" text-anchor="middle">Phin lọc</text>${badge(204, 52)}</g>
+    <g class="lx-dv" data-f="cap" tabindex="0" role="button" aria-label="Ống mao"><path d="M110 108C122 108 122 120 110 120S98 132 110 132 122 144 110 144 98 156 110 156" fill="none" stroke="var(--brass)" stroke-width="4"/><text x="132" y="136">③ Ống mao</text>${badge(122, 104)}</g>`, 'Vòng gas của tủ lạnh: dấu chấm than đánh dấu bộ phận có thể hỏng');
+
+  const LEAK_FIG = lxSv(640, 240, `
+    <text class="lx-t" x="150" y="22" text-anchor="middle">① Bơm nitơ, theo dõi kim</text><text class="lx-t" x="470" y="22" text-anchor="middle">② Nhúng nước, tìm bọt khí</text>
+    <path d="M90 60H200A16 16 0 0 1 200 92H90A16 16 0 0 0 90 124H200A16 16 0 0 1 200 156H90" fill="none" stroke="var(--cold)" stroke-width="7" stroke-linecap="round"/>
+    <rect x="62" y="40" width="30" height="30" rx="5" fill="var(--ink)"/><text class="lx-s" x="78" y="86" text-anchor="middle">hàn kín</text>
+    <path d="M90 156H60" stroke="var(--cold)" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="120" cy="206" r="26" class="lx-g"/><path d="M120 206L136 188" stroke="var(--hot)" stroke-width="4" stroke-linecap="round"/><circle cx="120" cy="206" r="4" fill="var(--ink)"/><path d="M120 180V156" stroke="var(--ink)" stroke-width="4"/>
+    <text class="lx-s" x="170" y="212">đồng hồ: 300 psi</text><text class="lx-s" x="214" y="170" text-anchor="start">nitơ</text>
+    <rect x="330" y="46" width="280" height="170" rx="10" fill="var(--cold-tint)" stroke="var(--ink)" stroke-width="2.5"/><text class="lx-s" x="470" y="208" text-anchor="middle">nước</text>
+    <path d="M360 90H540A16 16 0 0 1 540 122H380A16 16 0 0 0 380 154H540" fill="none" stroke="var(--brass)" stroke-width="7" stroke-linecap="round"/><circle cx="470" cy="90" r="5" fill="var(--bad)"/>
+    ${[0, 1, 2, 3].map(i => `<circle class="lx-bub" style="animation-delay:${i * .45}s" cx="${470 + (i % 2 ? 5 : -4)}" cy="86" r="${3 + i % 2}"/>`).join('')}
+    <text class="lx-s" x="474" y="70" style="fill:var(--bad)">bọt khí = chỗ thủng</text>`, 'Hai bước tìm chỗ thủng: bơm nitơ theo dõi kim đồng hồ, rồi nhúng nước tìm bọt khí');
+
+  const EPOXY_FIG = `<div class="stage lx-st"><div class="lx-ep">${[
+    ['1', 'Chà nhám', `<rect x="10" y="50" width="160" height="30" rx="6" class="lx-tube"/><path d="M80 50V80" stroke="var(--bg)" stroke-width="10"/><path d="M30 38L50 58M44 38L64 58M58 38L78 58" stroke="var(--muted)" stroke-width="2.5"/><rect x="104" y="30" width="56" height="14" rx="3" fill="var(--warm)" opacity=".6"/>`],
+    ['2', 'Che lỗ bằng lá nhôm', `<rect x="10" y="50" width="160" height="30" rx="6" class="lx-tube"/><path d="M80 50V80" stroke="var(--bg)" stroke-width="10"/><rect x="58" y="42" width="48" height="12" rx="3" fill="#C9D1D6" stroke="var(--ink)" stroke-width="2"/>`],
+    ['3', 'Phủ keo Epoxy', `<rect x="10" y="50" width="160" height="30" rx="6" class="lx-tube"/><path d="M50 50C50 24 114 24 114 50Z" fill="var(--warm)" stroke="var(--ink)" stroke-width="2"/><rect x="58" y="42" width="48" height="12" rx="3" fill="#C9D1D6" opacity=".7"/>`]
+  ].map(p => `<figure><svg viewBox="0 0 180 100" role="img" aria-label="${p[1]}">${p[2]}</svg><figcaption><b>${p[0]}</b> ${p[1]}</figcaption></figure>`).join('')}</div></div>`;
+
   /* ============ HTML bài học ============ */
   const steps = (arr) => `<ol class="steps">${arr.map(s => `<li tabindex="0"><div><b>${s[0]}</b><span>${s[1]}</span></div></li>`).join('')}</ol><div class="prog"><span class="pc">Đã làm 0/${arr.length} bước</span><div class="bar"><i style="width:0"></i></div><span class="muted">(bấm vào từng bước để đánh dấu)</span></div>`;
 
@@ -153,6 +184,7 @@
 <section class="sec" id="s-fault" data-toc="3 · Hư hỏng thường gặp">
   <div class="sec-n">Phần 3</div><h2>Dàn lạnh hay hỏng ở đâu?</h2>
   <p>Khi tủ <b>chạy nhưng không lạnh</b>, nguyên nhân có thể nằm ở bất kỳ bộ phận nào trên vòng gas. Bấm vào từng bộ phận để xem kiểu hỏng của nó.</p>
+  <div class="stage lx-st" id="lfBox" data-sel="evap">${LOOP_F}<p class="muted" style="font-size:13.5px;margin:4px 8px 6px">Dấu ! đánh dấu bộ phận có thể hỏng. Bấm vào bộ phận trên hình hoặc ở thẻ bên dưới.</p></div>
   <div class="tabs" id="faultTabs">
     <button class="tab" type="button" data-f="evap" aria-pressed="true"><b>4</b><span>Dàn lạnh</span></button>
     <button class="tab" type="button" data-f="cond" aria-pressed="false"><b>2</b><span>Dàn nóng</span></button>
@@ -170,6 +202,8 @@
   <h3 style="margin-top:22px">Quy trình theo từng loại tủ</h3>
   <div class="tabs" id="testTabs">${TYPES.map((t, i) => `<button class="tab" type="button" data-t="${t.id}" aria-pressed="${i === 0}"><b>${t.n}</b><span>${t.name}</span></button>`).join('')}</div>
   <div id="testSteps"></div>
+  <h3 style="margin-top:28px">Hai cách tìm chỗ thủng</h3>
+  <div class="stage lx-st">${LEAK_FIG}</div>
 
   <h3 style="margin-top:34px">Mô phỏng đồng hồ áp suất</h3>
   <p>Bơm nitơ vào dàn đến <b>200–300 psi</b> (đã hàn kín một đầu, nối đồng hồ ở đầu kia). Chọn tình huống rồi bấm “Bắt đầu theo dõi” để xem kim đồng hồ.</p>
@@ -284,9 +318,10 @@
 
     // phần 3: hư hỏng
     const ft = $('#faultTabs', root), fp = $('#faultPanel', root);
-    const showFault = k => { const f = FAULTS[k]; fp.className = 'panel ' + f.c; fp.innerHTML = `<h3>${f.h}</h3>${f.b}`; };
+    const showFault = k => { const f = FAULTS[k]; $('#lfBox', root).dataset.sel = k; fp.className = 'panel ' + f.c; fp.innerHTML = `<h3>${f.h}</h3>${f.b}`; };
     ft.onclick = e => { const b = e.target.closest('.tab'); if (!b) return; pressed(ft, b); showFault(b.dataset.f); };
     showFault('evap');
+    $$('.lx-dv', root).forEach(g => { const go = () => { const b = $('.tab[data-f="' + g.dataset.f + '"]', ft); if (b) b.click(); }; g.addEventListener('click', go); g.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); go(); } }); });
 
     // phần 4: quy trình + đồng hồ
     const tst = $('#testTabs', root), tbox = $('#testSteps', root);
@@ -317,7 +352,7 @@
 
     // phần 5: sửa chữa
     const xt = $('#fixTabs', root), xb = $('#fixBody', root);
-    const showFix = k => { const f = FIX[k]; xb.innerHTML = `<article class="panel warm"><h3>${f.t}</h3><p>${f.tip}</p></article>${steps(f.s)}`; bindSteps(xb); };
+    const showFix = k => { const f = FIX[k]; xb.innerHTML = `<article class="panel warm"><h3>${f.t}</h3><p>${f.tip}</p></article>${k === 'epoxy' ? EPOXY_FIG : ''}${steps(f.s)}`; bindSteps(xb); };
     xt.onclick = e => { const b = e.target.closest('.tab'); if (!b) return; pressed(xt, b); showFix(b.dataset.x); };
     showFix('epoxy');
   }

@@ -14,12 +14,46 @@
 
   const HP = [['1/12 HP', '≈ 60 W', '0,4 – 0,5 A', 'tủ nhỏ'], ['1/10 HP', '≈ 75 W', '0,7 – 0,8 A', 'tủ ~ 125 – 200 L'], ['1/8 HP', '≈ 92 W', '0,8 – 0,9 A', 'tủ ~ 160 – 250 L'], ['1/6 HP', '≈ 120 W', '0,9 – 1,0 A', 'tủ ~ 180 – 250 L'], ['1/5 HP', '≈ 147 W', '1,1 – 1,2 A', 'tủ ~ 200 – 280 L']];
 
+  /* ============ Hình bổ sung: mặt cắt block, quy trình thay dầu ============ */
+  const BLOCK_FIG = `<svg viewBox="0 0 380 320" role="img" aria-label="Mặt cắt block tủ lạnh: vỏ hàn kín, phần điện ở trên, phần cơ và dầu ở dưới, ba ống, ba chân điện">
+    <g class="lx-z" data-k="shell"><path d="M96 54H284Q326 54 326 96V252Q326 296 284 296H96Q54 296 54 252V96Q54 54 96 54Z" class="lx-shell"/><path d="M54 150Q190 166 326 150" class="lx-weld"/>
+      <path d="M150 54V12" stroke="var(--cold-l)" stroke-width="8" stroke-linecap="round"/><path d="M190 54V12" stroke="var(--hot)" stroke-width="8" stroke-linecap="round"/><path d="M230 54V12" stroke="var(--warm)" stroke-width="8" stroke-linecap="round"/>
+      <text class="lx-s" x="150" y="8" text-anchor="middle">hút</text><text class="lx-s" x="190" y="8" text-anchor="middle">đẩy</text><text class="lx-s" x="232" y="8" text-anchor="start">công nghệ</text></g>
+    <g class="lx-z" data-k="elec"><rect x="96" y="80" width="188" height="64" rx="8" class="lx-stator"/>
+      <rect x="104" y="88" width="30" height="48" rx="5" class="lx-coil"/><rect x="246" y="88" width="30" height="48" rx="5" class="lx-coil"/><rect x="152" y="92" width="76" height="40" rx="6" class="lx-rotor"/>
+      <path d="M186 132V230" stroke="var(--ink)" stroke-width="8"/>
+      <rect x="326" y="92" width="26" height="62" rx="6" class="lx-term"/>${[['C', 104], ['R', 122], ['S', 140]].map(p => `<circle cx="339" cy="${p[1]}" r="5" fill="var(--brass)" stroke="var(--ink)" stroke-width="1.5"/><text class="lx-s" x="360" y="${p[1] + 4}">${p[0]}</text>`).join('')}
+      <text class="lx-t" x="190" y="72" text-anchor="middle">động cơ (stato + rô-to)</text></g>
+    <g class="lx-z" data-k="mech"><rect x="214" y="190" width="84" height="46" rx="6" class="lx-cyl"/><rect class="lx-pist" x="222" y="200" width="30" height="26" rx="3"/>
+      <circle cx="186" cy="214" r="16" class="lx-crank"/><path d="M186 214L222 213" stroke="var(--ink)" stroke-width="4"/>
+      <path d="M298 196V232" stroke="var(--warm)" stroke-width="6" stroke-dasharray="2 3"/>
+      <rect x="62" y="252" width="256" height="38" rx="10" class="lx-oil"/><text class="lx-t" x="124" y="276" text-anchor="middle">dầu</text>
+      <text class="lx-s" x="256" y="184" text-anchor="middle">pít-tông – xi-lanh – lá van</text></g>
+    <path d="M70 160Q82 168 70 176T70 192" fill="none" stroke="var(--muted)" stroke-width="3"/><path d="M310 160Q298 168 310 176T310 192" fill="none" stroke="var(--muted)" stroke-width="3"/>
+    <text class="lx-s" x="190" y="312" text-anchor="middle">lò xo chống rung treo cả cụm trong vỏ</text></svg>`;
+
+  const oilFig = st => {
+    const base = `<defs><marker id="lxa" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L10 5L0 10z" fill="var(--warm)"/></marker></defs>`;
+    if (st === 1) return `<svg viewBox="0 0 620 230" role="img" aria-label="Xả dầu cũ: nghiêng block, đổ dầu ra theo ống hút vào hộp">${base}
+      <g transform="rotate(62 190 110)"><rect x="110" y="50" width="160" height="120" rx="40" class="lx-shell"/><rect x="118" y="124" width="144" height="38" rx="14" class="lx-oil"/><path d="M200 50V20" stroke="var(--cold-l)" stroke-width="8" stroke-linecap="round"/><path d="M230 50V28" stroke="var(--warm)" stroke-width="7" stroke-linecap="round"/></g>
+      <path class="lx-drip" d="M246 36C268 56 286 120 292 180" fill="none" stroke="var(--warm)" stroke-width="5" stroke-linecap="round"/>
+      <path d="M262 186H356L348 224H270Z" class="lx-cup"/><rect x="272" y="206" width="76" height="16" fill="var(--warm)" opacity=".6"/><text class="lx-s" x="310" y="178" text-anchor="middle">hộp đựng dầu cũ</text>
+      <text class="lx-t" x="376" y="64">Nghiêng block,</text><text class="lx-t" x="376" y="84">đổ dầu theo ống hút</text><text class="lx-s" x="376" y="106">ống hút thông khoang dầu</text></svg>`;
+    return `<svg viewBox="0 0 620 230" role="img" aria-label="Hút dầu mới: ống hút nhúng vào hộp dầu, bịt ống công nghệ bằng tay, block tự hút dầu">${base}
+      <rect x="250" y="70" width="160" height="120" rx="40" class="lx-shell"/><rect x="258" y="152" width="144" height="30" rx="12" class="lx-oil lx-rise"/>
+      <path d="M290 70V40H110V176" fill="none" stroke="var(--cold-l)" stroke-width="7" stroke-linecap="round"/><path class="lx-up" d="M110 176V40H290V74" fill="none" stroke="var(--warm)" stroke-width="4" stroke-linecap="round"/>
+      <path d="M62 150H158L150 200H70Z" class="lx-cup"/><rect x="72" y="172" width="76" height="26" fill="var(--warm)" opacity=".75"/><text class="lx-s" x="110" y="216" text-anchor="middle">hộp dầu mới</text>
+      <path d="M370 70V44" stroke="var(--warm)" stroke-width="7" stroke-linecap="round"/><text x="354" y="34" font-size="30">👆</text><text class="lx-s" x="412" y="40">bịt ống công nghệ</text>
+      <text class="lx-t" x="430" y="120">Block chạy, tự hút dầu</text><text class="lx-s" x="430" y="142">không bịt thì chỉ hút khí</text></svg>`;
+  };
+
   function learn() {
     return `
 <section class="sec" id="s-over" data-toc="1 · Kiểm tra gì?">
   <div class="sec-n">Phần 1</div><h2>Block tốt hay xấu? Kiểm tra 3 phần</h2>
   <p>Block (máy nén kín) được ví như <b>trái tim</b> của tủ lạnh. Block yếu thì tủ kém lạnh, tốn điện, giảm tuổi thọ. Block gồm 3 phần nên ta kiểm tra theo 3 phần: <b>vỏ → điện → cơ</b>.</p>
-  <div class="tabs" id="chkTabs"></div><article class="panel" id="chkPanel" aria-live="polite"></article>
+  <div class="lx-bk"><div class="stage lx-st lx-blk" id="blkBox" data-sel="shell">${BLOCK_FIG}</div>
+  <div><div class="tabs" id="chkTabs"></div><article class="panel" id="chkPanel" aria-live="polite"></article></div></div>
   <div class="callout mem"><span class="ic">🧠</span><div><b class="t">Mẹo nhớ: “Vỏ – Điện – Cơ”</b><p>Kiểm tra từ <b>ngoài vào trong</b>, từ <b>dễ đến khó</b>: nhìn vỏ (miễn phí) → đo điện bằng đồng hồ vạn năng → thử cơ bằng đồng hồ áp suất.</p></div></div>
   <div class="callout"><span class="ic">📚</span><div><b class="t">Nên học trước</b><p>Cấu tạo, nguyên lý và cách xác định chân C – R – S của block nằm ở <a href="#/tu-lanh/5">Bài 5</a>. Nếu chưa vững, hãy xem Bài 5 trước.</p></div></div>
 </section>
@@ -65,6 +99,7 @@
   <div class="sec-n">Phần 4</div><h2>Thay dầu cho block</h2>
   <p>Bình thường <b>không cần</b> thay dầu (dầu nhớt cao, hao ít). Chỉ thay khi: <b>sửa dàn lạnh/hệ thống</b> làm dầu nhiễm bẩn, <b>dầu bị ẩm sinh axit</b>, hoặc <b>đổi loại gas</b> (phải đổi dầu tương ứng).</p>
   <h3>Quy trình</h3>
+  <div class="stage lx-st" id="oilBox"><div class="row" role="group" aria-label="Giai đoạn"><button class="btn pri sm" id="oil1" aria-pressed="true">1 · Xả dầu cũ</button><button class="btn sm" id="oil2" aria-pressed="false">2 · Hút dầu mới</button></div><div id="oilFig" style="margin-top:8px"></div></div>
   ${U.steps([['Xả dầu cũ', 'Block piston hút gián tiếp – đẩy trực tiếp nên ống hút và ống công nghệ <b>thông với khoang dầu</b>. Nghiêng block, đổ dầu ra theo ống hút vào hộp đựng.'], ['Thổi sạch', 'Bơm khí nén nhẹ vào để đẩy hết dầu và cặn bẩn còn lại (giống tháo ốc xả dầu xe máy).'], ['Chuẩn bị dầu mới', 'Đúng loại với gas đang dùng (VD gas R134a → dầu tương ứng). Dầu phải sạch.'], ['Hút dầu vào', 'Nối ống nhựa từ <b>ống hút</b> xuống hộp dầu, <b>lấy tay bịt ống công nghệ</b>, cho block chạy để tự hút dầu vào (dầu nặng hơn không khí, không bịt thì chỉ hút khí).'], ['Kiểm tra lượng dầu', 'Đủ lượng thì ngắt nguồn. Thừa dầu: tràn sang dàn lạnh làm giảm năng suất. Thiếu dầu: bôi trơn và làm mát kém.']])}
   <h3 style="margin-top:28px">🧮 Tính lượng dầu cần nạp</h3>
   <div class="panel" style="border-left-color:var(--cold)"><p><b>Thay dầu nhưng giữ block cũ:</b> nạp = lượng dầu đã xả + <b>1/6</b> (bù lượng hao trong quá trình chạy).</p>
@@ -116,7 +151,11 @@
       elec: ['② Phần điện', '<ul><li>Đo điện trở cuộn dây (x1 Ω).</li><li>Đo cách điện cuộn dây – vỏ (x10k).</li><li>Cấp nguồn, kẹp dòng làm việc.</li></ul>'],
       mech: ['③ Phần cơ', '<ul><li>Áp suất đẩy (và sức hút).</li><li>Độ kín của lá van.</li><li>Sức khởi động khi có tải.</li></ul>']
     };
-    U.tabset($('#chkTabs', root), [{ id: 'shell', n: '①', name: 'Vỏ' }, { id: 'elec', n: '②', name: 'Điện' }, { id: 'mech', n: '③', name: 'Cơ' }], id => { $('#chkPanel', root).innerHTML = `<h3>${CHK[id][0]}</h3>${CHK[id][1]}`; });
+    U.tabset($('#chkTabs', root), [{ id: 'shell', n: '①', name: 'Vỏ' }, { id: 'elec', n: '②', name: 'Điện' }, { id: 'mech', n: '③', name: 'Cơ' }], id => { $('#blkBox', root).dataset.sel = id; $('#chkPanel', root).innerHTML = `<h3>${CHK[id][0]}</h3>${CHK[id][1]}`; });
+    $$('.lx-z', root).forEach(g => { g.style.cursor = 'pointer'; g.addEventListener('click', () => { const b = $('#chkTabs .tab[data-id="' + g.dataset.k + '"]', root); if (b) b.click(); }); });
+    // thay dầu: hai giai đoạn
+    const oilSet = n => { $('#oilFig', root).innerHTML = oilFig(n); [1, 2].forEach(i => { $('#oil' + i, root).classList.toggle('pri', i === n); $('#oil' + i, root).setAttribute('aria-pressed', i === n); }); };
+    $('#oil1', root).onclick = () => oilSet(1); $('#oil2', root).onclick = () => oilSet(2); oilSet(1);
     // Phần 2: phòng đo điện
     U.motorLab($('#lab', root), 'diagnose');
     // Phần 3: áp suất đẩy

@@ -54,6 +54,15 @@
 
   function learn() {
     return `
+<div class="nl1-idea">
+  <p class="nl1-idea-t">Tủ lạnh không “sinh ra lạnh”. Nó <b>lấy nhiệt</b> từ thực phẩm trong tủ rồi <b>thải nhiệt</b> ra phòng.</p>
+  <div class="nl1-flow" aria-label="Nhiệt đi từ trong tủ, qua gas, ra ngoài phòng">
+    <div class="nl1-fb cold"><b>Trong tủ</b><span>thực phẩm mất nhiệt → lạnh đi</span></div><i aria-hidden="true">→</i>
+    <div class="nl1-fb mid"><b>Gas chạy vòng kín</b><span>chở nhiệt đi</span></div><i aria-hidden="true">→</i>
+    <div class="nl1-fb hot"><b>Sau lưng tủ</b><span>dàn nóng tỏa nhiệt ra phòng</span></div>
+  </div>
+</div>
+
 <section class="sec" id="s-idea" data-toc="1 · Ý tưởng chính">
   <div class="sec-n">Phần 1</div><h2>Tủ lạnh không “sinh ra lạnh” — nó chuyển nhiệt</h2>
   <p>Gas lạnh chạy <b>một vòng kín</b> qua <b>bốn bộ phận</b>. Mỗi vòng chuyển một ít <b>nhiệt từ trong tủ ra ngoài phòng</b>. Bấm vào từng bộ phận để xem nó làm gì.</p>
@@ -81,7 +90,7 @@
 <section class="sec" id="s-map" data-toc="4 · Các bài sau">
   <div class="sec-n">Phần 4</div><h2>Bản đồ các bài học tiếp theo</h2>
   <p>Bài tổng quát cho bạn bức tranh lớn. Các bài sau đi sâu từng bộ phận:</p>
-  <ul><li><b>Bài 1 – 4</b>: dàn lạnh, động cơ block, dàn nóng, phin lọc & ống mao</li><li><b>Bài 5 – 13</b>: block, rơle, sò lạnh, tụ, xả tuyết, phụ tải</li><li><b>Bài 14 – 15</b>: mạch điện tủ trực tiếp, gián tiếp</li><li><b>Bài 16 – 17</b>: cân cáp, chân không, nạp gas</li></ul>
+  <div class="lx-map" id="lxMap"></div>
 </section>
 
 <section class="sec" id="s-recap" data-toc="5 · Tóm tắt">
@@ -116,6 +125,15 @@
       else { r.className = 'verdict'; r.textContent = `Ở ${t.toFixed(0)} °C: gas không đủ lạnh để hút nhiệt từ ngăn đá, cũng không đủ nóng để nhả nhiệt ra phòng. Hãy kéo về áp thấp (≈0,65) hoặc áp cao (≈4,5).`; }
     };
     pr.oninput = pd; pd();
+    // bản đồ bài học: thẻ bấm được, lấy từ danh sách bài đã đăng ký
+    const mp = $('#lxMap', root);
+    if (mp) {
+      const GROUPS = [['Bốn bộ phận chính', [1, 2, 3, 4]], ['Phụ kiện và điện', [5, 6, 7, 8, 9, 10, 11, 12, 13]], ['Mạch điện', [14, 15]], ['Làm lại hệ thống', [16, 17]]];
+      mp.innerHTML = GROUPS.map(g => {
+        const ls = g[1].map(id => DL.lessons.find(l => (l.cat || 'tu-lanh') === 'tu-lanh' && l.id === id)).filter(Boolean);
+        return ls.length ? '<div class="lx-mg"><h3>' + g[0] + '</h3><div class="lx-mc">' + ls.map(l => '<a class="lx-ml' + (l.ready ? '' : ' soon') + '" href="' + (l.ready ? '#/tu-lanh/' + l.id : '#') + '"><b>' + l.id + '</b><span>' + l.title + '</span></a>').join('') + '</div></div>' : '';
+      }).join('');
+    }
     let ks = 'comp';
     const kd = () => {
       $('#kSvg', root).innerHTML = cutSVG(ks);

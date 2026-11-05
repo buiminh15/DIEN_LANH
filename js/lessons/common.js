@@ -106,5 +106,11 @@
     fresh(); draw();
   };
 
+  /* Hạt chạy dọc đường dẫn SVG; mỗi trạng thái là một vòng tròn có độ mờ đổi theo vị trí. states=[{c,r,w:[..]}] khớp keyTimes bps */
+  ui.flow = (pid, n, dur, bps, states) => Array.from({ length: n }, (_, i) => {
+    const b = (-dur * i / n).toFixed(2) + "s";
+    return `<g><animateMotion dur="${dur}s" begin="${b}" repeatCount="indefinite"><mpath href="#${pid}"/></animateMotion>${states.map(s => `<circle class="${s.c}" r="${s.r || 5}" opacity="0"><animate attributeName="opacity" dur="${dur}s" begin="${b}" repeatCount="indefinite" keyTimes="${bps.join(";")}" values="${s.w.join(";")}"/></circle>`).join("")}</g>`;
+  }).join("");
+
   DL.ui = ui;
 })();

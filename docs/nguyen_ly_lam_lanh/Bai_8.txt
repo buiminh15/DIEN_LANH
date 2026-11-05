@@ -1,0 +1,47 @@
+https://meta.vn/hotro/can-cap-tu-lanh-16340
+Cách cân cáp tủ lạnh, sơ đồ và bảng thông số (META.vn, đăng 08/06/2022). Nội dung chép lại để biên soạn Bài 8.
+Lưu ý: bài gốc có vài lỗi chính tả ("dầy", "pin" thay cho "phin") và một câu khó hiểu ("đầu công nghệ"); khi biên soạn đã hiểu theo ngữ cảnh.
+
+CÂN CÁP TỦ LẠNH LÀ GÌ?
+Cân cáp tủ lạnh là kỹ thuật đo trở lực máy nén khi lắp vào hệ thống với ống mao. Kỹ thuật khá phức tạp, đòi hỏi chuyên môn cao. Nếu cân cáp không đúng kỹ thuật có thể ảnh hưởng trực tiếp đến hoạt động của tủ lạnh và khiến tủ tiêu hao nhiều điện năng hơn.
+
+KHI NÀO CẦN CÂN CÁP?
+Khi cáp tủ lạnh bị tắc nghẽn cần thay mới, hoặc khi thay block tủ lạnh.
+
+SƠ ĐỒ CÂN CÁP
+Một đầu của dàn nóng nối với đầu đẩy của block. Đầu còn lại của dàn nóng được bắt vào đồng hồ áp suất rồi hàn nối tiếp với 1 đầu của phin, 1 đầu của phin được hàn vào 1 đầu của cáp.
+Dây đồng hồ: dây màu đỏ nối vào phía đầu ống mao. Dây màu vàng của đồng hồ áp suất nối với đầu đẩy block.
+Lưu ý: Để hở đầu hút của block để block hút hơi (không khí) vào. Không hàn kín đầu cáp vào phin mà phải để hở.
+
+CÁCH 1: Đo lực trở không khí ống mao và phin với block lắp cùng ống mao (thợ lành nghề, kỹ thuật cao)
+- Dùng đầu phin có 2 ngăn, 1 ngăn hàn với đầu ti sạc gas còn 1 ngăn hàn với cáp.
+- Nối ống mao vào phin và đầu đẩy của block rồi lắp đồng hồ áp suất trước phin.
+- Để đầu hút của block hút không khí tự do và đầu kia của ống mao cũng để tự do.
+- Cho block hoạt động, kim đồng hồ áp suất tăng lên. Giá trị cao nhất kim đạt được gọi là P1, tức là trở kháng của ống mao. Nếu P1 lớn: cắt bớt ống mao. Nếu P1 nhỏ: nối thêm ống mao để tăng lực trở.
+
+CÁCH 2: Đo lực trở không khí ống mao trong hệ thống lạnh đã lắp hoàn chỉnh
+- Lắp ống mao vào hệ thống hoàn chỉnh. Có thể lấy chiều dài ống mao theo giá trị định hướng và có thêm chiều dài dự trữ.
+- Đo trở lực của không khí bằng cách lắp áp kế trước phin lọc tủ lạnh.
+- Để ống nạp tự do trong không khí.
+
+THÔNG SỐ CÂN CÁP (tham khảo, kết hợp nhiệt độ môi trường hiện tại)
+Cột: máy, môi chất | nhiệt độ trong (°C) | nhiệt độ ngoài (°C) | cân cáp (PSI) | áp suất đi (PSI) | áp suất về (PSI)
+1. Máy lạnh NON Inverter, R22 | 18-25 | 20-38 | 90-100 | 215-245 | 60-90
+2. Máy lạnh NON Inverter, R410A | 18-25 | 20-38 | 100-120 | 350-400 | 120-140
+3. Tủ lạnh quạt, R134A | dưới -20 | 20-38 | 200-220 | 190-220 | 0-5
+4. Tủ lạnh COIL, R134A | dưới -20 | 20-38 | 200-220 | 190-220 | 0-10
+5. Tủ đông, R600A | dưới -18 | 20-32 | 330-350 | 350-370 | -10 đến 5
+6. Tủ đông, R134A | dưới -18 | 20-32 | 300 | 180-200 | 0-5
+7. Tủ mát, R134A | 0-10 | 20-32 | 260 | 160-190 | 5
+8. Tủ mát, R600A | 0-10 | 20-32 | 280 | 180-200 | 0
+9. Tủ đông, mát, R134A | dưới -18 / -5 đến 9 | 20-32 | 300 | 180-200 | 0
+10. Tủ đông, mát, R600A | dưới -18 / -5 đến 9 | 20-32 | 350 | 300-350 | -10
+11. Tủ lạnh 6 cánh inox, R404A | dưới -18 | 20-32 | 250 | 170-190 | 5
+12. Tủ mát 6 cánh inox, R404A | 0-10 | 20-32 | 200 | 180-200 | 10-15
+13. Tủ kem, R134A | -26 | 20-32 | 220-250 | 250 | -5 đến 0
+14. Tủ kem, R600A | -26 | 20-32 | 330-350 | 350-370 | -10 đến 0
+
+LƯU Ý KHI CÂN CÁP
+- Nên chọn cách cân cáp theo sơ đồ trên để hạn chế không khí bị ngưng tụ dưới áp suất làm ẩm hệ thống.
+- Nên hàn trực tiếp ống mao với rắc co khi cân cáp.
+- Lưu ý các lỗi có thể xảy ra để điều chỉnh cáp cho phù hợp với từng dòng tủ lạnh.

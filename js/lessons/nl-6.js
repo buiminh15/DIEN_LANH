@@ -18,22 +18,61 @@
     other: ['Dụng cụ đo khác', '<b>Nhiệt kế</b> (điện tử/ hồng ngoại): đo nhiệt độ bề mặt dàn, vỏ block. <b>Máy dò gas</b>: tìm rò rỉ, đèn xanh – vàng – đỏ tương ứng mức rò tăng dần. Thợ lạnh còn dùng cân gas, đồng hồ chân không…']
   };
 
+  /* ---------- hình và dữ liệu trực quan ---------- */
+  const UNITS = [
+    ['⚡ Điện', [['U', 'Hiệu điện thế', 'Vôn (V)'], ['I', 'Cường độ dòng điện', 'Ampe (A), miliampe (mA)'], ['P', 'Công suất điện', 'Oát (W), kW; 1 số điện = 1 kWh'], ['R', 'Điện trở', 'Ôm (Ω)'], ['C', 'Điện dung', 'Micro-fara (µF)'], ['f', 'Tần số', 'Héc (Hz)']]],
+    ['❄ Nhiệt và lạnh', [['t', 'Nhiệt độ', '°C, °F'], ['p', 'Áp suất', 'bar, kg/cm², psi, MPa; chân không: cmHg, inHg'], ['Q', 'Công suất lạnh', 'kW, kcal/h, BTU/h']]],
+    ['⚙ Cơ khí', [['P', 'Công suất cơ', 'HP (mã lực, ngựa), W'], ['L', 'Chiều dài', 'm, cm, mm, inch']]]
+  ];
+  const UNIT_HTML = () => UNITS.map(g => `<div class="nl6-ug"><h3>${g[0]}</h3><div class="nl6-ut">${g[1].map(u => `<div><b class="nl6-sym">${u[0]}</b><span><b>${u[1]}</b><br>${u[2]}</span></div>`).join('')}</div></div>`).join('');
+
+  const sv = (w, h, b, l) => `<svg viewBox="0 0 ${w} ${h}" role="img" aria-label="${l}">${b}</svg>`;
+  const MF_SVG = sv(340, 300, `
+    <g class="nl6-hs" data-k="end">${[[48, 'var(--cold)'], [158, 'var(--warm)'], [268, 'var(--hot)']].map(p => `<rect x="${p[0]}" y="276" width="24" height="20" rx="4" fill="${p[1]}" stroke="var(--ink)" stroke-width="2.5"/>`).join('')}</g>
+    <g class="nl6-hs" data-k="mid"><path d="M170 176V276" stroke="var(--warm)" stroke-width="9" fill="none" stroke-linecap="round"/></g>
+    <path d="M118 166Q70 190 60 276" stroke="var(--cold)" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M222 166Q270 190 280 276" stroke="var(--hot)" stroke-width="9" fill="none" stroke-linecap="round"/>
+    <rect x="100" y="120" width="140" height="52" rx="12" class="nl6-body"/>
+    <circle cx="60" cy="146" r="16" class="nl6-knob" stroke="var(--cold)"/><circle cx="280" cy="146" r="16" class="nl6-knob" stroke="var(--hot)"/>
+    <g class="nl6-hs" data-k="glass"><circle cx="170" cy="146" r="16" class="nl6-glass"/><circle cx="165" cy="141" r="3" fill="var(--cold-l)"/><circle cx="174" cy="150" r="2.4" fill="var(--cold-l)"/></g>
+    <g class="nl6-hs" data-k="lo"><circle cx="82" cy="66" r="56" class="nl6-dial" stroke="var(--cold)"/></g>
+    <g class="nl6-hs" data-k="hi"><circle cx="258" cy="66" r="56" class="nl6-dial" stroke="var(--hot)"/></g>
+    <g class="nl6-hs" data-k="scale"><path d="M82 66m-44 0a44 44 0 0 1 88 0" fill="none" stroke="var(--ok)" stroke-width="5"/><path d="M258 66m-44 0a44 44 0 0 1 88 0" fill="none" stroke="var(--muted)" stroke-width="5" stroke-dasharray="3 5"/></g>
+    <path d="M82 66L56 38" stroke="var(--ink)" stroke-width="3" stroke-linecap="round"/><path d="M258 66L288 38" stroke="var(--ink)" stroke-width="3" stroke-linecap="round"/>
+    <g class="nl6-hs" data-k="zero"><circle cx="82" cy="66" r="8" fill="var(--ink)"/></g><circle cx="258" cy="66" r="8" fill="var(--ink)"/>
+    <text class="nl6-s" x="82" y="100" text-anchor="middle" style="fill:var(--cold)">Lo</text><text class="nl6-s" x="258" y="100" text-anchor="middle" style="fill:var(--hot)">Hi</text>`, 'Bộ đồng hồ áp suất: đồng hồ xanh Lo, đồng hồ đỏ Hi, ba dây');
+  const MF_PARTS = [
+    ['hi', 'Đồng hồ đỏ (Hi)', 'Đo áp suất cao: thử kín hệ thống, thử áp suất đẩy của block. Thang đến khoảng 500 psi (≈ 35 kg/cm²).'],
+    ['lo', 'Đồng hồ xanh (Lo)', 'Đo áp suất thấp và chân không: hút chân không, nạp gas, cân áp. Vạch xanh lá bên dưới số 0 là phần chân không.'],
+    ['mid', 'Dây vàng', 'Dây giữa, nối bình gas hoặc bơm chân không.'],
+    ['glass', 'Mắt kính gas', 'Quan sát dòng gas tuần hoàn, độ khô khi hút chân không.'],
+    ['scale', 'Vạch nhiệt độ sôi', 'Mỗi loại gas (R12, R22, R502, R134a…) có vạch riêng; <b>phải dùng đồng hồ đúng loại gas</b> mới quy đổi chính xác áp suất ↔ nhiệt độ sôi.'],
+    ['end', 'Đầu dây', 'Một đầu có chốt ấn mở van một chiều, cần chọn đúng kiểu đầu (ren) của máy. Dùng xong nên cuộn gọn, tránh bụi bẩn lọt vào dây.'],
+    ['zero', 'Chỉnh sai số', 'Khi không có áp, kim phải chỉ 0; nếu lệch, mở nắp kính, dùng tua-vít dẹt chỉnh về 0.']
+  ];
+
+  const INST_PIC = {
+    dmm: sv(260, 210, `<rect x="84" y="8" width="92" height="156" rx="14" class="nl6-body"/><rect x="96" y="20" width="68" height="28" rx="4" fill="var(--cold-tint2)" stroke="var(--ink)" stroke-width="2"/><text x="130" y="41" text-anchor="middle" class="nl6-big">12.6</text>
+      <circle cx="130" cy="98" r="28" class="nl6-knob" stroke="var(--ink)"/><path d="M130 98L142 82" stroke="var(--hot)" stroke-width="4" stroke-linecap="round"/>${[0, 1, 2, 3, 4, 5, 6, 7].map(i => `<path d="M${130 + 34 * Math.cos(i * .8)} ${98 + 34 * Math.sin(i * .8)}l${4 * Math.cos(i * .8)} ${4 * Math.sin(i * .8)}" stroke="var(--ink)" stroke-width="2"/>`).join('')}
+      <path d="M108 164Q90 190 64 204" stroke="var(--hot)" stroke-width="5" fill="none" stroke-linecap="round"/><path d="M152 164Q170 190 196 204" stroke="var(--ink)" stroke-width="5" fill="none" stroke-linecap="round"/><text class="nl6-s" x="130" y="126" text-anchor="middle">V · Ω · A</text>`, 'Đồng hồ vạn năng với núm chọn thang và hai que đo'),
+    clamp: sv(260, 210, `<path d="M130 120V8" stroke="var(--hot)" stroke-width="7" stroke-linecap="round"/><path d="M86 108V68A44 44 0 0 1 174 68V108" fill="none" stroke="var(--ink)" stroke-width="16" stroke-linecap="round"/><path d="M86 108V68A44 44 0 0 1 174 68V108" fill="none" stroke="var(--casing)" stroke-width="9" stroke-linecap="round"/>
+      <rect x="88" y="108" width="84" height="94" rx="12" class="nl6-body"/><rect x="100" y="120" width="60" height="26" rx="4" fill="var(--cold-tint2)" stroke="var(--ink)" stroke-width="2"/><text x="130" y="140" text-anchor="middle" class="nl6-big">1.1</text><text class="nl6-s" x="130" y="170" text-anchor="middle">A (AC)</text>
+      <text class="nl6-s" x="136" y="22">kẹp một dây</text>`, 'Ampe kìm kẹp một dây dẫn'),
+    gauge: MF_SVG,
+    other: sv(260, 210, `<text x="30" y="110" font-size="70">🌡️</text><rect x="120" y="30" width="100" height="150" rx="16" class="nl6-body"/>${[['var(--ok)', 62], ['var(--warm)', 92], ['var(--bad)', 122]].map(c => `<circle cx="170" cy="${c[1]}" r="12" fill="${c[0]}" stroke="var(--ink)" stroke-width="2"/>`).join('')}<text class="nl6-s" x="170" y="160" text-anchor="middle">máy dò gas</text><text class="nl6-s" x="48" y="140" text-anchor="middle">nhiệt kế</text>`, 'Nhiệt kế và máy dò gas với ba đèn báo')
+  };
+
+  const dialSvg = (val, max) => {
+    const cx = 150, cy = 140, r = 108, a = v => Math.PI * (1 - v / max), pt = (v, rr) => `${(cx + rr * Math.cos(a(v))).toFixed(1)} ${(cy - rr * Math.sin(a(v))).toFixed(1)}`;
+    let t = '';
+    for (let i = 0; i <= 10; i++) { const v = max * i / 10; t += `<path d="M${pt(v, r - (i % 2 ? 8 : 14))}L${pt(v, r)}" stroke="var(--ink)" stroke-width="${i % 2 ? 1.6 : 2.6}"/>` + (i % 2 === 0 ? `<text class="nl6-s" x="${(cx + (r - 26) * Math.cos(a(v))).toFixed(1)}" y="${(cy - (r - 26) * Math.sin(a(v)) + 4).toFixed(1)}" text-anchor="middle">${v}</text>` : ''); }
+    return sv(300, 160, `<path d="M${cx - r} ${cy}A${r} ${r} 0 0 1 ${cx + r} ${cy}Z" fill="var(--surface2)" stroke="var(--ink)" stroke-width="3"/>${t}<path d="M${cx} ${cy}L${pt(val, r - 18)}" stroke="var(--hot)" stroke-width="4" stroke-linecap="round"/><circle cx="${cx}" cy="${cy}" r="8" fill="var(--ink)"/><text class="nl6-s" x="${cx}" y="${cy + 14}" text-anchor="middle">vạch 0–${max}</text>`, `Đồng hồ kim, kim chỉ ${val} trên vạch 0 đến ${max}`);
+  };
+
   function learn() {
     return `
 <section class="sec" id="s-unit" data-toc="1 · Đơn vị đo">
   <div class="sec-n">Phần 1</div><h2>Các đơn vị đo thường gặp</h2>
-  <div class="tscroll"><table class="cmp"><thead><tr><th>Đại lượng</th><th>Ký hiệu</th><th>Đơn vị</th></tr></thead><tbody>
-    <tr><td>Hiệu điện thế</td><td>U</td><td>Vôn (V)</td></tr>
-    <tr><td>Cường độ dòng điện</td><td>I</td><td>Ampe (A), miliampe (mA)</td></tr>
-    <tr><td>Công suất điện</td><td>P</td><td>Oát (W), kW; 1 số điện = 1 kWh</td></tr>
-    <tr><td>Điện trở</td><td>R</td><td>Ôm (Ω)</td></tr>
-    <tr><td>Điện dung</td><td>C</td><td>Micro-fara (µF)</td></tr>
-    <tr><td>Tần số</td><td>f</td><td>Héc (Hz)</td></tr>
-    <tr><td>Nhiệt độ</td><td>t</td><td>°C, °F</td></tr>
-    <tr><td>Áp suất</td><td>p</td><td>bar, kg/cm², psi, MPa; chân không: cmHg, inHg</td></tr>
-    <tr><td>Công suất lạnh</td><td>Q</td><td>kW, kcal/h, BTU/h</td></tr>
-    <tr><td>Công suất cơ</td><td>P</td><td>HP (mã lực, ngựa), W</td></tr>
-    <tr><td>Chiều dài</td><td>L</td><td>m, cm, mm, inch</td></tr></tbody></table></div>
+  <div class="nl6-units">${UNIT_HTML()}</div>
   <p style="margin-top:14px">Công suất điện: <b>P = U × I</b>. Một máy điều hòa 9.000 BTU ≈ 1 HP, 12.000 BTU ≈ 1,5 HP, 18.000 BTU ≈ 2 HP. Chân không: −30 inHg ≈ −76 cmHg (chân không gần tuyệt đối).</p>
   <div class="stage" style="padding:14px"><b>Bộ đổi đơn vị</b>
     <div id="cTabs" style="margin-top:10px"></div>
@@ -43,13 +82,13 @@
 
 <section class="sec" id="s-inst" data-toc="2 · Dụng cụ đo">
   <div class="sec-n">Phần 2</div><h2>Ba dụng cụ đo không thể thiếu</h2>
-  <div id="iTabs"></div><article class="panel" id="iPanel" aria-live="polite"></article>
+  <div id="iTabs"></div><div class="nl6-inst"><div class="nl4-fig" id="iPic"></div><article class="panel" id="iPanel" aria-live="polite"></article></div>
 </section>
 
 <section class="sec" id="s-read" data-toc="3 · Đọc thang đo">
   <div class="sec-n">Phần 3</div><h2>Đọc đồng hồ kim theo thang đo</h2>
   <p>Mặt đồng hồ chỉ có vài vạch chia (ví dụ 10, 50, 250). Chọn thang nào thì <b>giá trị tối đa của vạch bằng đúng thang đó</b>. Nếu vạch chia lớn hơn/ nhỏ hơn thang đã chọn thì phải <b>nhân hoặc chia cho hệ số</b>: <b>giá trị thật = số đọc × (thang chọn ÷ giá trị tối đa của vạch)</b>.</p>
-  <div class="stage" style="padding:14px"><b>Thử: kim chỉ số, chọn thang → giá trị thật?</b>
+  <div class="stage" style="padding:14px"><b>Thử: kim chỉ số, chọn thang → giá trị thật?</b><div id="rDial" class="nl6-dial"></div>
     <div class="row" style="margin-top:10px"><label>Đọc trên vạch 0–<b id="rMax">250</b>: <b id="rVal"></b></label></div>
     <div class="row" style="margin-top:8px"><label>Thang đã chọn: <select id="rRange" style="padding:6px;border-radius:8px;border:1px solid var(--line);background:var(--surface);color:var(--ink)"><option>10</option><option>50</option><option>250</option><option>1000</option></select></label>
       <label>Đáp án của bạn <input id="rAns" type="number" step="any" style="width:100px;padding:6px;border-radius:8px;border:1px solid var(--line);background:var(--surface);color:var(--ink)"></label>
@@ -66,13 +105,8 @@
 
 <section class="sec" id="s-gauge" data-toc="5 · Đồng hồ áp suất">
   <div class="sec-n">Phần 5</div><h2>Đồng hồ áp suất (manifold)</h2>
-  <dl class="kv"><dt>Đồng hồ đỏ (Hi)</dt><dd>Đo áp suất cao: thử kín hệ thống, thử áp suất đẩy của block. Thang đến khoảng 500 psi (≈ 35 kg/cm²).</dd>
-  <dt>Đồng hồ xanh (Lo)</dt><dd>Đo áp suất thấp và chân không: hút chân không, nạp gas, cân áp. Vạch xanh lá bên dưới số 0 là phần chân không.</dd>
-  <dt>Dây vàng</dt><dd>Dây giữa, nối bình gas hoặc bơm chân không.</dd>
-  <dt>Mắt kính gas</dt><dd>Quan sát dòng gas tuần hoàn, độ khô khi hút chân không.</dd>
-  <dt>Vạch nhiệt độ sôi</dt><dd>Mỗi loại gas (R12, R22, R502, R134a…) có vạch riêng; <b>phải dùng đồng hồ đúng loại gas</b> mới quy đổi chính xác áp suất ↔ nhiệt độ sôi.</dd>
-  <dt>Đầu dây</dt><dd>Một đầu có chốt ấn mở van một chiều, cần chọn đúng kiểu đầu (ren) của máy. Dùng xong nên cuộn gọn, tránh bụi bẩn lọt vào dây.</dd>
-  <dt>Chỉnh sai số</dt><dd>Khi không có áp, kim phải chỉ 0; nếu lệch, mở nắp kính, dùng tua-vít dẹt chỉnh về 0.</dd></dl>
+  <p>Bấm vào từng bộ phận trên hình (hoặc nút bên phải) để xem công dụng:</p>
+  <div class="nl6-mf"><div class="nl4-fig nl6-mfig">${MF_SVG}</div><div><div class="nl6-parts" id="mfBtns"></div><article class="panel" id="mfPanel" aria-live="polite"></article></div></div>
 </section>
 
 <section class="sec" id="s-recap" data-toc="6 · Tóm tắt">
@@ -120,13 +154,13 @@
     });
     $('#cV', root).oninput = calc; $('#cU', root).onchange = calc;
 
-    U.tabset($('#iTabs', root), Object.entries(INST).map(([id, p], i) => ({ id, n: i + 1, name: p[0] })), id => { $('#iPanel', root).innerHTML = `<h3>${INST[id][0]}</h3><p style="margin:0">${INST[id][1]}</p>`; });
+    U.tabset($('#iTabs', root), Object.entries(INST).map(([id, p], i) => ({ id, n: i + 1, name: p[0] })), id => { $('#iPic', root).innerHTML = INST_PIC[id]; $('#iPanel', root).innerHTML = `<h3>${INST[id][0]}</h3><p style="margin:0">${INST[id][1]}</p>`; });
 
     // luyện đọc thang
     let R;
     const newQ = () => {
       const max = DL.shuffle([50, 250])[0], val = Math.round(Math.random() * (max / 5 - 2) + 2) * 5;
-      R = { max, val }; $('#rMax', root).textContent = max; $('#rVal', root).textContent = val; $('#rAns', root).value = '';
+      R = { max, val }; $('#rDial', root).innerHTML = dialSvg(val, max); $('#rMax', root).textContent = max; $('#rVal', root).textContent = val; $('#rAns', root).value = '';
       $('#rV', root).className = 'verdict'; $('#rV', root).textContent = 'Chọn thang rồi nhập giá trị thật.';
     };
     $('#rNew', root).onclick = newQ; newQ();
@@ -135,6 +169,18 @@
       const ok = Math.abs(a - truth) < .01; v.className = 'verdict ' + (ok ? 'ok' : 'bad');
       v.innerHTML = ok ? `✓ Đúng: ${R.val} × (${rg} ÷ ${R.max}) = <b>${f1(truth)}</b>.` : `✗ Chưa đúng. Công thức: ${R.val} × (${rg} ÷ ${R.max}) = <b>${f1(truth)}</b>.`;
     };
+
+    // đồng hồ áp suất: bấm bộ phận
+    const mfS = $('.nl6-mf', root), mfShow = k => {
+      const p = MF_PARTS.find(x => x[0] === k);
+      $$('#mfBtns .nl4-chip', root).forEach(b => b.setAttribute('aria-pressed', b.dataset.k === k));
+      $$('.nl6-hs', mfS).forEach(g => g.classList.toggle('sel', g.dataset.k === k));
+      $('#mfPanel', root).innerHTML = '<h3>' + p[1] + '</h3><p style="margin:0">' + p[2] + '</p>';
+    };
+    $('#mfBtns', root).innerHTML = MF_PARTS.map(p => '<button type="button" class="nl4-chip" data-k="' + p[0] + '">' + p[1] + '</button>').join('');
+    $$('#mfBtns .nl4-chip', root).forEach(b => b.onclick = () => mfShow(b.dataset.k));
+    $$('.nl6-hs', mfS).forEach(g => g.addEventListener('click', () => mfShow(g.dataset.k)));
+    mfShow('hi');
 
     // ampe kìm
     U.tabset($('#kTabs', root), Object.entries(CL).map(([id, p], i) => ({ id, n: i + 1, name: p.n })), id => {

@@ -1,6 +1,45 @@
-/* NGUYÊN LÝ LÀM LẠNH — BÀI 2: CÁC THIẾT BỊ CHÍNH (biên soạn từ docs/nguyen_ly_lam_lanh/Bai_2.txt) */
+/* NGUYÊN LÝ LÀM LẠNH — BÀI 2: CÁC THIẾT BỊ CHÍNH (biên soạn từ docs/nguyen_ly_lam_lanh/Bai_2.txt)
+   Mỗi loại thiết bị có một hình minh họa riêng: nhìn hình để nhớ cấu tạo, rồi đọc ưu – nhược điểm. */
 (function () {
   const { $, $$ } = DL, U = DL.ui;
+
+  /* ---------- hình minh họa (viewBox 240×130) ---------- */
+  const sv = (body, label) => `<svg viewBox="0 0 240 130" role="img" aria-label="${label}">${body}</svg>`;
+  const pipe = (d, c) => `<path d="${d}" fill="none" stroke="var(--${c})" stroke-width="6" stroke-linecap="round"/>`;
+  const spin = (cx, cy, r, n, dur) => `<g class="nl2-spin" style="transform-origin:${cx}px ${cy}px;animation-duration:${dur}s">${Array.from({ length: n }, (_, i) => `<ellipse cx="${cx}" cy="${cy - r / 2}" rx="${r / 5}" ry="${r / 2}" transform="rotate(${i * 360 / n} ${cx} ${cy})" class="nl2-blade"/>`).join('')}<circle cx="${cx}" cy="${cy}" r="${r / 6}" fill="var(--ink)"/></g>`;
+  const coil = (x0, x1, c, y0 = 28) => `<path d="M${x0} ${y0}H${x1}A15 15 0 0 1 ${x1} ${y0 + 30}H${x0 + 20}A15 15 0 0 1 ${x0 + 20} ${y0 + 60}H${x1}A15 15 0 0 1 ${x1} ${y0 + 90}H${x0}" fill="none" stroke="var(--${c})" stroke-width="5" stroke-linecap="round"/>`;
+  const air = (x, c, y1, y2, n = 1) => Array.from({ length: n }, (_, i) => `<path class="nl2-air" style="stroke:var(--${c});animation-delay:${i * .3}s" d="M${x + i * 14} ${y1}V${y2}"/>`).join('');
+  const airH = (x, c, ys) => ys.map((y, i) => `<path class="nl2-air h" style="stroke:var(--${c});animation-delay:${i * .25}s" d="M${x} ${y}H${x + 24}"/>`).join('');
+
+  const PIC = {
+    comp: [
+      sv(`<rect x="55" y="22" width="130" height="90" rx="44" class="nl2-b"/><rect x="80" y="38" width="80" height="26" rx="5" class="nl2-g"/><text class="nl2-s" x="120" y="55" text-anchor="middle">động cơ</text><rect x="98" y="78" width="44" height="22" rx="4" class="nl2-g"/><text class="nl2-s" x="120" y="93" text-anchor="middle">máy nén</text><path d="M62 70Q120 80 178 70" class="nl2-seam"/>${pipe('M142 22V6', 'cold-l')}${pipe('M168 28V6', 'hot')}<text class="nl2-s" x="120" y="126" text-anchor="middle">vỏ hàn kín, chung một khối</text>`, 'Máy nén kín: động cơ và máy nén chung một vỏ hàn kín'),
+      sv(`<rect x="22" y="44" width="82" height="58" rx="6" class="nl2-b"/><text class="nl2-s" x="63" y="78" text-anchor="middle">động cơ</text><rect x="104" y="38" width="14" height="70" class="nl2-f"/>${[48, 73, 98].map(y => `<circle cx="111" cy="${y}" r="3" fill="var(--ink)"/>`).join('')}<rect x="118" y="44" width="100" height="58" rx="6" class="nl2-b"/><circle cx="168" cy="68" r="12" class="nl2-glass"/><text class="nl2-s" x="168" y="96" text-anchor="middle">mắt kính dầu</text>${pipe('M150 44V28', 'cold-l')}${pipe('M196 44V28', 'hot')}<text class="nl2-s" x="120" y="124" text-anchor="middle">hai vỏ ghép bằng mặt bích + bu-lông</text>`, 'Máy nén nửa kín: hai vỏ ghép mặt bích, có mắt kính dầu'),
+      sv(`<rect x="12" y="46" width="64" height="50" rx="6" class="nl2-b"/><text class="nl2-s" x="44" y="76" text-anchor="middle">động cơ</text><circle cx="90" cy="71" r="10" class="nl2-b"/><path d="M90 61L138 52M90 81L138 90" class="nl2-belt"/><circle cx="138" cy="71" r="19" class="nl2-b"/><g class="nl2-spin" style="transform-origin:138px 71px;animation-duration:2s"><path d="M138 54V88M121 71H155" stroke="var(--ink)" stroke-width="3"/></g><rect x="160" y="40" width="64" height="62" rx="6" class="nl2-b"/><text class="nl2-s" x="192" y="76" text-anchor="middle">máy nén</text>${pipe('M180 40V24', 'cold-l')}${pipe('M206 40V24', 'hot')}<text class="nl2-s" x="120" y="124" text-anchor="middle">động cơ ở ngoài, truyền bằng dây đai</text>`, 'Máy nén hở: động cơ nằm ngoài, truyền động bằng dây đai')
+    ],
+    cond: [
+      sv(`${coil(20, 170, 'hot')}${air(200, 'warm', 118, 20, 3)}<text class="nl2-s" x="120" y="126" text-anchor="middle">không khí tự bốc lên, chậm</text>`, 'Dàn nóng: ống ngoằn ngoèo, không khí đối lưu tự nhiên'),
+      sv(`${coil(14, 130, 'hot')}${spin(184, 73, 56, 3, 1.1)}<circle cx="184" cy="73" r="34" fill="none" stroke="var(--ink)" stroke-width="2.5"/>${airH(214, 'warm', [48, 73, 98])}<text class="nl2-s" x="120" y="126" text-anchor="middle">quạt thổi gió qua dàn</text>`, 'Dàn ngưng tụ có quạt'),
+      sv(`<rect x="36" y="30" width="150" height="72" rx="22" class="nl2-b"/>${[48, 66, 84].map(y => `<path class="nl2-water" d="M52 ${y}H170"/>`).join('')}${pipe('M111 30V8', 'hot')}${pipe('M111 102V122', 'warm')}<path class="nl2-air h" style="stroke:var(--cold)" d="M8 90H36"/><path class="nl2-air h" style="stroke:var(--cold)" d="M186 44H228"/><text class="nl2-s" x="10" y="80">nước vào</text><text class="nl2-s" x="230" y="38" text-anchor="end">nước ra</text><text class="nl2-s" x="62" y="22">hơi vào</text><text class="nl2-s" x="120" y="118">lỏng ra</text>`, 'Bình ngưng tụ: nước chạy trong ống, gas ở ngoài')
+    ],
+    exp: [
+      sv(`<path d="M10 100H40" class="nl2-p"/><path d="M40 100C40 20 90 20 90 70S140 120 140 70 190 20 190 100H230" fill="none" stroke="var(--brass)" stroke-width="3.5" stroke-linecap="round"/><text class="nl2-s" x="120" y="124" text-anchor="middle">đoạn ống đồng rất nhỏ, quấn dài</text><text class="nl2-s" x="10" y="90">lỏng p cao</text><text class="nl2-s" x="230" y="90" text-anchor="end">p thấp</text>`, 'Ống mao: ống đồng nhỏ, dài, cố định'),
+      sv(`<path d="M8 96H232" class="nl2-p"/><path d="M96 80L144 112V80L96 112Z" class="nl2-b"/><path d="M120 96V42" class="nl2-edge"/><ellipse cx="120" cy="38" rx="28" ry="8" class="nl2-b"/><circle cx="196" cy="42" r="19" class="nl2-b"/><path d="M196 42L186 30" stroke="var(--hot)" stroke-width="3" stroke-linecap="round"/><path d="M196 61V96" class="nl2-edge"/><text class="nl2-s" x="120" y="124" text-anchor="middle">vặn tay để chỉnh, xem đồng hồ áp</text>`, 'Van tiết lưu chỉnh tay: có tay vặn và đồng hồ áp suất'),
+      sv(`<path d="M8 100H232" class="nl2-p"/><path d="M80 84L128 116V84L80 116Z" class="nl2-b"/><rect x="92" y="54" width="24" height="26" rx="4" class="nl2-b"/><path d="M104 54V44" class="nl2-edge"/><path d="M116 66C160 60 200 70 200 90" fill="none" stroke="var(--ink)" stroke-width="1.8" stroke-dasharray="3 3"/><circle cx="200" cy="96" r="9" fill="var(--cold)" stroke="var(--ink)" stroke-width="2.5"/><text class="nl2-s" x="200" y="82" text-anchor="middle">bầu cảm biến</text><text class="nl2-s" x="120" y="126" text-anchor="middle">tự chỉnh theo nhiệt độ ống ra</text>`, 'Van tiết lưu tự động: bầu cảm biến nhiệt nối với van')
+    ],
+    evap: [
+      sv(`<rect x="46" y="8" width="148" height="114" rx="10" class="nl2-b"/>${[44, 84].map(y => `<rect x="56" y="${y}" width="128" height="8" rx="3" fill="var(--cold-tint)" stroke="var(--cold)" stroke-width="2.5"/>`).join('')}<text x="76" y="40" font-size="26">🥛</text><text x="130" y="40" font-size="26">🍎</text><text x="96" y="80" font-size="26">🥚</text><text class="nl2-s" x="120" y="112" text-anchor="middle">thực phẩm chạm vào dàn</text>`, 'Dàn lạnh: thực phẩm tiếp xúc trực tiếp bề mặt dàn'),
+      sv(`${coil(14, 130, 'cold')}${spin(184, 73, 56, 3, 1.1)}<circle cx="184" cy="73" r="34" fill="none" stroke="var(--ink)" stroke-width="2.5"/>${airH(214, 'cold-l', [48, 73, 98])}<text class="nl2-s" x="120" y="126" text-anchor="middle">quạt đưa không khí qua dàn lạnh</text>`, 'Dàn bay hơi có quạt'),
+      sv(`<rect x="36" y="26" width="150" height="76" rx="22" class="nl2-b"/><path d="M52 64H70L78 44L94 84L110 44L126 84L142 44L150 64H170" fill="none" stroke="var(--cold)" stroke-width="4" stroke-linejoin="round"/>${pipe('M36 64H14', 'cold')}${pipe('M186 64H226', 'cold-l')}<path class="nl2-air h" style="stroke:var(--cold-l)" d="M60 108H110"/><text class="nl2-s" x="120" y="20" text-anchor="middle">nước trong bình được làm lạnh</text><text class="nl2-s" x="120" y="124" text-anchor="middle">gas trong ống xoắn, nước ở ngoài (Chiller)</text>`, 'Bình bay hơi: gas trong ống xoắn, nước bao quanh')
+    ]
+  };
+
+  const SYS = [
+    { n: 'Tủ lạnh gia đình', i: '🧊', d: ['Máy nén kín (block)', 'Dàn nóng', 'Ống mao', 'Dàn lạnh'] },
+    { n: 'Điều hòa', i: '❄️', d: ['Máy nén kín', 'Dàn ngưng tụ có quạt', 'Ống mao (Inverter: van điện từ)', 'Dàn bay hơi có quạt'] },
+    { n: 'Hệ thống công nghiệp lớn', i: '🏭', d: ['Máy nén nửa kín / hở', 'Bình ngưng tụ', 'Van tiết lưu tự động', 'Bình bay hơi'] }
+  ];
+  const COL = ['Máy nén', 'Ngưng tụ', 'Tiết lưu', 'Bay hơi'];
 
   const T = {
     comp: {
@@ -40,15 +79,19 @@
   function learn() {
     return `
 <section class="sec" id="s-dev" data-toc="1 · 4 thiết bị chính">
-  <div class="sec-n">Phần 1</div><h2>Bốn thiết bị chính và cách phân loại</h2>
-  <p>Mỗi thiết bị có <b>ba loại</b> thường gặp. Chọn thiết bị rồi chọn loại để xem cấu tạo, ưu – nhược điểm và nơi dùng:</p>
-  <div id="dTabs"></div><article class="panel" id="dRole" aria-live="polite"></article>
-  <div id="kTabs"></div><article class="panel warm" id="kPanel" aria-live="polite"></article>
+  <div class="sec-n">Phần 1</div><h2>Bốn thiết bị chính, mỗi thiết bị ba loại</h2>
+  <p>Cùng một việc nhưng có nhiều cách làm. Chọn thiết bị, rồi chọn loại: nhìn hình để nhớ <b>cấu tạo</b>, sau đó đọc ưu – nhược điểm và nơi dùng.</p>
+  <div class="stage nl2-box">
+    <div id="dTabs"></div><article class="panel" id="dRole" aria-live="polite"></article>
+    <div id="kTabs"></div>
+    <div class="nl2-kind" aria-live="polite"><div class="nl2-pic" id="kPic"></div><article class="panel warm" id="kPanel"></article></div>
+  </div>
 </section>
 
 <section class="sec" id="s-cmp" data-toc="2 · So sánh">
   <div class="sec-n">Phần 2</div><h2>Chọn loại thiết bị theo ứng dụng</h2>
-  <p>Trong thực tế: tủ lạnh dùng <b>máy nén kín</b> (block), <b>dàn nóng tự nhiên</b>, <b>ống mao</b>, <b>dàn lạnh</b>. Điều hòa dùng <b>máy nén kín</b>, <b>dàn ngưng tụ có quạt</b>, <b>ống mao</b> (một số Inverter dùng van điện từ), <b>dàn bay hơi có quạt</b>. Hệ thống công nghiệp lớn dùng bình ngưng tụ, van tiết lưu tự động, bình bay hơi.</p>
+  <p>Mỗi hệ thống chọn một bộ thiết bị khác nhau, tùy công suất và cách làm mát. Nhớ ba bộ này là đủ:</p>
+  <div class="nl2-sys">${SYS.map(s => `<article class="nl2-sc"><h3><span aria-hidden="true">${s.i}</span> ${s.n}</h3><ol>${s.d.map((x, i) => `<li><span class="nl2-col">${COL[i]}</span><b>${x}</b></li>`).join('')}</ol></article>`).join('')}</div>
   <div class="stage" style="padding:14px"><b>Luyện nhanh: chọn thiết bị phù hợp</b>
     <div id="qBox" style="margin-top:10px"></div></div>
 </section>
@@ -81,6 +124,7 @@
     let curDev = 'comp';
     const showKind = (dev, k) => {
       const x = T[dev].kinds[k];
+      $('#kPic', root).innerHTML = PIC[dev][k];
       $('#kPanel', root).innerHTML = `<h3>${x[0]}</h3><dl class="kv"><dt>Cấu tạo</dt><dd>${x[1]}</dd><dt>Ưu điểm</dt><dd><span class="pill ok">${x[2]}</span></dd><dt>Nhược điểm</dt><dd><span class="pill bad">${x[3]}</span></dd><dt>Dùng ở</dt><dd>${x[4]}</dd></dl>`;
     };
     U.tabset($('#dTabs', root), dItems, id => {

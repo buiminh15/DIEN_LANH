@@ -1,6 +1,8 @@
-/* NGUYÊN LÝ LÀM LẠNH — BÀI 5: DẦU MÁY LẠNH VÀ CHẤT TẢI LẠNH (biên soạn từ docs/nguyen_ly_lam_lanh/Bai_5.txt) */
+/* NGUYÊN LÝ LÀM LẠNH — BÀI 5: DẦU MÁY LẠNH VÀ CHẤT TẢI LẠNH (biên soạn từ docs/nguyen_ly_lam_lanh/Bai_5.txt)
+   Hình: dầu trong máy nén, màu dầu, vòng chất tải lạnh, thang điểm đông đặc có thanh trượt. */
 (function () {
   const { $, $$ } = DL, U = DL.ui;
+  const vn = x => String(x).replace('-', '−');
 
   // fp: nhiệt độ đông đặc (°C) theo bài giảng
   const BRINE = [
@@ -10,33 +12,65 @@
     { n: 'Cồn ethanol', type: 'Hữu cơ', fp: -115, use: 'Công nghiệp, nhiệt độ rất thấp.', c: 'Bài giảng nêu khoảng −115 °C với nồng độ phù hợp; dễ bay hơi nên hệ phải kín.' },
     { n: 'Cồn methanol', type: 'Hữu cơ', fp: -125, use: 'Công nghiệp, nhiệt độ rất thấp.', c: 'Rất độc: uống gây ngộ độc, dính mắt có thể mù. Hệ phải kín.' }
   ];
+  const OILI = ['🤝', '🧊', '⚡', '🧱', '🕰️'];
+
+  const COMP = `<svg viewBox="0 0 320 180" role="img" aria-label="Mặt cắt máy nén: dầu ở đáy được bơm lên bôi trơn pít-tông và trục">
+    <rect x="30" y="14" width="260" height="154" rx="30" class="nl5-b"/>
+    <rect x="132" y="26" width="56" height="64" rx="4" class="nl5-cyl"/>
+    <rect class="nl5-pist" x="136" y="30" width="48" height="22" rx="3"/>
+    <path d="M160 52V86" class="nl5-rod"/>
+    <circle cx="160" cy="104" r="16" class="nl5-b"/><g class="nl5-spin" style="transform-origin:160px 104px"><path d="M160 90V118" stroke="var(--ink)" stroke-width="3"/><circle cx="160" cy="92" r="4" fill="var(--ink)"/></g>
+    <rect x="34" y="136" width="252" height="28" rx="14" class="nl5-oil"/>
+    <path class="nl5-up" d="M96 136V108Q96 100 112 100H140"/><path class="nl5-up" d="M224 136V108Q224 100 208 100H180"/>
+    ${[0, 1, 2].map(i => `<circle class="nl5-dr" style="animation-delay:${i * .5}s" cx="${146 + i * 14}" cy="66" r="2.6"/>`).join('')}
+    <text class="nl5-s" x="160" y="156" text-anchor="middle" style="fill:var(--ink)">dầu ở đáy block</text>
+    <text class="nl5-s" x="198" y="46">pít-tông</text><text class="nl5-s" x="184" y="128">trục khuỷu</text>
+    <text class="nl5-s" x="46" y="94">dầu theo gas</text><text class="nl5-s" x="46" y="106">hồi về đáy</text></svg>`;
+
+  const VIAL = (x, fill, op, lbl, sub, ok) => `<g transform="translate(${x} 0)"><path d="M26 10H54V24L66 38V122Q66 132 56 132H24Q14 132 14 122V38L26 24Z" class="nl5-glass"/><path d="M16 60H64V122Q64 130 56 130H24Q16 130 16 122Z" fill="${fill}" opacity="${op}"/><path d="M26 10H54" class="nl5-cap"/>
+    <text class="nl5-t" x="40" y="156" text-anchor="middle">${lbl}</text><text class="nl5-s" x="40" y="172" text-anchor="middle" style="fill:var(--${ok ? 'ok' : 'bad'})">${sub}</text></g>`;
+  const VIALS = `<svg viewBox="0 0 440 180" role="img" aria-label="Ba lọ dầu: vàng nhạt, trong, và đen có muội">
+    ${VIAL(10, '#E3CF7A', .95, 'Vàng nhạt', 'gas có Clo', true)}${VIAL(160, 'var(--cold-tint2)', .9, 'Trong', 'gas HFC (có thể hơi vàng)', true)}${VIAL(310, '#1C1815', .96, 'Đen, có muội', 'block có vấn đề', false)}</svg>`;
+
+  const LOOP = `<svg viewBox="0 0 640 170" role="img" aria-label="Chất tải lạnh chảy vòng giữa dàn bay hơi và vật cần làm lạnh">
+    <rect x="10" y="40" width="170" height="90" rx="12" class="nl5-bx cold"/><text class="nl5-t" x="95" y="80" text-anchor="middle">Dàn bay hơi</text><text class="nl5-s" x="95" y="100" text-anchor="middle">gas sôi, thu nhiệt</text>
+    <rect x="460" y="40" width="170" height="90" rx="12" class="nl5-bx hot"/><text class="nl5-t" x="545" y="80" text-anchor="middle">Vật cần làm lạnh</text><text class="nl5-s" x="545" y="100" text-anchor="middle">nước, kem, kho lạnh…</text>
+    <path class="nl5-fl cold" d="M184 62H456" marker-end="url(#nl5a)"/><path class="nl5-fl hot" d="M456 108H184" marker-end="url(#nl5b)"/>
+    <defs><marker id="nl5a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L10 5L0 10z" fill="var(--cold)"/></marker><marker id="nl5b" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L10 5L0 10z" fill="var(--hot)"/></marker></defs>
+    <text class="nl5-s" x="320" y="50" text-anchor="middle" style="fill:var(--cold)">chất tải lạnh đã lạnh →</text><text class="nl5-s" x="320" y="132" text-anchor="middle" style="fill:var(--hot)">← chất tải lạnh đã nhận nhiệt</text>
+    <text class="nl5-s" x="320" y="156" text-anchor="middle">Nhiệt đi: vật → chất tải lạnh → gas</text></svg>`;
 
   function learn() {
     return `
 <section class="sec" id="s-oil" data-toc="1 · Dầu máy lạnh">
   <div class="sec-n">Phần 1</div><h2>Dầu máy lạnh</h2>
-  <p><b>Dầu máy lạnh</b> là dầu dùng cho máy nén của hệ thống làm lạnh, để <b>bôi trơn và làm mát</b> các chi tiết chuyển động. Máy nén làm việc lâu dài, tiếp xúc gas, đồng và cả nhiệt độ cao lẫn thấp nên dầu phải có các tính chất sau:</p>
-  <div id="oTabs"></div><article class="panel" id="oPanel" aria-live="polite"></article>
+  <p><b>Dầu máy lạnh</b> dùng cho máy nén để <b>bôi trơn và làm mát</b> các chi tiết chuyển động. Máy nén chạy lâu dài, tiếp xúc gas, đồng, nóng và lạnh, nên dầu phải có 5 tính chất:</p>
+  <div class="nl5-split"><div class="nl4-fig">${COMP}</div>
+    <div class="nl5-oc">${Object.values(OIL).map((p, i) => `<article class="nl4-pc"><span class="nl4-ic" aria-hidden="true">${OILI[i]}</span><h3>${p[0]}</h3><p>${p[1]}</p></article>`).join('')}</div></div>
 </section>
 
 <section class="sec" id="s-note" data-toc="2 · Lưu ý dùng dầu">
   <div class="sec-n">Phần 2</div><h2>Lưu ý khi chọn và thay dầu</h2>
-  <div class="grid2">
-    <div class="panel hotc"><h3>Dầu phải hợp với gas</h3><p style="margin:0">Dầu không phù hợp gas sẽ phản ứng với gas, gây hỏng và <b>không lạnh</b>. Nhìn nhãn trên block để biết gas và loại dầu. Nhóm gas có Clo thường dùng dầu màu vàng nhạt; nhóm HFC (không Clo) dùng dầu trong, một số hơi vàng nhạt.</p></div>
-    <div class="panel warm"><h3>Khi nào thay dầu?</h3><p style="margin:0">Hệ thống đang chạy bình thường <b>không thay dầu định kỳ</b> (dầu lạnh độ nhớt cao, tiêu hao ít). Chỉ thay khi sửa chữa cần thiết hoặc đổi sang gas khác không tương thích. Thừa hay thiếu dầu đều làm giảm hiệu quả làm lạnh.</p></div>
+  <p>Màu dầu cho biết nhiều điều. Nhìn lọ dầu:</p>
+  <div class="nl4-fig nl5-vials">${VIALS}</div>
+  <div class="grid2" style="margin-top:16px">
+    <div class="panel hotc"><h3>Dầu phải hợp với gas</h3><p style="margin:0">Dầu không phù hợp gas sẽ phản ứng với gas, gây hỏng và <b>không lạnh</b>. Nhìn nhãn trên block để biết gas và loại dầu.</p></div>
+    <div class="panel warm"><h3>Khi nào thay dầu?</h3><p style="margin:0">Hệ thống chạy bình thường <b>không thay dầu định kỳ</b> (dầu lạnh độ nhớt cao, tiêu hao ít). Chỉ thay khi sửa chữa cần thiết hoặc đổi sang gas khác không tương thích. Thừa hay thiếu dầu đều làm giảm hiệu quả làm lạnh.</p></div>
   </div>
-  <div class="callout mem"><span class="ic">🔍</span><div><b class="t">Dầu cho biết tình trạng block</b><p>Dầu sạch có màu đặc trưng. Nếu dầu <b>đen, có muội</b>, tức máy nén có vấn đề (quá nhiệt, phản ứng gas – dầu, axit hóa).</p></div></div>
   <div class="callout danger"><span class="ic">⚠️</span><div><b class="t">Dầu cũ hỏng thì phải xử lý thế nào?</b><p>Với gas HFC (R134a), dầu tự hút ẩm. Hệ thống bị hở lâu ngày phải tách ẩm khỏi dầu hoặc <b>thay dầu, vệ sinh sạch toàn bộ</b> rồi mới hút chân không, nạp gas. Không trộn dầu mới với dầu cũ đã hỏng.</p></div></div>
   <div class="callout"><span class="ic">🌬️</span><div><b class="t">Vì sao điều hòa hay chết máy nén do thiếu dầu?</b><p>Gas R22 không hòa tan hoàn toàn với dầu; dàn ngoài thường đặt cao hơn dàn trong nên dầu theo gas lên dàn khó hồi về, đặc biệt khi nạp thừa gas hoặc ống không có bẫy dầu. Vì vậy cần kiểm tra, bổ sung hoặc thay dầu khi bảo dưỡng.</p></div></div>
 </section>
 
 <section class="sec" id="s-brine" data-toc="3 · Chất tải lạnh">
   <div class="sec-n">Phần 3</div><h2>Chất tải lạnh</h2>
-  <p><b>Chất tải lạnh</b> là chất lỏng trung gian nhận nhiệt của đối tượng cần làm lạnh để chuyển cho thiết bị bay hơi (gas sôi). Ví dụ: nước trong Chiller, nước muối trong máy làm kem. Có hai nhóm: <b>vô cơ</b> (nước, nước muối) và <b>hữu cơ</b> (cồn).</p>
-  <p><b>Yêu cầu:</b> nhiệt độ đông đặc thấp hơn nhiệt độ bay hơi của gas; khó bay hơi ở nhiệt độ thường; độ nhớt thấp để giảm trở lực; khối lượng riêng nhỏ; không phân hủy; không cháy nổ, không độc; không ảnh hưởng sản phẩm; rẻ, dễ kiếm; dẫn nhiệt tốt; không ăn mòn.</p>
-  <div class="stage" style="padding:14px"><b>Chọn chất tải lạnh theo nhiệt độ làm việc</b>
-    <div class="row" style="margin-top:10px"><label>Nhiệt độ cần <input id="bT" type="range" min="-60" max="10" step="1" value="-10" style="width:220px"> <b id="bV"></b></label></div>
-    <div id="bList" style="margin-top:10px"></div></div>
+  <p><b>Chất tải lạnh</b> là chất lỏng trung gian: nhận nhiệt của vật cần làm lạnh rồi chuyển cho thiết bị bay hơi. Ví dụ: nước trong Chiller, nước muối trong máy làm kem. Có hai nhóm: <b>vô cơ</b> (nước, nước muối) và <b>hữu cơ</b> (cồn).</p>
+  <div class="stage nl4-fig" style="padding:8px">${LOOP}</div>
+  <p style="margin-top:14px"><b>Yêu cầu:</b> nhiệt độ đông đặc thấp hơn nhiệt độ bay hơi của gas; khó bay hơi ở nhiệt độ thường; độ nhớt thấp để giảm trở lực; khối lượng riêng nhỏ; không phân hủy; không cháy nổ, không độc; không ảnh hưởng sản phẩm; rẻ, dễ kiếm; dẫn nhiệt tốt; không ăn mòn.</p>
+  <div class="stage nl4-chart"><h3>Chọn chất tải lạnh theo nhiệt độ làm việc</h3>
+    <label class="row" style="gap:10px">Nhiệt độ cần <input id="bT" type="range" min="-60" max="10" step="1" value="-10" style="width:min(260px,60vw)" aria-label="Nhiệt độ làm việc"> <b id="bV"></b></label>
+    <div class="nl4-scroll"><div id="bChart"></div></div>
+    <div class="verdict" id="bVd" aria-live="polite" style="margin-top:8px"></div>
+    <div class="nl1-legend"><span><i style="background:var(--ok)"></i> dùng được (đông đặc thấp hơn ít nhất 5 °C)</span><span><i style="background:var(--bad)"></i> không hợp</span><span><i style="background:var(--warm);opacity:.5"></i> vùng đệm 5 °C</span></div></div>
   <div class="callout"><span class="ic">🧪</span><div><b class="t">Cồn chống ẩm trong hệ thống</b><p>Thợ điện lạnh dùng một lượng nhỏ (<b>2 – 3 cc</b>) cồn nồng độ cao (~99,9°) cho vào hệ thống để cồn hòa tan nước, tránh tắc ẩm. Nhưng cồn ăn mòn vật liệu nên không dùng nhiều.</p></div></div>
 </section>
 
@@ -63,14 +97,23 @@
   };
 
   function mount(root) {
-    U.tabset($('#oTabs', root), Object.entries(OIL).map(([id, p], i) => ({ id, n: i + 1, name: p[0] })), id => { $('#oPanel', root).innerHTML = `<h3>${OIL[id][0]}</h3><p style="margin:0">${OIL[id][1]}</p>`; });
-    const sl = $('#bT', root);
+    const sl = $('#bT', root), rows = BRINE, rh = 44, X = t => 200 + (t + 130) / 140 * 400;
     const draw = () => {
-      const t = +sl.value; $('#bV', root).textContent = t + ' °C';
-      $('#bList', root).innerHTML = BRINE.map(b => {
-        const ok = b.fp < t - 5; // chừa dư an toàn ≥ 5 °C
-        return `<div class="panel ${ok ? 'okc' : 'hotc'}" style="margin-top:8px;padding:12px 16px"><b>${b.n}</b> <span class="pill ${ok ? 'ok' : 'bad'}">${ok ? 'Dùng được' : 'Không hợp'}</span> <span class="pill cold">${b.type}</span> · đông đặc ≈ <b>${b.fp} °C</b><div class="muted" style="margin-top:4px">${ok ? b.use : 'Sẽ đông đặc hoặc quá sát điểm đông đặc ở nhiệt độ này.'}${b.c ? ' ' + b.c : ''}</div></div>`;
-      }).join('') + '<p class="muted" style="margin:8px 0 0;font-size:13.5px">Quy ước ở đây: nhiệt độ làm việc phải cao hơn điểm đông đặc ít nhất 5 °C.</p>';
+      const t = +sl.value; $('#bV', root).textContent = vn(t) + ' °C';
+      let s = `<svg viewBox="0 0 640 ${rows.length * rh + 42}" role="img" aria-label="Điểm đông đặc của các chất tải lạnh so với nhiệt độ làm việc">`;
+      for (let k = -120; k <= 0; k += 20) s += `<path d="M${X(k)} 26V${rows.length * rh + 34}" class="nl4-gl"/><text class="nl4-s" x="${X(k)}" y="16" text-anchor="middle">${vn(k)}</text>`;
+      s += `<rect x="${X(t - 5)}" y="24" width="${X(t) - X(t - 5)}" height="${rows.length * rh + 12}" fill="var(--warm)" opacity=".35"/>`;
+      rows.forEach((b, i) => {
+        const ok = b.fp < t - 5, y = 34 + i * rh;
+        s += `<g><text class="nl4-t" x="188" y="${y + 24}" text-anchor="end">${b.n}</text><path d="M${X(b.fp)} ${y + 18}H${X(10)}" class="nl4-tr"/>
+          <circle cx="${X(b.fp)}" cy="${y + 18}" r="9" fill="var(--${ok ? 'ok' : 'bad'})" stroke="var(--ink)" stroke-width="2"/>
+          <text class="nl4-s" x="${X(b.fp) + 14}" y="${y + 14}">${vn(b.fp)} °C</text></g>`;
+      });
+      s += `<path d="M${X(t)} 24V${rows.length * rh + 36}" class="nl4-tl"/></svg>`;
+      $('#bChart', root).innerHTML = s;
+      const okL = rows.filter(b => b.fp < t - 5);
+      const v = $('#bVd', root); v.className = 'verdict ' + (okL.length ? 'ok' : 'bad');
+      v.innerHTML = okL.length ? `Ở <b>${vn(t)} °C</b> dùng được: ${okL.map(b => `<b>${b.n}</b> (${b.use.replace(/\.$/, '')})`).join('; ')}.` : 'Không chất nào đủ an toàn ở nhiệt độ này.';
     };
     sl.oninput = draw; draw();
   }

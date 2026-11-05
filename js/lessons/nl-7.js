@@ -24,6 +24,48 @@
     al: ['Hàn nhôm', 'Khó nhất vì nhôm <b>không đổi màu</b> khi nóng chảy. Dùng que hàn nhôm chạm thử lên bề mặt để biết nhiệt đã đủ; hàn nhanh, vệ sinh sạch lớp ô-xít nhôm; hàn không cẩn thận dễ bị chảy thủng.']
   };
 
+  /* ---------- hình minh họa ---------- */
+  const sv = (w, h, b, l) => `<svg viewBox="0 0 ${w} ${h}" role="img" aria-label="${l}">${b}</svg>`;
+  const flareSvg = id => {
+    const ring = (cx, cy, r, h, fill = 'var(--brass)') => `<circle cx="${cx}" cy="${cy}" r="${r}" fill="${fill}" stroke="var(--ink)" stroke-width="3"/><circle cx="${cx + (h || 0)}" cy="${cy}" r="${r * .5}" fill="var(--surface)" stroke="var(--ink)" stroke-width="2.5"/>`;
+    const nut = `<circle cx="70" cy="70" r="50" fill="none" stroke="var(--muted)" stroke-width="2" stroke-dasharray="5 4"/><text class="nl7-s" x="70" y="132" text-anchor="middle">nét đứt: lòng rắc co</text>`;
+    const body = {
+      ok: ring(70, 70, 38),
+      skew: `<ellipse cx="62" cy="76" rx="44" ry="30" transform="rotate(-18 62 76)" fill="var(--brass)" stroke="var(--ink)" stroke-width="3"/><ellipse cx="62" cy="76" rx="22" ry="15" transform="rotate(-18 62 76)" fill="var(--surface)" stroke="var(--ink)" stroke-width="2.5"/>`,
+      crack: ring(70, 70, 38) + `<path d="M104 52L96 62L104 70L94 80" fill="none" stroke="var(--bad)" stroke-width="3.5" stroke-linejoin="round"/>`,
+      thick: ring(70, 70, 38, 10),
+      size: ring(70, 70, 58)
+    }[id];
+    return sv(140, 140, nut + body, 'Mép loe nhìn từ trên xuống so với lòng rắc co');
+  };
+  const tubeSvg = h => {
+    const top = 84 - h * 44;
+    return sv(300, 150, `<rect x="30" y="84" width="104" height="52" rx="6" class="nl7-blk"/><rect x="166" y="84" width="104" height="52" rx="6" class="nl7-blk"/>
+      <rect x="134" y="${top}" width="32" height="${136 - top}" class="nl7-tube"/><ellipse cx="150" cy="${top}" rx="16" ry="4" class="nl7-tube"/>
+      <path d="M190 84H206M190 ${top}H206M198 ${top}V84" stroke="var(--hot)" stroke-width="2.5" fill="none"/><text class="nl7-s" x="212" y="${(top + 84) / 2 + 4}" style="fill:var(--hot)">nhô ${String(h).replace('.', ',')} mm</text>
+      <text class="nl7-s" x="82" y="115" text-anchor="middle">thước kẹp</text><text class="nl7-s" x="218" y="124" text-anchor="middle">(vẽ phóng to)</text>`, 'Ống đồng kẹp trong thước kẹp, nhô cao khỏi mặt thước');
+  };
+  const mix = (a, b, t) => a.map((x, i) => Math.round(x + (b[i] - x) * t));
+  const heatSvg = h => {
+    const rows = [['Đồng', 1], ['Sắt', 1], ['Nhôm', 0]], gray = [150, 160, 168], dull = [120, 70, 60], red = [255, 72, 40];
+    const col = isRed => { const t = h / 100; const c = !isRed ? mix(gray, [200, 208, 214], t) : t < .7 ? mix(gray, dull, t / .7) : mix(dull, red, (t - .7) / .3); return `rgb(${c.join(',')})`; };
+    let s = `<text x="4" y="52" font-size="30">🔥</text>`;
+    rows.forEach((r, i) => {
+      const y = 14 + i * 46;
+      const melt = !r[1] && h >= 95;
+      s += `<text class="nl7-t" x="48" y="${y + 12}">${r[0]}</text>` + (melt
+        ? `<path d="M100 ${y}H330Q350 ${y + 6} 360 ${y + 30}L340 ${y + 30}Q320 ${y + 20} 300 ${y + 26}H100Z" fill="${col(0)}" stroke="var(--bad)" stroke-width="2.5"/>`
+        : `<rect x="100" y="${y}" width="260" height="26" rx="5" fill="${col(r[1])}" stroke="var(--ink)" stroke-width="2.5"/>`);
+    });
+    return sv(380, 150, s, 'Ống đồng, sắt và nhôm được nung nóng: đồng và sắt đổi màu, nhôm không đổi màu');
+  };
+  const n2Svg = on => {
+    const soot = [18, 34, 52, 70, 88, 104, 120, 140, 160, 178, 200, 222, 246, 270].map((x, i) => `<circle cx="${60 + x}" cy="${i % 2 ? 60 : 94}" r="4.5" fill="#1C1815" stroke="var(--muted)" stroke-width="1.5"/>`).join('');
+    return sv(420, 140, `<rect x="40" y="48" width="340" height="56" rx="10" fill="var(--surface2)" stroke="var(--ink)" stroke-width="3"/>
+      <text x="206" y="30" font-size="26" text-anchor="middle">🔥</text><path d="M206 38V48" stroke="var(--warm)" stroke-width="4"/>
+      ${on ? `<path d="M10 76H400" class="nl7-n2"/><text class="nl7-s" x="206" y="128" text-anchor="middle" style="fill:var(--cold)">nitơ đuổi không khí → mối hàn trong ống sạch</text>` : `${soot}<text class="nl7-s" x="206" y="128" text-anchor="middle" style="fill:var(--bad)">có ô-xi → bề mặt trong thành muội đen → tắc hệ thống</text>`}`, on ? 'Ống hàn có xả nitơ, bên trong sạch' : 'Ống hàn không xả nitơ, bên trong có muội đen');
+  };
+
   function learn() {
     return `
 <section class="sec" id="s-flare" data-toc="1 · Loe ống">
@@ -38,10 +80,10 @@
   <div class="prog"><span class="pc">Đã làm 0/6 bước</span><div class="bar"><i style="width:0"></i></div><span class="muted">(bấm từng bước để đánh dấu)</span></div>
   <div class="stage" style="padding:14px"><b>Tra độ nhô ống khi loe</b>
     <div class="row" style="margin-top:10px"><label>Chọn ống <select id="tSel" style="padding:6px;border-radius:8px;border:1px solid var(--line);background:var(--surface);color:var(--ink)">${TUBE.map((t, i) => `<option value="${i}">${t[0]} (≈ ${f1(t[1])} mm)</option>`).join('')}</select></label></div>
-    <div class="verdict" id="tRes" style="margin-top:10px"></div>
+    <div class="nl4-fig nl7-fig" id="tFig" style="margin-top:10px"></div><div class="verdict" id="tRes" style="margin-top:10px"></div>
     <p class="muted" style="margin:8px 0 0;font-size:13.5px">Quy đổi: 1/4″ ≈ 6,4 mm; 3/8″ ≈ 9,5 mm; 1/2″ ≈ 12,7 mm; 5/8″ ≈ 15,9 mm; 3/4″ ≈ 19,1 mm.</p></div>
   <h3 style="margin-top:22px">Kiểm tra chất lượng mép loe</h3>
-  <div id="fTabs"></div><article class="panel" id="fPanel" aria-live="polite"></article>
+  <div id="fTabs"></div><div class="nl7-flare"><div class="nl4-fig" id="fPic"></div><article class="panel" id="fPanel" aria-live="polite"></article></div>
 </section>
 
 <section class="sec" id="s-swage" data-toc="2 · Nong ống & dụng cụ">
@@ -64,7 +106,13 @@
   <div class="grid2" style="margin-top:14px">
     <div class="panel"><h3>Đèn khò gas</h3><p style="margin:0">Rẻ, dễ dùng; nhiệt <b>không cao</b>, ngọn lửa dài nên dễ cháy vật liệu xung quanh (xốp, nhựa tủ lạnh). Dùng cho ống nhỏ.</p></div>
     <div class="panel hotc"><h3>Mỏ hàn hơi (oxy + gas/ axetilen)</h3><p style="margin:0">Nhiệt rất cao, hàn được ống lớn; ngọn lửa dễ che chắn. Phải <b>chỉnh ngọn lửa vừa phải</b>: quá lớn có thể làm cháy thủng vật liệu. Có 2 đồng hồ trên mỗi bình (áp bình, áp làm việc).</p></div></div>
+  <div class="stage nl7-heat" style="padding:14px;margin-top:16px"><b>Thử: nung nóng ống rồi nhìn màu</b>
+    <label class="row" style="gap:10px;margin-top:8px">Nhiệt <input id="hT" type="range" min="0" max="100" step="1" value="10" style="width:min(260px,60vw)" aria-label="Mức nhiệt"> <b id="hV"></b></label>
+    <div class="nl4-fig nl7-fig" id="hFig" style="margin-top:8px"></div><div class="verdict" id="hRes" aria-live="polite" style="margin-top:8px"></div></div>
   <div id="bTabs" style="margin-top:14px"></div><article class="panel warm" id="bPanel" aria-live="polite"></article>
+  <div class="stage nl7-heat" style="padding:14px"><b>Thử: hàn có và không xả nitơ</b>
+    <div class="row" style="margin-top:8px"><button class="btn sm" id="nOff" aria-pressed="true">Không xả nitơ</button><button class="btn sm" id="nOn" aria-pressed="false">Có xả nitơ</button></div>
+    <div class="nl4-fig nl7-fig" id="nFig" style="margin-top:8px"></div></div>
   <div class="callout mem"><span class="ic">💨</span><div><b class="t">Vì sao phải xả khí nitơ khi hàn?</b><p>Gia nhiệt làm bề mặt trong ống đồng bị ô-xi hóa thành muội đen. Muội này theo gas chạy vào hệ thống gây <b>tắc</b>. Nitơ (hoặc argon) <b>đuổi hết không khí</b> trong ống, không còn ô-xi để cháy, mối hàn trong ống sạch. Mở/ khóa nitơ từ từ.</p></div></div>
   <div class="callout danger"><span class="ic">🧯</span><div><b class="t">An toàn khi hàn</b><p>Dọn dẹp vật dễ cháy, có <b>bình chữa cháy</b> gần đó, lót tấm chắn chịu nhiệt. Đọc đúng thứ tự mở/ khóa van oxy – gas. Tránh hút khói và khí thải. Để mối hàn nguội tự nhiên rồi kiểm tra kín.</p></div></div>
 </section>
@@ -85,11 +133,21 @@
 
   function mount(root) {
     U.bindSteps(root);
-    const sel = $('#tSel', root), draw = () => { const t = TUBE[+sel.value]; $('#tRes', root).innerHTML = `Ống <b>${t[0]}</b> (≈ ${f1(t[1])} mm): để ống <b>nhô cao ${f1(t[2])} mm</b> so với mặt thước kẹp.`; };
+    const sel = $('#tSel', root), draw = () => { const t = TUBE[+sel.value]; $('#tFig', root).innerHTML = tubeSvg(t[2]); $('#tRes', root).innerHTML = `Ống <b>${t[0]}</b> (≈ ${f1(t[1])} mm): để ống <b>nhô cao ${f1(t[2])} mm</b> so với mặt thước kẹp.`; };
     sel.onchange = draw; draw();
-    U.tabset($('#fTabs', root), Object.entries(FLARE_BAD).map(([id, p], i) => ({ id, n: i + 1, name: p[0] })), id => { const p = FLARE_BAD[id]; $('#fPanel', root).innerHTML = `<h3>${p[0]} <span class="pill ${p[1]}">${p[1] === 'ok' ? 'Đạt' : 'Không đạt'}</span></h3><p>${p[2]}</p><p style="margin:0">${p[3]}</p>`; });
+    U.tabset($('#fTabs', root), Object.entries(FLARE_BAD).map(([id, p], i) => ({ id, n: i + 1, name: p[0] })), id => { const p = FLARE_BAD[id]; $('#fPic', root).innerHTML = flareSvg(id); $('#fPanel', root).innerHTML = `<h3>${p[0]} <span class="pill ${p[1]}">${p[1] === 'ok' ? 'Đạt' : 'Không đạt'}</span></h3><p>${p[2]}</p><p style="margin:0">${p[3]}</p>`; });
     U.tabset($('#oTabs', root), Object.entries(TOOLS).map(([id, p], i) => ({ id, n: i + 1, name: p[0] })), id => { $('#oPanel', root).innerHTML = `<h3>${TOOLS[id][0]}</h3><p style="margin:0">${TOOLS[id][1]}</p>`; });
     U.tabset($('#bTabs', root), Object.entries(BRAZE).map(([id, p], i) => ({ id, n: i + 1, name: p[0] })), id => { $('#bPanel', root).innerHTML = `<h3>${BRAZE[id][0]}</h3><p style="margin:0">${BRAZE[id][1]}</p>`; });
+
+    // nhiệt và màu ống
+    const hT = $('#hT', root), hd = () => {
+      const h = +hT.value; $('#hV', root).textContent = h + '%'; $('#hFig', root).innerHTML = heatSvg(h);
+      const v = $('#hRes', root); v.className = 'verdict ' + (h >= 95 ? 'bad' : h >= 70 ? 'ok' : '');
+      v.innerHTML = h >= 95 ? '<b>Nhôm chảy thủng</b> mà vẫn <b>không đổi màu</b> trước đó, nên rất dễ hàn quá tay. Đồng và sắt đã đỏ tươi từ lâu.' : h >= 70 ? '<b>Đồng và sắt đã đỏ tươi</b>: đủ nhiệt, quẹt que hàn vào sẽ tan đều. Nhôm vẫn bạc như cũ, phải chạm que hàn nhôm thử.' : 'Đồng và sắt đang sẫm dần. Gia nhiệt đều cho tới khi <b>đỏ tươi</b>. Nhôm chưa đổi màu.';
+    };
+    hT.oninput = hd; hd();
+    const nSet = on => { $('#nFig', root).innerHTML = n2Svg(on); $('#nOn', root).classList.toggle('pri', on); $('#nOff', root).classList.toggle('pri', !on); $('#nOn', root).setAttribute('aria-pressed', on); $('#nOff', root).setAttribute('aria-pressed', !on); };
+    $('#nOn', root).onclick = () => nSet(true); $('#nOff', root).onclick = () => nSet(false); nSet(false);
 
     // thước kẹp: thước chính mm nguyên + vạch phụ (0–19, mỗi vạch 0,05 mm)
     let V;

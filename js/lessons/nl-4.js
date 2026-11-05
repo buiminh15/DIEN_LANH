@@ -1,8 +1,10 @@
-/* NGUYÊN LÝ LÀM LẠNH — BÀI 4: MÔI CHẤT LẠNH (biên soạn từ docs/nguyen_ly_lam_lanh/Bai_4.txt) */
+/* NGUYÊN LÝ LÀM LẠNH — BÀI 4: MÔI CHẤT LẠNH (biên soạn từ docs/nguyen_ly_lam_lanh/Bai_4.txt)
+   Hình: gas đọng thấp, các thế hệ gas, thang nhiệt độ sôi có thanh trượt. */
 (function () {
   const { $, $$ } = DL, U = DL.ui;
+  const vn = x => String(x).replace('.', ',').replace('-', '−');
 
-  // bp: nhiệt độ sôi ở 1 atm (°C) theo bài giảng
+  // bp: nhiệt độ sôi ở 1 atm (°C) theo bài giảng; rep: thay thế cho
   const GAS = {
     r12: { n: 'R12', f: 'CCl₂F₂ (Dichlorodifluoromethane)', grp: 'CFC', bp: -29.8, p: '70 – 120 psi', ban: true, note: 'Bình màu trắng. Dùng nhiều trong tủ lạnh, tủ bảo quản trước đây. Có Clo nên phá hủy tầng ôzôn, bị cấm từ 1996. Ở 550 °C trở lên phân hủy thành khí phosgene rất độc.' },
     r22: { n: 'R22', f: 'CHClF₂ (Monochlorodifluoromethane)', grp: 'HCFC', bp: -40.8, p: '120 – 200 psi', ban: true, note: 'Dùng nhiều cho điều hòa, máy làm kem, làm đá. Còn Clo nên bị cấm. Không hòa tan hoàn toàn với dầu nên dễ bị tách dầu.' },
@@ -23,24 +25,50 @@
     ['Không ăn mòn vật liệu', 'Thân thiện môi trường: ODP, GWP càng thấp càng tốt.']
   ];
 
+  const ICON = ['🧱', '⚡', '🛢️', '🚫', '👃', '🗜️', '🛡️', '♻️'];
+  const FAM = [
+    ['CFC', 'Có Clo, phá tầng ôzôn', ['r12', 'r502'], 'bad'],
+    ['HCFC', 'Còn Clo, bị cấm', ['r22'], 'bad'],
+    ['HFC', 'Không Clo', ['r134a', 'r410a', 'r507'], 'ok'],
+    ['HC', 'Thân thiện môi trường, dễ cháy', ['r600a'], 'ok']
+  ];
+  const REP = { r134a: 'thay R12', r507: 'thay R502' };
+
+  const SAFE = `<svg viewBox="0 0 320 170" role="img" aria-label="Gas lạnh nặng hơn không khí nên đọng sát sàn, người đứng trong phòng kín có thể bị ngạt">
+    <rect x="10" y="10" width="300" height="150" rx="10" class="nl4-room"/>
+    <rect class="nl4-gaslv" x="12" y="108" width="296" height="50" rx="6"/>
+    ${[0, 1, 2, 3, 4, 5].map(i => `<circle class="nl4-gp" style="animation-delay:${i * .45}s" cx="${40 + i * 48}" cy="40" r="4"/>`).join('')}
+    <text x="236" y="112" font-size="44">🧍</text>
+    <text class="nl4-s" x="22" y="32">gas rò rỉ</text>
+    <text class="nl4-s" x="22" y="150" style="fill:var(--ink)">gas nặng hơn không khí: đọng sát sàn</text></svg>`;
+
   function learn() {
     return `
 <section class="sec" id="s-def" data-toc="1 · Khái niệm">
   <div class="sec-n">Phần 1</div><h2>Môi chất lạnh là gì?</h2>
-  <p><b>Môi chất lạnh</b> (gas lạnh, tác nhân lạnh) là chất được nạp vào hệ thống làm lạnh. Trong quá trình tuần hoàn, nó <b>không mất đi, không tiêu hao, không biến đổi</b> thành dạng năng lượng khác mà chỉ <b>trao đổi nhiệt</b> với môi trường: tỏa nhiệt ở ngưng tụ, thu nhiệt ở bay hơi.</p>
+  <p><b>Môi chất lạnh</b> (gas lạnh, tác nhân lạnh) là chất nạp vào hệ thống làm lạnh. Nó <b>không mất đi, không tiêu hao, không biến thành năng lượng khác</b>. Nó chỉ <b>đổi trạng thái và trao đổi nhiệt</b>:</p>
+  <div class="nl4-roles"><div class="nl4-r hot"><b>Ngưng tụ</b><span>hơi → lỏng, <b>tỏa nhiệt</b> ra ngoài</span></div><div class="nl4-r cold"><b>Bay hơi</b><span>lỏng → hơi, <b>thu nhiệt</b> của vật cần lạnh</span></div></div>
 </section>
 
 <section class="sec" id="s-prop" data-toc="2 · Tính chất">
-  <div class="sec-n">Phần 2</div><h2>Tính chất cần có của môi chất lạnh</h2>
-  <div class="tscroll"><table class="cmp"><thead><tr><th>Tính chất</th><th>Giải thích</th></tr></thead><tbody>${PROPS.map(p => `<tr><td><b>${p[0]}</b></td><td>${p[1]}</td></tr>`).join('')}</tbody></table></div>
-  <div class="callout danger"><span class="ic">⚠️</span><div><b class="t">An toàn khi dùng gas lạnh</b><p>Gas nặng hơn không khí, không duy trì sự sống nên nồng độ cao gây ngạt. Gặp lửa/ nhiệt độ cao, gas phân hủy thành khí độc. Gas lỏng gây bỏng lạnh. <b>Tuyệt đối không dùng bình gas lạnh để chiết nạp khí khác</b>.</p></div></div>
+  <div class="sec-n">Phần 2</div><h2>Tám tính chất của một môi chất tốt</h2>
+  <div class="nl4-props">${PROPS.map((p, i) => `<article class="nl4-pc"><span class="nl4-ic" aria-hidden="true">${ICON[i]}</span><h3>${p[0]}</h3><p>${p[1]}</p></article>`).join('')}</div>
+  <h3 style="margin-top:26px">An toàn khi dùng gas lạnh</h3>
+  <div class="nl4-safe"><div class="nl4-fig">${SAFE}</div>
+    <div class="callout danger" style="margin:0"><span class="ic">⚠️</span><div><b class="t">Ba mối nguy</b><p><b>Ngạt:</b> gas nặng hơn không khí, không duy trì sự sống. <b>Khí độc:</b> gặp lửa hoặc nhiệt độ cao, gas phân hủy thành khí độc. <b>Bỏng lạnh:</b> gas lỏng dính da. <b>Tuyệt đối không dùng bình gas lạnh để chiết nạp khí khác.</b></p></div></div></div>
 </section>
 
 <section class="sec" id="s-types" data-toc="3 · Các loại gas">
   <div class="sec-n">Phần 3</div><h2>Các môi chất thường dùng</h2>
-  <p>Chọn gas để xem công thức, nhiệt độ sôi và lưu ý. Nhiệt độ sôi ở áp suất khí quyển càng thấp thì càng dễ đạt nhiệt độ âm sâu.</p>
-  <div id="gTabs"></div><article class="panel" id="gPanel" aria-live="polite"></article>
-  <div class="stage" style="padding:14px"><b>So sánh nhiệt độ sôi ở 1 atm</b><div id="gBars" style="margin-top:10px"></div></div>
+  <p>Gas chia theo <b>họ hóa học</b>. Đỏ là họ đã bị cấm vì có Clo. Bấm một gas để xem chi tiết:</p>
+  <div class="nl4-fam">${FAM.map(f => `<div class="nl4-fc ${f[3]}"><h3>${f[0]}</h3><small>${f[1]}</small><div class="nl4-chips">${f[2].map(id => `<button type="button" class="nl4-chip" data-g="${id}"><b>${GAS[id].n}</b>${REP[id] ? `<span>${REP[id]}</span>` : ''}</button>`).join('')}</div></div>`).join('')}</div>
+  <article class="panel" id="gPanel" aria-live="polite"></article>
+  <div class="stage nl4-chart"><h3>Nhiệt độ sôi ở 1 atm, và áp suất sôi khi chạy máy</h3>
+    <p class="muted" style="margin:0 0 8px">Kéo để chọn nhiệt độ bay hơi cần đạt. Gas có điểm sôi càng thấp thì càng dễ làm lạnh sâu.</p>
+    <label class="row" style="gap:10px">Nhiệt độ bay hơi t<sub>0</sub> <input id="tR" type="range" min="-50" max="0" step="1" value="-25" style="width:min(260px,60vw)" aria-label="Nhiệt độ bay hơi"> <b id="tV"></b></label>
+    <div class="nl4-scroll"><div id="gChart"></div></div>
+    <div class="verdict" id="gV" aria-live="polite" style="margin-top:8px"></div>
+    <div class="nl1-legend"><span><i style="background:var(--cold)"></i> áp suất sôi trên khí quyển</span><span><i style="background:var(--warm)"></i> áp suất sôi dưới khí quyển (đồng hồ chỉ dưới 0)</span><span><i style="border:2px dashed var(--bad);background:none"></i> đã bị cấm</span></div></div>
 </section>
 
 <section class="sec" id="s-use" data-toc="4 · Chọn & nạp gas">
@@ -67,20 +95,40 @@
   }
 
   function mount(root) {
-    const ids = Object.keys(GAS);
-    U.tabset($('#gTabs', root), ids.map((id, i) => ({ id, n: i + 1, name: GAS[id].n })), id => {
-      const g = GAS[id];
+    let sel = 'r134a';
+    const ids = Object.keys(GAS).sort((a, b) => GAS[a].bp - GAS[b].bp);
+    const X = t => 96 + (t + 55) / 55 * 500, rh = 38;
+    const chart = () => {
+      const T = +$('#tR', root).value;
+      $('#tV', root).textContent = vn(T) + ' °C';
+      let s = `<svg viewBox="0 0 640 ${ids.length * rh + 40}" role="img" aria-label="Nhiệt độ sôi của các gas so với nhiệt độ bay hơi đã chọn">`;
+      for (let t = -50; t <= 0; t += 10) s += `<path d="M${X(t)} 26V${ids.length * rh + 30}" class="nl4-gl"/><text class="nl4-s" x="${X(t)}" y="16" text-anchor="middle">${vn(t)}</text>`;
+      ids.forEach((id, i) => {
+        const g = GAS[id], y = 34 + i * rh, below = T < g.bp;
+        s += `<g class="nl4-row" data-g="${id}" tabindex="0" role="button" aria-label="${g.n}, sôi ${vn(g.bp)} độ"><rect x="0" y="${y - 2}" width="640" height="${rh - 4}" rx="8" class="${id === sel ? 'sel' : ''}"/>
+          <text class="nl4-t" x="86" y="${y + 20}" text-anchor="end">${g.n}</text>
+          <path d="M${X(g.bp)} ${y + 15}H${X(0)}" class="nl4-tr"/>
+          <circle cx="${X(g.bp)}" cy="${y + 15}" r="9" fill="var(--${below ? 'warm' : 'cold'})" ${g.ban ? 'stroke="var(--bad)" stroke-dasharray="3 2" stroke-width="3"' : 'stroke="var(--ink)" stroke-width="2"'}/>
+          <text class="nl4-s" x="${Math.min(X(g.bp) + 16, 560)}" y="${y + 19}">${vn(g.bp)} °C</text></g>`;
+      });
+      s += `<path d="M${X(T)} 24V${ids.length * rh + 34}" class="nl4-tl"/></svg>`;
+      $('#gChart', root).innerHTML = s;
+      const g = GAS[sel], below = T < g.bp;
+      const v = $('#gV', root); v.className = 'verdict ' + (below ? '' : 'ok');
+      v.innerHTML = below ? `<b>${g.n}</b> sôi ở ${vn(g.bp)} °C khi 1 atm, nên để bay hơi ở ${vn(T)} °C thì áp suất sôi phải <b>thấp hơn khí quyển</b>: đồng hồ áp chỉ dưới 0.` : `<b>${g.n}</b> sôi ở ${vn(g.bp)} °C khi 1 atm, nên bay hơi ở ${vn(T)} °C vẫn có áp suất sôi <b>cao hơn khí quyển</b>.`;
+    };
+    const show = id => {
+      sel = id; const g = GAS[id];
+      $$('.nl4-chip', root).forEach(b => b.setAttribute('aria-pressed', b.dataset.g === id));
       $('#gPanel', root).innerHTML = `<h3>${g.n} <span class="pill ${g.ban ? 'bad' : 'ok'}">${g.ban ? 'Đã bị cấm / hạn chế' : 'Đang dùng'}</span> <span class="pill cold">${g.grp}</span></h3>
-        <dl class="kv"><dt>Công thức</dt><dd>${g.f}</dd><dt>Sôi ở 1 atm</dt><dd><b>${g.bp.toString().replace('.', ',')} °C</b></dd><dt>Áp suất (nhiệt độ thường)</dt><dd>${g.p}</dd><dt>Ghi chú</dt><dd>${g.note}</dd></dl>`;
-      $$('#gBars [data-g]', root).forEach(r => r.style.outline = r.dataset.g === id ? '2px solid var(--cold)' : 'none');
-    });
-    // thanh so sánh: -55 .. 0
-    $('#gBars', root).innerHTML = ids.slice().sort((a, b) => GAS[a].bp - GAS[b].bp).map(id => {
-      const g = GAS[id], w = Math.round((g.bp + 55) / 55 * 100);
-      return `<div data-g="${id}" style="display:flex;align-items:center;gap:10px;margin:4px 0;border-radius:6px;padding:2px 4px"><b style="width:64px">${g.n}</b><div class="bar" style="flex:1;height:14px"><i style="width:${100 - w}%;background:${g.ban ? 'var(--bad)' : 'var(--cold)'}"></i></div><span class="muted" style="width:70px;text-align:right">${g.bp.toString().replace('.', ',')} °C</span></div>`;
-    }).join('') + '<p class="muted" style="margin:8px 0 0;font-size:13.5px">Thanh dài hơn = sôi ở nhiệt độ thấp hơn. Màu đỏ: gas đã bị cấm.</p>';
-    $$('#gBars [data-g]', root).forEach(r => r.onclick = () => { const b = $(`#gTabs [data-id="${r.dataset.g}"]`, root); if (b) b.click(); });
-    $$('#gBars [data-g]', root)[0] && ($('#gBars [data-g="' + ids[0] + '"]', root).style.outline = '2px solid var(--cold)');
+        <dl class="kv"><dt>Công thức</dt><dd>${g.f}</dd><dt>Sôi ở 1 atm</dt><dd><b>${vn(g.bp)} °C</b></dd><dt>Áp suất (nhiệt độ thường)</dt><dd>${g.p}</dd><dt>Ghi chú</dt><dd>${g.note}</dd></dl>`;
+      chart();
+    };
+    $$('.nl4-chip', root).forEach(b => b.onclick = () => show(b.dataset.g));
+    $('#gChart', root).addEventListener('click', e => { const r = e.target.closest('[data-g]'); if (r) show(r.dataset.g); });
+    $('#gChart', root).addEventListener('keydown', e => { const r = e.target.closest('[data-g]'); if (r && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); show(r.dataset.g); } });
+    $('#tR', root).oninput = chart;
+    show(sel);
   }
 
   const flashcards = [

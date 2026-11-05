@@ -520,3 +520,9 @@ ol.steps li span{font-size:14.5px;color:var(--muted)}
 .nl8-lab{padding:14px 16px;margin-top:18px}
 .nl8-lg{display:grid;grid-template-columns:minmax(0,300px) minmax(0,1fr);gap:16px;align-items:center;margin-top:10px}
 @media (max-width:860px){.nl8-lg{grid-template-columns:minmax(0,1fr)}}
+@media (max-width:860px){
+  #vSvg,#kSvg{overflow-x:auto}
+  #vSvg svg{min-width:560px;display:block}
+  #kSvg svg{min-width:520px;display:block}
+}
+@media (max-width:860px){.nl7-fig .nl7-s,.nl6-mfig .nl6-s{font-size:14px}.nl7-fig .nl7-t{font-size:15px}}

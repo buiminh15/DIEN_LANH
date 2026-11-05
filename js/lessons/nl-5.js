@@ -64,7 +64,7 @@
 <section class="sec" id="s-brine" data-toc="3 · Chất tải lạnh">
   <div class="sec-n">Phần 3</div><h2>Chất tải lạnh</h2>
   <p><b>Chất tải lạnh</b> là chất lỏng trung gian: nhận nhiệt của vật cần làm lạnh rồi chuyển cho thiết bị bay hơi. Ví dụ: nước trong Chiller, nước muối trong máy làm kem. Có hai nhóm: <b>vô cơ</b> (nước, nước muối) và <b>hữu cơ</b> (cồn).</p>
-  <div class="stage nl4-fig" style="padding:8px">${LOOP}</div>
+  <div class="stage nl4-fig" style="padding:8px"><div class="nl1-scroll">${LOOP}</div><p class="nl1-swipe muted">Vuốt ngang để xem hết sơ đồ ↔</p></div>
   <p style="margin-top:14px"><b>Yêu cầu:</b> nhiệt độ đông đặc thấp hơn nhiệt độ bay hơi của gas; khó bay hơi ở nhiệt độ thường; độ nhớt thấp để giảm trở lực; khối lượng riêng nhỏ; không phân hủy; không cháy nổ, không độc; không ảnh hưởng sản phẩm; rẻ, dễ kiếm; dẫn nhiệt tốt; không ăn mòn.</p>
   <div class="stage nl4-chart"><h3>Chọn chất tải lạnh theo nhiệt độ làm việc</h3>
     <label class="row" style="gap:10px">Nhiệt độ cần <input id="bT" type="range" min="-60" max="10" step="1" value="-10" style="width:min(260px,60vw)" aria-label="Nhiệt độ làm việc"> <b id="bV"></b></label>

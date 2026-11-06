@@ -46,6 +46,24 @@
       ${mark(1, 330, 110)}${mark(4, 465, 60)}${mark(3, 638, 192)}${mark(2, 520, 235)}</svg>`;
   }
 
+
+  /* ============ Hình bổ sung: ống mao giảm áp / tắc ẩm ============ */
+  const capSvg = ice => {
+    const tube = 'M110 110H130C130 66 172 66 172 110S214 154 214 110 256 66 256 110 298 154 298 110H340';
+    return '<svg viewBox="0 0 640 230" role="img" aria-label="Ống mao: gas lỏng ấm áp cao đi vào, ra lỏng lạnh áp thấp' + (ice ? '; băng bịt cuối ống mao' : '') + '">' +
+      '<defs><linearGradient id="lxcg" gradientUnits="userSpaceOnUse" x1="110" x2="340" y1="0" y2="0"><stop offset="0" style="stop-color:var(--warm)"/><stop offset="1" style="stop-color:var(--cold)"/></linearGradient></defs>' +
+      '<rect x="20" y="86" width="70" height="48" rx="12" class="lx-n2"/><text class="lx-s" x="55" y="115" text-anchor="middle">Phin lọc</text>' +
+      '<path d="M90 110H110" stroke="var(--warm)" stroke-width="7" stroke-linecap="round"/>' +
+      '<path d="' + tube + '" fill="none" stroke="url(#lxcg)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>' +
+      (ice ? '' : '<path class="lx-flow" d="M90 110H110' + tube.slice(8) + 'H430" style="stroke-width:3"/>') +
+      '<path d="M340 110H430" stroke="var(--cold)" stroke-width="7" stroke-linecap="round"/>' +
+      '<rect x="430" y="62" width="190" height="96" rx="12" class="lx-n2"/><path d="M440 110L458 82L482 138L506 82L530 138L554 82L578 138L596 110" fill="none" stroke="var(--cold)" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/><text class="lx-t" x="525" y="180" text-anchor="middle">Dàn lạnh</text>' +
+      '<path d="M110 52L340 52L340 44L110 24Z" fill="var(--warm)" opacity=".35"/><text class="lx-s" x="110" y="16">áp suất giảm dần: ~8 bar → ~1,2 bar (R134a)</text>' +
+      '<text class="lx-s" x="20" y="64">lỏng ấm, áp cao</text><text class="lx-s" x="340" y="212" text-anchor="middle">lỏng lạnh, áp thấp, sôi ở khoảng −23 °C</text>' +
+      (ice ? '<g><rect x="326" y="92" width="30" height="36" rx="8" fill="#EAF6FF" stroke="var(--cold-l)" stroke-width="3"/><path d="M332 100l8 8M350 100l-8 8M341 96v16" stroke="var(--cold-l)" stroke-width="2"/></g><text class="lx-t" x="341" y="150" text-anchor="middle" style="fill:var(--bad)">băng bịt ống</text><text class="lx-s" x="440" y="196" style="fill:var(--bad)">gas không qua được, block hút chân không</text>' : '') +
+      '</svg>';
+  };
+
   function learn() {
     return `
 <section class="sec" id="s-filter" data-toc="1 · Phin lọc">
@@ -59,8 +77,9 @@
 
 <section class="sec" id="s-cap" data-toc="2 · Ống mao">
   <div class="sec-n">Phần 2</div><h2>Ống mao (van tiết lưu cố định)</h2>
-  <p>Ống mao là một đoạn <b>ống đồng rất nhỏ và dài</b>, tạo <b>trở lực lớn</b> → làm <b>chênh lệch áp suất</b> giữa dàn nóng (cao, ~8 bar) và dàn lạnh (rất thấp, ~0,6 bar). Áp thấp → gas lỏng sôi ở nhiệt độ thấp (~ −23 °C với gas R134a) để hút nhiệt.</p>
+  <p>Ống mao là một đoạn <b>ống đồng rất nhỏ và dài</b>, tạo <b>trở lực lớn</b> → làm <b>chênh lệch áp suất</b> giữa dàn nóng (cao, ~8 bar) và dàn lạnh (rất thấp: R134a khoảng 1,2 bar tuyệt đối, R600a khoảng 0,65 bar tuyệt đối). Áp thấp → gas lỏng sôi ở nhiệt độ thấp (~ −23 °C với R134a ở 1,2 bar, hoặc R600a ở 0,65 bar) để hút nhiệt.</p>
   <dl class="kv"><dt>Kích thước</dt><dd>Đường kính ngoài cỡ <b>1 – 2 mm</b>, đường kính trong còn nhỏ hơn (cỡ <b>0,6 – 1 mm</b>).</dd><dt>Chiều dài</dt><dd>Thường <b>0,5 – 2,5 m</b> (tốt nhất khoảng 2 – 2,5 m), một số tủ có thể tới 3 m.</dd><dt>Vị trí</dt><dd>Một đầu nối phin, một đầu nối dàn lạnh.</dd></dl>
+  <div class="stage lx-st"><div class="row" role="group" aria-label="Tình trạng ống mao"><button class="btn pri sm" id="capOk" aria-pressed="true">Bình thường</button><button class="btn sm" id="capIce" aria-pressed="false">Tắc ẩm (đóng băng)</button></div><div class="nl1-scroll"><div id="capFig" style="margin-top:8px"></div></div><p class="nl1-swipe muted">Vuốt ngang để xem hết hình ↔</p></div>
   <h3 style="margin-top:22px">Ống mao sai chiều dài / tiết diện thì sao?</h3>
   <div id="capTabs"></div><article class="panel warm" id="capPanel" aria-live="polite"></article>
 </section>
@@ -134,12 +153,14 @@
 
   const FIX = {
     filter: [['Thay phin lọc mới (luôn thay khi sửa hệ thống)', 'Hạt hút ẩm hết tác dụng khi để ngoài không khí, nên đã mở hệ thống là thay phin.'], ['Chọn phin mới còn bịt kín', 'Hai đầu phải còn <b>nút cao su</b>, đựng trong túi bạc hút chân không → hạt hút ẩm còn nguyên tính chất.'], ['Quấn giẻ ướt quanh thân phin', 'Tránh cháy hạt hút ẩm khi hàn.'], ['Hàn phin vào đường ống', 'Chỉnh ngọn lửa vừa, hàn nhanh.'], ['Hút chân không, nạp gas', '']],
-    cap: [['Ống mao tắc bẩn — thổi sạch trước, không được mới thay', 'Dùng khí nitơ ≤ 300 psi'], ['Hở đầu ống mao, nối bơm vào cuối dàn lạnh', 'Hàn cuối dàn lạnh (đường hồi về block) với ống công nghệ phi 6, nối đồng hồ, bơm nitơ từ cuối dàn lạnh về phía ống mao.'], ['Giữ áp suất ≤ 300 psi', 'Không vượt quá áp chịu đựng của dàn lạnh để tránh nổ.'], ['Hơ nóng đầu ống mao bằng máy sấy tóc', 'Dầu loãng ra dễ bị thổi cùng cặn bẩn. Có thể kết hợp nước tẩy rửa chuyên dụng.'], ['Thông thì hàn nối lại, hút chân không, nạp gas', 'Không thông → thay ống mao (đừng cố thổi mạnh dễ phá dàn lạnh).']],
+    cap: [['Ống mao tắc bẩn — thổi sạch trước, không được mới thay', 'Dùng khí nitơ khoảng 100 psi'], ['Hở đầu ống mao, nối bơm vào cuối dàn lạnh', 'Hàn cuối dàn lạnh (đường hồi về block) với ống công nghệ phi 6, nối đồng hồ, bơm nitơ từ cuối dàn lạnh về phía ống mao.'], ['Giữ áp suất khoảng 100 psi', 'Không vượt quá áp chịu đựng của dàn lạnh để tránh nổ.'], ['Hơ nóng đầu ống mao bằng máy sấy tóc', 'Dầu loãng ra dễ bị thổi cùng cặn bẩn. Có thể kết hợp nước tẩy rửa chuyên dụng.'], ['Thông thì hàn nối lại, hút chân không, nạp gas', 'Không thông → thay ống mao (đừng cố thổi mạnh dễ phá dàn lạnh).']],
     wet: [['Tắc ẩm: phải khử hết ẩm khỏi hệ thống', 'Thay phin + hút chân không lại'], ['Hút chân không lại cho hệ thống', 'Với gas HFC dùng dầu polyester dễ hút ẩm; ẩm còn nằm trong dầu.'], ['Sấy nóng hoặc thay dầu bị nhiễm ẩm', 'Thổi sạch dầu nhiễm ẩm ra ngoài.'], ['Thay phin sấy lọc mới', 'Phin cũ đã bão hòa ẩm.'], ['(Cách khác) bơm cồn methanol', 'Cồn hút nước, hạ điểm đóng băng của nước xuống rất thấp để băng không bịt ống mao.']],
     swap: [['Thay ống mao', 'Phải đúng đường kính và chiều dài'], ['Súc rửa toàn bộ hệ thống trước', 'Thổi nitơ + nước súc rửa cho sạch cặn dầu trong dàn nóng; thay dầu; thay phin. Nếu không, ống mao mới sẽ <b>lại tắc</b>.'], ['Chọn ống mao đường kính trong và chiều dài tương đương', 'Ống mao chỉ đo được đường kính <b>ngoài</b>; có thể dò đường kính trong bằng sợi kim loại mảnh. Cần “cân cáp” để đạt P0 đúng.'], ['Luồn ống mao dễ hơn', 'Tủ gián tiếp: có thể luồn qua đường nước xả đá; hoặc chọc lỗ nhỏ rồi luồn, sau đó dán lại bằng băng dính bạc.'], ['Hàn ống mao vào phin đúng cách', 'Cắm ống mao vào phin tới <b>chạm lưới lọc rồi lùi ra khoảng 1 cm</b> (để ống nằm cao hơn “rốn” đáy phin, cặn đọng dưới đáy không bị hút vào). Hàn khi phin chúc đầu ống mao xuống để que hàn chảy xuôi, không chảy ngược làm tắc ống mao.']]
   };
 
   function mount(root) {
+    const capSet = ice => { $('#capFig', root).innerHTML = capSvg(ice); $('#capOk', root).classList.toggle('pri', !ice); $('#capIce', root).classList.toggle('pri', ice); $('#capOk', root).setAttribute('aria-pressed', !ice); $('#capIce', root).setAttribute('aria-pressed', ice); };
+    $('#capOk', root).onclick = () => capSet(false); $('#capIce', root).onclick = () => capSet(true); capSet(false);
     // 1. Phin lọc
     let three = false, sel = 'coarse';
     const drawF = () => {
@@ -196,7 +217,7 @@
     { f: 'Cặn bẩn trong hệ thống đến từ đâu?', b: 'Mạt kim loại ở block, phản ứng gas–dầu–ẩm, bụi lọt khi sửa, vụn cách điện, xỉ hàn.', tag: 'Phin lọc' },
     { f: 'Ống mao có nhiệm vụ gì?', b: 'Tạo <b>trở lực</b> → chênh áp giữa dàn nóng và dàn lạnh → gas lỏng sôi ở nhiệt độ thấp.', tag: 'Ống mao' },
     { f: 'Kích thước ống mao?', b: 'Đường kính ngoài cỡ <b>1–2 mm</b>, trong cỡ <b>0,6–1 mm</b>, dài <b>0,5–2,5 m</b> (có tủ tới 3 m).', tag: 'Ống mao' },
-    { f: 'Áp suất ở dàn lạnh và dàn nóng (ví dụ trong bài)?', b: 'Dàn nóng ~ <b>8 bar</b>; dàn lạnh ~ <b>0,6 bar</b> → gas R134a sôi ~ <b>−23 °C</b>.', tag: 'Ống mao' },
+    { f: 'Áp suất ở dàn lạnh và dàn nóng (ví dụ trong bài)?', b: 'Dàn nóng ~ <b>8 bar</b>; dàn lạnh ~ <b>1,2 bar</b> tuyệt đối → gas R134a sôi ~ <b>−23 °C</b> (R600a: ~0,65 bar).', tag: 'Ống mao' },
     { f: 'Ống mao quá dài / nhỏ gây hậu quả?', b: 'Lưu lượng ít, năng suất giảm; hồi gas chậm làm <b>block nóng</b>; dễ tắc.', tag: 'Ống mao' },
     { f: 'Ống mao quá ngắn / to gây hậu quả?', b: '<b>P0 tăng</b>, nhiệt độ sôi tăng → tủ kém lạnh.', tag: 'Ống mao' },
     { f: '“Cân cáp” là gì?', b: 'Chọn đúng <b>chiều dài / tiết diện</b> ống mao để đạt áp suất bay hơi P0 đúng thiết kế.', tag: 'Ống mao' },
@@ -213,7 +234,7 @@
     { f: 'Phin lọc hỏng thì sửa hay thay?', b: '<b>Thay mới</b> — không tháo lắp, vệ sinh thì hạt hút ẩm đã bão hòa.', tag: 'Sửa chữa' },
     { f: 'Phin mới cần đảm bảo điều gì?', b: 'Hai đầu có <b>nút cao su</b>, đựng túi bạc hút chân không.', tag: 'Sửa chữa' },
     { f: 'Khi hàn phin, làm gì để tránh cháy hạt hút ẩm?', b: 'Chỉnh lửa vừa, <b>quấn giẻ ướt</b> quanh thân phin.', tag: 'Sửa chữa' },
-    { f: 'Thổi sạch ống mao tắc bẩn: áp suất tối đa?', b: 'Khí nitơ <b>≤ 300 psi</b>, bơm từ cuối dàn lạnh, hơ nóng đầu ống mao.', tag: 'Sửa chữa' },
+    { f: 'Thổi sạch ống mao tắc bẩn: áp suất tối đa?', b: 'Khí nitơ khoảng <b>100 psi</b>, bơm từ cuối dàn lạnh, hơ nóng đầu ống mao.', tag: 'Sửa chữa' },
     { f: 'Cách khử ẩm cho tắc ẩm?', b: 'Hút chân không lại, thay dầu/sấy, <b>thay phin</b>; hoặc bơm cồn methanol hút nước.', tag: 'Sửa chữa' },
     { f: 'Trước khi thay ống mao cần làm gì?', b: '<b>Súc rửa toàn bộ hệ thống</b>, thay dầu, thay phin — nếu không sẽ tắc lại.', tag: 'Sửa chữa' },
     { f: 'Hàn ống mao vào phin: cắm bao sâu?', b: 'Cắm tới <b>chạm lưới lọc rồi lùi khoảng 1 cm</b>.', tag: 'Sửa chữa' }
@@ -240,7 +261,7 @@
     Q('Điểm 3 không gas, điểm 4 xì mạnh. Chỗ tắc là?', ['Dàn nóng', 'Phin', 'Ống mao', 'Dàn lạnh'], 0, 'Giữa điểm 4 và điểm 3.'),
     Q('Phin lọc hỏng thì nên?', ['Thay phin mới', 'Vệ sinh lưới dùng lại', 'Đục ra sửa', 'Bỏ không dùng'], 0, 'Hạt hút ẩm để ngoài không khí sẽ mất tác dụng.'),
     Q('Khi hàn phin, tránh cháy hạt hút ẩm bằng cách?', ['Quấn giẻ ướt quanh phin', 'Hàn thật lâu', 'Tăng lửa tối đa', 'Đổ dầu'], 0, 'Hạt cháy vỡ sẽ gây tắc.'),
-    Q('Thổi sạch ống mao tắc, áp suất nitơ tối đa?', ['≤ 300 psi', '≤ 30 psi', '≤ 1000 psi', 'Không giới hạn'], 0, 'Tránh vượt quá áp chịu của dàn lạnh.'),
+    Q('Thổi sạch ống mao tắc, áp suất nitơ tối đa?', ['Khoảng 100 psi', '≤ 30 psi', '≤ 1000 psi', 'Không giới hạn'], 0, 'Dàn lạnh nhôm mỏng làm việc ở áp thấp, thổi quá mạnh có thể nổ dàn (tài liệu: khoảng 100 psi).'),
     Q('Vì sao cồn methanol có thể xử lý tắc ẩm?', ['Hút nước và hạ điểm đóng băng', 'Làm sạch cặn bẩn', 'Tăng áp suất', 'Bôi trơn block'], 0, 'Băng không bịt được ống mao.'),
     Q('Trước khi thay ống mao cần?', ['Súc rửa toàn bộ hệ thống', 'Giảm gas', 'Thay quạt', 'Làm nóng tủ'], 0, 'Không thì ống mới lại tắc vì cặn còn lại.'),
     Q('Hàn ống mao vào phin: cách cắm đúng?', ['Cắm chạm lưới rồi lùi ~1 cm', 'Cắm sát lưới, không lùi', 'Cắm thật sâu qua lưới', 'Chỉ cắm 1 mm'], 0, 'Để ống cao hơn rốn đáy phin, cặn đọng không bị hút vào.')

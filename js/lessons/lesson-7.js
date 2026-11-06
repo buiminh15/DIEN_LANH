@@ -23,6 +23,23 @@
       <text class="sub" x="100" y="22">dòng cuộn rơle ≈ ${I.toFixed(2)} A</text></svg>`;
   }
 
+
+  /* ============ Hình bổ sung: lõi sắt hút / rơi ============ */
+  const coreSvg = p => {
+    const up = p >= 100, glow = Math.min(1, p / 160), cy = up ? 70 : 150;
+    return '<svg viewBox="0 0 460 260" role="img" aria-label="Rơle dòng: lõi sắt ' + (up ? 'bị hút lên, tiếp điểm đóng' : 'rơi xuống, tiếp điểm mở') + '">' +
+      '<rect x="150" y="50" width="110" height="170" rx="10" fill="none" stroke="var(--ink)" stroke-width="2.5" stroke-dasharray="5 4"/>' +
+      Array.from({ length: 9 }, (_, i) => '<path d="M140 ' + (62 + i * 19) + 'H270" stroke="var(--hot)" stroke-width="7" stroke-linecap="round" opacity="' + (0.2 + 0.8 * glow).toFixed(2) + '"/>').join('') +
+      '<rect x="177" y="' + cy + '" width="56" height="62" rx="6" class="lx-core"/><text class="lx-nt" x="205" y="' + (cy + 36) + '" text-anchor="middle">lõi sắt</text>' +
+      '<path d="M205 ' + cy + 'V' + (cy - 14) + '" stroke="var(--ink)" stroke-width="4"/>' +
+      '<rect x="160" y="' + (cy - 22) + '" width="90" height="8" rx="3" fill="' + (up ? 'var(--ok)' : 'var(--muted)') + '" stroke="var(--ink)" stroke-width="2"/>' +
+      '<rect x="150" y="26" width="22" height="10" rx="3" class="lx-n2"/><rect x="238" y="26" width="22" height="10" rx="3" class="lx-n2"/><text class="lx-s" x="205" y="20" text-anchor="middle">tiếp điểm tĩnh</text>' +
+      '<text class="lx-s" x="280" y="' + (cy - 14) + '">tiếp điểm động K: ' + (up ? 'ĐÓNG' : 'MỞ') + '</text>' +
+      '<text class="lx-s" x="10" y="130">cuộn rơle</text><text class="lx-s" x="10" y="146">(nối tiếp</text><text class="lx-s" x="10" y="162">cuộn chạy)</text>' +
+      '<g transform="translate(400 200)"><circle r="26" fill="' + (up ? 'var(--ok)' : 'var(--surface2)') + '" stroke="var(--ink)" stroke-width="3"/><text class="lx-t" y="5" text-anchor="middle">' + (up ? 'có điện' : 'không') + '</text><text class="lx-s" y="46" text-anchor="middle">cuộn đề</text></g>' +
+      '</svg>';
+  };
+
   function learn() {
     return `
 <section class="sec" id="s-why" data-toc="1 · Công dụng">
@@ -38,6 +55,10 @@
 <section class="sec" id="s-build" data-toc="2 · Cấu tạo">
   <div class="sec-n">Phần 2</div><h2>Cấu tạo rơle dòng</h2>
   <p>Gồm <b>3 phần chính</b>: <b>cuộn dây</b> (nối tiếp với cuộn chạy), <b>lõi sắt từ</b> chuyển động, và <b>tiếp điểm thường mở (NO)</b>. Chi tiết: ① nắp ② tiếp điểm tĩnh ③ tiếp điểm động ④ cuộn dây ngoài ⑤ lò xo tiếp điểm ⑥ giá đỡ ⑦ lõi sắt từ.</p>
+  <h3>Lõi sắt hút và rơi</h3>
+  <div class="stage lx-st"><label class="row" style="gap:10px">Dòng qua cuộn rơle <input id="coI" type="range" min="0" max="200" step="5" value="30" style="width:min(260px,60vw)" aria-label="Dòng qua cuộn rơle so với ngưỡng hút"> <b id="coV"></b></label>
+    <div id="coFig" class="lx-or" style="max-width:520px"></div><div class="verdict" id="coR" aria-live="polite"></div>
+    <p class="muted" style="font-size:13px;margin:6px 0 0">100% là ngưỡng hút, phụ thuộc công suất rơle. Hình chỉ minh họa nguyên lý, không phải số đo thật.</p></div>
   <h3>Phân loại theo số chân</h3>
   <div id="pinTabs"></div><article class="panel" id="pinPanel" aria-live="polite"></article>
   <div class="callout"><span class="ic">📐</span><div><b class="t">Lắp đúng chiều</b><p>Rơle dòng chỉ làm việc đúng khi <b>tiếp điểm ở trạng thái thường mở</b>: lõi sắt <b>rơi xuống</b> nhờ trọng lực (và lò xo) làm tiếp điểm mở. Khi lắp lên block phải <b>đặt đúng chiều</b>. Có block chân C ở trên, có block chân C ở dưới; nhà sản xuất làm rơle tương thích sẵn nên cứ lắp sao cho tiếp điểm <b>luôn mở</b> lúc ban đầu.</p></div></div>
@@ -115,6 +136,8 @@
   };
 
   function mount(root) {
+    const ci = $('#coI', root), cd = () => { const p = +ci.value; $('#coV', root).textContent = p + '% ngưỡng'; $('#coFig', root).innerHTML = coreSvg(p); const v = $('#coR', root); v.className = 'verdict ' + (p >= 100 ? 'ok' : ''); v.innerHTML = p >= 100 ? '<b>Dòng lớn</b> (lúc khởi động): cuộn rơle hút lõi lên, tiếp điểm K <b>đóng</b>, cuộn đề có điện.' : '<b>Dòng nhỏ</b> (chưa khởi động hoặc đã chạy ổn định): lực hút yếu, lõi rơi xuống, K <b>mở</b>, cuộn đề không có điện.'; };
+    ci.oninput = cd; cd();
     U.tabset($('#pinTabs', root), [{ id: 'p3', name: 'Loại 3 chân', sub: 'không tụ' }, { id: 'p4', name: 'Loại 4 chân', sub: 'có tụ khởi động' }], id => { $('#pinPanel', root).innerHTML = `<h3>${PINS[id][0]}</h3>${PINS[id][1]}`; });
     U.tabset($('#fTabs', root), Object.entries(FAULTS).map(([id, f], i) => ({ id, n: i + 1, name: f[0] })), id => { $('#fPanel', root).innerHTML = `<h3>${FAULTS[id][0]}</h3><p style="margin:0">${FAULTS[id][1]}</p>`; });
     // mô phỏng

@@ -69,7 +69,7 @@
     <rect x="296" y="270" width="48" height="30" rx="7" class="nl3-main-r"/><text class="nl3-lb" x="320" y="290" text-anchor="middle">tiết lưu</text>
     <rect x="262" y="108" width="116" height="46" rx="10" class="nl3-valve"/>
     <g id="rvCh" fill="none" stroke="var(--ink)" stroke-width="3.5" stroke-linecap="round"></g>
-    <circle cx="320" cy="240" r="25" class="nl3-main-r"/><text x="320" y="244" text-anchor="middle" class="nl3-lb" style="font-size:11px">Máy nén</text>
+    <circle cx="320" cy="240" r="25" class="nl3-main-r"/><text x="320" y="244" text-anchor="middle" class="nl3-lb" style="font-size:12.5px">Máy nén</text>
     <text class="nl3-lb" x="394" y="150">đẩy</text><text class="nl3-lb" x="246" y="150" text-anchor="end">hút</text>
     <text class="nl3-r" id="rvTi" x="132" y="170" text-anchor="middle"></text><text class="nl3-r" id="rvTo" x="548" y="170" text-anchor="middle"></text>
     <path id="rvLoop" d="M0 0" fill="none"/><g id="rvDots"></g></svg>`;

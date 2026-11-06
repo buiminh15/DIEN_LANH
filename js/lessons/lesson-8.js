@@ -42,6 +42,27 @@
       <text class="fl" x="545" y="40" text-anchor="end">Dòng tới ~${(220 / 45).toFixed(1)} A rồi tụt về gần 0 khi PTC nóng lên</text></svg>`;
   }
 
+
+  /* ============ Hình bổ sung: đo miếng PTC bằng đồng hồ ============ */
+  const PTCSTATE = {
+    good: ['Tốt', '30', 'ok', 'Đo qua PTC ra khoảng <b>10 – 50 Ω</b> (hình lấy 30 Ω minh họa): miếng bán dẫn tốt.'],
+    oxid: ['Chân oxy hóa', '--', 'bad', 'Chân giắc oxy hóa, tiếp xúc kém: số đo <b>nhảy lên xuống</b>, lúc có lúc không. Làm sạch chân hoặc thay rơle.'],
+    brk: ['Miếng bán dẫn vỡ', 'OL', 'bad', 'Miếng bán dẫn vỡ: đồng hồ <b>không lên</b> (hở mạch). Rơle không cho dòng vào cuộn đề → block không chạy, dòng cao.']
+  };
+  const ptcSvg = k => {
+    const S = PTCSTATE[k];
+    return '<svg viewBox="0 0 460 240" role="img" aria-label="Đồng hồ vạn năng đo miếng PTC: ' + S[0] + '">' +
+      '<rect x="20" y="20" width="190" height="130" rx="16" class="lx-n2"/><rect x="36" y="36" width="158" height="52" rx="8" fill="var(--cold-tint2)" stroke="var(--ink)" stroke-width="2"/>' +
+      '<text class="lx-big' + (k === 'oxid' ? ' lx-jit' : '') + '" x="115" y="74" text-anchor="middle">' + S[1] + (S[1] === '30' ? ' Ω' : '') + '</text>' +
+      '<text class="lx-s" x="115" y="112" text-anchor="middle">thang x1 Ω</text><circle cx="115" cy="130" r="8" fill="var(--ink)"/>' +
+      '<path d="M80 150Q70 200 250 196" fill="none" stroke="var(--hot)" stroke-width="4" stroke-linecap="round"/><path d="M150 150Q160 218 300 204" fill="none" stroke="var(--ink)" stroke-width="4" stroke-linecap="round"/>' +
+      '<rect x="240" y="150" width="190" height="64" rx="12" class="lx-n2"/><rect x="262" y="164" width="146" height="36" rx="6" fill="var(--warm)" opacity=".55" stroke="var(--ink)" stroke-width="2"/>' +
+      (k === 'brk' ? '<path d="M330 158L320 176L344 188L334 208" fill="none" stroke="var(--bad)" stroke-width="4" stroke-linejoin="round"/>' : '') +
+      '<text class="lx-t" x="335" y="144" text-anchor="middle">miếng PTC</text>' +
+      (k === 'oxid' ? '<circle cx="250" cy="196" r="9" fill="#5a4a3a" stroke="var(--ink)" stroke-width="2"/><circle cx="300" cy="204" r="9" fill="#5a4a3a" stroke="var(--ink)" stroke-width="2"/><text class="lx-s" x="275" y="232" text-anchor="middle">chân oxy hóa</text>' : '') +
+      '</svg>';
+  };
+
   function learn() {
     return `
 <section class="sec" id="s-what" data-toc="1 · Rơle bán dẫn là gì">
@@ -75,6 +96,9 @@
     <div class="panel" style="margin:0"><h4>Biểu hiện</h4><p style="margin:6px 0 0">Cuộn đề không được cấp điện → <b>block không chạy, dòng cao</b> (chỉ cuộn chạy hoạt động). Dòng cao cũng có thể do block kẹt cơ, điện yếu, tắc một phần — nên đo kiểm tra từng bước.</p></div></div>
   <h3 style="margin-top:22px">Đo bằng đồng hồ vạn năng thang x1 Ω (chỉnh kim về 0)</h3>
   <div id="mTabs"></div><article class="panel" id="mPanel" aria-live="polite"></article>
+  <h3 style="margin-top:22px">Đo miếng PTC: tốt hay hỏng?</h3>
+  <div class="stage lx-st"><div class="row" id="ptcBtns" role="group" aria-label="Tình trạng miếng PTC" style="margin-bottom:8px"></div><div id="ptcFig" class="lx-or" style="max-width:520px"></div><div class="verdict" id="ptcR" aria-live="polite"></div>
+    <p class="muted" style="font-size:13px;margin:6px 0 0">Mốc 10 – 50 Ω lấy từ bài giảng. Biểu hiện khi chân oxy hóa hoặc miếng bán dẫn vỡ là mô tả thường gặp, nhằm giúp hình dung.</p></div>
   <div class="callout mem"><span class="ic">🧠</span><div><b class="t">Quy tắc</b><p>Đo qua <b>PTC</b>: <b>10 – 50 Ω</b> là tốt. Đo giữa các chân không qua PTC (chân vào – M): <b>thông</b>. Còn nên kiểm tra thêm chân giắc cắm có tiếp xúc tốt không.</p></div></div>
 </section>
 
@@ -111,6 +135,10 @@
   }
 
   function mount(root) {
+    const pb = $('#ptcBtns', root);
+    pb.innerHTML = Object.entries(PTCSTATE).map(([k, v]) => '<button type="button" class="btn sm" data-k="' + k + '" aria-pressed="false">' + v[0] + '</button>').join('');
+    const pset = k => { $('#ptcFig', root).innerHTML = ptcSvg(k); const v = $('#ptcR', root); v.className = 'verdict ' + PTCSTATE[k][2]; v.innerHTML = PTCSTATE[k][3]; $$('button', pb).forEach(b => { const on = b.dataset.k === k; b.classList.toggle('pri', on); b.setAttribute('aria-pressed', on); }); };
+    $$('button', pb).forEach(b => b.onclick = () => pset(b.dataset.k)); pset('good');
     const hotRef = { v: false };
     let cur = 't1';
     const draw = () => { $('#sSvg', root).innerHTML = schemeSVG(cur, hotRef.v); };

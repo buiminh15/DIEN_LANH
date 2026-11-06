@@ -1,7 +1,7 @@
 /* BÀI 11 — CẢM BIẾN ÂM (SÒ LẠNH) VÀ CẦU CHÌ NHIỆT (biên soạn từ docs/Bai_11.txt) */
 (function () {
   const { $, $$ } = DL, U = DL.ui;
-  const TSET = -5, TFUSE = 73;
+  const TCLOSE = -4, TOPEN = 13, TFUSE = 73; // sò lạnh: đóng ~ −4 °C, mở ~ +13 °C (tài liệu tham khảo)
 
   function chainSVG(s) {
     const lamp = (x, lab, on, col) => `<g><circle cx="${x}" cy="60" r="18" fill="${on ? col : 'var(--line)'}" stroke="var(--ink)" stroke-width="2.5"/><text class="fl" x="${x}" y="102" text-anchor="middle">${lab}</text></g>`;
@@ -13,12 +13,13 @@
       <g><rect x="580" y="42" width="40" height="36" rx="8" fill="${s.fuseBlown ? 'var(--bad-tint)' : 'var(--surface2)'}" stroke="${s.fuseBlown ? 'var(--bad)' : 'var(--ink)'}" stroke-width="2.5"/><text class="fl" x="600" y="64" text-anchor="middle" style="fill:var(--ink)">${s.fuseBlown ? '✗' : 'CC'}</text><text class="fl" x="600" y="102" text-anchor="middle">Cầu chì nhiệt</text></g>
       <text class="fl" x="20" y="30">nguồn</text></svg>`;
   }
-  function tempSVG(pts, soT) {
+  function tempSVG(pts, soT, soC) {
     const W = 560, H = 150, lo = -30, hi = 90, X = i => 40 + i / 199 * (W - 60), Y = t => 10 + (hi - t) / (hi - lo) * (H - 30);
     const d = pts.map((p, i) => `${i ? 'L' : 'M'}${X(i).toFixed(1)} ${Y(p).toFixed(1)}`).join('');
     return `<svg viewBox="0 0 ${W} ${H + 10}" role="img" aria-label="Đồ thị nhiệt độ bề mặt dàn trong lúc xả tuyết"><path d="M40 10V${H - 20}H${W - 10}" stroke="var(--ink)" fill="none" stroke-width="2"/>
       ${[-20, 0, 40, 80].map(t => `<path d="M36 ${Y(t)}H${W - 10}" stroke="var(--line)"/><text class="fl" x="34" y="${Y(t) + 4}" text-anchor="end">${t}°</text>`).join('')}
       <path d="M40 ${Y(soT)}H${W - 10}" stroke="var(--cold)" stroke-dasharray="6 4"/><text class="fl" x="${W - 12}" y="${Y(soT) - 4}" text-anchor="end" style="fill:var(--cold)">sò lạnh ngắt ${soT}°C</text>
+      <path d="M40 ${Y(soC)}H${W - 10}" stroke="var(--cold)" stroke-dasharray="2 4"/><text class="fl" x="${W - 12}" y="${Y(soC) - 4}" text-anchor="end" style="fill:var(--cold)">sò lạnh đóng ${soC}°C</text>
       <path d="M40 ${Y(TFUSE)}H${W - 10}" stroke="var(--hot)" stroke-dasharray="6 4"/><text class="fl" x="${W - 12}" y="${Y(TFUSE) - 4}" text-anchor="end" style="fill:var(--hot)">cầu chì đứt +${TFUSE}°C</text>
       <path d="${d}" fill="none" stroke="var(--ink)" stroke-width="3"/></svg>`;
   }
@@ -30,9 +31,9 @@
   <p>Rơle thời gian xả tuyết theo <b>giờ</b> (cố định), nhưng lượng tuyết mỗi lần mỗi khác. Nếu dàn đã sạch mà sấy vẫn chạy thì <b>lãng phí điện</b> (nhiệt tỏa ra và hút vào triệt tiêu nhau); nếu sấy dừng sớm mà tuyết chưa hết thì <b>gió vẫn không qua được dàn</b>, tủ kém lạnh.</p>
   <p><b>Sò lạnh</b> giải quyết: nối tiếp trong mạch sấy, <b>đóng – ngắt theo nhiệt độ bề mặt dàn</b> (nên thời gian xả phụ thuộc vào lượng tuyết).</p>
   <div class="grid2"><div class="panel" style="margin:0"><h4>Công dụng</h4><p style="margin:6px 0 0">Lắp ở tủ lạnh gián tiếp, <b>đóng ngắt nguồn cho sấy</b> dựa vào <b>nhiệt độ bề mặt dàn lạnh</b>. Gắn ở vị trí <b>cao nhất</b> trên dàn.</p></div>
-    <div class="panel warm" style="margin:0"><h4>Nguyên lý</h4><p style="margin:6px 0 0">Gồm <b>thanh lưỡng kim + cặp tiếp điểm</b>. Nhiệt độ <b>≤ giá trị ghi trên thân</b> (VD −5 °C): lưỡng kim thẳng, tiếp điểm <b>đóng</b> → sấy làm việc. Nhiệt độ <b>cao hơn</b>: lưỡng kim cong, tiếp điểm <b>mở</b> → sấy ngắt.</p></div></div>
+    <div class="panel warm" style="margin:0"><h4>Nguyên lý</h4><p style="margin:6px 0 0">Gồm <b>thanh lưỡng kim + cặp tiếp điểm</b>. Dàn <b>lạnh</b> (khoảng −4 °C): lưỡng kim thẳng, tiếp điểm <b>đóng</b> → sấy làm việc. Dàn ấm lên khoảng <b>+13 °C</b>: lưỡng kim cong, tiếp điểm <b>mở</b> → sấy ngắt. Mỗi sò có hai ngưỡng như vậy (đóng khi lạnh, mở khi ấm).</p></div></div>
   <div class="callout mem"><span class="ic">🧠</span><div><b class="t">Phối hợp 2 thiết bị</b><p><b>Rơle thời gian</b> quyết định <i>khi nào bắt đầu xả</i>; <b>sò lạnh</b> quyết định <i>khi nào ngừng sấy</i>. Mỗi khi tuyết tan hết, bề mặt dàn ấm lên, sò lạnh ngắt sấy → tiết kiệm điện và không làm nóng tủ.</p></div></div>
-  <p>Giá trị ghi trên sò lạnh thường từ khoảng <b>−8 đến −20 °C</b> (phổ biến nhất ≈ −5 °C trong ví dụ bài giảng). Có <b>vỏ nhựa bọc kín</b> (hút chân không hoặc có chất cách ẩm), bên trong không tháo được.</p>
+  <p>Theo tài liệu tham khảo, sò lạnh <b>đóng ở khoảng −4 °C</b> và <b>mở khi ≥ +13 °C</b>; giá trị chính xác tùy loại sò và hãng. Có <b>vỏ nhựa bọc kín</b> (hút chân không hoặc có chất cách ẩm), bên trong không tháo được.</p>
 </section>
 
 <section class="sec" id="s-fuse" data-toc="2 · Cầu chì nhiệt">
@@ -88,7 +89,7 @@
     const ice = $('#ice', root); let tm, S, T, m, pts;
     const iv = () => $('#iceV', root).textContent = ice.value + '%';
     ice.oninput = iv; iv();
-    const draw = () => { $('#chain', root).innerHTML = chainSVG(S); $('#tChart', root).innerHTML = tempSVG(pts, TSET); };
+    const draw = () => { $('#chain', root).innerHTML = chainSVG(S); $('#tChart', root).innerHTML = tempSVG(pts, TOPEN, TCLOSE); };
     function init() {
       clearInterval(tm); const so = $('#sSo', root).value, fu = $('#sFu', root).value;
       T = -25; m = +ice.value / 100; pts = Array(200).fill(T);
@@ -98,20 +99,20 @@
     function step() {
       if (!document.body.contains($('#chain', root))) { clearInterval(tm); return; }
       S.t++;
-      S.soClosed = S.so === 'open' ? false : S.so === 'stuck' ? true : T <= TSET;
+      if (S.so === 'open') S.soClosed = false; else if (S.so === 'stuck') S.soClosed = true; else if (T <= TCLOSE) S.soClosed = true; else if (T >= TOPEN) S.soClosed = false;
       const heat = S.soClosed && !S.fuseBlown;
-      if (heat) { if (m > 0) { m = Math.max(0, m - .008); T = Math.min(-6, T + .35); } else T += .7; }
+      if (heat) { if (m > 0) { m = Math.max(0, m - .008); T = Math.min(0, T + .35); } else T += .7; }
       else T += 0.0;
       if (S.so === 'stuck' && T >= TFUSE && !S.fuseBlown) { S.fuseBlown = true; }
       pts.push(T); pts.shift(); draw();
       const v = $('#sV', root);
-      if (S.t > 400 || (!heat && !(S.so === 'ok' && T <= TSET)) && S.t > 30) { clearInterval(tm); end(v); }
+      if (S.t > 400 || (!heat && !(S.so === 'ok' && T <= TCLOSE)) && S.t > 30) { clearInterval(tm); end(v); }
       else v.textContent = `Đang xả tuyết… nhiệt độ bề mặt dàn ≈ ${T.toFixed(0)} °C · tuyết còn ${Math.round(m * 100)}%`;
     }
     function end(v) {
       const so = S.so, fb = S.fuseBlown, ok = so === 'ok' && !fb && m === 0;
       v.className = 'verdict ' + (ok ? 'ok' : 'bad');
-      if (ok) v.innerHTML = '✓ Tuyết tan hết → bề mặt dàn ấm lên quá ngưỡng của sò lạnh → <b>sò ngắt sấy</b>. Xả tuyết đủ thời gian, không phí điện, quay lại chạy lạnh.';
+      if (ok) v.innerHTML = '✓ Tuyết tan hết → bề mặt dàn ấm lên tới ngưỡng mở của sò lạnh (khoảng +13 °C) → <b>sò ngắt sấy</b>. Xả tuyết đủ thời gian, không phí điện, quay lại chạy lạnh.';
       else if (so === 'open') v.innerHTML = `✗ <b>Sò lạnh không đóng</b>: sấy không có điện, tuyết còn ${Math.round(m * 100)}% → <b>tuyết bám kín dàn</b>, tủ kém lạnh dần rồi mất lạnh.`;
       else if (fb && so === 'ok') v.innerHTML = `✗ <b>Cầu chì nhiệt đã đứt</b>: sấy mất điện (và động cơ rơle thời gian loại 1 cũng mất nguồn) → tuyết còn ${Math.round(m * 100)}%, tủ <b>kém lạnh</b> hoặc <b>chỉ đèn sáng</b>.`;
       else v.innerHTML = '✗ <b>Sò lạnh dính</b>: sấy không ngắt, nhiệt độ vọt lên đến <b>' + TFUSE + ' °C</b> → <b>cầu chì nhiệt đứt</b> để tránh cháy. Từ đó tủ mất sấy (và có thể mất nguồn rơle thời gian) → kém lạnh / chỉ đèn sáng. Phải thay cả sò lạnh và cầu chì.';
@@ -132,7 +133,7 @@
     { f: 'Nhiệt độ cao hơn giá trị ghi thì sò lạnh?', b: '<b>Mở</b> tiếp điểm → sấy ngắt.', tag: 'Nguyên lý' },
     { f: 'Sò lạnh gắn ở đâu trên dàn?', b: 'Vị trí <b>cao nhất</b> của dàn lạnh.', tag: 'Nguyên lý' },
     { f: 'Thời gian xả tuyết phụ thuộc vào gì?', b: 'Vào <b>lượng tuyết</b> bám trên dàn (nhờ sò lạnh).', tag: 'Nguyên lý' },
-    { f: 'Giá trị nhiệt độ thường ghi trên sò lạnh?', b: 'Khoảng −8 đến −20 °C (ví dụ −5 °C).', tag: 'Nguyên lý' },
+    { f: 'Sò lạnh đóng và mở ở nhiệt độ nào?', b: 'Đóng khi lạnh (khoảng −4 °C), mở khi dàn ấm lên (khoảng +13 °C).', tag: 'Nguyên lý' },
     { f: 'Sò lạnh hỏng (không đóng) → tủ?', b: 'Sấy không có điện → <b>tuyết bám kín</b>, kém lạnh rồi mất lạnh.', tag: 'Hư hỏng' },
     { f: 'Sò lạnh dính (không ngắt) → ?', b: 'Sấy chạy liên tục, nhiệt cao → <b>cầu chì nhiệt đứt</b> bảo vệ.', tag: 'Hư hỏng' },
     { f: 'Kiểm tra sò lạnh khi còn nóng: kim?', b: '<b>Không lên</b> (bình thường). Lên → sò dính/hỏng.', tag: 'Kiểm tra' },
@@ -183,7 +184,7 @@
     title: 'Chi tiết thuộc thiết bị nào?',
     buckets: [{ id: 'so', name: 'Sò lạnh (cảm biến âm)' }, { id: 'fuse', name: 'Cầu chì nhiệt (sò dương)' }, { id: 'both', name: 'Cả hai' }],
     items: [
-      { t: 'Đóng khi nhiệt độ ≤ giá trị ghi (VD −5 °C)', b: 'so' }, { t: 'Có thanh lưỡng kim, đóng ngắt nhiều lần', b: 'so' }, { t: 'Quyết định lúc ngừng sấy', b: 'so' }, { t: 'Hỏng (hở) → tuyết bám kín dàn', b: 'so' },
+      { t: 'Đóng khi lạnh (~ −4 °C), mở khi ấm (~ +13 °C)', b: 'so' }, { t: 'Có thanh lưỡng kim, đóng ngắt nhiều lần', b: 'so' }, { t: 'Quyết định lúc ngừng sấy', b: 'so' }, { t: 'Hỏng (hở) → tuyết bám kín dàn', b: 'so' },
       { t: 'Giống một dây dẫn, đứt vĩnh viễn', b: 'fuse' }, { t: 'Chỉ bảo vệ một lần', b: 'fuse' }, { t: 'Đứt khi nhiệt ~ +73 °C', b: 'fuse' }, { t: 'Bảo vệ khi sò lạnh dính', b: 'fuse' },
       { t: 'Lắp trong mạch xả tuyết tủ gián tiếp', b: 'both' }, { t: 'Đo bằng đồng hồ x1 Ω', b: 'both' }, { t: 'Có loại gộp 2 trong 1, 3 chân', b: 'both' }, { t: 'Hỏng → tủ kém lạnh hoặc chỉ đèn sáng', b: 'both' }
     ]

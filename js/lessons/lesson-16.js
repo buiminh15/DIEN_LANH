@@ -8,11 +8,39 @@
     inn: { 1: [150, 165], 2: [170, 185], 3: [190, 220], none: [150, 220] }
   };
 
+
+  /* ============ Hình bổ sung: nối đồng hồ hút chân không, cân cáp ============ */
+  const vNeedle = (cx, cy, r, ang) => '<path d="M' + cx + ' ' + cy + 'L' + (cx + r * Math.cos(ang)).toFixed(1) + ' ' + (cy - r * Math.sin(ang)).toFixed(1) + '" stroke="var(--hot)" stroke-width="3.5" stroke-linecap="round"/><circle cx="' + cx + '" cy="' + cy + '" r="4" fill="var(--ink)"/>';
+  const vacSvg = pump => {
+    const air = pump ? 'M470 150H300V215H130' : 'M410 215H300V150H470';
+    return '<svg viewBox="0 0 640 270" role="img" aria-label="Nối đồng hồ: ' + (pump ? 'dây giữa nối máy hút chân không' : 'dây giữa nối bình gas') + '">' +
+      '<path id="lxv" d="' + air + '" fill="none"/>' +
+      '<path d="M360 150H470" stroke="var(--cold)" stroke-width="8" stroke-linecap="round"/><path d="M300 180V215' + (pump ? 'H130' : 'H410') + '" fill="none" stroke="var(--warm)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>' +
+      '<rect x="470" y="60" width="150" height="150" rx="14" class="lx-n2"/><text class="lx-t" x="545" y="130" text-anchor="middle">Hệ thống tủ</text><text class="lx-s" x="545" y="150" text-anchor="middle">dàn nóng, dàn lạnh</text><text class="lx-s" x="474" y="170">ống công nghệ</text>' +
+      '<rect x="240" y="120" width="120" height="60" rx="10" class="lx-n2"/><text class="lx-s" x="246" y="138">bộ đồng hồ</text>' +
+      '<circle cx="270" cy="84" r="30" class="lx-n2"/>' + vNeedle(270, 84, 22, pump ? 3.0 : 1.7) + '<text class="lx-s" x="270" y="44" text-anchor="middle" style="fill:var(--cold)">Lo</text>' +
+      '<circle cx="332" cy="84" r="22" class="lx-n2" opacity=".5"/><text class="lx-s" x="332" y="52" text-anchor="middle">Hi (khóa)</text>' +
+      '<g opacity="' + (pump ? 1 : .35) + '"><rect x="30" y="190" width="100" height="62" rx="10" class="lx-n2"/><text class="lx-t" x="80" y="226" text-anchor="middle">Máy hút</text><text class="lx-s" x="80" y="268" text-anchor="middle">ống đẩy để hở</text></g>' +
+      '<g opacity="' + (pump ? .35 : 1) + '"><rect x="410" y="198" width="54" height="64" rx="12" class="lx-n2"/><text class="lx-t" x="437" y="236" text-anchor="middle">Gas</text></g>' +
+      '<text class="lx-s" x="20" y="120">' + (pump ? 'Lo: −30 inHg (−76 cmHg)' : 'Lo: áp thấp khi nạp') + '</text>' +
+      U.flow('lxv', 7, 7, [0, 1], [{ c: pump ? 'nl1-p-cg' : 'nl1-p-hl', r: 5, w: [1, 1] }]) + '</svg>';
+  };
+  const cabSvg = out => {
+    const tail = '<path d="M470 120H500C500 90 530 90 530 120S560 150 560 120H600" fill="none" stroke="var(--brass)" stroke-width="4" stroke-linecap="round"/>';
+    return '<svg viewBox="0 0 640 220" role="img" aria-label="Cân cáp ' + (out ? 'ngoài: block và ống mao thử bên ngoài tủ' : 'trong: hệ thống đã lắp hoàn chỉnh') + '">' +
+      (out ? '<rect x="30" y="80" width="130" height="80" rx="14" class="lx-n2"/><text class="lx-t" x="95" y="126" text-anchor="middle">Block</text><text class="lx-s" x="30" y="178">đầu hút: hở</text>'
+        : '<rect x="30" y="40" width="130" height="140" rx="14" class="lx-n2"/><text class="lx-t" x="95" y="106" text-anchor="middle">Cả hệ thống</text><text class="lx-s" x="95" y="126" text-anchor="middle">đã lắp vào tủ</text><text class="lx-s" x="30" y="198">đầu nạp gas: hở</text>') +
+      '<path d="M160 120H470" stroke="var(--hot)" stroke-width="7" stroke-linecap="round"/>' +
+      '<circle cx="300" cy="62" r="30" class="lx-n2"/>' + vNeedle(300, 62, 22, .9) + '<path d="M300 92V120" stroke="var(--ink)" stroke-width="5"/><text class="lx-t" x="300" y="46" text-anchor="middle" style="display:none"></text><text class="lx-s" x="340" y="60">đồng hồ áp cao: kim lên rồi đứng im</text>' +
+      '<rect x="400" y="100" width="70" height="40" rx="10" class="lx-n2"/><text class="lx-s" x="435" y="125" text-anchor="middle">phin</text>' +
+      tail + '<text class="lx-t" x="535" y="158" text-anchor="middle">ống mao</text><text class="lx-s" x="620" y="84" text-anchor="end">đầu kia: để hở</text></svg>';
+  };
+
   function learn() {
     return `
 <section class="sec" id="s-why" data-toc="1 · Vì sao cân cáp">
   <div class="sec-n">Phần 1</div><h2>Ôn lại: ống mao quyết định áp suất bay hơi</h2>
-  <p>Gas lỏng áp cao (khoảng <b>8 bar</b>, cuối dàn nóng 45–55 °C) đi qua ống mao (dài cỡ <b>1,5 m</b>, đường kính trong cỡ <b>0,6 mm</b>) bị giảm áp xuống rất thấp (cỡ <b>0,6 bar</b>) rồi sôi ở khoảng <b>−23 °C</b> trong dàn lạnh.</p>
+  <p>Gas lỏng áp cao (khoảng <b>8 bar</b>, cuối dàn nóng 45–55 °C) đi qua ống mao (dài cỡ <b>1,5 m</b>, đường kính trong cỡ <b>0,6 mm</b>) bị giảm áp xuống rất thấp (R134a cỡ <b>1,2 bar</b> tuyệt đối; R600a cỡ <b>0,65 bar</b>) rồi sôi ở khoảng <b>−23 °C</b> trong dàn lạnh.</p>
   <div class="tabs"><div class="tab" style="cursor:default"><b>↑</b><span><strong>Ống mao quá ngắn / quá to</strong><br><small class="muted">trở lực nhỏ → P0 cao → gas sôi ở nhiệt độ cao → tủ không đủ lạnh</small></span></div><div class="tab" style="cursor:default"><b>↓</b><span><strong>Ống mao quá dài / quá nhỏ</strong><br><small class="muted">trở lực lớn → lưu lượng gas ít → năng suất lạnh giảm</small></span></div></div>
   <p style="margin-top:14px"><b>Cân cáp</b> = đo <b>trở lực không khí</b> của block + ống mao để chọn <b>chiều dài và tiết diện</b> ống mao cho đúng. Chỉ áp dụng khi <b>thay block</b>, <b>đổi loại gas</b> hoặc <b>lắp mới</b> hệ thống (không cần khi chỉ thay phin, sửa nhỏ).</p>
 </section>
@@ -20,6 +48,7 @@
 <section class="sec" id="s-method" data-toc="2 · Hai phương pháp">
   <div class="sec-n">Phần 2</div><h2>Cân cáp ngoài và cân cáp trong</h2>
   <div id="mTabs"></div><article class="panel" id="mPanel" aria-live="polite"></article>
+  <div class="stage lx-st"><div class="nl1-scroll"><div id="mPic"></div></div><p class="nl1-swipe muted">Vuốt ngang để xem hết hình ↔</p></div>
   <h3 style="margin-top:22px">Giá trị trở lực quy định (psi)</h3>
   <div class="tscroll"><table class="cmp"><thead><tr><th>Loại tủ</th><th>Cân cáp ngoài</th><th>Cân cáp trong</th></tr></thead><tbody>
     <tr><th>1 sao</th><td>135 – 150</td><td>150 – 165</td></tr><tr><th>2 sao</th><td>155 – 170</td><td>170 – 185</td></tr><tr><th>3 và 4 sao</th><td>175 – 190</td><td>190 – 220</td></tr><tr><th>Tủ không ghi sao</th><td>≈ 135 – 197</td><td>≈ 150 – 220</td></tr></tbody></table></div>
@@ -38,6 +67,8 @@
   <div class="sec-n">Phần 3</div><h2>Tạo chân không</h2>
   <p>Trước khi nạp gas phải <b>hút sạch không khí và hơi ẩm</b> ra khỏi hệ thống. Nếu không: hơi ẩm sinh <b>axit</b>, hỏng dầu; bụi gây <b>tắc</b>; không khí làm áp suất đẩy cao, block quá tải, tủ kém lạnh, có thể <b>cháy block</b>.</p>
   <div id="vTabs"></div><article class="panel warm" id="vPanel" aria-live="polite"></article>
+  <h3 style="margin-top:24px">Nối đồng hồ: hút rồi nạp</h3>
+  <div class="stage lx-st"><div class="row" role="group" aria-label="Giai đoạn"><button class="btn pri sm" id="vcA" aria-pressed="true">1 · Hút chân không</button><button class="btn sm" id="vcB" aria-pressed="false">2 · Chuyển sang bình gas</button></div><div class="nl1-scroll"><div id="vcFig" style="margin-top:8px"></div></div><p class="nl1-swipe muted">Vuốt ngang để xem hết hình ↔</p><div class="verdict" id="vcV" aria-live="polite"></div></div>
   <h3 style="margin-top:24px">Nối đồng hồ và hút (đồng hồ 2 dây)</h3>
   ${U.steps([['Nối hệ thống: dây đồng hồ thấp vào ống công nghệ, dây trung gian vào máy hút (hoặc block hút)', 'Ống đẩy của máy hút để hở. Mở khóa đồng hồ thấp.'], ['Cấp điện cho máy hút (block hút)', 'Máy hút toàn bộ không khí ra ngoài; theo dõi kim đồng hồ chân không.'], ['Kim chỉ −76 cmHg (−30 inHg) và ống đẩy của máy hút <b>không còn khí</b>', 'Mới đạt yêu cầu. Còn khí → còn không khí hoặc hở. Có thể quét <b>bọt xà phòng</b> kiểm tra đầu nối.'], ['Khóa van đồng hồ, ngắt nguồn máy hút', 'Chuyển dây trung gian từ máy hút sang bình gas.'], ['Xả đuổi không khí trong dây', 'Mở nhẹ van bình gas và khóa đồng hồ để gas đẩy hết khí trong dây ra ngoài (hoặc nới lỏng đầu dây) rồi vặn lại.'], ['Sẵn sàng nạp gas', '']])}
   <div class="grid2"><div class="panel" style="margin:0"><h4>Đồng hồ 3 dây</h4><p style="margin:6px 0 0">Dây giữa nối bình gas, dây thấp nối ống công nghệ, dây còn lại nối máy hút. Đóng khóa bình gas, mở khóa thấp để hút. Hút xong khóa van, ngắt máy hút, mở bình gas là nạp được ngay — <b>không phải tháo dây</b>.</p></div>
@@ -84,8 +115,11 @@
   };
 
   function mount(root) {
-    U.tabset($('#mTabs', root), [{ id: 'out', name: 'Cân cáp ngoài' }, { id: 'inn', name: 'Cân cáp trong' }], id => { $('#mPanel', root).innerHTML = `<h3>${METH[id][0]}</h3><p style="margin:0">${METH[id][1]}</p>`; });
+    U.tabset($('#mTabs', root), [{ id: 'out', name: 'Cân cáp ngoài' }, { id: 'inn', name: 'Cân cáp trong' }], id => { $('#mPic', root).innerHTML = cabSvg(id === 'out'); $('#mPanel', root).innerHTML = `<h3>${METH[id][0]}</h3><p style="margin:0">${METH[id][1]}</p>`; });
     U.tabset($('#vTabs', root), [{ id: 'pump', name: 'Máy hút chân không' }, { id: 'own', name: 'Block trong hệ thống' }], id => { $('#vPanel', root).innerHTML = `<h3>${VM[id][0]}</h3><p style="margin:0">${VM[id][1]}</p>`; });
+    // hút chân không / nạp gas: nối đồng hồ
+    const vcSet = pump => { $('#vcFig', root).innerHTML = vacSvg(pump); $('#vcA', root).classList.toggle('pri', pump); $('#vcB', root).classList.toggle('pri', !pump); $('#vcA', root).setAttribute('aria-pressed', pump); $('#vcB', root).setAttribute('aria-pressed', !pump); const v = $('#vcV', root); v.className = 'verdict ' + (pump ? '' : 'ok'); v.innerHTML = pump ? '<b>Hút:</b> dây giữa nối <b>máy hút</b>, mở khóa đồng hồ thấp. Không khí đi từ hệ thống ra qua máy hút, kim về <b>−30 inHg</b>.' : '<b>Nạp:</b> khóa van, ngắt máy hút, chuyển dây giữa sang <b>bình gas</b>; xả đuổi khí trong dây rồi mở khóa để gas vào hệ thống.'; };
+    $('#vcA', root).onclick = () => vcSet(true); $('#vcB', root).onclick = () => vcSet(false); vcSet(true);
     // cân cáp
     const L = $('#cL', root);
     const cc = () => {
@@ -118,7 +152,7 @@
   const flashcards = [
     { f: 'Gas áp cao ở dàn nóng khoảng bao nhiêu?', b: 'Khoảng <b>8 bar</b>, 45–55 °C cuối dàn.', tag: 'Ôn lại' },
     { f: 'Ống mao có kích thước điển hình?', b: 'Dài ~<b>1,5 m</b>, đường kính trong ~<b>0,6 mm</b>.', tag: 'Ôn lại' },
-    { f: 'Gas sôi ở dàn lạnh khoảng bao nhiêu độ?', b: 'Khoảng <b>−23 °C</b> (áp ~0,6 bar).', tag: 'Ôn lại' },
+    { f: 'Gas sôi ở dàn lạnh khoảng bao nhiêu độ?', b: 'Khoảng <b>−23 °C</b> (R134a: áp ~1,2 bar tuyệt đối; R600a: ~0,65 bar).', tag: 'Ôn lại' },
     { f: 'Ống mao quá ngắn hoặc quá to gây gì?', b: 'P0 cao, nhiệt độ sôi cao → tủ kém lạnh.', tag: 'Ôn lại' },
     { f: 'Ống mao quá dài hoặc quá nhỏ gây gì?', b: 'Lưu lượng gas ít → năng suất lạnh giảm.', tag: 'Ôn lại' },
     { f: 'Cân cáp là gì?', b: 'Đo <b>trở lực không khí</b> của block + ống mao để chọn chiều dài, tiết diện ống mao.', tag: 'Cân cáp' },

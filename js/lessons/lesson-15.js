@@ -1,7 +1,7 @@
 /* BÀI 15 — PHÂN TÍCH SƠ ĐỒ MẠCH ĐIỆN TỦ LẠNH GIÁN TIẾP (biên soạn từ docs/Bai_14.txt phần cuối và docs/Bai_15.txt) */
 (function () {
   const { $, $$ } = DL, U = DL.ui;
-  const TSO = -5, TFUSE = 73;
+  const TCLOSE = -4, TOPEN = 13, TFUSE = 73; // sò lạnh: đóng ~ −4 °C, mở ~ +13 °C (tài liệu tham khảo)
 
   const PATHS = {
     t1: {
@@ -31,7 +31,7 @@
     const W = 600, H = 120, lo = -30, hi = 90, X = i => 40 + i / 249 * (W - 60), Y = t => 8 + (hi - t) / (hi - lo) * (H - 26);
     return `<svg viewBox="0 0 ${W} ${H + 10}" role="img" aria-label="Nhiệt độ bề mặt dàn lạnh theo thời gian"><path d="M40 8V${H - 18}H${W - 10}" stroke="var(--ink)" fill="none" stroke-width="2"/>
       ${[-20, 0, 40, 80].map(t => `<path d="M36 ${Y(t)}H${W - 10}" stroke="var(--line)"/><text class="fl" x="34" y="${Y(t) + 4}" text-anchor="end">${t}°</text>`).join('')}
-      <path d="M40 ${Y(TSO)}H${W - 10}" stroke="var(--cold)" stroke-dasharray="6 4"/><path d="M40 ${Y(TFUSE)}H${W - 10}" stroke="var(--hot)" stroke-dasharray="6 4"/>
+      <path d="M40 ${Y(TOPEN)}H${W - 10}" stroke="var(--cold)" stroke-dasharray="6 4"/><path d="M40 ${Y(TCLOSE)}H${W - 10}" stroke="var(--cold)" stroke-dasharray="2 4"/><path d="M40 ${Y(TFUSE)}H${W - 10}" stroke="var(--hot)" stroke-dasharray="6 4"/>
       <path d="${pts.map((p, i) => `${i ? 'L' : 'M'}${X(i).toFixed(1)} ${Y(p).toFixed(1)}`).join('')}" fill="none" stroke="var(--ink)" stroke-width="2.5"/></svg>`;
   }
   function waveSVG(half) {
@@ -58,7 +58,7 @@
 
 <section class="sec" id="s-sim" data-toc="3 · Mô phỏng chu kỳ">
   <div class="sec-n">Phần 3</div><h2>🔬 Mô phỏng chu kỳ chạy lạnh – xả tuyết</h2>
-  <p>Chọn loại mạch và lỗi, bấm <b>Chạy</b>. Quan sát các đèn báo: đèn = bật điện; đường nhiệt độ: đứt xanh là ngưỡng sò lạnh (−5 °C), đứt đỏ là ngưỡng cầu chì (+73 °C).</p>
+  <p>Chọn loại mạch và lỗi, bấm <b>Chạy</b>. Quan sát các đèn báo: đèn = bật điện; đường nhiệt độ: đứt xanh là ngưỡng mở của sò lạnh (+13 °C), chấm xanh là ngưỡng đóng (−4 °C), đứt đỏ là ngưỡng cầu chì (+73 °C).</p>
   <div class="stage"><div id="sSvg"></div><div id="sT"></div>
     <div style="padding:0 16px"><div class="muted" style="font-size:14px">Lớp tuyết trên dàn <b id="iceV"></b></div><div class="bar" style="height:14px;margin:6px 0"><i id="iceB" style="width:0;background:var(--cold-l)"></i></div></div>
     <div class="controls">
@@ -125,11 +125,11 @@
     function tick() {
       if (!document.body.contains($('#sSvg', root))) { clearInterval(tm); return; }
       const type = +$('#sType', root).value, so = $('#sSo', root).value;
-      S.soClosed = so === 'open' ? false : so === 'stuck' ? true : S.T <= TSO;
+      if (so === 'open') S.soClosed = false; else if (so === 'stuck') S.soClosed = true; else if (S.T <= TCLOSE) S.soClosed = true; else if (S.T >= TOPEN) S.soClosed = false;
       const cool = S.mode === 'cool', def = !cool;
       S.cool = cool; S.heater = def && S.soClosed && !S.blown;
       if (cool) { S.T = Math.max(-28, S.T - .35 * (1 - S.ice * .8)); S.ice = Math.min(1, S.ice + .0022); }
-      else if (S.heater) { if (S.ice > 0) { S.ice = Math.max(0, S.ice - .012); S.T = Math.min(-6.5, S.T + .3); } else S.T += .8; }
+      else if (S.heater) { if (S.ice > 0) { S.ice = Math.max(0, S.ice - .012); S.T = Math.min(0, S.T + .3); } else S.T += .8; }
       else S.T += .05;
       if (S.T >= TFUSE && S.heater) S.blown = true;
       if (S.T > 40 && !S.heater) S.T = Math.max(20, S.T - .5);

@@ -114,6 +114,17 @@
       ${S.Cr ? '' : seg('M200 170H300', false)}${S.Cr ? seg('M200 170H300', sPath) : ''}</svg>`;
   }
 
+
+  /* ============ Hình bổ sung: tam giác điện trở C – R – S ============ */
+  const triSvg = (r, s) => {
+    const C = [210, 40], R = [60, 200], S = [360, 200], mid = (a, b) => [(a[0] + b[0]) / 2, (a[1] + b[1]) / 2];
+    const edge = (a, b, v, c, big, lbl) => { const m = mid(a, b); return '<path d="M' + a + 'L' + b + '" stroke="var(--' + c + ')" stroke-width="' + (big ? 9 : 5) + '" stroke-linecap="round"/><rect x="' + (m[0] - 38) + '" y="' + (m[1] - 14) + '" width="76" height="26" rx="8" class="lx-pill"/><text class="lx-t" x="' + m[0] + '" y="' + (m[1] + 5) + '" text-anchor="middle">' + v + ' Ω</text><text class="lx-s" x="' + m[0] + '" y="' + (m[1] + 30) + '" text-anchor="middle">' + lbl + '</text>'; };
+    const pin = (p, n, t) => '<circle cx="' + p[0] + '" cy="' + p[1] + '" r="20" class="lx-pin"/><text class="lx-nt" x="' + p[0] + '" y="' + (p[1] + 6) + '" text-anchor="middle">' + n + '</text><text class="lx-s" x="' + p[0] + '" y="' + (p[1] + (p[1] < 100 ? -28 : 40)) + '" text-anchor="middle">' + t + '</text>';
+    return '<svg viewBox="0 0 420 260" role="img" aria-label="Ba lần đo giữa ba chân C, R, S: C–R bằng ' + r + ' ôm, C–S bằng ' + s + ' ôm, R–S bằng ' + (r + s) + ' ôm">' +
+      edge(C, R, r, 'cold', false, 'cuộn chạy (R)') + edge(C, S, s, 'warm', false, 'cuộn đề (S)') + edge(R, S, r + s, 'hot', true, 'lớn nhất = R + S') +
+      pin(C, 'C', 'chân chung') + pin(R, 'R', 'chạy') + pin(S, 'S', 'đề') + '</svg>';
+  };
+
   function learn() {
     return `
 <section class="sec" id="s-types" data-toc="1 · Phân loại">
@@ -154,6 +165,10 @@
   <div class="callout danger"><span class="ic">⚠️</span><div><b class="t">Xác định sai thì sao?</b><p>Rô-to quay sai chiều làm <b>không hút dầu</b>; cuộn đề (dây nhỏ) làm việc liên tục nên <b>nóng và cháy</b>. Phải xác định đúng!</p></div></div>
   <h3 style="margin-top:22px">Cách đo (thang x1 Ω, nhớ chập hai que chỉnh kim về 0)</h3>
   ${U.steps([['Đo cả 3 cặp chân', 'Chân 1–2, 2–3, 1–3 → có 3 giá trị.'], ['Lần đo LỚN NHẤT = R + S', 'Hai cuộn nối tiếp. <b>Chân còn lại (không tham gia lần đo này) là chân chung C.</b>'], ['Từ C đo sang 2 chân còn lại', 'Giá trị <b>nhỏ</b> là chân <b>chạy R</b> (dây to); giá trị <b>lớn</b> là chân <b>đề S</b> (dây nhỏ).']])}
+  <div class="stage lx-st"><h3 style="margin:0 0 6px">Vì sao lần đo lớn nhất loại ra chân C?</h3>
+    <p class="muted" style="margin:0 0 8px">Kéo hai thanh trượt để đổi điện trở hai cuộn. Hai cuộn nối tiếp ở C nên cặp R–S luôn lớn nhất.</p>
+    <div class="row" style="gap:16px"><label class="row" style="gap:8px">Cuộn chạy R <input id="triR" type="range" min="5" max="20" step="1" value="12" aria-label="Điện trở cuộn chạy"> <b id="triRv"></b></label><label class="row" style="gap:8px">Cuộn đề S <input id="triS" type="range" min="10" max="30" step="1" value="20" aria-label="Điện trở cuộn đề"> <b id="triSv"></b></label></div>
+    <div class="lx-or" id="triFig" style="max-width:440px"></div><div class="verdict" id="triV" aria-live="polite"></div></div>
   <h3 style="margin-top:26px">🔬 Thực hành</h3><div id="lab"></div>
   <div class="grid2" style="margin-top:20px"><div class="panel warm" style="margin:0"><h4>Lưu ý 1: điện áp sử dụng</h4><p style="margin:6px 0 0">Với block công suất nhỏ (≤ ~200 W): điện trở cuộn chạy <b>≥ 10 Ω</b> → dùng <b>220 V</b>; <b>&lt; 10 Ω</b> → dùng <b>110 V</b>; nhỏ hơn <b>5 Ω</b> → bị <b>chập vòng</b>. Chỉ áp dụng cho công suất nhỏ (block lớn như điều hòa có điện trở rất bé vẫn dùng 220 V).</p></div>
     <div class="panel warm" style="margin:0"><h4>Lưu ý 2: nhóm hiếm</h4><p style="margin:6px 0 0">Khoảng <b>80–85%</b> block có R &lt; S, nhưng <b>15–20%</b> thì ngược lại. Vì vậy sau khi đấu điện phải <b>kẹp dòng</b>: nếu dòng <b>cao hơn định mức</b> có thể đã đấu nhầm → <b>đổi chỗ chân chạy và đề</b> rồi thử lại.</p></div></div>
@@ -207,6 +222,8 @@
     ang.oninput = dp; dp();
     pb.onclick = () => { if (tm) { clearInterval(tm); tm = null; pb.textContent = '▶ Chạy'; return; } pb.textContent = '⏸ Dừng'; tm = setInterval(() => { if (!document.body.contains(ang)) { clearInterval(tm); return; } ang.value = (+ang.value + 5) % 360; dp(); }, 40); };
     // phòng đo
+    const tr = $('#triR', root), ts = $('#triS', root), td = () => { const r = +tr.value, s = +ts.value; $('#triRv', root).textContent = r + ' Ω'; $('#triSv', root).textContent = s + ' Ω'; $('#triFig', root).innerHTML = triSvg(r, s); const v = $('#triV', root); v.className = 'verdict ' + (s > r ? 'ok' : ''); v.innerHTML = 'Lần đo <b>lớn nhất</b> = ' + r + ' + ' + s + ' = <b>' + (r + s) + ' Ω</b> (giữa R và S), nên chân còn lại là <b>C</b>. Từ C: ' + (r < s ? '<b>nhỏ</b> (' + r + ' Ω) là R, <b>lớn</b> (' + s + ' Ω) là S.' : 'hai giá trị gần nhau hoặc R lớn hơn S: đây là nhóm hiếm, cần kẹp dòng để kiểm tra.'); };
+    tr.oninput = ts.oninput = td; td();
     U.motorLab($('#lab', root), 'identify');
     U.bindSteps(root);
     // sơ đồ

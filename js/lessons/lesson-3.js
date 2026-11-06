@@ -136,7 +136,7 @@
   const FIX = {
     clog: [['Tắc do cặn bẩn / dầu', 'Thổi sạch bằng nitơ'], ['<b>Bơm nitơ vào CUỐI dàn nóng</b> qua bộ đồng hồ, <b>đầu dàn để hở</b>', 'Bơm từ cuối vì block đã nén theo chiều từ đầu → cuối; chỗ tắc đã chịu áp lực lớn mà không thông, nên cần đẩy ngược chiều để cặn bật ra.'], ['Giữ áp suất <b>không quá 400 psi</b>', 'Nếu tắc rất lớn và dàn đã cũ, nén quá mạnh có thể làm <b>nổ dàn / phá vỏ tủ</b>.'], ['Cặn dầu ra ngoài đầu dàn', 'Có thể kết hợp nước súc rửa chuyên dụng để cặn bám trôi đi.'], ['Hàn nối lại, hút chân không, nạp gas', '']],
     out: [['Dàn nổi bị thủng', 'Tìm chỗ thủng và hàn'], ['Quan sát vết dầu loang trên bề mặt dàn', 'Có vết dầu loang → đó là vị trí thủng.'], ['Không thấy → tháo dàn, hàn kín một đầu', 'Dàn nổi dễ tháo lắp.'], ['Bơm khí cao áp, nhúng dàn xuống nước', 'Chỗ nổi bọt khí là chỗ thủng.'], ['Vệ sinh lớp oxit sắt, hàn lại', 'Cạo bỏ vài sợi thép nhỏ gần vị trí thủng để dễ hàn. Thủng trên 2 chỗ thì nên thay dàn mới.']],
-    inn: [['Dàn chìm bị thủng', 'Phải thử kín mới biết'], ['Tách dàn khỏi hệ thống', 'Hàn kín một đầu (cuối dàn), đầu kia gắn ống công nghệ nối đồng hồ.'], ['Bơm nitơ <b>300 – 400 psi</b>', 'Dàn nóng làm việc ở áp cao nên thử áp cao. <b>Không dùng oxy.</b>'], ['Quét xà phòng mối nối dây đồng hồ, theo dõi kim', 'Kim tụt so với ban đầu → dàn thủng. Kim đứng yên → dàn nóng kín, thủng nằm chỗ khác (VD dàn lạnh).'], ['Tìm đoạn thủng', 'Dàn chìm chia nhiều đoạn (sườn trái, sườn phải, phía sau, sấy ron cửa). Bơm khí nóng hoặc lạnh để biết đoạn nào, rồi thử kín từng đoạn. Sửa khó nên thường chọn <b>đeo ba lô dàn mới</b>.']]
+    inn: [['Dàn chìm bị thủng', 'Phải thử kín mới biết'], ['Tách dàn khỏi hệ thống', 'Hàn kín một đầu (cuối dàn), đầu kia gắn ống công nghệ nối đồng hồ.'], ['Bơm nitơ <b>100 – 175 psi</b> (7 – 12 bar)', 'Dàn nóng làm việc ở áp cao nên thử áp cao. <b>Không dùng oxy.</b>'], ['Quét xà phòng mối nối dây đồng hồ, theo dõi kim', 'Kim tụt so với ban đầu → dàn thủng. Kim đứng yên → dàn nóng kín, thủng nằm chỗ khác (VD dàn lạnh).'], ['Tìm đoạn thủng', 'Dàn chìm chia nhiều đoạn (sườn trái, sườn phải, phía sau, sấy ron cửa). Bơm khí nóng hoặc lạnh để biết đoạn nào, rồi thử kín từng đoạn. Sửa khó nên thường chọn <b>đeo ba lô dàn mới</b>.']]
   };
   const LEN = {
     short: ['Dàn QUÁ NGẮN', '<ul><li>Không tỏa đủ nhiệt, cuối dàn <b>không ngưng tụ hết</b> thành lỏng: gas ra là <b>lỏng lẫn hơi</b>.</li><li>Phần hơi đi qua ống mao không sôi hút nhiệt → dàn lạnh <b>kém lạnh</b>; phần hơi nóng sang dàn lạnh còn làm P0 tăng.</li><li>Áp suất đẩy <b>Pk cao</b> → block quá tải. Tủ kém lạnh nên chạy lâu → dòng cao, dễ <b>chết máy</b>.</li></ul>'],
@@ -227,7 +227,7 @@
     { f: 'Cắt cuối và đầu dàn đều không có gas. Kết luận?', b: '<b>Mất gas</b> (thủng hoặc hết gas) ở đâu đó trong hệ thống.', tag: 'Chẩn đoán' },
     { f: 'Thổi tắc dàn nóng: bơm từ đầu nào? Áp tối đa?', b: 'Bơm nitơ từ <b>cuối dàn</b>, đầu dàn để hở; <b>không quá 400 psi</b>.', tag: 'Sửa chữa' },
     { f: 'Vì sao không bơm áp quá lớn khi thổi tắc?', b: 'Dàn đã cũ, nén quá mạnh có thể gây <b>nổ, phá vỏ tủ</b>.', tag: 'Sửa chữa' },
-    { f: 'Thử kín dàn chìm dùng khí gì? Áp suất?', b: '<b>Nitơ</b> khoảng <b>300 – 400 psi</b>; tuyệt đối <b>không dùng oxy</b>.', tag: 'Sửa chữa' },
+    { f: 'Thử kín dàn chìm dùng khí gì? Áp suất?', b: '<b>Nitơ</b> khoảng <b>100 – 175 psi</b> (7 – 12 bar); tuyệt đối <b>không dùng oxy</b>.', tag: 'Sửa chữa' },
     { f: 'Vì sao cấm dùng oxy thử kín?', b: 'Oxy + dầu/gas có thể <b>cháy nổ</b>.', tag: 'An toàn' },
     { f: 'Thay dàn nóng cần đảm bảo điều gì?', b: '<b>Chiều dài và tiết diện</b> tương đương dàn cũ.', tag: 'Thay thế' },
     { f: 'Dàn nóng quá ngắn gây hậu quả gì?', b: 'Không ngưng tụ hết, <b>Pk cao</b>, block quá tải, tủ kém lạnh.', tag: 'Thay thế' },
@@ -254,7 +254,7 @@
     Q('Khi thổi tắc dàn nóng, bơm khí nitơ từ đâu?', ['Từ đầu dàn', 'Từ cuối dàn', 'Từ block', 'Từ phin'], 1, 'Bơm ngược chiều để đẩy cặn bật ra.'),
     Q('Áp suất tối đa khi thổi tắc dàn nóng?', ['100 psi', 'Không quá 400 psi', '800 psi', 'Không giới hạn'], 1, 'Quá cao có thể phá dàn, vỏ tủ.'),
     Q('Khí nào TUYỆT ĐỐI không dùng để thử kín?', ['Nitơ', 'Oxy', 'Khí nén khô', 'Không khí'], 1, 'Oxy + dầu/gas dễ cháy nổ.'),
-    Q('Áp suất thử kín dàn nóng thường?', ['300 – 400 psi', '30 – 40 psi', '3 – 4 psi', '3000 psi'], 0, 'Dàn nóng làm việc áp cao nên thử 300–400 psi.'),
+    Q('Áp suất thử kín dàn nóng thường?', ['100 – 175 psi (7 – 12 bar)', '30 – 40 psi', '3 – 4 psi', '3000 psi'], 0, 'Thử khí tăng dần: khoảng 7 bar (≈ 100 psi), nếu không tụt mới lên tối đa 12 bar (≈ 175 psi).'),
     Q('Dàn thay thế quá ngắn thì?', ['Pk cao, block quá tải, tủ kém lạnh', 'Tủ lạnh sâu', 'Block mát', 'Không đổi'], 0, 'Không ngưng tụ hết gas.'),
     Q('Dàn thay thế quá dài thì?', ['Hồi gas chậm, block nóng, năng suất thấp', 'Block mát hơn', 'Tủ lạnh sâu hơn', 'Không khác'], 0, 'Trở lực lớn, ít hơi lạnh làm mát block.'),
     Q('Lắp dàn nóng đứng, đầu nào nối với block?', ['Đầu dưới', 'Đầu trên', 'Bất kỳ', 'Cả hai'], 1, 'Hơi nóng đi từ trên xuống, lỏng chảy xuống dưới nên nhẹ tải cho block.'),
@@ -268,13 +268,13 @@
     items: [
       { t: 'Nằm lộ phía sau tủ, nhìn thấy được', b: 'out' }, { t: 'Có nhiều sợi thép nhỏ tăng diện tích tỏa nhiệt', b: 'out' }, { t: 'Dễ bám bụi, cần bảo dưỡng định kỳ', b: 'out' }, { t: 'Dễ sửa, nhìn thấy vết dầu loang', b: 'out' },
       { t: 'Ẩn trong vỏ, hai sườn và phía sau', b: 'in' }, { t: 'Có đoạn sấy ron cửa', b: 'in' }, { t: 'Dán băng dính bạc vào tôn vỏ tủ', b: 'in' }, { t: 'Khó gia công, sửa chữa', b: 'in' },
-      { t: 'Gas vào là hơi nóng, ra là lỏng', b: 'both' }, { t: 'Có thể bị tắc một phần, tắc toàn phần, thủng', b: 'both' }, { t: 'Thử kín bằng nitơ 300–400 psi', b: 'both' }, { t: 'Thay mới phải đúng chiều dài, tiết diện', b: 'both' }
+      { t: 'Gas vào là hơi nóng, ra là lỏng', b: 'both' }, { t: 'Có thể bị tắc một phần, tắc toàn phần, thủng', b: 'both' }, { t: 'Thử kín bằng nitơ 100–175 psi', b: 'both' }, { t: 'Thay mới phải đúng chiều dài, tiết diện', b: 'both' }
     ]
   };
   const order = [
     { title: 'Thổi tắc dàn nóng', intro: 'Sắp xếp các bước thổi tắc do cặn bẩn.', steps: ['Cắt tách dàn nóng khỏi hệ thống', 'Nối đồng hồ + bình nitơ vào cuối dàn nóng', 'Để hở đầu dàn nóng', 'Bơm nitơ, giữ áp suất không quá 400 psi', 'Cặn và dầu bật ra ở đầu dàn, kiểm tra thông', 'Hàn nối lại, hút chân không, nạp gas'] },
     { title: 'Chẩn đoán dàn nóng', intro: 'Sắp xếp quy trình chẩn đoán không lạnh liên quan dàn nóng.', steps: ['Sờ dàn: đầu nóng, cuối có lạnh/đổ mồ hôi không?', 'Dàn nổi: tìm vết dầu loang', 'Cắt cuối dàn nóng, xem có gas không', 'Cắt tiếp đầu dàn nóng, xem có gas không', 'Kết luận: tắc toàn phần hay mất gas', 'Chọn phương án: thổi tắc, hàn hoặc thay dàn'] },
-    { title: 'Thử kín dàn chìm', intro: 'Sắp xếp các bước thử kín dàn chìm.', steps: ['Tách dàn khỏi hệ thống', 'Hàn kín một đầu, đầu kia gắn ống công nghệ', 'Nối bộ đồng hồ và bình nitơ', 'Bơm nitơ 300–400 psi', 'Quét xà phòng mối nối rồi theo dõi kim', 'Kim tụt → xác định đoạn thủng, sửa hoặc đeo ba lô dàn mới'] }
+    { title: 'Thử kín dàn chìm', intro: 'Sắp xếp các bước thử kín dàn chìm.', steps: ['Tách dàn khỏi hệ thống', 'Hàn kín một đầu, đầu kia gắn ống công nghệ', 'Nối bộ đồng hồ và bình nitơ', 'Bơm nitơ 100–175 psi', 'Quét xà phòng mối nối rồi theo dõi kim', 'Kim tụt → xác định đoạn thủng, sửa hoặc đeo ba lô dàn mới'] }
   ];
   DL.register({
     id: 3, ready: true, title: 'Dàn nóng tủ lạnh', sub: 'Phân loại, hư hỏng, chẩn đoán, thay thế', minutes: 25,

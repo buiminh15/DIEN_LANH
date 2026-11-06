@@ -33,6 +33,24 @@
       <text class="lbl" x="200" y="205" text-anchor="middle" style="fill:${open ? 'var(--bad)' : 'var(--ok)'}">${open ? 'TIẾP ĐIỂM MỞ — block mất điện' : 'tiếp điểm ĐÓNG — block có điện'}</text></svg>`;
   }
 
+
+  /* ============ Hình bổ sung: thanh lưỡng kim cong dần khi nóng ============ */
+  const bimSvg = h => {
+    const k = Math.max(0, Math.min(1.2, h / 100)), th = k < 1 ? k * .04 : .04 + (k - 1) * 2.2, L = 260, N = 24, open = h >= 100;
+    const pt = (t, off) => { const phi = th * t, R = th > .001 ? L / th : 1e6, x = th > .001 ? R * Math.sin(phi) : L * t, y = th > .001 ? R * (1 - Math.cos(phi)) : 0; const nx = -Math.sin(phi), ny = -Math.cos(phi); return [90 + x + nx * off * -1 * -1, 150 - y + ny * off * -1 * -1]; };
+    const line = off => Array.from({ length: N + 1 }, (_, i) => pt(i / N, off).map(v => v.toFixed(1)).join(' ')).map((p, i) => (i ? 'L' : 'M') + p).join('');
+    const tip = pt(1, 11), glow = Math.min(1, h / 110);
+    return '<svg viewBox="0 0 480 250" role="img" aria-label="Thanh lưỡng kim ' + (open ? 'đã cong, tiếp điểm mở' : 'còn thẳng, tiếp điểm đóng') + '">' +
+      '<rect x="48" y="118" width="46" height="64" rx="6" class="lx-n2"/><text class="lx-s" x="71" y="200" text-anchor="middle">giá đỡ</text>' +
+      '<path d="' + line(-7) + '" fill="none" stroke="var(--warm)" stroke-width="14" stroke-linecap="butt"/><path d="' + line(7) + '" fill="none" stroke="var(--cold)" stroke-width="14" stroke-linecap="butt"/>' +
+      '<text class="lx-s" x="190" y="' + (open ? 96 : 112) + '">kim loại giãn nhiều</text><text class="lx-s" x="190" y="' + (open ? 224 : 196) + '" style="display:none"></text>' +
+      '<rect x="330" y="146" width="40" height="14" rx="3" class="lx-n2"/><text class="lx-s" x="350" y="178" text-anchor="middle">tiếp điểm tĩnh</text>' +
+      '<circle cx="' + tip[0].toFixed(1) + '" cy="' + (tip[1] + 5).toFixed(1) + '" r="8" fill="' + (open ? 'var(--bad)' : 'var(--ok)') + '" stroke="var(--ink)" stroke-width="2.5"/>' +
+      '<path d="M120 214Q135 196 150 214T180 214T210 214T240 214T270 214" fill="none" stroke="var(--hot)" stroke-width="5" stroke-linecap="round" opacity="' + (0.25 + 0.75 * glow).toFixed(2) + '"/><text class="lx-s" x="195" y="238" text-anchor="middle">dây nung (nóng theo dòng)</text>' +
+      '<g transform="translate(420 60)"><circle r="22" fill="' + (open ? 'var(--surface2)' : 'var(--ok)') + '" stroke="var(--ink)" stroke-width="3"/><text class="lx-t" y="5" text-anchor="middle">' + (open ? 'tắt' : 'chạy') + '</text><text class="lx-s" y="42" text-anchor="middle">block</text></g>' +
+      '</svg>';
+  };
+
   function learn() {
     return `
 <section class="sec" id="s-overview" data-toc="1 · Thiết bị điện tủ lạnh">
@@ -56,6 +74,9 @@
   <dl class="kv"><dt>① Dây nung</dt><dd>Dây điện trở bằng kim loại <b>nóng chảy cao</b> (thường là vonfram), tiết diện chọn <b>vừa với dòng định mức</b> của block. Giống dây tóc bóng đèn, dây bếp điện.</dd>
   <dt>② Thanh lưỡng kim</dt><dd>Hai kim loại <b>giãn nở vì nhiệt khác nhau</b> dán vào nhau: nóng lên thì <b>cong về một phía</b>.</dd>
   <dt>③ Tiếp điểm</dt><dd>Gồm tiếp điểm động (trên thanh lưỡng kim) và tiếp điểm tĩnh. Bình thường <b>luôn đóng</b> để cấp điện cho block; chỉ <b>mở khi block quá tải</b>.</dd></dl>
+  <h3 style="margin-top:22px">Thanh lưỡng kim cong thế nào?</h3>
+  <div class="stage lx-st"><label class="row" style="gap:10px">Mức nóng <input id="bmH" type="range" min="0" max="120" step="1" value="20" style="width:min(260px,60vw)" aria-label="Mức nóng của lưỡng kim"> <b id="bmV"></b></label>
+    <div id="bmFig" class="lx-or" style="max-width:520px"></div><div class="verdict" id="bmR" aria-live="polite"></div></div>
   <div class="callout"><span class="ic">🔬</span><div><b class="t">Hiểu bằng ví dụ mỏ hàn xung</b><p>Mỏ hàn xung có cuộn thứ cấp chỉ 2 vòng dây đồng to, nối đầu mỏ hàn. Đầu mỏ <b>nhỏ</b> thì nóng rất nhanh; đầu mỏ <b>to</b> nóng chậm. Dây nung rơle cũng vậy: <b>dây càng nhỏ</b> thì cùng một dòng sẽ <b>nóng nhanh hơn</b>. Vì thế mỗi block phải có rơle đúng công suất.</p></div></div>
   <h3 style="margin-top:26px">🔬 Mô phỏng: rơle ngắt như thế nào?</h3>
   <p>Chọn loại rơle, công suất rơle và tình huống của block (block 1/6 HP, dòng định mức <b>0,95 A</b>), rồi bấm <b>Chạy</b>. 1 giây thật = 10 giây mô phỏng.</p>
@@ -112,6 +133,8 @@
   };
 
   function mount(root) {
+    const bh = $('#bmH', root), bd = () => { const h = +bh.value; $('#bmV', root).textContent = h + '%'; $('#bmFig', root).innerHTML = bimSvg(h); const v = $('#bmR', root); v.className = 'verdict ' + (h >= 100 ? 'bad' : 'ok'); v.innerHTML = h >= 100 ? '<b>Nóng đủ mức:</b> lưỡng kim cong, tiếp điểm <b>mở</b>, block bị ngắt điện để bảo vệ.' : '<b>Còn nguội:</b> lưỡng kim thẳng, tiếp điểm <b>đóng</b>, block có điện (bình thường luôn đóng).'; };
+    bh.oninput = bd; bd();
     U.tabset($('#kindTabs', root), Object.entries(KIND).map(([id, k], i) => ({ id, n: i + 1, name: k[0] })), id => { const k = KIND[id]; $('#kindPanel', root).innerHTML = `<h3>${k[0]}</h3><p>${k[1]}</p><p class="muted" style="margin:0"><b>Vị trí:</b> ${k[2]}</p>`; }, 'both');
     // mô phỏng
     let st, tm;

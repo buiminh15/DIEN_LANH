@@ -110,7 +110,7 @@
     }
     return `<svg viewBox="0 0 300 190" role="img" aria-label="Đồng hồ áp suất đang chỉ ${Math.round(v)} psi">
       <path d="M${cx - r} ${cy}A${r} ${r} 0 0 1 ${cx + r} ${cy}" fill="var(--surface2)" stroke="var(--ink)" stroke-width="3"/>
-      <path d="M${px(Math.PI * (1 - 150 / 400), r - 5)} ${py(Math.PI * (1 - 150 / 400), r - 5)}A${r - 5} ${r - 5} 0 0 1 ${px(Math.PI * (1 - 300 / 400), r - 5)} ${py(Math.PI * (1 - 300 / 400), r - 5)}" stroke="var(--ok)" stroke-width="5" fill="none" opacity=".5"/>
+      <path d="M${px(Math.PI * (1 - 100 / 400), r - 5)} ${py(Math.PI * (1 - 100 / 400), r - 5)}A${r - 5} ${r - 5} 0 0 1 ${px(Math.PI * (1 - 175 / 400), r - 5)} ${py(Math.PI * (1 - 175 / 400), r - 5)}" stroke="var(--ok)" stroke-width="5" fill="none" opacity=".5"/>
       ${t}<path d="M${cx} ${cy}L${px(ang, r - 18)} ${py(ang, r - 18)}" stroke="var(--hot)" stroke-width="4" stroke-linecap="round"/>
       <circle cx="${cx}" cy="${cy}" r="9" fill="var(--ink)"/>
       <text class="lbl" x="150" y="182" text-anchor="middle">${Math.round(v)} psi</text></svg>`;
@@ -135,7 +135,7 @@
     <rect x="62" y="40" width="30" height="30" rx="5" fill="var(--ink)"/><text class="lx-s" x="78" y="86" text-anchor="middle">hàn kín</text>
     <path d="M90 156H60" stroke="var(--cold)" stroke-width="7" stroke-linecap="round"/>
     <circle cx="120" cy="206" r="26" class="lx-g"/><path d="M120 206L136 188" stroke="var(--hot)" stroke-width="4" stroke-linecap="round"/><circle cx="120" cy="206" r="4" fill="var(--ink)"/><path d="M120 180V156" stroke="var(--ink)" stroke-width="4"/>
-    <text class="lx-s" x="170" y="212">đồng hồ: 300 psi</text><text class="lx-s" x="214" y="170" text-anchor="start">nitơ</text>
+    <text class="lx-s" x="170" y="212">đồng hồ: ~150 psi</text><text class="lx-s" x="214" y="170" text-anchor="start">nitơ</text>
     <rect x="330" y="46" width="280" height="170" rx="10" fill="var(--cold-tint)" stroke="var(--ink)" stroke-width="2.5"/><text class="lx-s" x="470" y="208" text-anchor="middle">nước</text>
     <path d="M360 90H540A16 16 0 0 1 540 122H380A16 16 0 0 0 380 154H540" fill="none" stroke="var(--brass)" stroke-width="7" stroke-linecap="round"/><circle cx="470" cy="90" r="5" fill="var(--bad)"/>
     ${[0, 1, 2, 3].map(i => `<circle class="lx-bub" style="animation-delay:${i * .45}s" cx="${470 + (i % 2 ? 5 : -4)}" cy="86" r="${3 + i % 2}"/>`).join('')}
@@ -155,7 +155,7 @@
 <section class="sec" id="s-what" data-toc="1 · Dàn lạnh là gì?">
   <div class="sec-n">Phần 1</div><h2>Dàn lạnh làm nhiệm vụ gì?</h2>
   <p>Tủ lạnh có <b>4 bộ phận chính</b> trong vòng tuần hoàn gas: <b>máy nén → dàn nóng → ống mao → dàn lạnh</b>. Dàn lạnh là nơi cuối cùng: gas lỏng đã bị giảm áp, nhiệt độ rất thấp nên <b>sôi</b> và <b>hút nhiệt</b> từ thực phẩm — đó chính là lúc tủ “lạnh”.</p>
-  <div class="stage" id="ov">${OVERVIEW}
+  <div class="stage" id="ov"><div class="nl1-scroll">${OVERVIEW}</div><p class="nl1-swipe muted">Vuốt ngang để xem hết sơ đồ ↔</p>
     <div class="controls"><button class="btn sm" id="ovPlay" type="button">Tạm dừng hoạt ảnh</button></div></div>
   <div class="callout mem"><span class="ic">🧠</span><div><b class="t">Mẹo nhớ</b><p>Dàn <b class="hot-t">nóng</b> = <b>tỏa</b> nhiệt ra ngoài. Dàn <b class="cold-t">lạnh</b> = <b>hút</b> nhiệt từ trong tủ. Nhớ “lạnh hút – nóng thải”.</p></div></div>
 </section>
@@ -184,7 +184,7 @@
 <section class="sec" id="s-fault" data-toc="3 · Hư hỏng thường gặp">
   <div class="sec-n">Phần 3</div><h2>Dàn lạnh hay hỏng ở đâu?</h2>
   <p>Khi tủ <b>chạy nhưng không lạnh</b>, nguyên nhân có thể nằm ở bất kỳ bộ phận nào trên vòng gas. Bấm vào từng bộ phận để xem kiểu hỏng của nó.</p>
-  <div class="stage lx-st" id="lfBox" data-sel="evap">${LOOP_F}<p class="muted" style="font-size:13.5px;margin:4px 8px 6px">Dấu ! đánh dấu bộ phận có thể hỏng. Bấm vào bộ phận trên hình hoặc ở thẻ bên dưới.</p></div>
+  <div class="stage lx-st" id="lfBox" data-sel="evap"><div class="nl1-scroll">${LOOP_F}</div><p class="nl1-swipe muted">Vuốt ngang để xem hết sơ đồ ↔</p><p class="muted" style="font-size:13.5px;margin:4px 8px 6px">Dấu ! đánh dấu bộ phận có thể hỏng. Bấm vào bộ phận trên hình hoặc ở thẻ bên dưới.</p></div>
   <div class="tabs" id="faultTabs">
     <button class="tab" type="button" data-f="evap" aria-pressed="true"><b>4</b><span>Dàn lạnh</span></button>
     <button class="tab" type="button" data-f="cond" aria-pressed="false"><b>2</b><span>Dàn nóng</span></button>
@@ -203,10 +203,10 @@
   <div class="tabs" id="testTabs">${TYPES.map((t, i) => `<button class="tab" type="button" data-t="${t.id}" aria-pressed="${i === 0}"><b>${t.n}</b><span>${t.name}</span></button>`).join('')}</div>
   <div id="testSteps"></div>
   <h3 style="margin-top:28px">Hai cách tìm chỗ thủng</h3>
-  <div class="stage lx-st">${LEAK_FIG}</div>
+  <div class="stage lx-st"><div class="nl1-scroll">${LEAK_FIG}</div><p class="nl1-swipe muted">Vuốt ngang để xem hết hình ↔</p></div>
 
   <h3 style="margin-top:34px">Mô phỏng đồng hồ áp suất</h3>
-  <p>Bơm nitơ vào dàn đến <b>200–300 psi</b> (đã hàn kín một đầu, nối đồng hồ ở đầu kia). Chọn tình huống rồi bấm “Bắt đầu theo dõi” để xem kim đồng hồ.</p>
+  <p>Bơm nitơ vào dàn đến <b>100–150 psi</b> (đã hàn kín một đầu, nối đồng hồ ở đầu kia). Chọn tình huống rồi bấm “Bắt đầu theo dõi” để xem kim đồng hồ.</p>
   <div class="gauge-wrap">
     <div class="stage" style="margin:0">${'<div id="gaugeBox"></div>'}<div class="controls" style="justify-content:center"><span class="muted" id="clock">Thời gian: 0 giờ</span></div></div>
     <div>
@@ -216,12 +216,12 @@
         <label><input type="radio" name="leak" value="big"><span><b>Thủng lớn</b><br><small class="muted">Kim tụt nhanh thấy ngay</small></span></label>
       </div>
       <div class="row"><button class="btn pri" id="gStart" type="button">▶ Bắt đầu theo dõi</button><button class="btn" id="gReset" type="button">↺ Bơm lại</button></div>
-      <div class="verdict" id="gVerdict" style="margin-top:12px">Kim đang ở 300 psi. Hãy bấm “Bắt đầu theo dõi”.</div>
+      <div class="verdict" id="gVerdict" style="margin-top:12px">Kim đang ở 150 psi. Hãy bấm “Bắt đầu theo dõi”.</div>
     </div></div>
   <div class="callout mem"><span class="ic">🧠</span><div><b class="t">Quy tắc đọc kết quả</b><p>Sau một thời gian, kim <b>vẫn chỉ giá trị ban đầu</b> → dàn <b class="cold-t">kín</b>. Kim <b>nhỏ hơn giá trị ban đầu</b> → dàn <b class="hot-t">thủng</b> → phải lấy dàn ra tìm vị trí thủng (nhúng nước hoặc quét bọt xà phòng).</p></div></div>
   <div class="grid2" style="margin-top:20px">
     <div class="panel okc" style="margin:0"><h4>Áp suất thử theo dàn</h4>
-      <dl class="kv" style="grid-template-columns:110px 1fr"><dt>Dàn lạnh</dt><dd>áp thấp → thử <b>150 – 250 psi</b></dd><dt>Dàn nóng</dt><dd>áp cao → thử <b>300 – 400 psi</b></dd></dl>
+      <dl class="kv" style="grid-template-columns:110px 1fr"><dt>Dàn lạnh</dt><dd>áp thấp → thử <b>100 – 150 psi</b></dd><dt>Dàn nóng</dt><dd>áp cao → thử <b>100 – 175 psi</b> (7 – 12 bar)</dd></dl>
       <span class="muted" style="font-size:14px">Dàn lạnh làm việc ở áp suất thấp nên thử với áp thấp hơn dàn nóng.</span></div>
     <div class="panel warm" style="margin:0"><h4>Dụng cụ cần chuẩn bị</h4><p style="margin:6px 0 0">Bình khí nitơ + đồng hồ áp suất, dây nạp, bọt xà phòng, chậu nước, bộ hàn hơi (hàn kín đầu ống).</p></div></div>
 </section>
@@ -246,7 +246,7 @@
     <li class="done"><div><b>Dàn lạnh = nơi gas sôi và hút nhiệt.</b><span>Áp suất thấp, nhiệt độ thấp → thu nhiệt của thực phẩm trong tủ.</span></div></li>
     <li class="done"><div><b>Có 3 loại: trực tiếp 1 cánh, trực tiếp 2 cánh, gián tiếp.</b><span>Phân biệt theo vị trí, vật liệu, bề mặt dẫn nhiệt.</span></div></li>
     <li class="done"><div><b>Dàn lạnh chỉ hỏng ở dạng thủng.</b><span>Thủng → mất gas và dầu → tủ không lạnh. Nguyên nhân: va chạm, mòn.</span></div></li>
-    <li class="done"><div><b>Kiểm tra: quan sát vết dầu loang, rồi thử kín bằng nitơ.</b><span>Kim đồng hồ tụt = thủng. Thử 150–250 psi (dàn lạnh).</span></div></li>
+    <li class="done"><div><b>Kiểm tra: quan sát vết dầu loang, rồi thử kín bằng nitơ.</b><span>Kim đồng hồ tụt = thủng. Thử khoảng 100–150 psi (dàn lạnh).</span></div></li>
     <li class="done"><div><b>Sửa: keo Epoxy / hàn / thay dàn.</b><span>Tủ gián tiếp nhớ chắn nhiệt khi hàn; đổ xốp từng lớp mỏng; xong phải hút chân không và nạp gas.</span></div></li>
   </ol>
   <div class="row" style="margin-top:22px"><a class="btn pri" href="#/tu-lanh/1/flashcard" style="text-decoration:none;display:inline-flex;align-items:center">Sang ôn luyện: Flashcard →</a></div>
@@ -275,8 +275,8 @@
 
   const TEST = {
     one: [['Quan sát bề mặt dàn trong ngăn đông', 'Dàn lắp nổi nên nhìn thấy được. Có <b>vết dầu loang</b> là vị trí thủng.'], ['Không thấy vết dầu → tháo dàn ra ngoài', 'Cắt ống tách dàn khỏi hệ thống.'], ['Hàn kín một đầu ống, đầu kia nối bơm', 'Dùng bộ hàn hơi để hàn kín.'], ['Bơm khí vào dàn, nhúng dàn xuống nước', 'Nhìn chỗ nào <b>nổi bọt khí</b> là chỗ thủng.'], ['Đánh dấu vị trí thủng và tiến hành sửa', 'Chuyển sang phần 5 để chọn cách sửa.']],
-    two: [['Dàn nằm sau vỏ nhựa nên không quan sát được', 'Không có cách nhìn vết dầu loang → phải <b>thử kín</b>.'], ['Tách dàn khỏi hệ thống, hàn kín đầu ống mao và đầu hồi về', 'Cắt tại mối hàn của ống mao và ống hồi về máy nén.'], ['Nối đồng hồ áp suất, bơm nitơ 200–300 psi', 'Bơm qua bộ đồng hồ áp suất.'], ['Quét bọt xà phòng vào mối nối dây đồng hồ', 'Loại trừ xì ở đầu nối (không phải dàn).'], ['Chờ rồi so sánh kim đồng hồ', 'Kim tụt so với ban đầu → dàn thủng; đứng yên → dàn kín.'], ['Nếu thủng: lấy dàn ra để tìm chỗ thủng', 'Tháo tấm tôn, nắp nhựa, đào xốp, đưa dàn ra, nhúng nước tìm bọt khí.']],
-    ind: [['Tháo tấm che kênh gió phía trước dàn', 'Che chắn cẩn thận, tháo cánh quạt nếu cần. Quan sát dàn xem có dầu loang, tuyết bám.'], ['Tách dàn khỏi hệ thống', 'Có 2 mối nối: ống mao → đầu dàn, và đầu dàn → ống hồi về máy nén.'], ['Nối đồng hồ, bơm nitơ 150–250 psi', 'Áp suất thấp hơn dàn nóng vì dàn lạnh làm việc ở áp thấp.'], ['Quét bọt xà phòng các mối nối, rồi theo dõi kim', 'Kim tụt → dàn thủng.'], ['Lấy dàn ra, nhúng nước tìm chỗ thủng', 'Nhớ lót tấm chắn nhiệt nếu phải hàn lại trong lòng tủ.']]
+    two: [['Dàn nằm sau vỏ nhựa nên không quan sát được', 'Không có cách nhìn vết dầu loang → phải <b>thử kín</b>.'], ['Tách dàn khỏi hệ thống, hàn kín đầu ống mao và đầu hồi về', 'Cắt tại mối hàn của ống mao và ống hồi về máy nén.'], ['Nối đồng hồ áp suất, bơm nitơ 100–150 psi', 'Bơm qua bộ đồng hồ áp suất.'], ['Quét bọt xà phòng vào mối nối dây đồng hồ', 'Loại trừ xì ở đầu nối (không phải dàn).'], ['Chờ rồi so sánh kim đồng hồ', 'Kim tụt so với ban đầu → dàn thủng; đứng yên → dàn kín.'], ['Nếu thủng: lấy dàn ra để tìm chỗ thủng', 'Tháo tấm tôn, nắp nhựa, đào xốp, đưa dàn ra, nhúng nước tìm bọt khí.']],
+    ind: [['Tháo tấm che kênh gió phía trước dàn', 'Che chắn cẩn thận, tháo cánh quạt nếu cần. Quan sát dàn xem có dầu loang, tuyết bám.'], ['Tách dàn khỏi hệ thống', 'Có 2 mối nối: ống mao → đầu dàn, và đầu dàn → ống hồi về máy nén.'], ['Nối đồng hồ, bơm nitơ 100–150 psi', 'Áp suất thấp hơn dàn nóng vì dàn lạnh làm việc ở áp thấp.'], ['Quét bọt xà phòng các mối nối, rồi theo dõi kim', 'Kim tụt → dàn thủng.'], ['Lấy dàn ra, nhúng nước tìm chỗ thủng', 'Nhớ lót tấm chắn nhiệt nếu phải hàn lại trong lòng tủ.']]
   };
 
   const FIX = {
@@ -332,14 +332,14 @@
     const gb = $('#gaugeBox', root), clock = $('#clock', root), vd = $('#gVerdict', root);
     let tm = null, hours = 0;
     const kind = () => $('input[name=leak]:checked', root).value;
-    const pressure = h => { const k = kind(); return k === 'ok' ? 300 : k === 'small' ? 300 * Math.exp(-h / 28) : 300 * Math.exp(-h * 14); };
+    const pressure = h => { const k = kind(); return k === 'ok' ? 150 : k === 'small' ? 150 * Math.exp(-h / 28) : 150 * Math.exp(-h * 14); };
     const draw = () => { gb.innerHTML = gaugeSVG(pressure(hours)); clock.textContent = 'Thời gian: ' + (hours < 1 ? Math.round(hours * 60) + ' phút' : Math.round(hours) + ' giờ'); };
-    function reset() { clearInterval(tm); tm = null; hours = 0; draw(); vd.className = 'verdict'; vd.textContent = 'Kim đang ở 300 psi. Hãy bấm “Bắt đầu theo dõi”.'; $('#gStart', root).disabled = false; }
+    function reset() { clearInterval(tm); tm = null; hours = 0; draw(); vd.className = 'verdict'; vd.textContent = 'Kim đang ở 150 psi. Hãy bấm “Bắt đầu theo dõi”.'; $('#gStart', root).disabled = false; }
     function finish() {
       clearInterval(tm); tm = null; $('#gStart', root).disabled = true;
       const k = kind();
       vd.className = 'verdict ' + (k === 'ok' ? 'ok' : 'bad');
-      vd.innerHTML = k === 'ok' ? '✓ Kim vẫn ở 300 psi (bằng giá trị ban đầu) → <b>dàn kín tốt</b>.' : '✗ Kim <b>tụt thấp hơn</b> giá trị ban đầu → <b>dàn bị thủng</b>. ' + (k === 'small' ? 'Thủng nhỏ nên phải chờ rất lâu mới thấy — đừng kết luận quá sớm!' : 'Thủng lớn nên kim tụt gần như ngay.') + ' Tiếp theo: lấy dàn ra, nhúng nước tìm bọt khí.';
+      vd.innerHTML = k === 'ok' ? '✓ Kim vẫn ở 150 psi (bằng giá trị ban đầu) → <b>dàn kín tốt</b>.' : '✗ Kim <b>tụt thấp hơn</b> giá trị ban đầu → <b>dàn bị thủng</b>. ' + (k === 'small' ? 'Thủng nhỏ nên phải chờ rất lâu mới thấy — đừng kết luận quá sớm!' : 'Thủng lớn nên kim tụt gần như ngay.') + ' Tiếp theo: lấy dàn ra, nhúng nước tìm bọt khí.';
     }
     $('#gStart', root).onclick = () => {
       if (tm) return; vd.className = 'verdict'; vd.textContent = 'Đang theo dõi kim đồng hồ…';
@@ -374,7 +374,7 @@
     { f: 'Dàn lạnh thường hỏng ở dạng nào, vì sao?', b: '<b>Thủng</b> (do va chạm, mòn). Thủng → mất gas và dầu → tủ <b>không lạnh</b>.', tag: 'Hư hỏng' },
     { f: 'Dấu hiệu nhận biết dàn tủ 1 cánh bị thủng?', b: 'Có <b>vết dầu loang</b> trên bề mặt dàn trong ngăn đông.', tag: 'Kiểm tra' },
     { f: 'Cách thử kín dàn lạnh?', b: 'Tách dàn, hàn kín đầu, bơm <b>nitơ</b> qua đồng hồ, quét <b>bọt xà phòng</b> mối nối, theo dõi kim: <b>tụt = thủng</b>.', tag: 'Kiểm tra' },
-    { f: 'Áp suất thử kín: dàn lạnh và dàn nóng?', b: 'Dàn lạnh (áp thấp): <b>150–250 psi</b>.<br>Dàn nóng (áp cao): <b>300–400 psi</b>.', tag: 'Kiểm tra' },
+    { f: 'Áp suất thử kín: dàn lạnh và dàn nóng?', b: 'Dàn lạnh (áp thấp): khoảng <b>100–150 psi</b> (R600a 100–120, R134a ~150).<br>Dàn nóng (áp cao): <b>100–175 psi</b>.<br>Không vượt quá <b>12 bar (≈ 175 psi)</b>.', tag: 'Kiểm tra' },
     { f: 'Tìm vị trí thủng của dàn đã tháo ra bằng cách nào?', b: 'Bơm khí vào dàn rồi <b>nhúng xuống nước</b> → nơi <b>nổi bọt</b> là chỗ thủng.', tag: 'Kiểm tra' },
     { f: 'Dán keo Epoxy: tỉ lệ trộn và thao tác?', b: 'Tỉ lệ <b>1 : 1</b>. Chà nhám sạch → sấy nóng → quét keo (lỗ lớn thêm lá nhôm) → sấy cho keo kết dính.', tag: 'Sửa chữa' },
     { f: 'Vì sao dàn nhôm hay dùng keo Epoxy thay vì hàn?', b: 'Vì <b>hàn nhôm rất khó</b>, cần que hàn nhôm chuyên dụng.', tag: 'Sửa chữa' },
@@ -399,7 +399,7 @@
     { q: 'Để tìm vị trí thủng của dàn đã tháo ra, ta làm gì?', o: ['Đo điện trở', 'Bơm khí vào và nhúng xuống nước xem chỗ nổi bọt', 'Nghe bằng ống nghe', 'Cân khối lượng'], a: 1, why: 'Chỗ thủng sẽ nổi bọt khí khi dàn có áp suất bên trong.' },
     { q: 'Khí dùng để thử kín dàn là?', o: ['Ô-xy', 'Nitơ', 'Hydro', 'Gas lạnh R134a'], a: 1, why: 'Dùng khí <b>nitơ</b> (khô, an toàn, trơ) qua bộ đồng hồ áp suất.' },
     { q: 'Sau khi bơm nitơ, kim đồng hồ tụt thấp hơn giá trị ban đầu nghĩa là gì?', o: ['Dàn kín tốt', 'Dàn bị thủng', 'Máy nén hỏng', 'Phin lọc tắc'], a: 1, why: 'Áp suất mất đi chứng tỏ khí thoát ra ngoài qua chỗ thủng.' },
-    { q: 'Áp suất thử kín thích hợp cho dàn lạnh (áp thấp) là?', o: ['50 – 100 psi', '150 – 250 psi', '300 – 400 psi', '500 – 600 psi'], a: 1, why: 'Dàn lạnh làm việc ở áp thấp nên thử 150–250 psi; dàn nóng thử 300–400 psi.' },
+    { q: 'Áp suất thử kín thích hợp cho dàn lạnh (áp thấp) là?', o: ['100 – 150 psi', '300 – 400 psi', '500 – 600 psi', '1000 psi'], a: 0, why: 'Dàn lạnh làm việc ở áp thấp, ống nhôm mỏng nên chỉ thử khoảng 100–150 psi, không vượt quá 12 bar (≈ 175 psi); dàn nóng thử 100–175 psi.' },
     { q: 'Keo Epoxy 2 thành phần được trộn theo tỉ lệ nào?', o: ['1 : 1', '1 : 2', '2 : 1', '1 : 5'], a: 0, why: 'Trộn <b>1 : 1</b> rồi sấy nóng cho dẻo trước khi quét.' },
     { q: 'Trước khi dán keo Epoxy lên dàn nhôm cần làm gì đầu tiên?', o: ['Quét sơn', 'Chà nhám sạch lớp oxit/sơn tại chỗ thủng', 'Nhúng dầu', 'Bơm gas'], a: 1, why: 'Bề mặt phải sạch và nhám thì keo mới bám chắc.' },
     { q: 'Vì sao nhiều thợ dùng keo Epoxy sửa dàn nhôm?', o: ['Rẻ hơn gas', 'Hàn nhôm khó, cần que hàn chuyên dụng', 'Keo dẫn nhiệt tốt hơn', 'Quy định bắt buộc'], a: 1, why: 'Hàn nhôm rất khó nên keo Epoxy là phương án thay thế khi không có đồ hàn chuyên dụng.' },
@@ -427,7 +427,7 @@
     { title: 'Sửa lỗ thủng bằng keo Epoxy', intro: 'Sắp xếp các bước dán keo Epoxy cho đúng thứ tự.',
       steps: ['Xác định vị trí thủng (nhúng nước / quét xà phòng)', 'Chà nhám sạch lớp sơn, lớp oxit tại chỗ thủng', 'Sấy nóng bề mặt dàn bằng máy sấy tóc', 'Trộn keo 2 thành phần tỉ lệ 1 : 1, sấy cho keo dẻo', 'Quét keo (lỗ lớn: dán thêm lá nhôm / băng dính bạc)', 'Sấy cho keo kết dính, chờ khô rồi thử kín lại'] },
     { title: 'Thử kín dàn tủ 2 cánh', intro: 'Dàn nằm sau vỏ nhựa, không nhìn thấy. Sắp xếp quy trình thử kín.',
-      steps: ['Tách dàn khỏi hệ thống, hàn kín đầu ống mao', 'Nối đồng hồ áp suất vào đầu hồi về', 'Bơm nitơ lên 200–300 psi', 'Quét bọt xà phòng kiểm tra mối nối dây đồng hồ', 'Chờ một thời gian, đọc lại kim đồng hồ', 'Kim tụt → kết luận dàn thủng, lấy dàn ra tìm chỗ thủng'] },
+      steps: ['Tách dàn khỏi hệ thống, hàn kín đầu ống mao', 'Nối đồng hồ áp suất vào đầu hồi về', 'Bơm nitơ lên 100–150 psi', 'Quét bọt xà phòng kiểm tra mối nối dây đồng hồ', 'Chờ một thời gian, đọc lại kim đồng hồ', 'Kim tụt → kết luận dàn thủng, lấy dàn ra tìm chỗ thủng'] },
     { title: 'Thay dàn tủ 2 cánh', intro: 'Sắp xếp các bước thay dàn lạnh tủ trực tiếp 2 cánh.',
       steps: ['Tháo tấm tôn sau tủ và nắp nhựa phía trên', 'Đào lớp xốp cách nhiệt quanh dàn', 'Lấy dàn cũ ra ngoài', 'Lắp dàn mới (hoặc ống đồng tự chế) và dán băng dính bạc', 'Đổ lại xốp PU từng lớp mỏng', 'Hàn lại, hút chân không, nạp gas'] }
   ];

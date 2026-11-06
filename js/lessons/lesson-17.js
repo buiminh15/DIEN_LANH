@@ -15,13 +15,42 @@
     wet: { name: 'Tắc ẩm', p: [-8, -3], i: [.15, .25], hot: 'Dàn nóng nguội khi tắc, nóng lại khi thông', cold: 'Dàn lạnh lúc lạnh lúc không; có tuyết ở cuối ống mao', ret: 'Ống hồi về dao động', door: 'Mở cửa tủ cho nhiệt độ lên dương, băng tan → áp <b>lên lại</b> rồi lại tụt', fix: 'Khử ẩm: hút chân không lại, thay phin, sấy/thay dầu.' }
   };
 
+
+  /* ============ Hình bổ sung: nạp thể hơi / thể lỏng; dấu hiệu đủ, thiếu, thừa ============ */
+  const chgSvg = liquid => {
+    const bottle = liquid
+      ? '<g transform="translate(70 0)"><rect x="0" y="172" width="84" height="22" rx="4" class="lx-n2"/><text class="lx-nt" x="42" y="188" text-anchor="middle" style="fill:var(--ink)">cân: 75 g</text><rect x="12" y="62" width="60" height="100" rx="14" class="lx-n2"/><rect x="14" y="112" width="56" height="48" rx="12" fill="var(--cold)" opacity=".55"/><rect x="34" y="160" width="16" height="12" rx="3" fill="var(--ink)"/></g>'
+      : '<g transform="translate(70 0)"><rect x="12" y="52" width="60" height="110" rx="14" class="lx-n2"/><rect x="14" y="126" width="56" height="34" rx="12" fill="var(--cold)" opacity=".55"/><rect x="34" y="38" width="16" height="16" rx="3" fill="var(--ink)"/><circle cx="30" cy="80" r="4" class="nl1-p-cg"/><circle cx="52" cy="100" r="4" class="nl1-p-cg"/></g>';
+    const hose = liquid ? 'M112 172V206H330V176' : 'M112 38V14H330V120';
+    return '<svg viewBox="0 0 640 268" role="img" aria-label="Nạp gas ở thể ' + (liquid ? 'lỏng: úp bình trên cân' : 'hơi: bình đứng') + '">' +
+      '<path d="' + hose + '" fill="none" stroke="var(--warm)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>' + (liquid ? '<path d="M170 206H190L200 188L212 224L224 188L236 224L248 188L258 206H280" fill="none" stroke="var(--hot)" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/><text class="lx-s" x="225" y="176" text-anchor="middle">ống hóa hơi (gia nhiệt)</text>' : '') +
+      '<rect x="280" y="120" width="100" height="56" rx="10" class="lx-n2"/><text class="lx-s" x="330" y="153" text-anchor="middle">bộ đồng hồ</text><path d="M380 148H470" stroke="var(--cold)" stroke-width="8" stroke-linecap="round"/>' +
+      '<rect x="470" y="70" width="150" height="140" rx="14" class="lx-n2"/><text class="lx-t" x="545" y="136" text-anchor="middle">Tủ lạnh</text><text class="lx-s" x="545" y="156" text-anchor="middle">ống nạp</text>' + bottle +
+      '<text class="lx-t" x="330" y="248" text-anchor="middle">' + (liquid ? 'Bình úp ngược trên cân, qua ống hóa hơi' : 'Bình đứng: cách nạp khuyên dùng cho tủ lạnh') + '</text>' +
+      '<text class="lx-s" x="330" y="264" text-anchor="middle">' + (liquid ? 'gas phải hóa hơi hết trước khi vào block, không nạp lỏng thẳng' : 'gas ra thể hơi, dựa vào áp suất và biểu hiện') + '</text></svg>';
+  };
+  const JUDGE = {
+    low: ['Thiếu gas', .3, .35, 'dry', 'bad', 'Dàn nóng chỉ nóng ở đầu dàn, tuyết chỉ bám đầu dàn lạnh, ống hồi khô. <b>Xử lý: nạp bổ sung.</b>'],
+    ok: ['Đủ gas', 1, 1, 'cool', 'ok', 'Dàn nóng nóng đều, tuyết đều khô và dính tay, ống hồi mát khô, dòng ≤ định mức. <b>Xử lý: kẹp ống, hàn kín.</b>'],
+    high: ['Thừa gas', 1, 1.3, 'wet', 'bad', 'Dàn nóng rất nóng, ống hồi đổ mồ hôi ướt, dòng bằng hoặc hơn định mức. <b>Xử lý: xả bớt (khi áp lớn hơn khí quyển).</b>']
+  };
+  const jSvg = k => {
+    const J = JUDGE[k], serp = (x0, y0, w, h, n, col, part, name) => { let d = 'M' + x0 + ' ' + y0, y = y0; for (let i = 0; i < n; i++) { y += h / n; d += 'H' + (i % 2 ? x0 : x0 + w) + 'V' + y.toFixed(1); } const L = 'M' + x0 + ' ' + y0; return '<path d="' + d + '" fill="none" stroke="var(--line)" stroke-width="8" stroke-linejoin="round"/><path d="' + d + '" fill="none" stroke="' + col + '" stroke-width="8" stroke-linejoin="round" pathLength="100" stroke-dasharray="' + Math.min(100, part * 100) + ' 100"/><text class="lx-t" x="' + (x0 + w / 2) + '" y="' + (y + 28) + '" text-anchor="middle">' + name + '</text>'; };
+    const hot = k === 'high' ? 'var(--hot)' : 'var(--warm)';
+    return '<svg viewBox="0 0 640 230" role="img" aria-label="Biểu hiện khi ' + J[0].toLowerCase() + '">' +
+      serp(30, 30, 150, 130, 6, hot, J[2] > 1 ? 1 : J[2], 'Dàn nóng') + serp(240, 30, 150, 130, 6, 'var(--cold-l)', J[1], 'Dàn lạnh (tuyết)') +
+      '<path d="M450 30V150" stroke="var(--cold)" stroke-width="12" stroke-linecap="round"/><text class="lx-t" x="500" y="190" text-anchor="middle">Ống hồi về</text>' +
+      (J[3] === 'wet' ? [50, 80, 110, 140].map((y, i) => '<circle class="lx-bub" style="animation-delay:' + i * .3 + 's" cx="' + (i % 2 ? 462 : 438) + '" cy="' + y + '" r="4" fill="var(--cold-l)"/>').join('') + '<text class="lx-s" x="480" y="60" style="fill:var(--bad)">đổ mồ hôi</text>' : J[3] === 'cool' ? '<text class="lx-s" x="480" y="60">mát, khô</text>' : '<text class="lx-s" x="480" y="60">khô, không mát</text>') + '</svg>';
+  };
+
   function learn() {
     return `
 <section class="sec" id="s-prep" data-toc="1 · Chuẩn bị">
   <div class="sec-n">Phần 1</div><h2>Trước khi nạp gas</h2>
   <p>Sau khi <b>tạo chân không</b> xong (xem <a href="#/tu-lanh/16">Bài 16</a>), nối dây giữa của bộ đồng hồ với <b>bình gas</b>, dây đồng hồ thấp nối ống công nghệ, <b>khóa đồng hồ áp cao</b>. Rồi tra cứu thông số trên nhãn tủ (thường dán ở phía sau):</p>
   <div class="tabs"><div class="tab" style="cursor:default"><b>1</b><span><strong>Loại gas</strong><br><small class="muted">VD R134a, R600a — phải nạp <b>đúng loại</b>; gas và dầu phải phù hợp nhau</small></span></div><div class="tab" style="cursor:default"><b>2</b><span><strong>Trọng lượng gas</strong><br><small class="muted">VD 55 g, 75 g, tủ lớn ~150 g</small></span></div><div class="tab" style="cursor:default"><b>3</b><span><strong>Dòng định mức</strong><br><small class="muted">dòng làm việc tối đa khi có tải; không được vượt khi nạp đủ</small></span></div></div>
-  <div class="callout mem"><span class="ic">🧠</span><div><b class="t">Nạp thể lỏng chính xác nhất</b><p>Mọi loại gas nên nạp ở <b>thể lỏng</b> theo <b>trọng lượng</b> (dùng cân): độ chính xác cao nhất. Nạp ở <b>thể hơi</b> (dựa vào áp suất và biểu hiện) kém chính xác hơn nhưng phổ biến vì không cần cân. Khi cân phải trừ lượng gas <b>nằm trong dây đồng hồ</b> (VD dây chứa ~5 g).</p></div></div>
+  <div class="stage lx-st"><div class="row" role="group" aria-label="Cách nạp"><button class="btn pri sm" id="chH" aria-pressed="true">Nạp thể hơi (khuyên dùng)</button><button class="btn sm" id="chL" aria-pressed="false">Nạp lỏng theo cân (qua ống hóa hơi)</button></div><div class="nl1-scroll"><div id="chFig" style="margin-top:8px"></div></div><p class="nl1-swipe muted">Vuốt ngang để xem hết hình ↔</p></div>
+  <div class="callout mem"><span class="ic">🧠</span><div><b class="t">Tủ lạnh: nạp thể hơi vào đường hút</b><p>Với tủ lạnh, <b>luôn nạp gas ở thể hơi</b> vào đường hút (bình đứng). Nạp lỏng thẳng vào đường hút làm <b>lỏng lọt vào block</b>: sủi dầu, bốc dầu, va đập thủy lực, dễ hỏng máy nén. Muốn nạp <b>đúng trọng lượng</b> thì dùng <b>xi lanh nạp gas hoặc cân</b>, nhưng phải đảm bảo gas <b>hóa hơi hết</b> (qua đoạn ống hóa hơi, có gia nhiệt) trước khi vào block. Riêng <b>ga hỗn hợp không đồng sôi</b> (R404A, R407C…) phải nạp lỏng qua đoạn ống gia nhiệt. Khi cân phải trừ lượng gas <b>nằm trong dây đồng hồ</b> (VD dây chứa ~5 g).</p></div></div>
 </section>
 
 <section class="sec" id="s-vapor" data-toc="2 · Nạp thể hơi">
@@ -41,6 +70,7 @@
 <section class="sec" id="s-judge" data-toc="3 · Đủ hay thiếu, thừa">
   <div class="sec-n">Phần 3</div><h2>Biết gas đủ, thiếu hay thừa</h2>
   <p>Không nên chỉ nhìn đồng hồ áp suất. Phải kết hợp 5 dấu hiệu:</p>
+  <div class="stage lx-st"><div class="row" id="jBtns" role="group" aria-label="Tình trạng gas" style="margin-bottom:8px"></div><div class="nl1-scroll"><div id="jFig"></div></div><p class="nl1-swipe muted">Vuốt ngang để xem hết hình ↔</p><div class="verdict" id="jV" aria-live="polite"></div></div>
   <div class="tscroll"><table class="cmp"><thead><tr><th></th><th>Thiếu gas</th><th>ĐỦ gas</th><th>Thừa gas</th></tr></thead><tbody>
     <tr><th>Dàn nóng</th><td>Chỉ nóng đầu dàn, cuối dàn không nóng lắm</td><td><b>Nóng đều</b> đầu → cuối</td><td><b>Rất nóng</b></td></tr>
     <tr><th>Dàn lạnh</th><td>Tuyết chỉ ở đầu dàn, ít</td><td>Tuyết đều, <b>khô, dính tay</b> (tủ 3–4 sao)</td><td>Tuyết đều nhưng ống hồi ướt</td></tr>
@@ -66,7 +96,7 @@
   <div class="sec-n">Phần 5</div><h2>Tóm tắt bài — 6 điều cần nhớ</h2>
   <ol class="steps recap">
     <li class="done"><div><b>Tra nhãn: loại gas, trọng lượng gas, dòng định mức.</b></div></li>
-    <li class="done"><div><b>Nạp thể lỏng theo cân chính xác nhất; nạp thể hơi dựa áp suất + biểu hiện.</b></div></li>
+    <li class="done"><div><b>Tủ lạnh nạp thể hơi vào đường hút; muốn đúng trọng lượng dùng xi lanh/cân nhưng gas phải hóa hơi hết trước khi vào block.</b></div></li>
     <li class="done"><div><b>Nạp từng chút (mở van vài giây), kim ban đầu ~15 psi rồi chạy thử, áp tụt về dải theo số sao.</b></div></li>
     <li class="done"><div><b>Đủ gas: dàn nóng nóng đều, dàn lạnh tuyết đều khô, ống hồi mát khô, dòng ≤ định mức.</b></div></li>
     <li class="done"><div><b>Thiếu → nạp thêm; thừa → xả (khi áp &gt; 0). Gas hỗn hợp không đồng sôi: thay toàn bộ.</b></div></li>
@@ -77,6 +107,14 @@
   }
 
   function mount(root) {
+    // hình nạp thể hơi / lỏng
+    const chSet = liq => { $('#chFig', root).innerHTML = chgSvg(liq); $('#chH', root).classList.toggle('pri', !liq); $('#chL', root).classList.toggle('pri', liq); $('#chH', root).setAttribute('aria-pressed', !liq); $('#chL', root).setAttribute('aria-pressed', liq); };
+    $('#chH', root).onclick = () => chSet(false); $('#chL', root).onclick = () => chSet(true); chSet(false);
+    // hình đủ / thiếu / thừa
+    const jb = $('#jBtns', root);
+    jb.innerHTML = Object.entries(JUDGE).map(([k, v]) => '<button type="button" class="btn sm" data-k="' + k + '" aria-pressed="false">' + v[0] + '</button>').join('');
+    const jSet = k => { $('#jFig', root).innerHTML = jSvg(k); const v = $('#jV', root); v.className = 'verdict ' + JUDGE[k][4]; v.innerHTML = JUDGE[k][5]; $$('button', jb).forEach(b => { const on = b.dataset.k === k; b.classList.toggle('pri', on); b.setAttribute('aria-pressed', on); }); };
+    $$('button', jb).forEach(b => b.onclick = () => jSet(b.dataset.k)); jSet('ok');
     // mô phỏng nạp
     let m, ran, sealed;
     const star = () => $('#nStar', root).value;
@@ -119,7 +157,7 @@
   const flashcards = [
     { f: 'Trước khi nạp gas cần tra những thông số nào?', b: '<b>Loại gas, trọng lượng gas, dòng định mức</b> (nhãn sau tủ).', tag: 'Chuẩn bị' },
     { f: 'Vì sao phải nạp đúng loại gas?', b: 'Gas phải phù hợp với dầu và hệ thống; nạp sai tủ không lạnh đúng.', tag: 'Chuẩn bị' },
-    { f: 'Nạp thể nào chính xác nhất?', b: 'Nạp ở <b>thể lỏng</b> theo <b>trọng lượng</b> (dùng cân).', tag: 'Chuẩn bị' },
+    { f: 'Tủ lạnh nạp gas ở thể nào vào đường hút?', b: 'Nạp ở <b>thể hơi</b>. Nạp lỏng thẳng vào đường hút làm hỏng máy nén; nạp theo cân/xi lanh thì gas phải <b>hóa hơi hết</b> trước khi vào block.', tag: 'Chuẩn bị' },
     { f: 'Khi cân cần lưu ý gì?', b: 'Trừ lượng gas nằm trong dây đồng hồ (VD ~5 g).', tag: 'Chuẩn bị' },
     { f: 'Dòng định mức là gì?', b: 'Dòng làm việc <b>tối đa</b> khi có tải; không được vượt khi đủ gas.', tag: 'Chuẩn bị' },
     { f: 'Nạp thể hơi: mở van gas bao lâu một lần?', b: 'Vài giây (khoảng 5–10 s, có thể 20–30 s), rồi khóa quan sát.', tag: 'Nạp hơi' },
@@ -150,7 +188,7 @@
   const Q = (q, o, a, why) => ({ q, o, a, why });
   const quiz = [
     Q('Thông số cần tra trước khi nạp gas?', ['Loại gas, trọng lượng gas, dòng định mức', 'Màu tủ', 'Hãng', 'Giá'], 0, 'Nhãn sau tủ.'),
-    Q('Nạp gas chính xác nhất khi?', ['Nạp thể lỏng theo trọng lượng', 'Nạp thể hơi', 'Nạp theo cảm giác', 'Nạp theo nhiệt độ'], 0, 'Dùng cân.'),
+    Q('Tủ lạnh dân dụng nạp gas vào đường hút ở thể nào?', ['Thể hơi', 'Thể lỏng trực tiếp', 'Nửa lỏng nửa hơi', 'Thể nào cũng được'], 0, 'Lỏng lọt vào block gây hỏng máy nén; nạp lỏng chỉ khi có bộ hóa hơi.'),
     Q('Dòng định mức là?', ['Dòng làm việc tối đa khi có tải', 'Dòng khởi động', 'Dòng rò', 'Dòng bằng 0'], 0, 'Không được vượt.'),
     Q('Mở van gas nạp hơi mỗi lần khoảng?', ['Vài giây', '10 phút', 'Liên tục', '1 giờ'], 0, 'Tránh nạp thừa.'),
     Q('Kim áp thấp khi nạp dừng ở?', ['≈ 15 psi', '≈ 150 psi', '≈ 0', '≈ −30'], 0, 'Rồi chạy thử.'),

@@ -12,6 +12,18 @@
     t7: ['Giặt bình thường, VẮT thì kêu/ rung', ['Kẹt thùng chứa/ lồng', 'Hỏng 2 vòng bi', 'Đồ giặt không đều', 'Mất vành nước muối', 'Lò xo treo hỏng'], 'Kê lại cho cân (chân đỡ), kiểm tra mực nước phẳng trên bề mặt lồng; giặt cùng loại vải; kiểm tra vành nước muối (ốc lỏng, rò), 4 lò xo treo.'],
     t8: ['Hoạt động nhưng khi GIẶT thì kêu', ['Bánh răng số mòn/ kẹt', 'Hỏng trục trung gian', 'Dây curoa trơn (kêu mỗi lần đảo chiều)'], 'Ban đầu giặt tốt rồi mới kêu → bộ số. Đa phần kèm mất dầu.']
   };
+  // bổ sung theo tài liệu tham khảo
+  TOP.t1[1].push('Phao cảm biến mực nước (van áp lực) hỏng: máy tự cấp nước dù không cần');
+  TOP.t1[2] += ' Nếu van cấp và bo đều tốt, kiểm tra phao cảm biến mực nước; phao hỏng thì thay mới.';
+  TOP.t2[1].push('Lồng giặt bẩn bít vị trí thông hơi bên trong');
+  TOP.t2[2] += ' Ống dẫn hơi xì: quấn kín bằng keo điện, hoặc cắt nối lại bằng ống 6, hoặc thay ống mới. Lồng bẩn: tháo lồng, vệ sinh bên trong, nhất là chỗ nối với ống hơi.';
+  TOP.t5[2] += ' Máy xả hết nước mà không vắt: kiểm tra công tắc cửa trước để loại trừ, rồi mới tháo bo.';
+  TOP.t7[1].push('Ly hợp (nhông) hao mòn', 'Máy đặt không cân bằng (nền dốc)');
+  TOP.t7[2] += ' Ly hợp mòn thì thay ly hợp. Nền dốc thì chỉnh chân cho máy cân bằng và chắc chắn. Ty treo lồng hỏng thì thay mới.';
+  TOP.t9 = ['Cấp nước tràn lồng, hoặc quá ít/ quá nhiều so với lượng đồ', ['Ống dẫn hơi áp lực bị hở, xì hơi (hay gặp)', 'Phao cảm biến mực nước hỏng', 'Mạch cảm biến mực nước trên bo có vấn đề', 'Lồng giặt bẩn bít vị trí thông hơi bên trong', 'Chế độ tự động cấp sai nước dù chọn mực nước thủ công vẫn bình thường: hỏng mạch cân đồ'], 'Kiểm tra ống dẫn hơi: xì thì quấn kín bằng keo điện, cắt nối lại bằng ống 6 hoặc thay ống mới. Phao: đo điện áp có thay đổi khi có nước và khi thổi hơi vào ống không; thường thay mới cho chắc chắn. Ống và phao đều bình thường: tháo lồng vệ sinh bên trong, rồi tháo bo kiểm tra mạch cảm biến mực nước. Chọn mực nước thủ công bình thường mà chế độ tự động sai → hỏng mạch cân đồ trên bo, tháo bo sửa.'];
+  TOP.t10 = ['Vắt lúc có lúc không (chạy không tải vẫn vắt bình thường)', ['Tụ động cơ yếu', 'Dây curoa bị chùng', 'Động cơ yếu (cuộn dây có vấn đề)', 'Mạch công tắc cửa chập chờn'], 'Đo điện dung tụ, thay nếu giá trị giảm. Căng lại dây curoa (không căng quá mức). Tháo dây curoa, bật chế độ vắt: động cơ quay mà dùng vật hãm lại được thì động cơ yếu, thay động cơ. Kiểm tra công tắc cửa trước khi tháo bo.'];
+  TOP.t11 = ['Bấm nguồn máy không lên', ['Không có điện vào máy (nguồn vào không có)', 'Khối nguồn trên bo bị lỗi'], 'Dùng đồng hồ đo điện áp cấp vào xem có 220 V không. Có 220 V mà bấm vẫn không lên: mở bo, đo hai chân nguồn vào trên bo; có 220 V mà không lên thì tháo bo đem sửa khối nguồn.'];
+  TOP.t12 = ['Mâm giặt quay trái, quay phải rồi dừng, không cấp nước', ['Mạch hồi tiếp cấp nước trên bo bị hỏng'], 'Tháo bo ra sửa, kiểm tra vị trí hồi tiếp trên mô tơ.'];
   const FRONT = {
     f1: ['Đèn nguồn sáng nhưng máy không làm việc', ['Cửa chưa khóa (nguồn cấp trước đi qua công tắc cơ)', 'Công tắc cửa hỏng', 'Chưa cấp nước: hết nước, van cấp hỏng', 'Bo mạch'], 'Bấm Start xem đèn khóa cửa có sáng không. Mở cửa kiểm tra công tắc. Thử chuyển sang chế độ vắt: nếu vắt bình thường → lỗi nằm ở cấp nước.'],
     f2: ['Máy hoạt động nhưng kêu', ['Kẹt thùng chứa/ vật lạ', 'Hỏng 2 vòng bi, trục cơ mòn/ cong', 'Động cơ hỏng vòng bi'], 'Tháo dây curoa: hết kêu → phần cơ; vẫn kêu → động cơ. Sửa như quy trình bảo dưỡng thay vòng bi.'],
@@ -34,12 +46,13 @@
 <section class="sec" id="s-method" data-toc="1 · Phương pháp">
   <div class="sec-n">Phần 1</div><h2>Phương pháp chẩn đoán</h2>
   <p>Khi máy hư, <b>không đoán mò</b>. Dựa vào chu trình: <b>cấp nước → giặt → xả → vắt</b>, mỗi bước có một bộ phận chịu trách nhiệm. Tìm “bước nào hỏng” sẽ khoanh vùng nguyên nhân.</p>
+  <div class="stage mgx-cyc" id="cyc11" aria-label="Chu trình giặt và các bộ phận chịu trách nhiệm"></div>
   <ol class="steps recap">${FLOW.map(f => `<li class="done"><div><b>${f[0]}</b><span>${f[1]}</span></div></li>`).join('')}</ol>
   <div class="callout"><span class="ic">⚡</span><div><b class="t">Mẹo dùng ampe kìm</b><p>Động cơ làm việc thì có dòng; đổi chiều quay vẫn có dòng. <b>Có dòng mà không quay</b> → hỏng cơ khí (tuột curoa, kẹt động cơ, bộ số). <b>Không có dòng</b> → chưa được cấp lệnh: kiểm tra bo, công tắc cửa, van áp lực.</p></div></div>
 </section>
 
 <section class="sec" id="s-top" data-toc="2 · Máy cửa trên">
-  <div class="sec-n">Phần 2</div><h2>🩺 Máy cửa trên: 8 hiện tượng hay gặp</h2>
+  <div class="sec-n">Phần 2</div><h2>🩺 Máy cửa trên: 12 hiện tượng hay gặp</h2>
   <div id="tTabs"></div><article class="panel" id="tP" aria-live="polite" style="border-left-color:var(--bad)"></article>
 </section>
 
@@ -72,10 +85,26 @@
   function mount(root) {
     const tab = (box, panel, data) => U.tabset($(box, root), Object.entries(data).map(([id, p], i) => ({ id, n: i + 1, name: p[0] })), id => { const f = data[id]; $(panel, root).innerHTML = `<h3>${f[0]}</h3><p><b>Nguyên nhân có thể:</b></p><ul>${f[1].map(x => `<li>${x}</li>`).join('')}</ul><p style="margin:0"><b>Cách kiểm tra:</b> ${f[2]}</p>`; });
     tab('#tTabs', '#tP', TOP); tab('#fTabs', '#fP', FRONT);
+    // chu trình → bộ phận → hiện tượng
+    const STG = [['⚡', 'Cấp nguồn', ['Nguồn 220 V vào bo', 'Khối nguồn trên bo'], ['t11']], ['💧', 'Cấp nước', ['Van cấp nước', 'Van áp lực (mực nước)', 'Bo mạch'], ['t1', 't9', 't12', 't2']], ['🌀', 'Giặt', ['Động cơ', 'Dây curoa', 'Bộ số, trục trung gian', 'Mâm giặt'], ['t4', 't6', 't8']], ['⬇️', 'Xả nước', ['Van xả', 'Ống xả', 'Nấm xả, cổ thoát'], ['t3', 't2']], ['🌪️', 'Vắt', ['Ly hợp', 'Thùng chứa, vòng bi', 'Lò xo treo, cân bằng'], ['t5', 't7', 't10']]];
+    const cy = $('#cyc11', root); let cs = 0;
+    const cdraw = () => {
+      const g = STG[cs];
+      cy.innerHTML = '<p class="muted" style="margin:0 0 8px">Bấm một bước của chu trình để xem bộ phận phụ trách và các hiện tượng thường gặp:</p><div class="mgx-steps" role="group" aria-label="Các bước chu trình">' + STG.map((x, i) => '<button type="button" class="mgx-stp' + (i === cs ? ' on' : '') + '" data-i="' + i + '" aria-pressed="' + (i === cs) + '"><span>' + x[0] + '</span><b>' + (i + 1) + '. ' + x[1] + '</b></button>' + (i < STG.length - 1 ? '<i aria-hidden="true">→</i>' : '')).join('') + '</div>' +
+        '<div class="mgx-det"><div><h4>Bộ phận phụ trách</h4><ul>' + g[2].map(p => '<li>' + p + '</li>').join('') + '</ul></div><div><h4>Hiện tượng liên quan (bấm để xem)</h4><div class="mgx-sym">' + g[3].map(t => '<button type="button" class="btn sm" data-t="' + t + '">' + TOP[t][0] + '</button>').join('') + '</div></div></div>';
+      $$('.mgx-stp', cy).forEach(b => b.onclick = () => { cs = +b.dataset.i; cdraw(); });
+      $$('[data-t]', cy).forEach(b => b.onclick = () => { const tb = $('#tTabs .tab[data-id="' + b.dataset.t + '"]', root); if (tb) { tb.click(); const sec = $('#s-top', root); if (sec && sec.scrollIntoView) sec.scrollIntoView({ behavior: 'smooth', block: 'start' }); } });
+    };
+    cdraw();
     $('#sUn', root).onclick = () => { const v = $('#sf', root).value, o = $('#sO', root); o.className = 'verdict ' + (v === 'valve' ? 'bad' : 'ok'); o.innerHTML = v === 'valve' ? 'Đã rút điện nhưng nước <b>vẫn chảy</b> → <b>hỏng van cấp nước</b> (màng/ lõi kẹt).' : 'Rút điện, nước <b>ngừng</b> → van tốt, lỗi ở <b>bo mạch</b> (bóng bán dẫn/ triac luôn cấp điện cho van).'; };
   }
 
   const flashcards = [
+    { f: 'Bấm nguồn máy không lên: kiểm tra gì trước?', b: 'Điện áp 220 V vào máy. Có 220 V mà vẫn không lên thì sửa khối nguồn trên bo.', tag: 'Cửa trên' },
+    { f: 'Máy tự cấp nước dù không cần: nghi gì ngoài van cấp và bo?', b: 'Phao cảm biến mực nước (van áp lực) hỏng.', tag: 'Cửa trên' },
+    { f: 'Cấp nước tràn lồng, quá ít hoặc quá nhiều: nguyên nhân hay gặp nhất?', b: 'Ống dẫn hơi áp lực bị hở, xì hơi. Quấn keo điện, nối lại bằng ống 6 hoặc thay ống.', tag: 'Cửa trên' },
+    { f: 'Vắt lúc có lúc không, chạy không tải vẫn vắt bình thường: nghi gì?', b: 'Tụ yếu, dây curoa chùng, động cơ yếu, hoặc công tắc cửa chập chờn.', tag: 'Cửa trên' },
+    { f: 'Mâm giặt quay trái, phải rồi dừng, không cấp nước: lỗi ở đâu?', b: 'Mạch hồi tiếp cấp nước trên bo bị hỏng.', tag: 'Cửa trên' },
     { f: 'Nước vào liên tục, không ngắt?', b: 'Van cấp hỏng hoặc bo luôn cấp điện.', tag: 'Cửa trên' },
     { f: 'Phân biệt van cấp và bo?', b: 'Rút điện, vẫn chảy → van; ngừng → bo.', tag: 'Cửa trên' },
     { f: 'Nước vào, không giặt?', b: 'Van xả, thùng thủng, ống áp/ van áp lực.', tag: 'Cửa trên' },

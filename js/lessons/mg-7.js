@@ -31,7 +31,8 @@
 <section class="sec" id="s-ctrl" data-toc="3 · Mạch điều khiển">
   <div class="sec-n">Phần 3</div><h2>Mạch điều khiển cơ và điện tử</h2>
   <div id="mTabs"></div><article class="panel warm" id="mPanel"></article>
-  <div class="callout"><span class="ic">🔌</span><div><b class="t">Thứ tự một chu trình tự động</b><p>Cửa đóng → khóa → cấp nước (đến đủ mực) → đun (nếu cần) → giặt → xả → xả nước → vắt → báo xong → mở khóa.</p></div></div>
+  <div class="mgx-flow" role="list" aria-label="Thứ tự một chu trình tự động">${['Cửa đóng', 'Khóa cửa', 'Cấp nước đến đủ mực', 'Đun (nếu cần)', 'Giặt', 'Xả', 'Xả nước', 'Vắt', 'Báo xong, mở khóa'].map((t, i) => `<div class="mgx-fs" role="listitem"><b>${i + 1}</b><span>${t}</span></div>`).join('')}</div>
+  <div class="callout"><span class="ic">🔌</span><div><b class="t">Thứ tự một chu trình tự động</b><p>Cửa đóng → khóa → cấp nước (đến đủ mực) → đun (nếu cần) → giặt → xả → xả nước → vắt → báo xong → mở khóa. Máy cửa trên điện tử còn có bước <b>cân đồ</b> (mâm quay thuận – nghịch) trước khi cấp nước.</p></div></div>
 </section>
 
 <section class="sec" id="s-recap" data-toc="4 · Tóm tắt">

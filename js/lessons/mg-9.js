@@ -23,6 +23,17 @@
   };
   const EN = [['Wash', 'Giặt'], ['Rinse', 'Xả'], ['Spin', 'Vắt'], ['Water level', 'Mực nước'], ['Soak', 'Ngâm'], ['Normal', 'Thông thường'], ['Program / Cycle', 'Chương trình'], ['Quick / Fast', 'Giặt nhanh'], ['Wool', 'Đồ len'], ['Synthetic', 'Vải tổng hợp'], ['Cotton', 'Vải bông'], ['Delicate', 'Vải mỏng, mềm'], ['Hand wash', 'Giặt tay'], ['Drain', 'Xả nước'], ['Door lock', 'Khóa cửa'], ['Power', 'Nguồn'], ['Start / Pause', 'Bắt đầu / Tạm dừng'], ['Heavy', 'Giặt mạnh'], ['Dry', 'Sấy']];
 
+
+  /* ============ Hình bổ sung: bảng điều khiển ============ */
+  const PANEL_KEYS = [['prog', 'Chương trình', 32, 78], ['fn', 'Chức năng', 142, 78], ['water', 'Mực nước', 252, 78], ['spin', 'Vắt cực khô', 362, 78], ['delay', 'Hẹn giờ', 32, 132], ['lock', 'Khóa trẻ em', 142, 132], ['clean', 'Vệ sinh lồng', 252, 132], ['start', 'Start / Tạm dừng', 362, 132]];
+  const panelSvg = sel => '<svg viewBox="0 0 520 200" role="img" aria-label="Bảng điều khiển máy giặt cửa trên với các phím">' +
+    '<rect x="8" y="8" width="504" height="184" rx="16" class="mgx-body"/>' +
+    '<rect x="28" y="22" width="330" height="40" rx="8" class="mgx-disp"/><text class="mgx-s" x="44" y="46">đèn chương trình · đèn mực nước</text>' +
+    [0, 1, 2, 3, 4].map(i => '<circle cx="' + (270 + i * 16) + '" cy="42" r="4.5" class="mgx-lamp' + (i === 1 ? ' on' : '') + '"/>').join('') +
+    '<g class="mgx-key' + (sel === 'pow' ? ' sel' : '') + '" data-k="pow" tabindex="0" role="button" aria-label="Nguồn"><circle cx="440" cy="42" r="22"/><path d="M440 30V42M432 34a12 12 0 1 0 16 0" fill="none" stroke="var(--ink)" stroke-width="3" stroke-linecap="round"/></g>' +
+    PANEL_KEYS.map(k => '<g class="mgx-key' + (sel === k[0] ? ' sel' : '') + (k[0] === 'start' ? ' go' : '') + '" data-k="' + k[0] + '" tabindex="0" role="button" aria-label="' + k[1] + '"><rect x="' + k[2] + '" y="' + k[3] + '" width="100" height="44" rx="10"/><text class="mgx-t" x="' + (k[2] + 50) + '" y="' + (k[3] + 27) + '" text-anchor="middle">' + k[1] + '</text></g>').join('') +
+    '</svg>';
+
   function learn() {
     return `
 <section class="sec" id="s-intro" data-toc="1 · Giới thiệu">
@@ -36,6 +47,7 @@
 <section class="sec" id="s-panel" data-toc="2 · Bảng điều khiển">
   <div class="sec-n">Phần 2</div><h2>🔬 Thử bảng điều khiển (máy cửa trên)</h2>
   <p>Các phím trên máy điển hình. Bấm từng phím để xem tác dụng:</p>
+  <div class="stage mgx-st"><div class="nl1-scroll"><div id="pnlSvg" class="mgx-fig"></div></div><p class="nl1-swipe muted">Vuốt ngang để xem hết hình ↔</p></div>
   <div class="stage" style="padding:14px"><div class="row" id="keys">${Object.entries(KEYS).map(([k, v]) => `<button type="button" class="btn sm" data-k="${k}" aria-pressed="false">${v[0]}</button>`).join('')}</div><article class="panel" id="kP" style="margin-top:12px;border-left-color:var(--cold)"><p style="margin:0" class="muted">Bấm một phím.</p></article></div>
   <h3 style="margin-top:22px">Mực nước và lượng bột giặt</h3>
   <div class="stage" style="padding:14px"><div class="row"><label>Mực nước <select id="wl" class="btn sm" style="min-height:36px"><option value="12">cực thấp</option><option value="23">thấp</option><option value="38" selected>trung bình</option><option value="53">cao</option></select></label><label>Lượng bột giặt <input id="bg" type="range" min="1" max="10" value="4" style="width:150px"></label></div>
@@ -77,6 +89,9 @@
   }
 
   function mount(root) {
+    const pnl = $('#pnlSvg', root), pdraw = sel => { pnl.innerHTML = panelSvg(sel); $$('.mgx-key', pnl).forEach(g => { const go = () => { const b = $('#keys [data-k="' + g.dataset.k + '"]', root); if (b) b.click(); else { pdraw(g.dataset.k); $('#kP', root).innerHTML = '<h3>Nguồn</h3><p style="margin:0">' + KEYS.pow[1] + '</p>'; } }; g.addEventListener('click', go); g.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); go(); } }); }); };
+    pdraw('');
+    $('#keys', root).addEventListener('click', e => { const b = e.target.closest('[data-k]'); if (b) pdraw(b.dataset.k); });
     $('#keys', root).onclick = e => { const b = e.target.closest('[data-k]'); if (!b) return; $$('#keys [data-k]', root).forEach(x => x.setAttribute('aria-pressed', x === b)); const k = KEYS[b.dataset.k]; $('#kP', root).innerHTML = `<h3>${k[0]}</h3><p style="margin:0">${k[1]}</p>`; };
     const wl = $('#wl', root), bg = $('#bg', root), wd = () => { const w = +wl.value, b = +bg.value, ratio = b / (w / 6); $('#wB', root).style.width = Math.min(100, ratio * 20) + '%'; $('#wB', root).style.background = ratio > 3.5 ? 'var(--warm)' : ratio < 1 ? 'var(--bad)' : 'var(--ok)'; const r = $('#wV', root); r.className = 'verdict ' + (ratio < 1 ? 'bad' : 'ok'); r.textContent = ratio < 1 ? '✗ Nước nhiều, bột ít: bột loãng, giặt không sạch, tốn nước.' : ratio > 3.5 ? '⚠️ Bột quá nhiều so với nước: khó xả sạch, đọng xà phòng.' : '✓ Tỉ lệ bột/ nước hợp lý.'; };
     wl.onchange = bg.oninput = wd; wd();

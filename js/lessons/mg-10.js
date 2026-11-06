@@ -20,6 +20,14 @@
     drain: { n: 'Van xả', pin: 'chân 12 → ', tr: 'Z3', jack: 'giắc 3', fx: 'xả nước/ kéo ly hợp' }
   };
 
+
+  /* ============ Hình bổ sung: sơ đồ khối của bo ============ */
+  const BNODES = { xfmr: [20, 30, 'Biến áp + cầu nắn', '220 V → 12 V DC'], reg: [260, 30, 'IC ổn áp 7805', '12 V → 5 V'], mcu: [500, 30, 'Vi xử lý (MCU)', 'bộ não'], relay: [20, 130, 'Rơle', 'cấp nguồn 220 V'], triac: [260, 130, 'Triac Z1…Z4', 'đóng/ngắt phụ tải'], trans: [500, 130, 'Bóng bán dẫn', 'tạo dòng kích G'], jack: [260, 228, 'Giắc ra phụ tải', 'động cơ, van xả, van cấp'], coat: [500, 228, 'Keo chống ẩm', 'phủ cả bo'] };
+  const blkSvg = sel => { const W = 150, H = 52; const arrow = (a, b, t) => '<path d="M' + a + 'L' + b + '" class="mgx-ar" marker-end="url(#mgxA)"/>' + (t ? '<text class="mgx-s" x="' + ((a.split(' ')[0] * 1 + b.split(' ')[0] * 1) / 2) + '" y="' + ((a.split(' ')[1] * 1 + b.split(' ')[1] * 1) / 2 - 6) + '" text-anchor="middle">' + t + '</text>' : '');
+    return '<svg viewBox="0 0 680 300" role="img" aria-label="Sơ đồ khối bo mạch điều khiển đa năng"><defs><marker id="mgxA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="var(--ink)"/></marker></defs>' +
+      arrow('170 56', '260 56', '12 V DC') + arrow('410 56', '500 56', '5 V') + arrow('575 82', '575 130', 'dòng nhỏ') + arrow('500 156', '410 156', 'dòng kích G') + arrow('170 156', '260 156', '220 V') + arrow('335 182', '335 228', 'ra phụ tải') +
+      Object.entries(BNODES).map(([k, n]) => '<g class="mgx-node' + (sel === k ? ' sel' : '') + (k === 'coat' ? ' soft' : '') + '" data-k="' + k + '" tabindex="0" role="button" aria-label="' + n[2] + '"><rect x="' + n[0] + '" y="' + n[1] + '" width="' + W + '" height="' + H + '" rx="10"/><text class="mgx-t" x="' + (n[0] + W / 2) + '" y="' + (n[1] + 22) + '" text-anchor="middle">' + n[2] + '</text><text class="mgx-s" x="' + (n[0] + W / 2) + '" y="' + (n[1] + 40) + '" text-anchor="middle">' + n[3] + '</text></g>').join('') + '</svg>'; };
+
   function learn() {
     return `
 <section class="sec" id="s-what" data-toc="1 · Mạch đa năng">
@@ -30,6 +38,7 @@
 
 <section class="sec" id="s-board" data-toc="2 · Khối chức năng">
   <div class="sec-n">Phần 2</div><h2>🔬 Các khối trên bo – bấm xem</h2>
+  <div class="stage mgx-st"><div class="nl1-scroll"><div id="blkSvg" class="mgx-fig"></div></div><p class="nl1-swipe muted">Vuốt ngang để xem hết sơ đồ ↔</p></div>
   <div class="stage" style="padding:14px"><div id="bbox" class="row" style="gap:8px"></div></div>
   <article class="panel" id="bP" aria-live="polite"></article>
 </section>
@@ -49,7 +58,7 @@
 
 <section class="sec" id="s-in" data-toc="5 · Tín hiệu báo về">
   <div class="sec-n">Phần 5</div><h2>Tín hiệu báo về</h2>
-  <ul><li><b>Công tắc cơ cửa, phím Start…</b>: nối chân MCU qua điện trở với 5 V; khi đóng/ nhấn → <b>điện áp sụt</b> (xung thay đổi) → MCU nhận biết.</li><li><b>Van áp lực điện tử</b>: tín hiệu tần số qua IC giải mã phao (HEF4069) để biến xung sin thành xung vuông đưa vào MCU (chân Data).</li><li>MCU <b>so sánh</b> tín hiệu với giá trị cài sẵn; sai → có thể <b>báo lỗi</b>.</li></ul>
+  <ul><li><b>Công tắc cơ cửa, phím Start…</b>: nối chân MCU qua điện trở với 5 V; khi đóng/ nhấn → <b>điện áp sụt</b> (xung thay đổi) → MCU nhận biết.</li><li><b>Van áp lực điện tử</b>: tín hiệu tần số qua IC giải mã phao (HEF4069) để biến xung sin thành xung vuông đưa vào MCU (chân Data).</li><li>MCU <b>so sánh</b> tín hiệu với giá trị cài sẵn; sai → có thể <b>báo lỗi</b>.</li><li><b>Xung hồi tiếp tốc độ</b> từ động cơ: MCU dùng để giám sát tốc độ quay; bất thường khi vắt → báo lỗi.</li><li>Cấp nước hoặc xả nước <b>quá thời gian</b> quy định cũng làm MCU báo lỗi (theo sơ đồ chu trình máy cửa trên non-inverter).</li></ul>
   <div class="callout danger"><span class="ic">⚡</span><div><b class="t">An toàn</b><p>Phần 5 V của bo này <b>không cách ly</b> với 220 V. Không chạm tay vào mạch khi cấp điện; bo được đổ keo để chống ẩm và chống chạm.</p></div></div>
 </section>
 
@@ -71,7 +80,9 @@
   function mount(root) {
     let sel = 'jack';
     const bb = $('#bbox', root), bd = () => { bb.innerHTML = Object.entries(BLOCKS).map(([k, v]) => `<button type="button" class="btn sm" data-k="${k}" aria-pressed="${k === sel}">${v[0]}</button>`).join(''); $('#bP', root).innerHTML = `<h3>${BLOCKS[sel][0]}</h3><p style="margin:0">${BLOCKS[sel][1]}</p>`; };
-    bb.onclick = e => { const b = e.target.closest('[data-k]'); if (!b) return; sel = b.dataset.k; bd(); }; bd();
+    bb.onclick = e => { const b = e.target.closest('[data-k]'); if (!b) return; sel = b.dataset.k; bd(); bsync(); }; bd();
+    const bsvg = $('#blkSvg', root), bsync = () => { bsvg.innerHTML = blkSvg(sel); $$('.mgx-node', bsvg).forEach(g => { const go = () => { sel = g.dataset.k; bd(); bsync(); }; g.addEventListener('click', go); g.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); go(); } }); }); };
+    bsync();
     const md = () => { const miss = $$('#cond input', root).filter(i => !i.checked).map(i => i.parentNode.textContent.trim()); const v = $('#mV', root); v.className = 'verdict ' + (miss.length ? 'bad' : 'ok'); v.innerHTML = miss.length ? `✗ MCU <b>không chạy</b>: thiếu ${miss.join(', ')}. Máy không phản ứng, đèn không sáng hoặc không nhận lệnh.` : '✓ MCU làm việc: đủ nguồn, mát, dao động và khởi động.'; };
     $$('#cond input', root).forEach(i => i.onchange = md); md();
     U.tabset($('#oTabs', root), Object.entries(OUT).map(([id, o], i) => ({ id, n: i + 1, name: o.n })), id => { const o = OUT[id]; $('#oP', root).innerHTML = `<h3>${o.n}</h3><p style="margin:0">MCU <b>${o.pin}</b>R 47 kΩ → bóng bán dẫn dẫn → dòng kích G của <b>${o.tr}</b> → triac thông T1–T2 → ra <b>${o.jack}</b> → <b>${o.fx}</b>.</p>`; $('#chain', root).innerHTML = ['MCU', 'R 47k', 'Bóng bán dẫn', 'G của ' + o.tr, 'T1–T2 thông', o.jack].map((s, i, a) => `<span class="pill ok">${s}</span>${i < a.length - 1 ? '<b>→</b>' : ''}`).join(''); });
